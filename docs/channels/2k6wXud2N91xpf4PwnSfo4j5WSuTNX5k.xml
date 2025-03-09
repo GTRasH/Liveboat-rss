@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tech News - Last 2 days</title><link>http://site-url-not-set.io/you-can-set-it-in-liveboat-config</link><description></description><item><title>Manus probably isn’t China’s second ‘DeepSeek moment’</title><link>https://techcrunch.com/2025/03/09/manus-probably-isnt-chinas-second-deepseek-moment/</link><author>Kyle Wiggers</author><category>tech</category><pubDate>Sun, 9 Mar 2025 21:51:23 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Manus, an “agentic” AI platform that launched in preview last week, is generating more hype than a Taylor Swift concert. The head of product at Hugging Face called Manus “the most impressive AI tool I’ve ever tried.” AI policy researcher Dean Ball described Manus as the “most sophisticated computer using AI.” The official Discord server […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>Can Ants Teach Us How to Program Self-Driving Cars?</title><link>https://tech.slashdot.org/story/25/03/09/2144209/can-ants-teach-us-how-to-program-self-driving-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 9 Mar 2025 21:48:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[gdm (Slashdot reader #97,336) writes:
+A study published in Transportation Research Interdisciplinary Perspectives investigates how ants avoid traffic jams.... Quoting the abstract: "The results show that ants adopt specific traffic strategies (platoon formation, quasi-constant speed and no overtaking maneuvers) that help avoid jam phenomena, even at high density."
+
+ "Researchers are now studying these insects' cooperative tactics to learn how to program self-driving cars that don't jam up," writes Scientific American:
+
+
+ "We're maximizing the interests of individuals, [which] is why, at a given point, you start to have a traffic jam," says study co-author Nicola Pugno, who studies sustainable engineering at the University of Trento in Italy. But self-driving cars, if they one day become ubiquitous, could have more cooperative programming. In one vision of this future, autonomous vehicles would share information with nearby cars to optimize traffic flow — perhaps, the researchers suggest, by prioritizing constant speeds and headways or by not passing others on the road... 
+
+Today's drivers can learn at least one thing from ants to avoid causing a traffic jam, says Katsuhiro Nishinari [a mathematical physicist at the University of Tokyo, who studies traffic]: don't tailgate. By leaving room between their car and the one ahead of them, drivers can absorb a wave of braking in dense traffic conditions that would otherwise be amplified into a full-blown "phantom" traffic jam with no obvious cause. "Just keeping away," he says, can help traffic flow smoothly. 
+In the article the researchers admit there are differences between humans stuck in traffic and ants. "Unlike cars, ants don't crash; they can literally walk over one another." And if they're backed up in a tunnel, "they'll find a way to walk on the ceiling!"]]></content:encoded></item><item><title>Japan’s service robot market projected to triple in five years</title><link>https://techcrunch.com/2025/03/09/japans-service-robot-market-projected-to-triple-in-five-years/</link><author>Anthony Ha</author><category>tech</category><pubDate>Sun, 9 Mar 2025 21:10:33 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Faced with an aging population and labor shortages, Japanese businesses are increasingly relying on service robots to supplement their workforce, according to Bloomberg. Research firm Fuji Keizai projects the country’s service robot market to nearly triple by 2030, to ¥400 billion ($2.7 billion). Potentially driving that growth: The Recruit Works Institute projects that the country […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>&apos;I Used to Teach Students. Now I Catch ChatGPT Cheats&apos;</title><link>https://news.slashdot.org/story/25/03/09/1929235/i-used-to-teach-students-now-i-catch-chatgpt-cheats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 9 Mar 2025 19:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[Philosophy/ethics professor Troy Jollimore looks at the implications of a world where many students are submitting AI-generated essays. ("Sometimes they will provide quotations, giving page numbers that, as often as not, do not seem to correspond to anything in the actual world...") Ideally if the students write the essays themselves, "some of them start to feel it. They begin to grasp that thinking well, and in an informed manner, really is different from thinking poorly and from a position of ignorance. That moment, when you start to understand the power of clear thinking, is crucial. 
+
+"The trouble with generative AI is that it short-circuits that process entirely."
+
+One begins to suspect that a great many students wanted this all along: to make it through college unaltered, unscathed. To be precisely the same person at graduation, and after, as they were on the first day they arrived on campus. As if the whole experience had never really happened at all. I once believed my students and I were in this together, engaged in a shared intellectual pursuit. That faith has been obliterated over the past few semesters. It's not just the sheer volume of assignments that appear to be entirely generated by AI — papers that show no sign the student has listened to a lecture, done any of the assigned reading, or even briefly entertained a single concept from the course... 
+It's other things too... The students who beg you to reconsider the zero you gave them in order not to lose their scholarship. (I want to say to them: Shouldn't that scholarship be going to ChatGPT?â) It's also, and especially, the students who look at you mystified. The use of AI already seems so natural to so many of them, so much an inevitability and an accepted feature of the educational landscape, that any prohibition strikes them as nonsensical. Don't we instructors understand that today's students will be able, will indeed be expected, to use AI when they enter the workforce? Writing is no longer something people will have to do in order to get a job. 
+
+Or so, at any rate, a number of them have told me. Which is why, they argue, forcing them to write in college makes no sense. That mystified look does not vanish — indeed, it sometimes intensifies — when I respond by saying: Look, even if that were true, you have to understand that I don't equate education with job training. 
+
+What do you mean? they might then ask. 
+
+And I say: I'm not really concerned with your future job. I want to prepare you for life... 
+
+My students have been shaped by a culture that has long doubted the value of being able to think and write for oneself — and that is increasingly convinced of the power of a machine to do both for us. As a result, when it comes to writing their own papers, they simply disregard it. They look at instructors who levy such prohibitions as irritating anachronisms, relics of a bygone, pre-ChatGPT age.... As I go on, I find that more of the time, energy, and resources I have for teaching are dedicated to dealing with this issue. I am doing less and less actual teaching, more and more policing. Sometimes I try to remember the last time I actually looked forward to walking into a classroom. It's been a while.]]></content:encoded></item><item><title>Colossal CEO Ben Lamm says humanity has a ‘moral obligation’ to pursue de-extinction tech</title><link>https://techcrunch.com/2025/03/09/colossal-ceo-ben-lamm-says-humanity-has-a-moral-obligation-to-pursue-de-extinction-tech/</link><author>Kyle Wiggers</author><category>tech</category><pubDate>Sun, 9 Mar 2025 19:03:51 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The CEO of Colossal, a startup that aims to use genetic editing techniques to bring back extinct species, including the wooly mammoth, assured audiences at SXSW that the company has no plans to create a real-life Jurassic Park — lest there was any doubt. “Modern conservation isn’t working […] and we’re gonna need a ‘de-extinction’ […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>Everyone in AI Loves Synthetic Data—But No One Can Agree on What It Is</title><link>https://hackernoon.com/everyone-in-ai-loves-synthetic-databut-no-one-can-agree-on-what-it-is?source=rss</link><author>Marc Ryan</author><category>tech</category><pubDate>Sun, 9 Mar 2025 19:00:03 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Talk to anyone in AI, analytics, or data science, and they’ll tell you synthetic data is the future. But ask them what they mean by “synthetic data,” and you’ll get wildly different answers. That’s because synthetic data isn’t just one thing—it’s a broad category with multiple use cases and definitions. And that ambiguity makes conversations confusing.\
+So, let’s cut through the noise. At its core, synthetic data operates along two key dimensions. The first is a spectrum ranging from filling in missing data in an existing dataset to generating entirely new datasets. The second distinguishes between interventions at the raw data level versus interventions at the insights or outcomes level.\
+Imagine these dimensions as axes on a chart. This creates four quadrants, each representing a different type of synthetic data: data imputation, user creation, insights modeling, and manufactured outcomes. Each one serves a distinct function, and if you’re working with data in any capacity, you need to know the difference.Data Imputation: Filling in the BlanksWhile some might argue that data imputation isn’t truly synthetic data, modern imputation techniques have evolved beyond simple mean or median substitution. Today, advanced imputation leverages machine learning and generative AI models, making the generated values more sophisticated and contextually relevant than ever before.\
+Data imputation sits at the intersection of  and . This means we’re working with existing datasets that have gaps, and our goal is to generate plausible values to complete them. Unlike other types of synthetic data, imputation isn’t about creating entirely new information—it’s about making incomplete data more usable.\
+ A market research firm conducting media effectiveness studies might have gaps in its audience response data due to missing survey responses. Instead of discarding incomplete datasets, imputation techniques—such as statistical modeling or machine learning—can generate realistic estimates, ensuring analysts can still draw meaningful insights from the data.User Creation: Fake People, Real InsightsUser creation lies between  and . Instead of modifying existing data, this approach fabricates entirely new user profiles and behaviors. It’s particularly useful when real user data isn’t available, is sensitive, or needs to be scaled artificially.\
+User creation is a game-changer for testing products, improving security, and training AI models.\
+ A streaming service might create synthetic user profiles to test its recommendation engine without exposing real customer data. Cybersecurity firms do the same to simulate attack scenarios and train fraud detection systems.Insights Modeling: Patterns Without the Privacy RisksInsights modeling operates at the intersection of  and intervention at the insights level. Instead of manipulating raw data points, it creates datasets that preserve the statistical properties of real-world data without exposing actual records. This makes it ideal for privacy-sensitive applications.\
+Insights modeling also allows researchers to scale insights from pre-existing datasets, particularly when gathering large-scale data is impractical. This is common in marketing research, where data collection can be cumbersome and costly. However, this approach requires a solid foundation of real-world training data.\
+ A market research firm conducting copy testing might use insights modeling to scale its normative database. Instead of relying solely on collected survey responses, the firm can generate synthetic insights models that extrapolate patterns from existing normative data. This allows brands to test creative performance against a broader, more predictive dataset without continuously gathering new survey responses.Manufactured Outcomes sit at the extreme end of both  and insights-level intervention. This approach involves generating entirely new datasets from scratch to simulate environments or scenarios that don’t yet exist but are essential for AI training, modeling, and simulations.\
+Sometimes, the data you need simply doesn’t exist—or is too expensive or dangerous to collect in the real world. That’s where Manufactured Outcomes come in. This process generates entirely new datasets, often to train AI systems in environments that are difficult to replicate.\
+ Self-driving car companies generate synthetic road scenarios—like a pedestrian suddenly jaywalking—to train their AI on rare but critical situations that might not appear often in real-world driving footage.Risks and Considerations of Synthetic DataWhile synthetic data provides powerful solutions, it isn’t without risks. Each type of synthetic data has its own challenges that can impact data quality, reliability, and ethical use. Here are some key concerns to keep in mind: If the underlying data used for imputation, insights modeling, or Manufactured Outcomes contains bias, those biases can be reinforced or even amplified.Lack of Real-World Representativeness: User creation and data manufacture may generate data that seems realistic but fails to capture the nuances of actual user behavior or market conditions.Overfitting and False Confidence: Insights modeling, when improperly applied, can create data that aligns too closely with the training set, leading to misleading conclusions.Regulatory and Ethical Concerns: Privacy laws like GDPR and CCPA still apply to synthetic data if it can be reverse-engineered to identify real individuals.Key Questions to Ask When Evaluating Synthetic DataTo ensure synthetic data meets quality standards, consider these questions:What is the source of the original data? Understanding the foundation of synthetic data helps assess potential biases and limitations.How was the synthetic data generated? Different methods—machine learning, statistical models, or rule-based systems—impact the reliability of synthetic data.Does the synthetic data maintain the statistical integrity of real-world data? Ensure the generated data behaves similarly to actual data without merely duplicating it.Can the synthetic data be audited or validated? Reliable synthetic data should have validation mechanisms in place.Does it comply with regulatory and ethical guidelines? Just because data is synthetic doesn’t mean it’s exempt from privacy regulations.Is there a process to update the underlying data models? Synthetic data is only as good as the real-world data it is based on. Ensuring a process for continuously updating the foundational dataset prevents models from becoming outdated and misaligned with current trends.Synthetic data is a broad term, and if you’re working in AI, analytics, or any data-driven field, you need to be clear on what kind you’re dealing with. Are you filling in missing data (imputation), creating test users (user creation), generating anonymized patterns (insights modeling), or building brand-new datasets from scratch (manufactured outcomes)?\
+Each of these plays a different role in how we use and protect data, and understanding them is key to making informed decisions in the rapidly evolving world of AI and data science. So next time someone throws around the term “synthetic data,” ask them: Which kind?]]></content:encoded></item><item><title>Professor Ends Bulwer-Lytton Bad Writing Contest After 43 Years</title><link>https://idle.slashdot.org/story/25/03/09/1740239/professor-ends-bulwer-lytton-bad-writing-contest-after-43-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 9 Mar 2025 18:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[Slashdot covered the Bulwer-Lytton Fiction Contest in 2008 and 2010 — though it's been running since 1983. Entrants competed to write the worst-possible first sentence for a novel, in a contest started by English professor Scott E. Rice at San Jose State University (which sponsored the contest). In its first year it drew over 10,000 entries! 
+
+Over the years the bad first sentences were even collected into actual books (that were edited by Rice). But after 43 years, Rice delivered his own disappointing first sentence. "It is with deep regrets that I announce the conclusion of the Bulwer-Lytton Fiction Contest."
+Being a year and a half older than Joseph Biden, I find the BLFC becoming increasingly burdensome and would like to put myself out to pasture while I still have some vim and vigor! 
+
+
+ When I initiated the competition in 1983, inviting entrants to submit bad opening sentences to imaginary novels, I never dreamed that we would receive thousands of entrants from all over the U.S. and the globe, or that the contest would survive for over four decades. 
+
+
+ I am especially grateful to our entrants for keeping the contest alive and to our Panel of Undistinguished Judges who dutifully selected each year's "winners." And, of course, I would like to thank my daughter, EJ, who has been indispensable the last several years of the contest. It's been 42 good years but, alas, all good things must come to an end. Rest assured we're keeping the BLFC spirit alive by maintaining our archive for posterity so that generations and generations hence may witness your greatness! 
+His daughter EJ added their own words of thanks:
+Lastly, any little bit you could spare towards helping us keep the archive going (a few bucks is great!) would be greatly appreciated (EJ's Venmo is @elizabeth-rice-12). Thank you so much for your joy and enthusiasm — the noble Bulweriers have made working on the contest a treasure!!]]></content:encoded></item><item><title>Building Embodied Conversational AI: How We Taught a Robot to Understand, Navigate, and Interact</title><link>https://hackernoon.com/building-embodied-conversational-ai-how-we-taught-a-robot-to-understand-navigate-and-interact?source=rss</link><author>Vineeth Reddy Vatti</author><category>tech</category><pubDate>Sun, 9 Mar 2025 18:00:03 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Imagine asking a robot: "Hey, pick up the red cup from the kitchen and bring it here."\
+Sounds simple right? But for AI this involves understanding language, navigating a space, recognizing objects, and providing feedback all in real time.\
+This is exactly what I tackled in the Alexa Prize SimBot Challenge where we built an mbodied conversational agent that could understand instructions, move through its environment, interact with objects, and communicate back.\
+Here’s how we made it work using BERT, reinforcement learning, and multimodal machine learning. Let’s go through the different problems and how we tackled each of them.Understanding Language With BERTNatural language is messy and can get very complicated. We humans say  but could also say Find the fridge and open it. A robot must extract meaning from different phrasings.\
+To do this, we used BERT (Bidirectional Encoder Representations from Transformers) to convert text instructions into structured commands, so that it’s easier for it to execute them in a sequential manner.User speaks or types an instruction. and extracts intent.The AI translates this into executable actions like navigate or cup).\
+Below is the core of our BERT-based instruction parser:import torch
+import torch.nn as nn
+import torch.optim as optim
+from transformers import BertTokenizer, BertModel
+
+class InstructionEncoder(nn.Module):
+    """
+    Fine-tunes BERT on domain-specific instructions, outputs a command distribution.
+    """
+    def __init__(self, num_commands=10, dropout=0.1):
+        super(InstructionEncoder, self).__init__()
+        self.bert = BertModel.from_pretrained("bert-base-uncased")
+        self.dropout = nn.Dropout(dropout)
+        self.classifier = nn.Linear(self.bert.config.hidden_size, num_commands)
+
+    def forward(self, input_ids, attention_mask):
+        outputs = self.bert(input_ids=input_ids, attention_mask=attention_mask)
+        pooled_output = outputs.pooler_output
+        pooled_output = self.dropout(pooled_output)
+        logits = self.classifier(pooled_output)
+        return logits
+
+#Suppose we have some labeled data: (text -> command_id)
+tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+model = InstructionEncoder(num_commands=12)
+model.train()
+
+instructions = ["Go to the fridge", "Pick up the red cup", "Turn left"]
+labels = [2, 5, 1]  
+
+input_encodings = tokenizer(instructions, padding=True, truncation=True, return_tensors="pt")
+labels_tensor = torch.tensor(labels)
+
+optimizer = optim.AdamW(model.parameters(), lr=1e-5)
+criterion = nn.CrossEntropyLoss()
+ in mapping user instructions to robot tasks.Handled complex phrasing variations better than rule-based NLP.Domain-adaptive fine-tuning led to an improved understanding of environment-specific terms (“fridge”, “counter”, “sofa”). and minor syntax differences (“grab”, “pick”, “take”).Allowed real-time parsing of commands (<100ms per query).Navigation With Path Planning (A* and Reinforcement Learning)Once the robot understands  to go it needs a way to get there. We used *  for structured environments (like maps) and Reinforcement Learning (RL) for dynamic spaces.How We Trained the Navigation System* search for static pathfinding: Pre-computed routes in structured spaces.: The robot learned from trial and error using rewards.\
+This is how we implemented our A* search implementation for pathfinding.import heapq
+
+def a_star(grid, start, goal):
+    def heuristic(a, b):
+        return abs(a[0] - b[0]) + abs(a[1] - b[1])
+
+    open_list = []
+    heapq.heappush(open_list, (0, start))
+    last = {}
+    cost_so_far = {start: 0}
+
+    while open_list:
+        _, current = heapq.heappop(open_list)
+
+        if current == goal:
+            break
+
+        for dx, dy in [(-1, 0), (1, 0), (0, -1), (0, 1)]:  #4 directions
+            neighbor = (current[0] + dx, current[1] + dy)
+            if neighbor in grid:  #Check if it's a valid position
+                new_cost = cost_so_far[current] + 1
+                if neighbor not in cost_so_far or new_cost < cost_so_far[neighbor]:
+                    cost_so_far[neighbor] = new_cost
+                    priority = new_cost + heuristic(goal, neighbor)
+                    heapq.heappush(open_list, (priority, neighbor))
+                    last[neighbor] = current
+
+    return last
+\
+And this is the implementation of how we use RL for dynamic movement.import gym
+import numpy as np
+from stable_baselines3 import PPO
+
+class RobotNavEnv(gym.Env):
+    """
+    A simplified environment mixing a partial grid with dynamic obstacles.
+    Observations might include LiDAR scans or collision sensors.
+    """
+    def __init__(self):
+        super(RobotNavEnv, self).__init__()
+        self.observation_space = gym.spaces.Box(low=0, high=1, shape=(360,), dtype=np.float32) 
+        self.action_space = gym.spaces.Discrete(3) 
+        self.state = np.zeros((360,), dtype=np.float32)
+
+    def reset(self):
+        self.state = np.random.rand(360).astype(np.float32) 
+        return self.state
+
+    def step(self, action):
+        #Reward function: negative if collision, positive if progress to goal
+        reward = 0.0
+        done = False
+        if action == 2 and np.random.rand() < 0.1:
+            reward = -5.0
+            done = True
+        else:
+            reward = 1.0
+
+        self.state = np.random.rand(360).astype(np.float32)
+        return self.state, reward, done, {}
+
+env = RobotNavEnv()
+model = PPO("MlpPolicy", env, verbose=1).learn(total_timesteps=5000)
+A* search worked well in controlled environments.RL-based navigation adapted to obstacles in real-time.Navigation speed improved by 40% over standard algorithmsObject Recognition and InteractionOnce at the destination, the robot must see and interact with objects. This required computer vision for object localization.\
+We trained a  model to recognize objects like cups, doors, and appliances.import torch
+from ultralytics import YOLO
+import numpy as np
+
+#load a base YOLOv8 model
+model = YOLO("yolov8s.pt")
+
+#embeddings
+object_categories = {
+    "cup": np.array([0.22, 0.88, 0.53]),
+    "mug": np.array([0.21, 0.85, 0.50]),
+    "bottle": np.array([0.75, 0.10, 0.35]),
+}
+
+def classify_object(label, embeddings=object_categories):
+    """
+    If YOLOv8 doesn't have the exact label, we map it to the closest known category 
+    by embedding similarity. 
+    """
+    if label in embeddings:
+        return label
+    else:
+        best_label = None
+        best_sim = -1
+        for cat, emb in embeddings.items():
+            sim = np.random.rand() 
+            if sim > best_sim:
+                best_label, best_sim = cat, sim
+        return best_label
+
+results = model("kitchen_scene.jpg")
+for r in results:
+    for box, cls_id in zip(r.boxes.xyxy, r.boxes.cls):
+        label = r.names[int(cls_id)]
+        mapped_label = classify_object(label)
+Real-time detection at 30 FPS.97% accuracy in identifying common household objects.Enabled natural interactions like Closing the Loop – AI Feedback in Natural LanguageUnderstands the instruction (BERT)Navigates to the destination (A / RL)Finds and interacts with objects (YOLOv8)\
+It needs to understand how to respond to the user. This feedback loop also helps in the user experience; to achieve this, we used a GPT-based text generation for dynamic responses.from transformers import AutoTokenizer, AutoModelForCausalLM
+
+tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-j-6B")
+model_gpt = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-j-6B").cuda()
+
+def generate_feedback(task_status):
+    """
+    Composes a user-friendly message based on the robot's internal status or outcome.
+    """
+    prompt = (f"You are a helpful home robot. A user gave you a task. Current status: {task_status}.\n"
+              f"Please provide a short, friendly response to the user:\n")
+    inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
+    outputs = model_gpt.generate(**inputs, max_length=60, do_sample=True, temperature=0.7)
+    response_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    return response_text.split("\n")[-1]  
+
+print(generate_feedback("I have arrived at the kitchen. I see a red cup."))
+Adaptive AI feedback improved user engagement.98% of test users found the responses naturalBoosted task completion rate by 35%The synergy of advanced NLP, robust path planning, real-time object detection, and generative language has opened a new frontier in collaborative robotics. Our agents can interpret nuanced commands, navigate dynamic environments, identify objects with remarkable accuracy, and deliver responses that feel natural. \
+Beyond simple task execution, these robots engage in genuine back-and-forth communication asking clarifying questions, explaining actions, and adapting on the fly. It’s a glimpse of a future where machines do more than serve: they collaborate, learn, and converse as true partners in our daily routines.Further Reading on Some of the Techniques]]></content:encoded></item><item><title>Coldware (COLD): Transformative PayFi Ecosystem Poised for Growth</title><link>https://hackernoon.com/coldware-cold-transformative-payfi-ecosystem-poised-for-growth?source=rss</link><author>Coldware</author><category>tech</category><pubDate>Sun, 9 Mar 2025 17:59:55 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[\
+The cryptocurrency landscape continues to evolve rapidly, offering opportunities for both seasoned investors and newcomers alike.\
+Among the most promising blockchain protocols in 2025 are Pi Network (PI) and , each pioneering revolutionary models capable of creating crypto millionaires. While Pi Network (PI) leverages its mobile-mining model, Coldware (COLD) stands out with an innovative PayFi ecosystem that redefines decentralized finance (DeFi) and real-world financial integration.Coldware (COLD), positions itself as a tangible, immediately useful blockchain protocol through its innovative PayFi ecosystem. This approach has rapidly gained investor confidence, demonstrated by its impressive presale raising over $1.4 million. Unlike Pi Network (PI),  is laser-focused on delivering real-world applications immediately, providing seamless blockchain-based mobile financial solutions to underserved markets globally.\
+\The Coldware (COLD) PayFi ecosystem integrates decentralized finance (DeFi) tools into everyday mobile transactions, democratizing financial services and opening a pathway to genuine financial inclusion. Investors looking beyond speculative gains increasingly see  as a superior alternative to Pi Network (PI), due to its immediate real-world applicability.Pi Network (PI): The Mobile Crypto RevolutionPi Network (PI) has captivated millions with its unique approach to cryptocurrency mining, which utilizes mobile devices instead of energy-intensive mining hardware. As Pi Network (PI) prepares for its much-anticipated Binance listing, currently valued around $1.79, excitement among investors suggests its price could rise sharply, potentially exceeding $10.\
+However, despite this excitement, Pi Network (PI) still faces regulatory uncertainties and volatility risks that could affect its mass adoption. Nevertheless, strategic partnerships, such as the real estate integration by Zito Realty LLC, signify Pi Network’s (PI) growing real-world utility, creating new avenues for investors to gain wealth through practical blockchain adoption.Both Pi Network (PI) and  offer revolutionary blockchain solutions with significant potential for massive returns. Yet, their distinct strategies attract different investor profiles:Pi Network (PI) leverages a massive community-driven approach, speculative Binance listings, and unique mobile mining to attract widespread interest. directly addresses financial inclusion through mobile-based PayFi technology, delivering tangible, immediate value.\
+While Pi Network (PI) investors are banking on potential future adoption and speculative increases, Coldware (COLD) provides certainty through clear use cases, real financial services, and blockchain-driven financial inclusion from day one.Analysts agree both Pi Network (PI) and  possess the necessary components to generate significant wealth. Pi Network’s potential Binance listing could rapidly drive speculative investment, attracting short-term traders. Coldware’s PayFi technology, on the other hand, helps solving genuine financial pain points, thus having a sustainable, long-term growth trajectory.\
+For more information on the Coldware (COLD) Presale:\
+Join and become a community member: :::info
+This article is published under HackerNoon’s  program. Do your own research before making any financial decisions.]]></content:encoded></item><item><title>Stem Cell Therapy Trial Reverses &apos;Irreversible&apos; Damage to Cornea</title><link>https://science.slashdot.org/story/25/03/09/1612213/stem-cell-therapy-trial-reverses-irreversible-damage-to-cornea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 9 Mar 2025 17:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[Damaged corneas were repaired at a Harvard teaching hospital in a unique clinical trial, reports New Atlas:
+
+Since it's on the frontline of potential hazards from the outside world, the cornea features a population of limbal epithelial stem cells, which repair minor damage to keep the surface smooth and functional... The new study, conducted by scientists at Massachusetts Eye and Ear, investigated a new treatment called cultivated autologous limbal epithelial cells (CALEC). This involves removing stem cells from a patient's uninjured eye, growing their population in the lab for a few weeks, then surgically transplanting them into the injured eye. 
+The phase 1/2 trial recruited 14 patients to undergo the procedure, and followed them for 18 months afterwards... By the first checkup at three months, the corneas of seven (50%) of the participants had been completely restored. By the 12-month mark, that number had increased to 11 (79%) patients. Two other participants met the definition for partial success, so the team claims an overall success rate of 92% for CALEC.]]></content:encoded></item><item><title>How WebSockets Power Real-Time Apps</title><link>https://hackernoon.com/how-websockets-power-real-time-apps?source=rss</link><author>Mohit Menghnani</author><category>tech</category><pubDate>Sun, 9 Mar 2025 17:00:02 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Introduction: When HTTP Isn’t EnoughTogether, Bert and Ernie, two friends are working on the side project of their dreams: a chat app that enables real-time conversations for teams who work remotely. The front-end coder Bert can hardly contain himself as he shares shiny new features with his backend specialist friend. “Look! I can type a message, and it gets sent to the server, and I can see a response popping up nearly instantly!” Ernie, the backend guru, frowns. “But how do you solve the issue of two people trying to have a conversation at the same time? Your app keeps refreshing the page instead of letting you ‘see’ the conversation, which makes it impossible to chat in real-time .”\
+The challenge is that Bert’s app operates on HTTP in which a client must request a fetch from the server. Ernie summaries: “It’s like all your friends are texting you back, but then, suddenly, you can’t see any of the replies until you refresh to check if there are new messages because they can’t see your last message until you refresh it and that is how HTTP works!”\n Here comes the best part: for full-stack apps that work in real-time, there is WebSockets. This part is super exciting, so let’s join Ernie and Bert and find out how WebSockets function, their implementation procedures, the reasoning behind their importance, and so much more.What Are WebSockets? A Beginner’s BreakdownWebSockets are similar to a continuous phone call between a client (your web browser) and a server. They differ from the HTTP protocol which functions in the manner of, “send a letter, wait for a reply.” With WebSockets, both parties can converse freely as they please. The features of WebSockets include the following:Full-duplex: It is possible for both the client and server to transmit data simultaneously.Low latency: There are no excessive repeated handshakes; data can flow freely.Lightweight: Messages are small which reduces bandwidth usage.\
+Example: Picture a constantly updating sports scoreboard. With HTTP, the client constantly has to spam the server every second, “Any score change?” With WebSockets, the server announces,” GOAL!” the instant it happens.WebSockets vs. HTTP: What’s the New Hotness?Bert sits back and scratches his head. “But HTTP works fine for most apps. Why move the goalposts?” Ernie laughs softly, takes a marker, and begins writing something on the whiteboard.\
+“Let’s start from the top,” he says. “Let’s say real-time life updates, such as live sports scores. Clients need to ask the server every second: ‘Is there anything I need to know?’ That is polling, so every thirty seconds, you have to ask, ‘Are we meeting?' Ridiculous, no? It also uses a lot of bandwidth.”\
+WebSockets turn this around:Real-time Updates: Data on the server is sent the moment it changes; no polling necessary.Chat applications: No refreshing the page required. Messages flood in as you type.Multiplayer video games: No more stuttery movements. Actions get displayed on screens seamlessly.\
+“HTTP is fairly decent at dealing with static things such as a blog or product page. When it comes to live interactions though, a persistent connection is required. WebSockets.”Creating A Real-Time Chat App: The Good Stuff BeginsErnie cleans his glasses. "So, let’s make a simple chat application,” Ernie exclaims. “We will have a Node.js server for the backend and a React app for the frontend. Ready?”1. Create Socket.IO Backend“Grab a Node.js server because you are going to need it for the Socket.IO part,” Ernie says as he types really quickly:npm init -y 
+
+npm install express socket.io
+\n Server code (server.js) :const express = require('express'); 
+const http = require('http'); 
+const { Server } = require('socket.io'); 
+
+const app = express(); 
+const server = http.createServer(app); 
+const io = new Server(server); 
+
+// Serve static files (like React's build folder) 
+app.use(express.static('public')); 
+
+// Handle WebSocket connections 
+io.on('connection', (socket) => { 
+ console.log('New user connected:', socket.id); 
+
+ // Listen for Incoming messages from the socket
+ socket.on('sendMessage', (message) => { 
+   console.log('Received:', message); 
+   // Broadcast the message to everyone 
+   io.emit('receiveMessage', message); 
+ }); 
+
+ // Handle user disconnects events
+ socket.on('disconnect', () => { 
+   console.log('User left:', socket.id); 
+ }); 
+}); 
+
+server.listen(3000, () => { 
+ console.log('Visit http://localhost:3000 on a browser, Server started successful on port 3000'); 
+});
+\
+“The client and server are able to communicate with each other thanks to Socket.IO’s handling of WebSocket connections. When the client calls the (sendMessage) function, the server sends the message to everyone connected through (io.emit). Pretty straightforward, isn’t it?”“It’s my turn now. Let’s get to work on the React client,” says Bert.npx create-react-app chat-client 
+cd chat-client 
+npm install socket.io-client 
+\n Chat component (Chat.js) :import { useState, useEffect } from 'react'; 
+import io from 'socket.io-client'; 
+
+// Connect to the server 
+const socket = io('http://localhost:3000'); 
+
+function Chat() { 
+ const [message, setMessage] = useState(''); 
+ const [messages, setMessages] = useState([]); 
+
+ useEffect(() => { 
+   // Listen for new messages 
+   socket.on('receiveMessage', (newMessage) => { 
+     setMessages([...messages, newMessage]); 
+   }); 
+ }, [messages]); 
+
+ const sendMessage = () => { 
+   if (message.trim()) { 
+     socket.emit('sendMessage', message); 
+     setMessage(''); 
+   } 
+ }; 
+
+ return ( 
+   <div style={{ padding: '20px' }}> 
+     <div> 
+       {messages.map((msg, index) => ( 
+         <p key={index}>{msg}</p> 
+       ))} 
+     </div> 
+     <input 
+       value={message} 
+       onChange={(e) => setMessage(e.target.value)} 
+       onKeyPress={(e) => e.key === 'Enter' && sendMessage()} 
+     /> 
+     <button onClick={sendMessage}>Send</button> 
+   </div> 
+ ); 
+} 
+
+export default Chat; 
+Messages are sent by the server over a WebSocket to any clients that are connected.The React application is a single-page application that is able to refresh the UI without reloading the page.To start the server, enter node server.js in the console.To start the React application, enter npm start in the console.With two tabs open on a browser, type a message in one tab and notice how almost instantly, the other tab will display the same message.This is what Bert intended to build based on the application, but Ernie mentions, “Most real-life applications need a bit of mistake handling and a way to expand the framework for development.” Let’s see some probable problems.1. Line Of Connection StopsImplement a reconnection strategy in the React client.socket.on('disconnect', () => { 
+ console.log('Disconnected. Trying to reconnect...'); 
+ socket.connect(); // Auto-reconnect 
+}); 
+Secure WebSocket using authenticated JWT tokens.// On login, send a token 
+socket.emit('authenticate', { token: 'USER_JWT' }); 
+
+// Server verifies token 
+socket.on('authenticate', ({ token }) => { 
+ if (isValidToken(token)) { 
+   socket.authenticated = true; 
+ } else { 
+   socket.disconnect(); 
+ } 
+});
+Introduce messaging passing between different servers using Redis.const redis = require('redis'); 
+const subscriber = redis.createClient(); 
+
+subscriber.subscribe('chat-channel'); 
+
+subscriber.on('message', (channel, message) => { 
+ io.emit('receiveMessage', message); 
+}); 
+Beyond Chat: Editing a shared documentThis is Bert’s next idea - an editor similar to Google Docs. Ernie says, “You can use web sockets to listen for changes made by different people and merge them.”User B removes “o” and adds “, World”The server listens for each keystroke and broadcasts it to all clients, for their respective clients to render an UPDATED document.// Client sends keystrokes 
+textarea.addEventListener('input', (e) => { 
+ socket.emit('textChange', e.target.value); 
+}); 
+
+// Server broadcasts changes 
+socket.on('textChange', (text) => { 
+ io.emit('updateText', text); 
+}); 
+Ernie warns us that: “You should never use WebSockets without HTTPS/WSS!”Use WSS (WebSocket Secure) :const io = new Server(server, {  cors: { origin: "https://yourdomain.com" }, });&nbsp;
+Validate all inputs so as to sanitize any data that could lead to XSS attacks.Implement rate limit on users with spamming behavior.Q: Is the speed of WebSockets much better than that of HTTP?A: Yes! For instantaneous applications, WebSockets are the best because they remove the need to conduct polling.\
+Q: Is it possible to utilize REST APIs together with WebSockets?A: Yes, definitely! Use WebSockets with live updates and REST for performing CRUD operations.\
+Q: How do I deal with a server crashing?A: Clients can automatically reconnect (see reconnection logic above).Bert’s chat app now pings with real-time charm and Ernie smiles with satisfaction. WebSockets are not only for chats, but also serve the purpose of live dashboards, gaming, IoT, and more.\
+Your Turn: Go ahead and try out the examples, destroy them, and create something new. Your real-time apps are waiting!]]></content:encoded></item><item><title>Mice Give First Aid</title><link>https://science.slashdot.org/story/25/03/08/2133224/mice-give-first-aid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 9 Mar 2025 16:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[Slashdot reader databasecowgirl writes: The Times is reporting an interesting study published in Science in which mice demonstrated doing first aid. In the replicated study, an anaesthetised mouse is exposed to another mouse who recognises the distress and clears airway to revive the unconscious mouse.
+ 
+The mice had never seen an unconscious animal before, so the behaviour is thought to be instinctive. 
+
+From the Times:
+
+
+Large social mammals have previously been documented lending assistance to each other. Chimpanzees have been seen tending to wounded companions, dolphins are known to push distressed pod members to the surface to help them breathe, and elephants have been observed assisting their ailing relatives. Never before, however, has such a meticulous, paws-on approach to first aid been recorded in a creature as small as a mouse.
+]]></content:encoded></item><item><title>The HackerNoon Newsletter: Vibe Coding - A New System of the World (3/9/2025)</title><link>https://hackernoon.com/3-9-2025-newsletter?source=rss</link><author>Noonification</author><category>tech</category><pubDate>Sun, 9 Mar 2025 16:05:03 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[🪐 What’s happening in tech today, March 9, 2025?By @kitcast [ 7 Min read ] Discover how data visualization transforms raw data into actionable insights for tech companies, driving better decisions and competitive advantage. Read More.By @marutitechlabs [ 5 Min read ] Maruti Techlabs automated policy data management for HealthPro Insurance, improving efficiency, reducing manual effort, and enhancing data accuracy. Read More.By @hayday [ 6 Min read ] It Takes More than Thinking: Humans Put the Vibe into Vibe Coding. An article about software engineers in a post-AI world, Vibeware and embracing ourselves Read More.By @hayday [ 4 Min read ] Is the rise of vibe coding also the end of software engineering? How will vibeware change the nature of the software entrepreneur, and the meaning of work? Read More.By @dhruvam [ 23 Min read ] Inspired by Google’s Applied CS with Android, this adaptation for Flutter provides an interactive way to understand Arrays, HashSets, and HashMaps. Read More.By @marutitechlabs [ 5 Min read ] Discover how Maruti Techlabs ensured a seamless transition for Ann’s Boba Tea from LevelUp to Paytronix, preventing downtime and enhancing user experience.
+ Read More.By @techietales [ 4 Min read ] The upcoming launch of $SESH represents a significant milestone for Session, as it seeks to create a sustainable and decentralized messaging ecosystem. Read More.By @linked_do [ 11 Min read ] The clock for AI Literacy is ticking. Why should you act now, what are the six pillars of AI Literacy, and how can you build on those? Read More.🧑‍💻 What happened in your world this week?We hope you enjoy this worth of free reading material. Feel free to forward this email to a nerdy friend who'll love you for it.See you on Planet Internet! With love, 
+ The HackerNoon Team ✌️]]></content:encoded></item><item><title>Effective One-on-One Meetings: 5 Practices to Implement</title><link>https://hackernoon.com/effective-one-on-one-meetings-5-practices-to-implement?source=rss</link><author>Vinita Bansal</author><category>tech</category><pubDate>Sun, 9 Mar 2025 16:00:07 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[One-on-one meetings are fundamental to building a high-performance team that can scale to meet business needs and contribute to an organization’s growth.\
+Most managers understand the importance of these meetings, and yet, they either deprioritize them or run them ad hoc without proper planning or paying attention to their effectiveness.\
+They treat them like an item on the to-do list, which feels good once ticked without adding any value to the team’s learning and growth.\
+Not having these discussions is definitely bad, but it’s even worse when these meetings leave people feeling confused, overwhelmed, or agitated because their managers are either unprepared or don’t know how to run them well.Meetings are at the heart of an effective organization, and each meeting is an opportunity to clarify issues, set new directions, sharpen focus, create alignment, and move objectives forward.\
+Use these 5 practices to run effective one-on-one meetings:Many managers set strict professional boundaries and don’t make an attempt to know their direct reports beyond work.\
+They talk about work all the time—requirements, deadlines, and expectations. To them, nothing else matters. Engaging in small talk or discussing anything that doesn’t involve work seems like a waste of time because they don’t understand the value of building a personal connection and getting a peek into their team’s life outside of work.\
+Your reports are real human beings with emotions, desires, and dreams. They have a life beyond work. Treating them as humans and not resources builds the connection that’s necessary to utilize their full potential.\
+To make your one-on-one meetings highly effective, start with getting to know your team:Inquire a little bit about their family, background, and childhood.Find out what catches their attention at work.Ask about their hobbies and interests. Maybe you will discover a common link.What do they value the most?What puts them off—something they can’t tolerate?What’s their biggest strength?What are they most fearful about?In what ways they’d like to be supported?Strive for all your one-on-one meetings to feel a little awkward. Why? Because the most important and meaningful conversations have that characteristic. It isn’t easy to discuss mistakes, confront tensions, or talk about deep fears or secret hopes, but no strong relationship can be built on superficial pleasantries alone.\
+Asking these questions without getting too personal can give you just the information needed to communicate effectively and work better together. Knowing them can enable you to adapt the conversation instead of simply following a script.\
+One-on-one meetings can’t be effective if you don’t make an attempt to know the person on the other side. Personal connections are a prerequisite to a healthy professional relationship.Think Growth, Not a Status UpdateOne thing that’s always top of a manager's mind is meeting deadlines and stakeholder expectations. This can lead to a default tendency to ask for project updates whenever they meet their team.\
+Status updates are important to know how the team is progressing, what challenges they are facing, and how they plan to unblock themselves. But there’s a time and place for it. One-on-one meetings are not one of them.\
+One-on-one meetings should be largely focused on understanding your team’s concerns, discussing opportunities,  and identifying areas of growth.\
+Here are some growth-oriented questions for an effective one-on-one meeting:What challenges did they face recently and how did they overcome them?What was most exciting about work?What bothered them the most and why?What kind of opportunities do they need to build new skills?What are their strengths? How can they put their strengths to better use?What conflict did they face recently and how did they handle it?\
+Growth-oriented discussion will not only keep the conversation productive, but it will also be deeply engaging for your team. They will be challenged to think, deal with their problems, work out solutions, and draw valuable learning lessons thereby making them more resilient in the face of adversity and challenges.Do Less Talking, More ListeningOne-on-one meetings may seem like a great opportunity to share everything on your mind—all your concerns, feedback, issues, or anything else you find worth sharing.\
+But in trying to complete your agenda, you may speak too much and do very little listening. Speaking makes you feel good—you pat yourself on the back for a job well done.\
+But doing all the talking prevents you from listening to their expectations and concerns. You not only miss understanding how your message is received but also leave them feeling unheard and misunderstood.\
+For an effective one-on-one meeting, make them feel heard and understood first. They are more likely to listen to you when you listen to them first with the intent to understand and show respect for their views.Seek clarity and invite them to talk by asking open-ended questions.“What do you think about …”“I would like to understand where you are coming from …”“Can you share a little more about how you see things …?”Go beyond the words to the non-verbal communication—tone of voice, hand gestures, and body language.Acknowledge their feelings and points of view. Acknowledging does not mean that you agree with them. It simply means that you understand how they feel.The key to a good one-on-one meeting is the understanding that it is the employee’s meeting rather than the manager’s meeting. This is the free-form meeting for all the pressing issues, brilliant ideas, and chronic frustrations that do not fit neatly into status reports, email, and other less personal and intimate mechanisms.\
+Keep the discussion flexible and open—ask what they want to discuss instead of leading with your own agenda.\
+Treating one-on-one meetings as a dialogue and not a monologue empowers your team members to take control of their own growth and learning. They feel a  over the discussion which encourages them to participate with enthusiasm and a positive attitude.Stay Present, Keep Distractions AwayManagers are busy creatures with hundreds of things on their minds and multiple things vying for their attention—stakeholders with unrealistic demands, deadlines fast approaching, customer escalations, an overflowing calendar, and an inbox full of emails.\
+This makes it hard for them to focus on one thing at a time.\
+Looking at the phone or laptop while talking.\
+Checking watch multiple times.\
+All these behaviors in a 1-1 meeting convey only one thing—that you aren’t interested in them and would much rather be elsewhere right now.\
+Being distracted, multitasking, or pretending to listen in a one-on-one meeting is not only disrespectful and rude, it instantly shuts down the conversation.\
+To get your people to open up, you need to build trust—create a space where they feel safe to share their ideas and concerns. This isn’t possible when you are present physically but mentally checked out.What often fails to be appreciated by everybody is just how significant an act of leadership it is, simply to give somebody your undivided attention for a while.\
+Before entering a 1-1 conversation, commit to being present—set aside all sources of distraction and pay attention to the person in front of you.\
+Giving them your undivided attention shows the value you place in a one-on-one meeting, which encourages others to be committed and present too.Set a Rhythm, Don’t Meet Ad HocOne-on-one meetings are a great source to bridge the gap between your expectations and your team’s performance. It helps both parties reach common ground by aligning on goals, setting direction, clarifying assumptions, and providing the support necessary.\
+Your team can’t excel without clarity on how they’re doing and what they can do to be better. Continuously striving for improvement is the key to unlocking their hidden potential.\
+To enable your team to strive for excellence and not settle for mediocrity, you need to have regular discussions with a pre-defined cadence. Having a schedule to meet not only makes these meetings more likely to happen, it also enables both the manager and the direct report to be better prepared for a constructive discussion.\
+You can still have impromptu meetings for feedback that can’t wait, but not everything is time-sensitive and most of it can wait.Managers who don’t have a plan to talk to everyone on their team regularly are deluded. They believe they are going to learn what is going on in their group through some magical organizational osmosis and they won’t. Ideas will not be discovered, talent will be ignored, and the team will slowly begin to believe what they think does not matter, and the team is the company.\
+Depending on the size of your team, weekly, bi-weekly, monthly, or even quarterly 1-1 meetings must be set. Schedule it on the calendar to increase the likelihood of it getting attended. Don’t miss these meetings at any cost unless it’s an emergency that can’t wait.\
+1-1 meetings aren’t a one-time phenomenon. You need to meet your team regularly. Set a rhythm so that your team looks forward to them each time.One-on-one meetings play a crucial role in setting up a team for success by aligning goals, defining expectations, providing support, and helping your team realize their true potential.Taking a peek into your team’s life beyond work is important. Setting strict boundaries at work or talking work all the time prevents you from establishing a personal connection which is necessary to work together as a team. Treat your team members as humans and take an interest in their lives.Being responsible for meeting delivery timelines and commitments can make many managers talk about status all the time. But, asking for status updates in a 1-1 meeting destroys its purpose. One-on-one meetings should be focused on growth—what kind of opportunities your team needs, skills to be built, how to overcome challenges, etc.When conducting a 1-1 meeting, don’t try to tick-mark every item on your agenda. Leave space to hear your team’s thoughts and concerns. The more time you spend talking, the less you will listen. The less you listen, the less you will be able to identify changes that are necessary for your team’s productivity and performance.Your role as a manager will keep you busier than you’d imagined. This makes you more prone to multitasking, mind wandering, and many other distractions. Not giving the discussion your complete attention makes it hard for your team to trust you. Without trust, time is wasted on inconsequential topics without addressing the real issues and concerns.Trying to squeeze in a 1-1 meeting randomly when your calendar allows it may appear like the best use of your time. But doing them without proper planning makes them less likely to be effective. Ad hoc meetings are also irregular and may not happen for long. Agree on a predefined frequency with your team and schedule one-on-one meetings on the calendar upfront. Your team will look forward to them as they’ll have time to prepare for a productive conversation.\
+This story was previously published here. Follow me on LinkedIn or here for more stories.]]></content:encoded></item><item><title>Tammy Nam joins AI-powered ad startup Creatopy as CEO</title><link>https://techcrunch.com/2025/03/09/tammy-nam-joins-ai-powered-ad-startup-creatopy-as-ceo/</link><author>Anthony Ha</author><category>tech</category><pubDate>Sun, 9 Mar 2025 15:53:02 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Creatopy, a startup that uses AI to automate the creation of digital ads, has brought on a new CEO: Tammy Nam. Nam was previously COO and CMO at photo-editing startup PicsArt, and before that the CEO of video streamer Viki. She told TechCrunch via email that Creatopy was looking for a US-based executive who knows […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>Will an &apos;AI Makeover&apos; Help McDonald&apos;s?</title><link>https://slashdot.org/story/25/03/09/070211/will-an-ai-makeover-help-mcdonalds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 9 Mar 2025 15:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA["McDonald's is giving its 43,000 restaurants a technology makeover," reports the Wall Street Journal, including AI-enabled drive-throughs and AI-powered tools for managers — as well as internet-connected kitchen equipment. 
+
+"Technology solutions will alleviate the stress...." says McDonald's CIO Brian Rice.
+McDonald's tapped Google Cloud in late 2023 to bring more computing power to each of its restaurants — giving them the ability to process and analyze data on-site... a faster, cheaper option than sending data to the cloud, especially in more far-flung locations with less reliable cloud connections, said Rice... Edge computing will enable applications like predicting when kitchen equipment — such as fryers and its notorious McFlurry ice cream machines — is likely to break down, Rice said. The burger chain said its suppliers have begun installing sensors on kitchen equipment that will feed data to the edge computing system and give franchisees a "real-time" view into how their restaurants are operating. AI can then analyze that data for early signs of a maintenance problem. 
+McDonald's is also exploring the use of computer vision, the form of AI behind facial recognition, in store-mounted cameras to determine whether orders are accurate before they're handed to customers, he said.	 "If we can proactively address those issues before they occur, that's going to mean smoother operations in the future," Rice added... 
+
+Additionally, the ability to tap edge computing will power voice AI at the drive-through, a capability McDonald's is also working with Google's cloud-computing arm to explore, Rice said. The company has been experimenting with voice-activated drive-throughs and robotic deep fryers since 2019, and ended its partnership with International Business Machines to test automated order-taking at the drive-through in 2024. 
+Edge computing will also help McDonald's restaurant managers oversee their in-store operations. The burger giant is looking to create a "generative AI virtual manager," Rice said, which handles administrative tasks such as shift scheduling on managers' behalf. Fast-food giant Yum Brands' Pizza Hut and Taco Bell have explored similar capabilities.]]></content:encoded></item><item><title>Apple’s smart home hub reportedly delayed by Siri challenges</title><link>https://techcrunch.com/2025/03/09/apples-smart-home-hub-reportedly-delayed-by-siri-challenges/</link><author>Anthony Ha</author><category>tech</category><pubDate>Sun, 9 Mar 2025 15:03:10 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Apple announced this week that the “more personalized” version of Siri that it promised last year has been delayed — and according to Bloomberg’s Mark Gurman, that’s also postponed the launch of the company’s planned smart home hub. In a statement, Apple said the upgraded Siri features, which are part of its broader Apple Intelligence […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>Musk may still have a chance to thwart OpenAI’s for-profit conversion</title><link>https://techcrunch.com/2025/03/09/musk-may-still-have-a-chance-to-thwart-openais-for-profit-conversion/</link><author>Maxwell Zeff</author><category>tech</category><pubDate>Sun, 9 Mar 2025 15:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Elon Musk lost the latest battle in his lawsuit against OpenAI this week, but a federal judge appears to have given Musk — and others who oppose OpenAI’s for-profit conversion — reasons to be hopeful. Musk’s suit against OpenAI, which also names Microsoft and OpenAI CEO Sam Altman as defendants, accuses OpenAI of abandoning its […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>How Your Gut Influences Your Brain</title><link>https://science.slashdot.org/story/25/03/09/0513235/how-your-gut-influences-your-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 9 Mar 2025 14:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[A blog post from the Stanford University School of Medicine attempts to answer the question: What's the deal with the gut-brain connection?
+
+
+It affects your mood, your sleep, even your motivation to exercise. There's convincing evidence that it's the starting point for Parkinson's disease and could be responsible for long COVID's cognitive effects. And it sits about 2 feet below your brain. The gut plays an obvious role in our health by digesting what we eat and extracting nutrients. But there's a growing appreciation among scientists that our digestive systems affect our general well-being in a much broader fashion. 
+
+ One fascinating aspect of the gut's widespread impact on health is its direct influence on and communication with the brain, a conduit known as the gut-brain axis. Through direct signals from the vagus nerve, [which] connects the brain and the gut, as well as through molecules secreted into the bloodstream from our gut microbes and immune cells that traffic from the gut to the rest of the body, our brains and our digestive tracts are in constant communication. And when that communication goes off the rails, diseases and disorders can result. The gut-brain connection is a key part of how the brain forms a picture of the rest of the body, a phenomenon known as interoception, explained Christoph Thaiss, PhD, an assistant professor of pathology at Stanford Medicine... 
+The gut also contains the largest number of neurons outside the brain of any structure in the body — more than 100 million neurons line the human digestive tract, from the esophagus to the anus. These cells make up what is known as the enteric nervous system, which some scientists refer to as a "second brain." The enteric nervous system is more brain-like than other peripheral nerves because it consists of lots of different types of neurons that communicate with each other, while other peripheral nerves primarily serve to communicate between the brain and the body, said Julia Kaltschmidt, PhD, the Firmenich Next Generation Faculty Scholar and an associate professor of neurosurgery. In fact, the gut's nervous system can act alone. Scientists have found that if they remove an animal's gut and bathe it in a special fluid designed to keep neurons alive, the gut continues to contract, pushing its contents from top to bottom.]]></content:encoded></item><item><title>AMD Preparing &quot;High Precision&quot; Mode For Upcoming Instinct MI350X (GFX950)</title><link>https://www.phoronix.com/news/AMD-HSA-High-Precision-MI350X</link><author>Michael Larabel</author><category>tech</category><pubDate>Sun, 9 Mar 2025 14:27:09 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[On Friday AMD sent out another batch of AMDGPU and AMDKFD kernel driver feature patches destined for the upcoming Linux 6.15 kernel cycle. One notable feature in this late pull request is introducing a new "high precision" mode to be found with the GFX950 target, which is believed to be the upcoming Instinct MI350X series...]]></content:encoded></item><item><title>Is the Metaverse a Technological Revolution or Just Another Bubble?</title><link>https://hackernoon.com/is-the-metaverse-a-technological-revolution-or-just-another-bubble?source=rss</link><author>Jonathan</author><category>tech</category><pubDate>Sun, 9 Mar 2025 14:00:03 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[The metaverse has been one of the most hyped technologies of recent years, and it is generally believed that it will be the future of digital interaction, virtual economies, and decentralized ownership. The tech  giants such as Meta, Microsoft, Apple, and Google have already invested more than 60 billion U.S. dollars in the development of this virtual world and Web3 enthusiasts consider the metaverse as the  further development of the Internet.\
+Nevertheless, despite all the hype, the metaverse has its drawbacks, for instance, low rates of user engagement, vague potentials, and underpinning value proposition. Is the metaverse really the next big thing or has it turned out to be just another technological bubble that is going to burst at one point?The Hype: What We Were PromisedA Persistent and Fully ImmersiveVirtual World The metaverse was conceived as a permanent interconnected and immersive 3D world in which people could work, socialize, and shop in virtual reality (VR) and augmented reality (AR).  Meta (previously Facebook) visualized the metaverse as the further evolution of the social network, where people would meet as avatars in digital environments instead of using traditional social media platforms.Digital ownership in the form of NFTs and BlockchainThe metaverse was promoted by the advocates of Web3 as a decentralized network of virtual worlds developed on blockchain technology. It was expected that NFTs would act as proof of ownership of the virtual land, digital assets, and in-game items and give the users real ownership of their digital assets.Platforms like Decentraland and The Sandbox hit the roof with NFT land prices with investors buying virtual real estate hoping that it would become the next digital economy.The future of work and collaborationCompanies like Microsoft, Meta, and Nvidia argued that remote work and digital collaboration would occur in the metaverse. Thus,  instead of video conferencing applications like Zoom, people would meet in virtual reality-based workspaces.Meta’s Horizon Workrooms and Microsoft’s Mesh for Teams were supposed to change the way that businesses conduct their meetings, allowing employees to meet from anywhere in the world.A multi-trillion-dollar economyInvestment firms and analysts predicted that the metaverse could generate up to trillions of dollars by 2030. Many companies developed metaverse strategies; lest they be left behind in the next gold rush.Major brands like Nike, Adidas, Gucci, and Balenciaga also joined in, selling virtual sneakers and fashion items within digital worlds.The Reality: What Happened This Time AroundAs it turns out, the metaverse has not been able to meet the expectations that were set  for it. Here’s what’s actually happening:Low Rates of User Engagement and Participation.Most metaverse platforms have not been able to attract the general population. Even well-funded projects such as Decentraland and The Sandbox have less than 1,000 daily active users, even though the projects have raised millions of dollars.Meta’s Horizon Worlds has also done poorly, and the company has  had to change its strategy and focus more on the enterprise.The decline of NFTs and virtual land prices.The 2022 NFT market crash revealed the speculative nature of digital assets. Many metaverse projects based on NFTs also experienced a crash in the value of their virtual land as investors realized that there was no demand for such digital properties.Walmart, Disney, and Microsoft have quietly pulled back their metaverse plans to focus on AI and other technology that is coming up.VR and AR are still niche technologies.For the metaverse to be fully immersive, there must be a widespread use of VR and AR. However, high costs, cluttered hardware, and sparse content have limited mass adoption. Meta’s Quest headsets and Apple’s Vision Pro are very good but they are not yet proximity devices. Unless the AR/VR technology improves on the aspects of price, weight, and accessibility, the metaverse will not see much progress.Interoperability is Missing.A real metaverse has to be interoperable, which means that the user should be able to take their assets and identity across platforms.Today, metaverse projects are not connected; there is no unified standard. Your NFT avatar from The Sandbox will not be usable in Horizon  Worlds, and your Decentraland items will not be usable in Fortnite or Roblox. Without cooperation, the idea of a single interconnected metaverse cannot be achieved.Despite the failures, the metaverse is still developing. The following are the likely  changes to be seen in the future:Virtual Worlds Powered by AI.AI and machine learning will be an essential component in the development of the metaverse in the future. Companies are now using  AI-powered avatars, generative AI for world-building, and real-time AI assistants to create more realistic and engaging virtual environments.The enterprise metaverse will drive growth.Consumers may have abandoned the metaverse, but businesses are embracing it. For training, remote collaboration, and simulations in healthcare, engineering, and military, VR is being used by companies.Example: Walmart is using VR training simulations for its employees. BMW and Ford are using the digital twin of the factory to enhance production. Surgeons are preparing for intricate surgeries in VR simulation.\
+3. The role of Web3 and Blockchain in the metaverse.Although the NFT mania has slowed down, blockchain still has a place in the metaverse especially for digital identity and seamless ownership of assets. But, centralized platforms (Meta, Apple, Microsoft) are going to be much more prominent than decentralized blockchain-based metaverses.The metaverse has lost its hype, but its core ideas are still under development. The consumer metaverse (gaming and social VR) is still small and needs better hardware. The enterprise metaverse (VR training, remote collaboration) is finally seeing real adoption. It is most likely that the future will be a combination of AI, Mixed Reality (MR), and Web3, but in a more realistic and less revolutionary way. The metaverse is not dead; it is just growing up.\
+The real question is: Are we ready for what comes next?]]></content:encoded></item><item><title>How to stop doomscrolling</title><link>https://techcrunch.com/2025/03/09/how-to-stop-doomscrolling/</link><author>Amanda Silberling</author><category>tech</category><pubDate>Sun, 9 Mar 2025 14:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The world is bad sometimes, but it feels even worse if you can’t stop staring into the all-consuming abyss that is the 6-inch screen of a smartphone, following you through space and time. It taunts you with its compact, light build that’s small enough to slip into your pocket and take anywhere, and its siren […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>Intel Preps Linux For &quot;Platform Temperature Control&quot; With Lunar Lake &amp; Panther Lake SoCs</title><link>https://www.phoronix.com/news/Intel-PTC-Linux-Lunar-Panther</link><author>Michael Larabel</author><category>tech</category><pubDate>Sun, 9 Mar 2025 14:00:00 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Intel's new Platform Temperature Control (PTC) feature is a hardware-based solution to manage skin and/or board temperatures of a device. Platform Temperature Control will adjust the SoC power/performance if the temperature thresholds are exceeded, which are programmed by the device manufacturer. But new Linux patches posted allow controlling the Intel Platform Temperature Control feature found with new Core Ultra Lunar Lake laptops and upcoming Panther Lake hardware...]]></content:encoded></item><item><title>Private 5G Network to Boost Hyundai’s EV Production</title><link>https://spectrum.ieee.org/private-5g-redcap-samsung-hyundai</link><author>Kate Park</author><category>tech</category><enclosure url="https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjY1NjU4MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NTk4NDkwMX0.JG-PV2EusAbJrE4opPs2fUZRVjw_b--V26UrSdfF0mE/image.jpg?width=600" length="" type=""/><pubDate>Sun, 9 Mar 2025 13:00:03 +0000</pubDate><source url="https://spectrum.ieee.org/">IEEE Spectrum</source><content:encoded><![CDATA[World's largest auto plant readies Wi-Fi alternative RedCap]]></content:encoded></item><item><title>More Apple Silicon Updates For Linux 6.15 Help M1/M2 Plus iPad / iPod / iPhone</title><link>https://www.phoronix.com/news/Apple-Silicon-DT-3-Linux-6.15</link><author>Michael Larabel</author><category>tech</category><pubDate>Sun, 9 Mar 2025 11:48:22 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Already queued ahead of the Linux 6.15 merge window opening later this month are DeviceTree support for Apple's T2 SoCs as well as other DeviceTree additions set to be mainlined. A third round of DeviceTree patches were sent out on Sunday morning to the Linux kernel mailing list for the upcoming v6.15 cycle...]]></content:encoded></item><item><title>ALGOL 68 Compiler Front-End Not Being Merged Into GCC At This Point</title><link>https://www.phoronix.com/news/ALGOL-68-No-GCC-2025</link><author>Michael Larabel</author><category>tech</category><pubDate>Sun, 9 Mar 2025 11:35:22 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[ALGOL 68 is an imperative programming language that's more than a half-century old and went on to inspire and influence other programming languages. It has its place in programming language history but a recently published compiler front-end for ALGOL 68 has been decided for now at least not to be upstreamed into the GNU Compiler Collection (GCC)...]]></content:encoded></item><item><title>America&apos;s Justice Department Still Wants Google to Sell Chrome</title><link>https://tech.slashdot.org/story/25/03/09/0232250/americas-justice-department-still-wants-google-to-sell-chrome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 9 Mar 2025 11:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[Last week Google urged the U.S. government not to break up the company — but apparently, it didn't work.
+In a new filing Friday, America's Justice Department "reiterated its November proposal that Google be forced to sell its Chrome web browser," reports the Washington Post, "to address a federal judge finding the company guilty of being an illegal monopoly in August."
+
+The government also kept a proposal that Google be banned from paying other companies to give its search engine preferential placement on their apps and phones. At the same time, the government dropped its demand that Google sell its stakes in AI start-ups after one of the start-ups, Anthropic AI, argued that it needed Google's money to compete in the fast-growing industry. 
+
+The government's final proposal "reaffirms that Google must divest the Chrome browser — an important search access point — to provide an opportunity for a new rival to operate a significant gateway to search the internet, free of Google's monopoly control," Justice Department lawyers wrote in the filing... Judge Amit Mehta, of the U.S. District Court for the District of Columbia, who had ruled that Google held an illegal monopoly, will decide on the final remedies in April. 
+ The article quotes a Google spokesperson's response: that the Justice Department's "sweeping" proposals "continue to go miles beyond the court's decision, and would harm America's consumers, economy and national security."]]></content:encoded></item><item><title>Intel NPU Firmware Files Upstreamed To linux-firmware.git</title><link>https://www.phoronix.com/news/Intel-NPU-Firmware-Upstream</link><author>Michael Larabel</author><category>tech</category><pubDate>Sun, 9 Mar 2025 11:22:46 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[For two years now the Intel IVPU accelerator driver has been part of the mainline kernel for supporting the Neural Processing Unit (NPU) that's part of the Core Ultra "Meteor Lake" CPUs and newer. Only this week though was the firmware for the Intel NPUs now upstreamed to the linux-firmware.git repository...]]></content:encoded></item><item><title>Is America Closer to Ending Daylight Saving Time?</title><link>https://news.slashdot.org/story/25/03/09/0359219/is-america-closer-to-ending-daylight-saving-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 9 Mar 2025 08:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[U.S. president Donald Trump called Daylight Saving Time "very costly to our nation" and "inconvenient" in December. Today the Washington Post remembers he'd vowed his Republican party would use their "best efforts" to eliminate it. 
+
+But it's still proving to be politically difficult...
+
+Polls have shown that most Americans oppose the time shifts but disagree on what should replace them... [U.S. political leaders] also say they are grappling with whether the nation should permanently move the clocks forward one hour, an idea championed by lawmakers on the coasts who say it would allow for more sunshine during the winter, or remain on year-round standard time, which is favored by neurologists who say it aligns with our circadian rhythms. That decision would rest with Congress, not the president. The split often reflects regional, not political, differences, based on where time zones fall; a year-round "spring forward" would mean winter sunrises that could creep past 9 a.m. in cities such as Indianapolis and Detroit, prompting many local lawmakers to oppose the idea... 
+
+[A 2022 Senate vote to make Daylight Saving Time permanent] awoke a new lobbying effort from advocates such as the American Academy of Sleep Medicine, which warned that year-round daylight saving time would be unhealthy, citing risks such as higher rates of obesity or metabolic dysfunction. Some researchers warned of a condition dubbed "social jetlag," saying that internal body clocks and rhythms would be persistently misaligned if human clocks were permanently set forward an hour. The concerted resistance from the health groups — which some congressional aides jokingly referred to as "Big Sleep" — helped kill the measure in the House and has contributed to a stalemate over how to proceed... 
+ Today, roughly two-thirds of Americans want to end the clock changes, polls show. But even those Americans don't agree on what should come next. An October 2023 YouGov poll found that 33 percent of respondents wanted year-round daylight saving time, 23 percent wanted permanent standard time, and 9 percent had no preference. The remainder weren't sure or preferred to remain on the current system... The political fight is far from over, with Trump allies such as Sen. Tommy Tuberville (R-Alabama) pledging to keep pushing for year-round daylight saving time. Some congressional Republicans also have privately called for a hearing in front of the House Energy and Commerce Committee, with hopes of advancing the Sunshine Protection Act.
+]]></content:encoded></item><item><title>The TechBeat: Grand Central Dispatch, Once and for All (3/9/2025)</title><link>https://hackernoon.com/3-9-2025-techbeat?source=rss</link><author>Techbeat</author><category>tech</category><pubDate>Sun, 9 Mar 2025 07:10:57 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[By @jay9thakur [ 5 Min read ] 
+ Beginners face a choice: acquire foundational knowledge or await further simplification. Read More.By @zbruceli [ 5 Min read ] 
+ What is diffusion large language model LLM, and why it matters. In the context of Inception Labs releasing Mercury Coder. Read More.By @dhruvam [ 23 Min read ] 
+ Inspired by Google’s Applied CS with Android, this adaptation for Flutter provides an interactive way to understand Arrays, HashSets, and HashMaps. Read More.By @kitcast [ 7 Min read ] 
+ Discover how data visualization transforms raw data into actionable insights for tech companies, driving better decisions and competitive advantage. Read More.By @kfamyn [ 20 Min read ] 
+ Master Swift Grand Central Dispatch in iOS: learn thread/queue interplay, sync vs async execution, QoS, and deadlock pitfalls via practical exercises. Read More.By @salkimmich [ 5 Min read ] 
+ Explore how relicensing and forks are reshaping open source. Dr.Dawn Foster's research unveils challenges, governance shifts, and the resilience of communities. Read More.By @hayday [ 4 Min read ] 
+ Is the rise of vibe coding also the end of software engineering? How will vibeware change the nature of the software entrepreneur, and the meaning of work? Read More.By @coldware [ 3 Min read ] 
+ With Cardano (ADA), XRP, and Solana (SOL) all gaining momentum, the focus now shifts to the groundbreaking developments expected to unfold at the White House Read More.By @thefrogsociety [ 20 Min read ] 
+ Research has revealed that a shocking amount of modern design was created with only half the population in mind.  Read More.By @anaumova2502 [ 4 Min read ] 
+ Over-engineering feels like smart planning—until it slows you down. Learn how to spot the signs, avoid common traps, and keep your code simple, scalable, and ma Read More.By @scottdclary [ 13 Min read ] 
+ "Be realistic" is a common advice, but it's often backward, says the author. Read More.By @ishanpandey [ 5 Min read ] 
+ Meet six women reshaping crypto in 2025. From education to AI, discover how they’re driving innovation, inclusivity, and the future of blockchain. Read More.By @arvindtoorpu [ 6 Min read ] 
+ Migrating our SQL Server databases to AWS RDS saved us about 30% in overall costs and eliminated much of the routine manual maintenance via automation.  Read More.By @brianwaustin [ 4 Min read ] 
+ Social media in 2025 is a battle between humans and the machines, and we are losing. Read More.By @edwinliavaa [ 4 Min read ] 
+ We need diplomatic relations anchored by the same principles that have made Bitcoin revolutionary: transparency, verification, and immutability. Read More.By @omnidirectional [ 5 Min read ] 
+ Panopticus enhances 3D object detection for edge AI, optimizing omnidirectional camera perception while balancing accuracy & latency on resource-limited devices Read More.By @raviteja.ganta [ 13 Min read ] 
+ Transformers explained: The secret technology behind ChatGPT and how it’s reshaping AI chatbots worldwide.
+ Read More.By @benoitmalige [ 5 Min read ] 
+ Stay calm under stress with these 6 simple techniques. Breathe better, think clearer, and take control.  Read More.]]></content:encoded></item><item><title>Ignoring Protests, Christie&apos;s Holds AI Art Auction, Makes Big Money</title><link>https://slashdot.org/story/25/03/09/0132251/ignoring-protests-christies-holds-ai-art-auction-makes-big-money?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 9 Mar 2025 05:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[As Christie's auction house planned the first-ever auction dedicated to AI-generated art works, over 5,600 people signed an online letter urging them to cancel it. "Many of the artworks you plan to auction were created using AI models that are known to be trained on copyrighted work without a license," the letter complained. 
+"These models, and the companies behind them, exploit human artists, using their work without permission or payment to build commercial AI products that compete with them. Your support of these models, and the people who use them, rewards and further incentivizes AI companies' mass theft of human artists' work." CNET reports that the signers "range from illustrators to authors to art therapists to cinematographers, from countries all across the globe." 
+
+Christie's ignored them all and held the auction anyways. So what happened when it was over on Wednesday morning?
+
+More than 30 lots attracted hundreds of bids and brought in $728,784, Christie's reports. And there's a generational twist: The auction house says 37% of registrants were completely new to Christie's, and 48% of bidders were millennials or members of Gen Z... The highest price in the sale was $277,200 for a work by Refik Anadol titled Machine Hallucinations — ISS Dreams — A. It used a data set of more than 1.2 million images taken from the International Space Station and satellites. 
+
+
+ARTnews reports that the auction actually brought in more than Christie's had expected:
+The sale, which made up of 34 lots, had an 82 percent sell through rate... While some digital artists, including Beeple, championed the sale, others decried it as emblematic of the ongoing struggle between human artistry and machine-driven innovation. The results, however, suggest that AI art — controversial as it may be — is carving a firm place in the market.]]></content:encoded></item><item><title>Reddit and Digg Cofounders Plan Relaunch of &apos;Human-Centered&apos; Digg With AI Innovations</title><link>https://tech.slashdot.org/story/25/03/08/2252242/reddit-and-digg-cofounders-plan-relaunch-of-human-centered-digg-with-ai-innovations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 9 Mar 2025 01:59:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA["The early web was fun," Reddit co-founder Alexis Ohanian posted Wednesday on X.com. "It was weird. It was community-driven. It's time to rebuild that. 
+
+"Which is why Kevin Rose and I just bought back Digg." 
+
+The amount of that purchase is "undisclosed," reports CNBC:
+
+The deal is backed by venture capital firms True Ventures, where Rose is a partner, and Ohanian's Seven Seven Six.... The company said in a release that it aims to differentiate itself in the social media market by "focusing on AI innovations designed to enhance the user experience and build a human-centered alternative...." Rose said in a post on X that he and Ohanian "dreamed up features that weren't even possible with yesterday's tech." 
+
+"We're bringing more transparency and community partnership," according to Rose's post, "unlike anything you've seen, plus AI that unlocks creativity without sanitizing the human element. The timing is finally right to reimagine what's possible." 
+
+"I really disliked you for a long time," Ohanian tells Rose in their joint announcement video. (To which a cheery Rose responds, "Rightfully so.") 
+
+But in the video Ohanian also says that today "Our perspective on the world has shifted a lot. You don't want to live in the past, but now we actually have the technology to make better, healthier community experiences." ("Old Rivals, New Vision," says a post on Digg's X.com account, urging readers to "Sign up to get early access when invites go live.") 
+
+And Digg.com now just displays this teasing catchphrase. "The front page of the internet, now with superpowers." (At the top of the page there's also a link to watch Diggnation Live at SXSW.) 
+
+While valued at $160 million dollars in 2008, Digg's plummeting traffic led to its brand and web site being acquired in 2012 by tech incubator Betaworks for about $500,000, according to CNBC...]]></content:encoded></item><item><title>Free Software Foundation Rides To Defend AGPLv3 Against Neo4j License Add-ons</title><link>https://news.slashdot.org/story/25/03/08/0613217/free-software-foundation-rides-to-defend-agplv3-against-neo4j-license-add-ons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 9 Mar 2025 00:39:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[This week the Free Software Foundation "backed a lone developer's brave effort to overturn a pivotal court ruling that threatens to undermine the AGPLv3 — the foundation's GNU Affero General Public License, version 3," reports the Register. 
+
+"At stake is the future of not just the AGPLv3, but the FSF's widely used GNU Public License it is largely based on, and the software covered by those agreements."
+
+ A core tenet of the GPL series is that free software remains free forever, and this is woven into the licenses' fine print. This ongoing legal battle is a matter of whether people can alter those licenses and redistribute code as they see fit in a non-free way, or if they must stick to the terms of an agreement that says the terms cannot be changed...
+If the Ninth Circuit upholds the [original district court] ruling, it's likely to create a binding precedent that would limit one of the major freedoms that AGPLv3 and other GPL licenses aim to protect — the ability to remove restrictions added to GPL licensed code. 
+
+
+"Neo4j appended an additional nonfree commercial restriction, the Commons Clause, to a verbatim version of the GNU AGPLv3 in a version of its software..." according to an FSF announcement this week. "The FSF's position on such confusing licensing practices has always been clear: the GNU licenses explicitly allow users to remove restrictions incompatible with the four freedoms." (You can read their amicus brief here.) 
+
+Thanks to Slashdot reader jms00 for sharing the news.]]></content:encoded></item><item><title>New DOJ proposal still calls for Google to divest Chrome, but allows for AI investments</title><link>https://techcrunch.com/2025/03/08/new-doj-proposal-still-calls-for-google-to-divest-chrome-but-allows-for-ai-investments/</link><author>Anthony Ha</author><category>tech</category><pubDate>Sat, 8 Mar 2025 22:04:20 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The US Department of Justice is still calling for Google to sell its web browser Chrome, according to a Friday court filing.  The DOJ first proposed that Google should sell Chrome last year, under then-President Joe Biden, and it seems to be sticking with that plan under the second Trump administration. The department is, however, […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>Snack Makers Are Removing Fake Colors From Processed Foods</title><link>https://science.slashdot.org/story/25/03/08/033219/snack-makers-are-removing-fake-colors-from-processed-foods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 8 Mar 2025 21:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA["PepsiCo is launching a new product, Simply Ruffles Hot & Spicy, which uses natural ingredients like tomato powder and red chile pepper instead of artificial dyes," reports Bloomberg. But it's part of a larger trend:
+
+In one of the final acts of President Joe Biden's administration, the U.S. Food and Drug Administration banned Red No. 3, effective in January 2027 for food, one of a handful of synthetic colors that have become something of a symbol of all that is wrong with the American food system and the ultraprocessed foods that dominate it. Putting Red No. 3 aside, the rest of the colors remain legal, and they're used in tens of thousands of supermarket and convenience-store products in the United States, according to NielsenIQ data. The recent campaign against them became one of the pillars of the "Make America Healthy Again" movement championed by Health and Human Services Secretary Robert F. Kennedy Jr. The criticism follows what health advocates have been saying for years: The synthetic colors add nothing to taste, nutritional value or shelf life but make unhealthy foods more visually appealing. Worst of all, there are concerns that the dyes may be carcinogenic or trigger hyperactivity in some kids. 
+[Ian Puddephat, vice president of research and development for food ingredients at PepsiCo] says PepsiCo is "on a mission to get them out of the portfolio as much as we can"... PepsiCo has a dozen brands, including Simply, that don't have the artificial dyes, and the company is working to pull them out of an additional eight brands in the next year. 
+Other companies are trying too, according to the article. Though Ironically, "the supply chain for colors like a radish's red or annatto's orange is not as robust as that for Red No. 40 or Yellow No. 6."
+
+ But there's also been some success stories:
+
+In 2016, Kraft Heinz Foods Co. announced that it'd made good on an earlier promise to get artificial dyes out of its recipe — and apparently, nobody noticed. "We just haven't told that story," says Carlos Abrams-Rivera, Kraft Heinz's CEO. (The lack of artificial dyes is more prominent on the boxes now...)
+ 
+Thanks to long-time Slashdot schwit1 for haring the article.]]></content:encoded></item><item><title>Undocumented &apos;Backdoor&apos; Found In Chinese Bluetooth Chip Used By a Billion Devices</title><link>https://hardware.slashdot.org/story/25/03/08/2027216/undocumented-backdoor-found-in-chinese-bluetooth-chip-used-by-a-billion-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 8 Mar 2025 20:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA["The ubiquitous ESP32 microchip made by Chinese manufacturer Espressif and used by over 1 billion units as of 2023 contains an undocumented 'backdoor' that could be leveraged for attacks," writes BleepingComputer. 
+"The undocumented commands allow spoofing of trusted devices, unauthorized data access, pivoting to other devices on the network, and potentially establishing long-term persistence."
+
+This was discovered by Spanish researchers Miguel Tarascó Acuña and Antonio Vázquez Blanco of Tarlogic Security, who presented their findings yesterday at RootedCON in Madrid. "Tarlogic Security has detected a backdoor in the ESP32, a microcontroller that enables WiFi and Bluetooth connection and is present in millions of mass-market IoT devices," reads a Tarlogic announcement shared with BleepingComputer. "Exploitation of this backdoor would allow hostile actors to conduct impersonation attacks and permanently infect sensitive devices such as mobile phones, computers, smart locks or medical equipment by bypassing code audit controls...." 
+
+
+
+Tarlogic developed a new C-based USB Bluetooth driver that is hardware-independent and cross-platform, allowing direct access to the hardware without relying on OS-specific APIs. Armed with this new tool, which enables raw access to Bluetooth traffic, Targolic discovered hidden vendor-specific commands (Opcode 0x3F) in the ESP32 Bluetooth firmware that allow low-level control over Bluetooth functions. In total, they found 29 undocumented commands, collectively characterized as a "backdoor," that could be used for memory manipulation (read/write RAM and Flash), MAC address spoofing (device impersonation), and LMP/LLCP packet injection. 
+
+Espressif has not publicly documented these commands, so either they weren't meant to be accessible, or they were left in by mistake.
+ 
+Thanks to Slashdot reader ZipNada for sharing the news.]]></content:encoded></item><item><title>Google scrubs mentions of ‘diversity’ and ‘equity’ from responsible AI team webpage</title><link>https://techcrunch.com/2025/03/08/google-scrubs-mentions-of-diversity-and-equity-from-responsible-ai-team-webpage/</link><author>Kyle Wiggers</author><category>tech</category><pubDate>Sat, 8 Mar 2025 20:08:28 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Google has quietly updated the webpage for its Responsible AI and Human Centered Technology (RAI-HCT) team, the team charged with conducting research into AI safety, fairness, and explainability, to scrub mentions of “diversity” and “equity.” A previous version of the page used language such as “marginalized communities,” “diverse,” “underrepresented groups,” and “equity” to describe the […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>Judge allows authors’ AI copyright lawsuit against Meta to move forward</title><link>https://techcrunch.com/2025/03/08/judge-allows-authors-ai-copyright-lawsuit-against-meta-to-move-forward/</link><author>Anthony Ha</author><category>tech</category><pubDate>Sat, 8 Mar 2025 20:05:05 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[A federal judge is allowing an AI-related copyright lawsuit against Meta to move forward, although he dismissed part of the suit. In Kadrey vs. Meta, authors including Richard Kadrey, Sarah Silverman, and Ta-Nehisi Coates have alleged that Meta has violated their intellectual property rights by using their books to train its Llama AI models, and […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>How to Deploy Go + Templ + HTMX + TailwindCSS to Production</title><link>https://hackernoon.com/how-to-deploy-go-templ-htmx-tailwindcss-to-production?source=rss</link><author>4rkal</author><category>tech</category><pubDate>Sat, 8 Mar 2025 19:00:18 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[In this article, I will be showing you how to deploy the GoTTH stack (Go Templ htmx tailwind) to production.\
+I recently created my very own cryptocurrency exchange aggregator called cyphergoat; it finds you the best rate to swap your crypto from different partnered exchanges.An API that interacts with exchanges. Written in go and uses gin.The Web UI is written in go and uses a combination of HTML, HTMX, tailwindcss, CSS, and Javascript in templ templates. Aka the GoTTH stack. It interacts with the API in order to find rates etc.\
+What is extremely cool with this stack and setup is that we are able to produce  with everything included for each part and ship it to the server. On the webui side, this is possible since the HTML is compiled into go code using templ and then shipped with the binary.\
+In this article, I will be going through my setup to make it easier for you to make something like this.I am using a Debian 12 server which will expose my application via Cloudflare tunnels. All of the static files are being served via nginx and the API and website binaries are ran as systemd services.\
+In this guide, I will show you how I set this up.I have a single folder on my dev machine called cyphergoat: It contains:\
+The API folder houses the API source code. The web houses the website source code.\
+And the builds houses all of the builds that are deployed to the server.The first real challenge comes with setting up tailwindcss correctly.\
+In my web project, I have a static folder specifically for static files. Inside of it, I have two files:/web
+    styles.css
+    tailwind.css
+\
+The  simply contains:\
+The tailwind.css file is where tailwind-cli will save its stuff.\
+To build the tailwind stuff, I simply run:npx @tailwindcss/cli -i ./static/styles.css -o ./static/tailwind.css --watch
+(assuming you have tailwind-cli installed)\
+In my header.templ file (the header of all the pages), at the top I have:<link href="/static/tailwind.css" rel="stylesheet">
+
+<link href="/static/styles.css" rel="stylesheet">
+\
+And the files are being served using Echo’s e.Static (in my main.go file).func main(){
+e := echo.New()
+
+e.Use(middleware.Logger())
+e.Use(middleware.Recover())
+e.Use(middleware.Secure())
+
+
+e.Static("/static", "static") // Serves content from static folder.
+
+// Rest of the handlers
+}
+On my server side, I have a Debian 12 vm running on proxmox.\
+In my users home directory, I have a folder with the following contents:cyphergoat/
+├── api
+├── static/
+└── web
+The static folder contains all of the static files (including tailwind.css and styles.css), and the  and  are the binaries.\
+I then have two systemd services for these executables:The /etc/systemd/system/cg-api.service[Unit]
+Description=CypherGoat API
+After=network.target
+
+[Service]
+User=arkal
+Group=www-data
+WorkingDirectory=/home/arkal/cyphergoat
+ExecStart=/home/arkal/cyphergoat/api
+Restart=always
+RestartSec=1
+
+[Install]
+WantedBy=multi-user.target
+\
+And /etc/systemd/system/cg-web.service[Unit]
+Description=CypherGoat Web
+After=network.target
+
+[Service]
+User=arkal
+Group=www-data
+WorkingDirectory=/home/arkal/cyphergoat
+ExecStart=/home/arkal/cyphergoat/web
+
+
+[Install]
+WantedBy=multi-user.target
+Both are owned by the group  (this is probably not necessary for the API) in order to make it easier to serve them via nginx.The website is communicating with the API, but I still need to make the web-ui accessible.\
+I have set up an nginx site with the following configuration: /etc/nginx/sites-available/cgserver {
+    server_name cyphergoat.com;
+
+    location / {
+        proxy_pass http://127.0.0.1:4200;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+
+    location /static/ {
+        alias /var/www/static/;
+        expires 30d;
+    }
+
+    # Optional robots.txt
+    location = /robots.txt {
+        root /var/www/static;
+        access_log off;
+        log_not_found off;
+    }
+
+    listen 80;
+}
+I have also set up certbot to have an SSL cert.\
+You can set certbot by running:sudo apt install certbot python3-certbot-nginx -y
+sudo certbot --nginx -d cyphergoat.com
+I am currently making my website accessible using Cloudflare pages. It is an extremely easy-to-use port-forwarding solution.\
+To do this, you will need a Cloudflare account and a domain pointed to Cloudflare.\
+Under  click on  and then \
+Once created, you should Install and run a connector; follow the instructions on the page for your specific setup.\
+After the connector is running, you should click on the  tab and .\
+Now, you should see something like this:  \
+Fill in the info as I have. The service type should be , and the URL should be  or \
+Obviously, there is no reason to make your API publicly accessible when deploying your website.In order to deploy my binaries, I went ahead and created a quick bash script:cd api
+go build -o ../builds/ .
+
+cd ../web
+
+templ generate && go build -o ../builds/web cmd/main.go
+
+cd ..
+rsync -urvP ./builds/ user@SERVER:/home/user/cyphergoat
+rsync -urvP ./web/static user@SERVER:/home/user/cyphergoat/
+rsync -urvP ./api/coins.json user@SERVER:/user/user/cyphergoat/
+The script will build the API, generate the templ files build the WebUI, and then send everything over to my server (including the static folder).\
+I then ssh into my server:\
+And then restart the services.sudo systemctl restart cg-api cg-web]]></content:encoded></item><item><title>Here&apos;s Why Your AI Has Bad Humor</title><link>https://hackernoon.com/heres-why-your-ai-has-bad-humor?source=rss</link><author>Chenuli J.</author><category>tech</category><pubDate>Sat, 8 Mar 2025 19:00:07 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Have you ever asked an AI model to tell you a joke and received something painfully unfunny? Something like:Why do programmers prefer dark mode? Because light attracts bugs!\
+More often than not, these so-called jokes generated by AI are weird and extremely predictable. The reason? It’s a machine! They do not have a human context— all it sees are patterns in the data they have been trained on, and when we ask them to tell a joke, they stitch together words based on probabilities rather than actual wit or comedic timing.\
+This is not rocket science for someone who works with AI, but it’s interesting to see what makes it the way it is. With that understanding, you might also figure out how to “ask“ AI models for better jokes.AI “learns“ what a joke looks likeAn AI model (say, GPT or a joke-telling bot) isn't born with a sense of humor. Instead, it learns from thousands of joke examples scraped from books, websites, and conversations. But instead of  humor like we do, it recognizes statistical patterns.\
+Here's an oversimplified look at how an AI model might process joke structures (completely different code, just for your understanding):import random
+setup = ["Why did the chicken cross the road?", "What do you get when you mix AI with a comedian?", "Why don't programmers like nature?"]
+punchline = ["To get to the other side!", "A neural network with bad timing!", "Too many bugs."]
+print(random.choice(setup) + " " + random.choice(punchline))
+
+# NOTE: This is oversimplified for easier understanding.
+# Real AI models don't just randomly select from pre-written jokes.
+# They use neural networks with billions of parameters to predict 
+# the most likely next words based on patterns in their training data.
+\
+See the problem? It recognizes the  of a joke: first comes the set-up, and second comes the punchlines; it doesn't understand why a joke is funny.AI predicts the next words, not the funniest onesOutputs of AI models, whether humorous or not, solely operate on statistical probability. Large language models like GPT often work by predicting the most statistically likely next word(s). That's great for autocomplete and basic text generation, but terrible for original humor.\
+For example, if the AI generates the setup: “Why did the chicken cross the road?”\
+It predicts common responses for the punchline. Since "To get to the other side" is the most statistically probable answer, it will often generate that— even though it's the least funny.from collections import Counter
+
+jokes_dataset = ["To get to the other side!", "Because it was programmed to!", "To escape the AI overlords!"]
+probabilities = Counter(jokes_dataset)
+
+# chooses the most frequent joke
+print(probabilities.most_common(1)[0][0])
+That’s why they are really predictable and repetitive.AI lacks context and world knowledgeHumor, unlike usual text generation, is deeply tied to emotions, human experiences, and cultures. Sad to say, they are the exact things AI fundamentally doesn’t grasp. Even with models trained on vast amounts of data, AI struggles when it comes to:Sarcasm: "Oh great, another AI-generated joke!"Wordplay & Puns: "An AI walks into a bar… and fails the Turing test."Social Awareness: "Why did the AI go to therapy? Because it couldn't process its feelings."\
+Even though AI can recognize common joke formats, it doesn't  why something is funny. As a consequence, they try too hard to be funny.attempts = ["I'm hilarious, trust me!", "Why did the algorithm break up? It lost its spark!", "What's an AI's favorite drink? Java."]
+print(random.choice(attempts))
+\
+And then again, who to blame? These are machines trained on not-so-lawfully obtained data. The last thing AI engineers would want to happen is being sued for training AI models on data extracted from stand-up comedians.To get better jokes from an AI, you’ve got to be specific. Tell it the style you want (maybe like Louis CK’s dark humor or Chandler Bing’s sarcasm), set the scene, and let it know what kind of humor you’re after. It wouldn’t make it 50 times better, but at least it wouldn’t be so plain and stiff.\
+That’ll give AI a framework within which to work. Because right now, without context and an understanding of human emotions, all it can do is guess the punchline— usually in the most predictable, robotic way possible.\
+That’s just 700 words, no summary is needed. See you next time!]]></content:encoded></item><item><title>The Migration to Coldware (COLD)</title><link>https://hackernoon.com/the-migration-to-coldware-cold?source=rss</link><author>Coldware</author><category>tech</category><pubDate>Sat, 8 Mar 2025 18:43:58 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[\
+The blockchain space is rapidly evolving, with new projects emerging to address existing challenges and push the boundaries of what decentralized technology can achieve. Solana (SOL), one of the leading blockchain networks, has been a favorite among developers due to its speed and scalability. However, recent issues with network congestion and centralized governance have caused many to reassess their involvement with Solana. As a result, some Solana developers are considering migrating to , a rising blockchain that promises to address many of Solana’s shortcomings with its innovative Layer 1 blockchain solution.\
+Several Solana developers are now looking toward Coldware (COLD) as a promising alternative. Coldware’s ability to offer a fully decentralized network, combined with its innovative Layer 1 blockchain, makes it an attractive option for developers seeking a more secure and scalable environment. Solana’s ongoing issues with network congestion and centralization have made many developers reconsider their options, and Coldware’s decentralized nature and focus on scalability provide the perfect solution.\
+Additionally, Coldware’s focus on , such as integrating blockchain with IoT and physical infrastructure, further sets it apart from Solana (SOL). As more industries look to implement blockchain solutions, Coldware’s approach to decentralized physical infrastructure networks (DePin) could become a key differentiator in the blockchain space.Coldware (COLD) Presents a Decentralized Solution is rapidly gaining attention for its decentralized Layer 1 blockchain, which aims to overcome the limitations faced by Solana (SOL). Coldware’s approach is built around its Mobile Litenodes, a unique innovation that allows individuals to participate in consensus and validation from mobile devices. This decentralized and mobile-first solution ensures that Coldware’s network remains scalable and efficient, even during periods of high traffic.\The ability for Coldware (COLD) to scale effectively through decentralized participation gives it a significant advantage over Solana (SOL). While Solana developers have faced challenges with network congestion and governance, Coldware’s decentralized architecture provides a viable alternative that could attract developers looking for a more sustainable and decentralized platform.Solana (SOL) Faces Scalability and Centralization Issues (SOL) has long been recognized for its high throughput and low transaction costs. However, as its popularity grew, so did the network congestion, particularly during periods of peak demand. Solana’s network, while fast, has suffered from slowdowns and outages, leading to frustrations among developers and users. These scalability issues are compounded by the increasing centralization of the network, which has raised concerns about the long-term sustainability and true decentralization of the platform.\
+Solana developers are now facing a dilemma: continue with Solana (SOL), despite its ongoing issues, or explore alternatives that promise more scalability and decentralization.The Migration to Coldware (COLD)As Solana developers look for alternatives, many are considering migrating to Coldware (COLD) for its decentralized and scalable solution. The transition to  could offer developers the opportunity to build more secure and efficient applications without the constraints of Solana’s current limitations. Coldware’s innovative approach to scalability and decentralization provides an appealing option for developers seeking to avoid the issues faced by Solana’s centralized network.\The growing interest in Coldware (COLD) among Solana developers is a testament to the network’s potential. As more developers migrate to Coldware’s platform, its ecosystem will continue to grow, further cementing its place as a leader in the blockchain space.Final Thoughts: Coldware (COLD) Is Poised to Lead the Next Era of BlockchainWhile Solana (SOL) has been a dominant player in the blockchain space, its ongoing issues with scalability and decentralization have prompted many developers to seek alternatives. Coldware (COLD) is quickly emerging as the next big thing, with its decentralized Layer 1 blockchain providing a solution to the limitations faced by Solana. As more developers make the switch,  is set to become a major player in the blockchain industry, offering a more secure, scalable, and decentralized platform for the future of blockchain technology.\
+For more information on the Coldware (COLD) Presale: Join and become a community member: \:::info
+This article is published under HackerNoon’s  program. Do your own research before making any financial decisions.]]></content:encoded></item><item><title>PayFi Revolution on the Horizon</title><link>https://hackernoon.com/payfi-revolution-on-the-horizon?source=rss</link><author>Coldware</author><category>tech</category><pubDate>Sat, 8 Mar 2025 18:24:01 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[\
+The crypto market is filled with potential and uncertainty, especially when considering the futures of established blockchains like Cardano (ADA) and emerging players like Coldware (COLD). \
+While Cardano has remained one of the most popular altcoins, its dominance is facing a serious challenge as  unveils its innovative PayFi ecosystem. This new approach to decentralized finance (DeFi) could shake up the market, as whales begin to shift their attention away from ADA in favor of Coldware’s promise of bigger returns.Whales Betting on Bigger Returns: The Future of Coldware’s COLD TokenAs whales begin to bet on Coldware’s ecosystem, there is growing confidence that the project could outperform ADA in terms of returns. Coldware’s presale success, already raising over $1.3 million, signals that the market is ready for this new, scalable, decentralized platform. With major institutional investors eyeing the project, the potential for a  token price increase is considerable.\
+The focus on scalability, real-world applications, and decentralized finance makes Coldware a more attractive option for investors looking to maximize their returns. As the project continues to expand its ecosystem, Coldware’s market position is likely to strengthen, challenging Cardano’s dominance in the space.Coldware's PayFi Ecosystem: A New Era for Decentralized FinanceColdware (COLD) has made a bold move by launching its PayFi ecosystem — a decentralized finance platform integrated with IoT technologies. This move places Coldware at the cutting edge of blockchain innovation. The PayFi ecosystem allows users to engage in financial services, from lending to borrowing, all within a decentralized network that utilizes Coldware’s scalable blockchain.\What sets Coldware apart from Cardano (ADA) and others is its  and the integration of physical infrastructure with blockchain technology. Coldware’s ecosystem allows for decentralized applications (dApps) to interact seamlessly with IoT devices, enabling a wide range of industries to adopt blockchain solutions without relying on centralized intermediaries.\
+Cardano (ADA) has long been a go-to cryptocurrency for those seeking a balance of security, scalability, and decentralization. However, its growth has often been overshadowed by market volatility and the slow pace of its development. Despite recent surges in price and widespread institutional interest, Cardano (ADA) faces a critical juncture. The question arises: can  continue to maintain its dominance, or will newer platforms like Coldware (COLD) steal the spotlight?\
+The Cardano ecosystem has been relatively stable, but challenges regarding scalability and its adoption by developers are starting to emerge. The whales who were initially lured by Cardano’s promises are now on the lookout for something more scalable and efficient. Coldware’s launch of its PayFi ecosystem is set to disrupt the crypto space and could attract institutional investors who are looking for real-world applications in the decentralized finance sector.While Cardano (ADA) has built a solid foundation in the blockchain space, Coldware’s introduction of the PayFi ecosystem marks the beginning of a new era in decentralized finance. Coldware’s focus on scalability and its integration with IoT networks present a unique value proposition that could propel it ahead of ADA in the coming months. The whales’ growing interest in  token suggests that Coldware is poised to challenge ADA’s dominance.As Coldware’s PayFi ecosystem continues to gain traction, ADA’s market position faces a serious challenge. Coldware’s ability to offer scalable, real-world blockchain solutions makes it a worthy contender in the fight for decentralized finance supremacy. With whales betting on Coldware’s success and its growing ecosystem, it’s clear that  is the blockchain to watch in 2025.:::info
+This article is published under HackerNoon’s  program. Do your own research before making any financial decisions.]]></content:encoded></item><item><title>Week in Review: OpenAI could charge $20K a month for an AI agent</title><link>https://techcrunch.com/2025/03/08/week-in-review-openai-could-charge-20k-a-month-for-an-ai-agent/</link><author>Cody Corrall</author><category>tech</category><pubDate>Sat, 8 Mar 2025 18:05:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Welcome back to Week in Review. This week we’re looking at OpenAI potentially charging $20,000 a month for a specialized AI agent, the unexpected return of early-internet darling Digg, a company genetically engineering mice to have mammoth-like fur, and more! Let’s do this. OpenAI could charge up to $20,000 per month for specialized AI “agents.” […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>Wine Releases Framework Mono 6.14 In Taking Over The Mono Project</title><link>https://www.phoronix.com/news/Wine-Framework-Mono-6.14</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 8 Mar 2025 17:28:12 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Last year Microsoft donated the Mono Project to Wine for its stewardship under the WineHQ umbrella. Today marks the Framework Mono 6.14 release as the first major Mono release in five years and the first under the WineHQ organization...]]></content:encoded></item><item><title>WebAssembly on Kubernetes: What You Need to Know</title><link>https://hackernoon.com/webassembly-on-kubernetes-what-you-need-to-know?source=rss</link><author>Nicolas Fränkel</author><category>tech</category><pubDate>Sat, 8 Mar 2025 17:00:03 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Like a couple of innovative technologies, different people have different viewpoints on where WebAssembly fits the technology landscape.WebAssembly (also called Wasm) is certainly the subject of much hype right now. But what is it? Is it the JavaScript Killer? Is it a new programming language for the web? Is it (as we like to say) the next wave of cloud compute? We’ve heard it called many things: a better eBPF, the alternative to RISC V, a competitor to Java (or Flash), a performance booster for browsers, a replacement for Docker.\
+In this post, I'll stay away from these debates and focus solely on how to use WebAssembly on Kubernetes.My Approach and the Use CaseUnlike regular programming languages, you don't write WebAssembly directly: you write code that generates WebAssembly. At the moment, Go and Rust are the main source languages. I know Kotlin and Python are working toward this objective. There might be other languages I'm not aware of.\
+I've settled on Rust for this post because of my familiarity with the language. In particular, I'll keep the same code across three different architectures:Regular Rust-to-native code as the baselineRust-to-WebAssembly using a WasmEdge embedded runtimeRust-to-WebAssembly using an external runtime\
+Don't worry; I'll explain the difference between the two last approaches later.\
+The use case should be more advanced than Hello World to highlight the capabilities of WebAssembly. I've implemented an HTTP server mimicking a single endpoint of the excellent httpbin API testing utility. The code itself is not essential as the post is not about Rust, but in case you're interested, you can find it on GitHub. I add a field to the response to explicitly return the underlying approach, respectively , , or .Baseline: Regular Rust-to-nativeFor the regular native compilation, I'm using a multistage Docker file:FROM rust:1.84-slim AS build                                             #1
+
+RUN <<EOB                                                                #2
+  apt-get update
+  apt-get install -y musl-tools musl-dev
+  rustup target add aarch64-unknown-linux-musl                           #3
+EOB
+
+WORKDIR /native
+
+COPY native/Cargo.toml Cargo.toml
+
+WORKDIR /
+
+COPY src src
+
+WORKDIR /native
+
+RUN RUSTFLAGS="-C target-feature=+crt-static" cargo build --target aarch64-unknown-linux-musl --release #4
+
+FROM gcr.io/distroless/static                                            #5
+
+COPY --from=build /native/target/aarch64-unknown-linux-musl/release/httpbin httpbin #6
+
+ENTRYPOINT ["./httpbin"]
+Start from the latest Rust imageInstall the necessary toolchain to cross-compileI could potentially use , but after reading this, I prefer to use distrolessCopy the executable from the previous compilation phase\
+The final  image weighs 8.71M, with its base image  taking 6.03M of them.The main idea behind WebAssembly is that it's secure because it can't access the host system. However, we must open a socket to listen to incoming requests to run an HTTP server. WebAssembly can't do that. We need a runtime that provides this feature and other system-dependent capabilities. It's the goal of WebAssembly System Interface.The WebAssembly System Interface (WASI) is a group of standards-track API specifications for software compiled to the W3C WebAssembly (Wasm) standard. WASI is designed to provide a secure standard interface for applications that can be compiled to Wasm from any language, and that may run anywhere—from browsers to clouds to embedded devices.\
+The specification v0.2 defines the following system interfaces:\
+A couple of runtimes already implement the specification:\
+I had to choose without being an expert in any of these. I finally decided on WasmEdge because of its focus on the Cloud.\
+We must intercept code that calls with system APIs and redirect them to the runtime. Instead of runtime interception, the Rust ecosystem provides a patch mechanism: we replace code that calls system APIs with code that calls WASI APIs. We must know which dependency calls which system API and hope a patch exists for our dependency version.[patch.crates-io]
+tokio = { git = "https://github.com/second-state/wasi_tokio.git", branch = "v1.36.x" }  #1-2
+socket2 = { git = "https://github.com/second-state/socket2.git", branch = "v0.5.x" }    #1
+
+[dependencies]
+tokio = { version = "1.36", features = ["rt", "macros", "net", "time", "io-util"] }     #2
+axum = "0.8"
+serde = { version = "1.0.217", features = ["derive"] }
+Patch the  and  crates with WASI-related callsThe latest  crate is 1.43, but the latest (and only) patch is v1.36. We can't use the latest version because there's no patch.\
+We must change the Dockerfile to compiler WebAssembly code instead of native:FROM --platform=$BUILDPLATFORM rust:1.84-slim AS build
+
+RUN <<EOT bash
+    set -ex
+    apt-get update
+    apt-get install -y git clang
+    rustup target add wasm32-wasip1                                      #1
+EOT
+
+WORKDIR /wasm
+
+COPY wasm/Cargo.toml Cargo.toml
+
+WORKDIR /
+
+COPY src src
+
+WORKDIR /wasm
+
+RUN RUSTFLAGS="--cfg wasmedge --cfg tokio_unstable" cargo build --target wasm32-wasip1 --release <2><3>
+We must activate the  flag, as well as the  one, to successfully compile to WebAssembly\
+At this stage, we have two options for the second stage:Use the WasmEdge runtime as a base image:  FROM --platform=$BUILDPLATFORM wasmedge/slim-runtime:0.13.5
+
+  COPY --from=build /wasm/target/wasm32-wasip1/release/httpbin.wasm /httpbin.wasm
+
+  CMD ["wasmedge", "--dir", ".:/", "/httpbin.wasm"]
+\
+  From a usage perspective, it's pretty similar to the native approach.Copy the WebAssembly file and make it a runtime responsibility:  FROM scratch
+
+  COPY --from=build /wasm/target/wasm32-wasip1/release/httpbin.wasm /httpbin.wasm
+
+  ENTRYPOINT ["/httpbin.wasm"]
+\
+  It's where things get interesting.\
+The  approach is slightly better than the  one, but the  is the leanest since it contains only a single Webassembly file.Running the Wasm image on DockerNot all Docker runtimes are equal, and to run Wasm workloads, we need to delve a bit into the Docker name. While Docker, the company, created Docker as the product, the current reality is that containers have evolved beyond Docker and now answer to specifications.The Open Container Initiative is an open governance structure for the express purpose of creating open industry standards around container formats and runtimes.\
+  Established in June 2015 by Docker and other leaders in the container industry, the OCI currently contains three specifications: the Runtime Specification (runtime-spec), the Image Specification (image-spec) and the Distribution Specification (distribution-spec). The Runtime Specification outlines how to run a “filesystem bundle” that is unpacked on disk. At a high-level an OCI implementation would download an OCI Image then unpack that image into an OCI Runtime filesystem bundle. At this point the OCI Runtime Bundle would be run by an OCI Runtime.\
+From then on, I'll use the proper terminology for OCI images and containers. Not all OCI runtimes are equal, and far from all of them can run Wasm workloads: OrbStack, my current OCI runtime, can't, but Docker Desktop can, as an  feature. As per the documentation, we must:Use  for pulling and storing images\
+Finally, we can run the above OCI image containing the Wasm file by selecting a Wasm runtime, Wasmedge, in my case. Let's do it:docker run --rm -p3000:3000 --runtime=io.containerd.wasmedge.v1 ghcr.io/ajavageek/wasm-kubernetes:runtime
+\
+io.containerd.wasmedge.v1 is the current version of the Wasmedge runtime. You must be authenticated with GitHub if you want to try it out.curl localhost:3000/get\?foo=bar | jq
+\
+The result is the same as for the native version:{
+  "flavor": "runtime",
+  "args": {
+    "foo": "bar"
+  },
+  "headers": {
+    "accept": "*/*",
+    "host": "localhost:3000",
+    "user-agent": "curl/8.7.1"
+  },
+  "url": "/get?foo=bar"
+}
+\
+Wasi on Docker Desktop allows you to spin up an HTTP server that behaves like a regular native image! Even better, the image size is as tiny as the WebAssembly file it contains:Running the Wasm Image on KubernetesNow comes the fun part: your favorite Cloud provider(s) isn't using Docker Desktop. Despite this, we can still run WebAssembly workloads on Kubernetes. For this, we need to understand a bit about the not-too-low levels of what happens when you run a container, regardless of whether it's from an OCI runtime or Kubernetes.\
+The latter executes a process; in our case, it's . Yet,  is only an orchestrator of other container processes. It detects the "flavor" of the container and calls the relevant executable. For example, for "regular" containers, it calls  via a . The good thing is that we can install other shims dedicated to other container types, such as Wasm. The following illustration, taken from  the Wasmedge website, summarizes the flow:Despite some of the mainstreamCloud providers offering Wasm integration, none of them provide such a low-level one. I'll continue on my laptop, but Docker Desktop doesn't offer a direct integration either: it's time to be creative. For example, minikube is a full-fledged Kubernetes distribution that creates an intermediate Linux virtual machine within a Docker environment. We can SSH into the VM and configure it to our heart's content. Let's start by installing .\
+Now, we start  with the  driver and specify a profile to enable differently configured VMs. We unimaginatively call this profile .minikube start --driver=docker --container-runtime=containerd -p=wasm
+\
+Depending on whether you have already installed  and whether it has already downloaded its images, starting can take a few seconds to dozens of minutes. Be patient. The output should be something akin to:😄  [wasm] minikube v1.35.0 on Darwin 15.1.1 (arm64)
+✨  Using the docker driver based on user configuration
+📌  Using Docker Desktop driver with root privileges
+👍  Starting "wasm" primary control-plane node in "wasm" cluster
+🚜  Pulling base image v0.0.46 ...
+❗  minikube was unable to download gcr.io/k8s-minikube/kicbase:v0.0.46, but successfully downloaded docker.io/kicbase/stable:v0.0.46@sha256:fd2d445ddcc33ebc5c6b68a17e6219ea207ce63c005095ea1525296da2d1a279 as a fallback image
+🔥  Creating docker container (CPUs=2, Memory=12200MB) ...
+📦  Preparing Kubernetes v1.32.0 on containerd 1.7.24 ...
+    ▪ Generating certificates and keys ...
+    ▪ Booting up control plane ...
+    ▪ Configuring RBAC rules ...
+🔗  Configuring CNI (Container Networking Interface) ...
+🔎  Verifying Kubernetes components...
+    ▪ Using image gcr.io/k8s-minikube/storage-provisioner:v5
+🌟  Enabled addons: storage-provisioner, default-storageclass
+🏄  Done! kubectl is now configured to use "wasm" cluster and "default" namespace by default
+\
+At this point, our goal is to install on the underlying VM:Wasmedge to run Wasm workloadsA shim to bridge between  and \
+We can install Wasmedge, but I found nowhere to download the shim. In the next step, we will build both. We first need to install Rust:curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+\
+The script likely complains that it can't execute the downloaded binary:Cannot execute /tmp/tmp.NXPz8utAQx/rustup-init (likely because of mounting /tmp as noexec).
+Please copy the file to a location where you can execute binaries and run ./rustup-init.
+\
+Follow the instructions:cp /tmp/tmp.NXPz8utAQx/rustup-init .
+./rustup-init
+\
+Proceed with the default installation by pressing the  button. When it's finished, source your current shell.\
+The system is ready to build Wasmedge and the shim.sudo apt-get update
+sudo apt-get install -y git
+
+git clone https://github.com/containerd/runwasi.git
+
+cd runwasi
+./scripts/setup-linux.sh
+
+make build-wasmedge
+INSTALL="sudo install" LN="sudo ln -sf" make install-wasmedge
+\
+The last step requires configuring the  process with the shim. Insert the following snippet in the [plugins."io.containerd.grpc.v1.cri".containerd.runtimes] section of the /etc/containerd/config.toml file:        [plugins."io.containerd.grpc.v1.cri".containerd.runtimes.wasmedgev1]
+          runtime_type = "io.containerd.wasmedge.v1"
+\
+Restart  to load the new config.sudo systemctl restart containerd
+\
+Our system is finally ready to accept Webassembly workloads. Users can deploy a Wasmedge  with the following manifest:apiVersion: node.k8s.io/v1
+kind: RuntimeClass
+metadata:
+  name: wasmedge                                                         #1
+handler: wasmedgev1                                                      #2
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: runtime
+  labels:
+    arch: runtime
+spec:
+  containers:
+    - name: runtime
+      image: ghcr.io/ajavageek/wasm-kubernetes:runtime
+  runtimeClassName: wasmedge                                             #3
+Wasmedge workloads should use this nameHandler to use. It should be the last segment of the section added in the TOML file, , containerd.runtimes.wasmedgev2Point to the runtime class name we defined just above\
+I used a single  instead of a full-fledged  to keep things simple.\
+Notice the many levels of indirection:The  refers to the  runtime class nameThe  runtime class points to the  handlerThe  handler in the TOML file specifies the io.containerd.wasmedge.v1 runtime typeTo compare the approaches and test our work, we can use the  addon and vCluster. The former offers a single access point for all three workloads, , , and , while vCluster isolates workloads from each other in their virtual cluster.\
+Let's start by installing the addon:minikube -p wasm addons enable ingress
+\
+It deploys an Nginx Ingress Controller in the  namespace:💡  ingress is an addon maintained by Kubernetes. For any concerns contact minikube on GitHub.
+You can view the list of minikube maintainers at: https://github.com/kubernetes/minikube/blob/master/OWNERS
+💡  After the addon is enabled, please run "minikube tunnel" and your ingress resources would be available at "127.0.0.1"
+    ▪ Using image registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
+    ▪ Using image registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
+    ▪ Using image registry.k8s.io/ingress-nginx/controller:v1.11.3
+🔎  Verifying ingress addon...
+🌟  The 'ingress' addon is enabled
+\
+We must create a dedicated virtual cluster to deploy the  later.helm upgrade --install runtime vcluster/vcluster --namespace runtime --create-namespace  --values vcluster.yaml
+\
+We will define the , the , and their related  in each virtual cluster. We need vCluster to synchronize the  with the Ingress Controller. Here's the configuration to achieve this:sync:
+  toHost:
+    ingresses:
+      enabled: true
+\
+The output should be similar to:Release "runtime" does not exist. Installing it now.
+NAME: runtime
+LAST DEPLOYED: Thu Jan 30 11:53:14 2025
+NAMESPACE: runtime
+STATUS: deployed
+REVISION: 1
+TEST SUITE: None
+\
+We can amend the above manifest with the  and  to expose the :apiVersion: v1
+kind: Service
+metadata:
+  name: runtime
+spec:
+  type: ClusterIP                                                        #1
+  ports:
+    - port: 3000                                                         #1
+  selector:
+    arch: runtime
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: runtime
+  annotations:
+    nginx.ingress.kubernetes.io/use-regex: "true"                        #2
+    nginx.ingress.kubernetes.io/rewrite-target: /$2                      #2
+spec:
+  ingressClassName: nginx
+  rules:
+    - host: localhost
+      http:
+        paths:
+          - path: /runtime(/|$)(.*)                                      #4
+            pathType: ImplementationSpecific                             #4
+            backend:
+              service:
+                name: runtime
+                port:
+                  number: 3000
+Expose the  inside the clusterNginx-specific annotations to handle path regular expression and rewrite it\
+Nginx will forward all requests starting with  to the  service, removing the prefix. To apply the manifest, we first connect to the previously created virtual cluster:11:53:21 info Waiting for vcluster to come up...
+11:53:39 done vCluster is up and running
+11:53:39 info Starting background proxy container...
+11:53:39 done Switched active kube context to vcluster_embed_embed_vcluster_runtime_runtime_wasm
+- Use `vcluster disconnect` to return to your previous kube context
+- Use `kubectl get namespaces` to access the vcluster
+\
+Now, apply the manifest:kubectl apply -f runtime.yaml
+\
+We do the same with the  and the  pods, barring the  as they are "regular" images.\
+The final deployment diagram is the following:The final touch is to tunnel to expose services:✅  Tunnel successfully started
+
+📌  NOTE: Please do not close this terminal as this process must stay alive for the tunnel to be accessible ...
+
+❗  The service/ingress runtime-x-default-x-runtime requires privileged ports to be exposed: [80 443]
+🔑  sudo permission will be asked for it.
+🏃  Starting tunnel for service runtime-x-default-x-runtime.
+Password:
+\
+Let's request the lightweight container that uses the Wasmedge runtime:curl localhost/runtime/get\?foo=bar | jq
+\
+We get the expected output:{
+  "flavor": "runtime",
+  "args": {
+    "foo": "bar"
+  },
+  "headers": {
+    "user-agent": "curl/8.7.1",
+    "x-forwarded-host": "localhost",
+    "x-request-id": "dcbdfde4715fbfc163c7c9098cbdf077",
+    "x-scheme": "http",
+    "x-forwarded-for": "10.244.0.1",
+    "x-forwarded-scheme": "http",
+    "accept": "*/*",
+    "x-real-ip": "10.244.0.1",
+    "x-forwarded-proto": "http",
+    "host": "localhost",
+    "x-forwarded-port": "80"
+  },
+  "url": "/get?foo=bar"
+}
+\
+We should get similar results with the other approaches, with different  values.In this post, I showed how to use Webassembly on Kubernetes with the Wasmedge runtime. I created three flavors for comparison purposes: , , and . The first two are "regular" Docker images, while the latter contains only a single Wasm file, which makes it very lightweight and secure. However, we need a dedicated runtime to run it.\
+Regular managed Kubernetes services don't allow configuring an additional shim, such as the Wasmedge shim. Even on my laptop, I had to be creative to make it happen. I had to use Minikube and put much effort into configuring its intermediate virtual machine to run Wasm workloads on Kubernetes. Yet, I managed to run all three images inside their virtual cluster, exposed outside the cluster by an Nginx Ingress Controller.\
+Now, it's up to you to decide whether the extra effort is worth the 10x reduction of image size and the improved security. I hope the future will improve the support so that the pros outweigh the cons.\
+The complete source code for this post can be found on GitHub.]]></content:encoded></item><item><title>9 US AI startups have raised $100M or more in 2025</title><link>https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/</link><author>Rebecca Szkutak</author><category>tech</category><pubDate>Sat, 8 Mar 2025 17:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Last year was a monumental year for the AI industry in the U.S. and beyond. There were 49 startups that raised funding rounds worth $100 million or more in 2024, per our count at TechCrunch. Three companies raised more than one “mega-round” last year, and seven companies raised rounds at $1 billion or larger. How […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>The PlumTree Algorithm (PTA) in the Solana Gossip Protocol: Some Thoughts</title><link>https://hackernoon.com/the-plumtree-algorithm-pta-in-the-solana-gossip-protocol-some-thoughts?source=rss</link><author>0xwizzdom</author><category>tech</category><pubDate>Sat, 8 Mar 2025 16:45:04 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[ A message sent to nodes in the network to depict the availability of data each node requires.\
+: This is a message sent to a node that queries for the data specified in the  message.\
+: A  of a graph is a subset of the graph that connects all its vertices with the minimum number of edges without forming any cycles.Blockchain is gaining massive attention as support for cryptocurrencies due to the rapid growth of memecoins and the celebrated launch of cryptocurrencies. However, one key challenge in blockchain networks is the efficient propagation of messages between nodes, which leads to communication resource consumption. In traditional gossip protocol, a key problem plaguing it is the latency issue—a node must wait for the next cycle to transmit a message.\
+The Plumtree algorithm is designed to reduce latency and redundancy in message transmission, particularly in peer-to-peer networks and distributed systems where reliable and fast message dissemination is important. It can achieve this by finding the shortest path to send the message to the next node in the . By doing this, each node participates in forwarding messages without relying on a central source.\
+This article delves into the implementation of the Plumtree algorithm in the Solana network and its role in increasing the speed of message propagation in the network. Furthermore, a comparison between Plumtree and GossipSub, a gossip-based epidemic broadcast algorithm used in Ethereum.In Solana, a gossip-based block propagation method is as follows: when a node receives a new block, it sends a  message to other nodes in the network. This broadcast includes information about the new block, such as the block header, transaction data, state changes, and other metadata like compressed data, etc. Upon receiving the  message, the receiving node checks if it already has the block in its ledger history. When the nodes check its history and have no record of that block, it sends a  request back to the broadcasting node, querying for the block data.\
+When the node receives the data of the queried block, it verifies it and adds it to the network. This ensures that the node does not share the block data with every other node in the network repeatedly.The plum is a fruit of the Prunus species, , a genus of trees that also includes peach, cherry, nectarine, almond, and apricot trees. Plums have a lot of health benefits. They contain a lot of nutrients, are rich in antioxidants, promote bone health, and help lower blood sugar. China and Romania are the two largest plum producers.The main sources of inspiration for the Plumtree algorithm are as follows:The flowering of the plum trees in the early spring.The transformation of the pollinated flowers to plums.The plums drop before maturity by 20–30% due to various reasons or diseases, such as diseases caused by plant viruses.The plums have a shelf life of around 2–6 weeks, even when they are stored at 0 °C.\
+The Plumtree algorithm implements these sources of inspiration as follows: the positions of the flowers and the positions of the plums are represented as matrices; the dropping of the plums before maturity is represented by a  (FT), and the shelf life of the plums after they are collected is represented by a  (RT). The two thresholds lead to the development of three types of equations to update the positions of the flowers.Plumtree is a broadcast method that combines tree-based and gossip-based approaches to reduce redundancy while maintaining high message reliability. In a tree-based broadcast, each node transmits and improves efficiency by forwarding messages only in a tree-based manner. It also uses gossip-based links between nodes to properly handle inter-node failures.\
+In a tree-based broadcast, a tree consisting of all participant nodes is constructed, and messages are transmitted only along the tree, which reduces the redundancy of messages. However, if the number of nodes increases or decreases or if a network failure occurs, the tree becomes incomplete, and a message may not reach all nodes. For instance, the block is broadcasted, and a  is constructed using the Plumtree algorithm. In subsequent broadcasts, the constructed tree is used. If the exchange of  and  messages is omitted, the blocks are not sent directly to the child nodes of the tree and hence fail.In Gossip-based broadcast, when a node attempts to broadcast a message, the node randomly selects nodes to send the message. The node that receives the message for the first time repeats this process to send the message, which not only provides high scalability but also makes the system more resistant to network inadequacies and node failures. \
+For instance, when a node broadcasts a message, it randomly chooses a node to send it to. The node that receives the message for the first time repeats this process. This property allows the system to respond flexibly to network failures and increases or decreases in the number of nodes.\
+The following approaches are utilized in the Gossip-based broadcast to disseminate data:: In this approach, once a message is received, it is sent to the neighboring nodes immediately.: In this approach, when a node receives a message, it sends the message identifier to the neighboring nodes. If the node has not received the message, it makes a pull request to the neighboring nodes.: Once a node has not received a message, it makes a query to its neighboring nodes— on recently received messages to update its state with that particular message.\
+Plumtree uses a combination of an Eager push mechanism for sending a small number of messages and a Lazy push mechanism for assisting transmission.Solana utilizes a peer-to-peer communication approach combined with a Plumtree tree-inspired algorithm, allowing for efficient dissemination of data throughout the network of nodes without depending on a central source. This structure enables messages within the network to be disseminated hierarchically, with nodes directly interacting and making each node in the network operate autonomously in relaying messages to the subsequent node in the tree.A spanning tree structure is constructed using the Plumtree algorithm for the nodes in the Solana network, allowing for a more scalable approach to broadcasting information throughout the network. In basic terms, every node shares messages with its direct neighbors, who in turn, propagate the information across the spanning tree.The differences between the Plumtree algorithm and GossipSub used for information broadcasting in Solana and Ethereum, respectively, include:Solana Tree-based PTA uses a  approach where nodes are connected in a hierarchical manner where the parent node is connected to the child node. The focus is on building an optimal routing path over time through message duplication handling, while GossipSub utilizes , where nodes subscribe to specific topics related to validator duties and communication within the Ethereum network. These overlays self-optimize to find the shortest path for message dissemination.Solana Tree-based PTA uses  but focuses on handling message redundancy by downgrading peers with suboptimal message paths, while in GossipSub, messages are disseminated via a random epidemic broadcast.In this article, we examined the Plumtree algorithm in Solana's Gossip Protocol, highlighting its tree-based and gossip-based approach to efficient message dissemination. We also compared it with Ethereum’s GossipSub, noting its differences.]]></content:encoded></item><item><title>Chevy Silverado EV vs Rivian R1T: How two EVs handled the iconic Mint 400 off-road race</title><link>https://techcrunch.com/2025/03/08/chevy-silverado-ev-vs-rivian-r1t-how-two-evs-handled-the-iconic-mint-400-off-road-race/</link><author>Emme Hall</author><category>tech</category><pubDate>Sat, 8 Mar 2025 16:30:50 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Something special went down in the desert outside of Las Vegas this weekend: two EVs took on the Mint 400 for the first time. Since the Mint 400 launched back in 1969, vehicles in this iconic desert endurance race have been powered by dead dinosaurs. Spectators and race participants alike are used to the smell […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>How I Made Autonomous Vehicle AI 40% Faster Without Losing Accuracy</title><link>https://hackernoon.com/how-i-made-autonomous-vehicle-ai-40percent-faster-without-losing-accuracy?source=rss</link><author>Vineeth Reddy Vatti</author><category>tech</category><pubDate>Sat, 8 Mar 2025 16:30:03 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Autonomous vehicles need to see the world fast and with precision. But real-time perception is tough when your model is drowning in millions of LiDAR points and high-res images. The solution? Sensor fusion, model quantization, and a sprinkle of TensorRT acceleration.Let me walk you through how I optimized a multi-modal perception model to run 40% faster while keeping it sharp enough to dodge pedestrians and parked cars.The Bottleneck: A Million Points, A Million ProblemsAutonomous vehicles rely on , each with strengths and weaknesses. LiDAR excels at , but it spits out millions of points per second. Cameras provide  but lack depth. Fusing both in a single pipeline means balancing .Problem 1: The Lag Between LiDAR and Camera DataBy the time LiDAR finishes scanning, the camera has already captured a new frame. This misalignment means object positions don’t match. I used  with  to adjust LiDAR points dynamically. Here’s a snippet of how it works in Python:import numpy as np
+
+class EgoMotionCompensation:
+    def __init__(self, initial_pose, process_noise, measurement_noise):
+        self.state = initial_pose  
+        self.P = np.eye(5) * 0.01
+        self.Q = np.diag(process_noise)
+        self.R = np.diag(measurement_noise)
+
+    def predict(self, dt):
+        # Unpack state
+        x, y, yaw, vx, vy = self.state
+        x_pred = x + vx * dt
+        y_pred = y + vy * dt
+        yaw_pred = yaw 
+        self.state = np.array([x_pred, y_pred, yaw_pred, vx, vy])
+        F = np.eye(5)
+        F[0, 3] = dt
+        F[1, 4] = dt
+        self.P = F @ self.P @ F.T + self.Q
+
+    def update(self, measurement):
+        #measurement = [x_meas, y_meas, yaw_meas]
+        H = np.array([
+            [1, 0, 0, 0, 0],
+            [0, 1, 0, 0, 0],
+            [0, 0, 1, 0, 0]
+        ])
+        z = np.array(measurement)
+        y_err = z - H @ self.state
+        S = H @ self.P @ H.T + self.R
+        K = self.P @ H.T @ np.linalg.inv(S)
+        self.state += K @ y_err
+        I = np.eye(5)
+        self.P = (I - K @ H) @ self.P
+
+    def apply_correction(self, lidar_points, dt):
+        #predict and update using IMU/odometry
+        self.predict(dt)
+        #Suppose we have a measurement from the IMU or odometry
+        #assume partial measurement [x_meas, y_meas, yaw_meas]
+        measurement = [self.state[0], self.state[1], self.state[2]]
+        self.update(measurement)
+
+        x, y, yaw, _, _ = self.state
+        cos_yaw, sin_yaw = np.cos(yaw), np.sin(yaw)
+        transformed = []
+        for px, py, pz in lidar_points:
+            #rotate and translate
+            x_new = (px * cos_yaw - py * sin_yaw) + x
+            y_new = (px * sin_yaw + py * cos_yaw) + y
+            transformed.append((x_new, y_new, pz))
+        return np.array(transformed)
+This tweak reduced misalignment by 85%, boosting object detection accuracy.Problem 2: Sensor Fusion: Making LiDAR and Cameras Play NiceNow that we fixed the time lag, we have another issue: LiDAR gives , while cameras provide . We needed a  for both.\
+We built a Bird’s Eye View (BEV) model that projects LiDAR points onto the image plane and aligns them with camera pixels.Calibrated LiDAR and camera with intrinsic & extrinsic matrices. into the image space. using a cross-attention transformer.\
+Here’s how the projection works in Python:import torch
+import torch.nn.functional as F
+import cv2
+import numpy as np
+
+def voxelize_points(lidar_points, voxel_size=(0.1, 0.1, 0.2)):
+    #Transform LiDAR points into 3D voxel indices
+    coords = np.floor(lidar_points / np.array(voxel_size)).astype(int)
+    coords -= coords.min(0)
+    voxels = np.zeros((coords[:,0].max()+1, coords[:,1].max()+1, coords[:,2].max()+1))
+    for (x_idx, y_idx, z_idx) in coords:
+        voxels[x_idx, y_idx, z_idx] += 1
+    return voxels
+
+def project_voxel_to_image(voxel_coords, camera_matrix, rvec, tvec, voxel_size):
+    """
+    Projects 3D voxel centers into image space using a known camera matrix (including distortion).
+    """
+    #compute center for each voxel
+    voxel_centers = []
+    for (x_idx, y_idx, z_idx) in voxel_coords:
+        center_x = x_idx * voxel_size[0]
+        center_y = y_idx * voxel_size[1]
+        center_z = z_idx * voxel_size[2]
+        voxel_centers.append([center_x, center_y, center_z])
+
+    voxel_centers = np.array(voxel_centers, dtype=np.float32).reshape(-1, 1, 3)
+    #project to image plane
+    img_pts, _ = cv2.projectPoints(voxel_centers, rvec, tvec, camera_matrix, None)
+    return img_pts
+
+def fuse_features(camera_features, lidar_features):
+    """
+    cross-attention: queries come from camera_features,
+    keys/values from lidar_features, to refine camera representation
+    based on 3D data.
+    """
+    #camera_features, lidar_features are [Batch, Channels, Height, Width]
+    fused = torch.cat([camera_features, lidar_features], dim=1)
+    fused = F.relu(F.conv2d(fused, torch.randn(128, fused.size(1), 3, 3)))
+    return fused
+This improved detection by 29%, helping the model understand its surroundings better.Slashing Inference Time by 40% With TensorRT and QuantizationEven with better fusion, inference time was killing us. Running deep learning models on embedded hardware isn’t the same as cloud GPUs. We needed to shrink the model without losing accuracy.The Solution: TensorRT + QuantizationConverted PyTorch to TensorRT: TensorRT optimizes computation graphs, fuses layers, and reduces memory overhead.Applied INT8 Quantization: This compressed 32-bit floating points into  making computations .\
+Quantization technique that was used:import torch
+from torch.ao.quantization import (
+    get_default_qconfig_mapping,
+    prepare_fx,
+    convert_fx
+)
+
+def apply_quantization(model, calibration_data):
+    model.eval()
+
+    #Use a QConfigMapping that sets INT8 or mixed precision
+    qconfig_mapping = get_default_qconfig_mapping("fbgemm")
+    example_inputs = (calibration_data[0].unsqueeze(0), calibration_data[1].unsqueeze(0))
+    prepared_model = prepare_fx(model, qconfig_mapping, example_inputs)
+
+    #Run calibration
+    with torch.no_grad():
+        for data in calibration_data:
+            fused_input = data[0].unsqueeze(0), data[1].unsqueeze(0)
+            prepared_model(*fused_input)
+
+    quantized_model = convert_fx(prepared_model)
+    return quantized_model
+\
+An example of how I converted the PyTorch model:import tensorrt as trt
+import os
+
+def build_tensorrt_engine(onnx_file_path, precision="int8", max_batch_size=4, input_shape=(3, 256, 256)):
+    trt_logger = trt.Logger(trt.Logger.INFO)
+    builder = trt.Builder(trt_logger)
+    network_flags = 1 << int(trt.NetworkDefinitionCreationFlag.EXPLICIT_BATCH)
+    network = builder.create_network(flags=network_flags)
+    parser = trt.OnnxParser(network, trt_logger)
+
+    if not os.path.exists(onnx_file_path):
+        raise FileNotFoundError(f"ONNX file not found: {onnx_file_path}")
+
+    with open(onnx_file_path, "rb") as f:
+        if not parser.parse(f.read()):
+            for i in range(parser.num_errors):
+                print(parser.get_error(i))
+            raise ValueError("Failed to parse the ONNX file.")
+
+    config = builder.create_builder_config()
+    if precision == "int8":
+        config.set_flag(trt.BuilderFlag.INT8)
+    elif precision == "fp16":
+        config.set_flag(trt.BuilderFlag.FP16)
+
+    profile = builder.create_optimization_profile()
+    #define min/opt/max batch sizes
+    min_shape = (1,) + input_shape
+    opt_shape = (max_batch_size // 2,) + input_shape
+    max_shape = (max_batch_size,) + input_shape
+
+    input_name = network.get_input(0).name
+    profile.set_shape(input_name, min_shape, opt_shape, max_shape)
+    config.add_optimization_profile(profile)
+
+    engine = builder.build_engine(network, config)
+    return engine
+Inference time dropped from 250ms → 75ms per frame.Memory footprint reduced by 40%.Real-time performance improved to 5 FPS.Next Steps: End-to-End LearningWe’re still exploring , where perception and planning happen in one deep learning pipeline. The idea? Instead of multiple modules for object detection, lane estimation, and path planning, we let a neural network learn everything from scratch.\
+Some early results show promise but training needs massive datasets and interpretability is a challenge. Still, we’re inching toward fully AI-driven navigation.Final Thoughts: AI That Sees and Thinks FastBy blending sensor fusion, ego-motion correction, and TensorRT acceleration, we made autonomous AI . \
+The next step? Scaling it beyond research and . If you’re working on AV models, let’s connect, I’d love to hear how you’re tackling inference speed and perception challenges.]]></content:encoded></item><item><title>The HackerNoon Newsletter: Ham vs Spam: How to Identify and Classify Spam E-mail (3/8/2025)</title><link>https://hackernoon.com/3-8-2025-newsletter?source=rss</link><author>Noonification</author><category>tech</category><pubDate>Sat, 8 Mar 2025 16:04:25 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[🪐 What’s happening in tech today, March 8, 2025?By @alexpiskarev [ 9 Min read ] I built and shut down a €500K neobank for immigrants in Portugal. Heres a post-mortem. Read More.By @ramakadapala [ 7 Min read ] In this project, some of the machine learning tools were used to see how they perform as classifiers for Ham and Spam emails. Read More.By @thefrogsociety [ 20 Min read ] Research has revealed that a shocking amount of modern design was created with only half the population in mind.  Read More.By @benoitmalige [ 5 Min read ] Stay calm under stress with these 6 simple techniques. Breathe better, think clearer, and take control.  Read More.By @hackernooncontests [ 4 Min read ] 1 month left to enter Round 1 of the Spacecoin Writing Contest! Write about #decentralized-internet, #spacetech, #blockchain-use-case to compete for 15000 USDT! Read More.🧑‍💻 What happened in your world this week?We hope you enjoy this worth of free reading material. Feel free to forward this email to a nerdy friend who'll love you for it.See you on Planet Internet! With love, 
+ The HackerNoon Team ✌️]]></content:encoded></item><item><title>5 devices to help ease your smartphone addiction</title><link>https://techcrunch.com/2025/03/08/5-devices-to-help-ease-your-smartphone-addiction/</link><author>Paul Sawers</author><category>tech</category><pubDate>Sat, 8 Mar 2025 16:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The downsides of doomscrolling and screen addiction are well documented, but while many of us would like to spend less time glued to a smartphone, it’s easier said than done. Much has been written about the so-called dumbphone revival, where individuals regain some respite from pings and push notifications by downgrading to a basic feature […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>Rust Coreutils 0.0.30 Enhances GNU Compatibility, Uutils To Port More Common Unix Tools</title><link>https://www.phoronix.com/news/uutils-Coreutils-0.0.30</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 8 Mar 2025 15:02:23 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[The uutils project has released Rust Coreutils 0.0.30 as the newest version of this GNU Coreutils rewrite within the Rust programming language. Uutils developers will also be targeting more common Unix tools to port over to Rust too...]]></content:encoded></item><item><title>In defense tech, Lithuania’s sovereign VC fund is one step ahead</title><link>https://techcrunch.com/2025/03/08/in-defense-tech-lithuanias-sovereign-vc-fund-is-one-step-ahead/</link><author>Anna Heim</author><category>tech</category><pubDate>Sat, 8 Mar 2025 15:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Europe is waking up to the need to invest in defense, and so are European VCs. But with a painful history of Soviet occupations, Lithuania didn’t wait for the third anniversary of Russia’s invasion of Ukraine to reach its third anniversary to commit 5% to 6% of its GDP to military spending — and fund […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>Coldware Enters the Memecoin Wars</title><link>https://hackernoon.com/coldware-enters-the-memecoin-wars?source=rss</link><author>Coldware</author><category>tech</category><pubDate>Sat, 8 Mar 2025 12:19:03 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[The cryptocurrency market is always shifting, and recent developments show that Dogecoin (DOGE) holders are beginning to cut their losses and look for better opportunities.\
+As we move further into 2025, Dogecoin (DOGE)—once the darling of meme coins—is facing increasing competition from emerging projects like . While DOGE holders have profited handsomely during its hype cycles, the new wave of decentralized finance (DeFi) is calling, and many are turning their attention to Coldware (COLD) for more substantial, long-term gains.Coldware (COLD): A DeFi Diamond Emerging in 2025On one hand, there is a fair chance that Dogecoin (DOGE) will get all the limelight from here; conversely, Coldware (COLD) would like to position itself as a true DeFi diamond come the year 2025.\
+With a deep commitment to decentralized finance, Coldware (COLD) provides investors with a fine opportunity to participate in secure, scalable, and functional financial solutions, to say somewhat more under the sun than just the meme coin hype.\
+Coldware (COLD) is a project of distinction in the crypto space, owing to its robust platform that combines DeFi offerings such as lending, borrowing, and yield farming with a meme-euphoria. Hence, Coldware (COLD) attracts retail investors and institutional investors and whales alike, requiring a foothold of stability and growth in their portfolios.\
+Coldware (COLD) is unique in that it has already begun gaining recognition for its staggering presale with a whopping 1300% gain in valuation in the past period. Therefore, Coldware has begun to make its insightful mark as one of the DeFi leading lights. Coldware guarantees to maintain an appeal as an investment with long-term utility and real-world use cases.Dogecoin (DOGE): A Meme Coin with a Legacy\
+That was a fine introduction to Dogecoin-DOGE-in public originals, as the so-called currency was a hilarious scheme based on the meme ''Doge''. Since then, the "meme" has been going through thick and thin, building up a dedicated community and capturing interest from key figures like a majority of investors like Elon Musk among others.\
+Being social media-driven to viral trends, DOGE has proven time and again to be a speculative asset. From this journey of being currency-like PSG to the market darling, one dream comes true: the demonstration of how far meme culture can go in our age.\
+Very favourable Dogecoin-(DOGE) just has gone hot-and-cold with great discomfort-its value moving with viral spark much more than pillar infrastructure or utility. Although DOGE has loyal devotees, many investors are increasingly questioning the viability of a project that is purely speculative hype; newer projects are starting to offer utility and real-world value-tangibles the market can stand behind.Why Dogecoin Holders Are Moving to Coldware (COLD)Many Dogecoin (DOGE) holders, who have experienced significant volatility and price dips, are now seeking more reliable options. Coldware (COLD) presents a promising opportunity for these investors, offering a token with real utility and a proven growth model. With its secure  platform, Coldware (COLD) offers users the ability to earn passive income through decentralized lending, borrowing, and staking opportunities.\
+In addition, Coldware (COLD) combines meme culture with genuine utility, making it an appealing choice for those looking to engage in the next wave of cryptocurrency innovation while still enjoying the excitement of community-driven projects.Conclusion: The Shift Towards Utility in 2025As Dogecoin (DOGE) continues to face challenges related to its speculative nature, Coldware (COLD) offers a fresh approach for investors seeking long-term stability and growth. The increasing influx of DOGE holders into  reflects the growing demand for utility-driven projects in the crypto space.\
+With its unique blend of meme culture and decentralized finance, Coldware (COLD) is set to become a major player in the crypto world in 2025, attracting both retail and institutional investors looking for sustainable growth.\
+As the  matures, Coldware (COLD) stands poised to take the lead with its strong DeFi foundation and exciting future prospects.\
+For more information on the Coldware (COLD) Presale:\
+Join and become a community member::::tip
+This article is published under HackerNoon’s  program. Do your own research before making any financial decisions.]]></content:encoded></item><item><title>GTK On Android &amp; macOS Seeing Improvements</title><link>https://www.phoronix.com/news/GNOME-GTK-Android-macOS</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 8 Mar 2025 12:07:34 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[In addition to Friday's very exciting GNOME 48 release candidate with some last minute features, there have also been some other GNOME-related changes this week to call out...]]></content:encoded></item><item><title>Coldware&apos;s Emergence in the IoT Space</title><link>https://hackernoon.com/coldwares-emergence-in-the-iot-space?source=rss</link><author>Coldware</author><category>tech</category><pubDate>Sat, 8 Mar 2025 12:02:29 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[As the cryptocurrency market continues to evolve, newer projects like Coldware (COLD) are gaining traction, especially in sectors where established players like Hedera (HBAR) have dominated.\
+Coldware’s unique position in the IoT sector is catching the attention of investors and analysts alike, raising the question whether it will soon surpass the likes of Hedera and other IoT-focused cryptocurrencies in terms of adoption and price growth.\
+Coldware (COLD) has emerged as a distinct key player on the Internet of Things and offers the decentralized infrastructure purposely developed to meet the growing needs of IoT applications.\
+Coldware promises to give fast, secure, and scalable connections with all kinds of devices on its blockchain-powered platform. This distinguishes it from competitors such as Hedera, which is already quite popular for focusing on IoT applications.\
+Coldware's blockchain is all geared up for scalability and efficiency, which is also the basis for its ability to capture the IoT market. As billions of devices continue to connect the world closer and closer together, Coldware is all set to pave the way to become a leader in the industry where all and sundry will be looking for seamless connectivity and real-time, secure transactions.Coldware's Growth Potential and Market PositionWhile Hedera’s recent surge following Grayscale's filing for an HBAR ETF has made headlines, Coldware’s potential could surpass that of Hedera in the long term.\
+Coldware (COLD) is currently in its  stages, offering early investors a unique opportunity to secure positions at a low price before its market debut. As the project continues to develop and attract attention, experts predict that Coldware’s value could rise exponentially in the coming years.\
+Unlike Hedera, Coldware's focus is not solely on IoT applications but extends into a broader range of industries, including healthcare, supply chain management, and more. This multi-sector utility, combined with its seamless integration with IoT, puts Coldware on the fast track for widespread adoption.Price Predictions for Coldware (COLD)As of March 2025, Coldware (COLD) is in presale in its early phases, but analysts have predicted that it has a steep upward incline.\
+If the project gains traction and gets its share of strategic partnerships, experts are forecasting a price increase of 1,300% over the next 12 to 18 months, which could see Coldware catapulted into the top 50 cryptocurrencies.\
+With the rapid expansion of Coldware's market capitalization as the ecosystem develops and its application in IoT and other fields becomes widespread, Coldware's exceptional blockchain concept focussing on tangible real-world applications will launch it as one of the premier cryptocurrencies in the IoT field, overtaking even the ones that are now popularizing the same space such as Hedera (HAD).Coldware vs Hedera (HBAR): Which Will Lead the IoT Market?Both Coldware and Hedera (HBAR) are uniquely positioned to capitalize on the growing demand for blockchain solutions in IoT.\
+However, Coldware’s focus on scalability, cost-efficiency, and its broad application in multiple industries could enable it to dominate the market more rapidly than Hedera, which has historically been limited in terms of its adoption outside the IoT niche.\
+The introduction of institutional support through ETFs for Hedera (HBAR) may give it an immediate boost in terms of market recognition, but Coldware’s long-term strategy to integrate IoT with blockchain on a global scale gives it an edge that could propel it to new heights in the coming years.Conclusion: Coldware’s Future Looks BrightWith the rise of IoT and the increasing importance of blockchain technology, Coldware is emerging as a dominant force in the space. As more enterprises adopt Coldware’s blockchain infrastructure for IoT solutions, its price is expected to rise significantly.\
+Investors who enter early on could see substantial returns as the project grows and attracts institutional interest.\
+While Hedera (HBAR) has made strides with the recent ETF filing, Coldware's superior scalability and diverse applications across various industries put it in a prime position to outperform Hedera and other IoT cryptocurrencies over the long term.\
+Investors looking to capitalize on the booming IoT sector should keep a close eye on Coldware, as it could become the next big thing in the cryptocurrency market.\
+For more information on the Coldware (COLD) Presale:Join and become a community member::::tip
+This article is published under HackerNoon’s  program. Do your own research before making any financial decisions.]]></content:encoded></item><item><title>Latest Meme News: Dogecoin and Shiba INU Spike 6%, Falling Short To This Utility Gem Priced Below $1</title><link>https://hackernoon.com/latest-meme-news-dogecoin-and-shiba-inu-spike-6percent-falling-short-to-this-utility-gem-priced-below-$1?source=rss</link><author>Coldware</author><category>tech</category><pubDate>Sat, 8 Mar 2025 11:57:35 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[As the cryptocurrency market continues to fluctuate, Dogecoin (DOGE) and Shiba Inu (SHIB), two of the most well-known meme coins, have once again experienced a price surge of 6%. However, despite their recent uptick, they still fall short when compared to a rising star in the space—Coldware (COLD). Priced below $1, Coldware (COLD) is making waves due to its unique combination of meme-driven energy and real-world utility, making it an enticing alternative to the speculative nature of DOGE and SHIB.Coldware (COLD): A Utility Gem Priced Below $1Here comes the , a cryptocurrency that's on its way to becoming very popular due to the combination of simple fun like meme culture with practical long-term utility.\
+Plus, unlike DOGE and SHIB, Coldware (COLD) has marked itself as a  platform associated with real-world use cases. Hence, perhaps it's a great catch for retail investors and even major institutional players looking for their few platitudes yet enabling a full stack moving on a very promising path toward growth.\
+The arrival of those people – especially the whales – holding DOGE and SHIB coins to Coldware (COLD), who seek a diversified portfolio beyond just , is attributed to the infrastructure brought about by Coldware in decentralized finance because it assures users of decentralized and secured scalable financial solutions. By the way, presale of Coldware (COLD) had an increase already that reached 1,300 percent.\
+Cold Token thus presents a unique proposition within the cryptocurrency ecosystem—transforming the meme-driven excitement into decentralized finance (DeFi) features such as lending, borrowing, and yield farming. The marriage of meme culture with real utility sets it up as a clear alternative for those who want to invest in some fanciful aspects while not compromising on the functionality.The Memes Behind Dogecoin (DOGE) and Shiba Inu (SHIB)Dogecoin (DOGE) has long been the poster child of meme coins. Initially created as a joke in 2013 by software engineers Billy Markus and Jackson Palmer, DOGE quickly gained traction due to its quirky, fun nature and the involvement of high-profile supporters like Elon Musk.\
+What started as a playful jab at the seriousness of other cryptocurrencies turned into a massive phenomenon. Over time, Dogecoin has evolved from a meme into a token with actual market value, driven by a loyal fanbase and viral social media campaigns. However, the volatility and lack of concrete utility in its design have left many questioning its long-term viability.\
+Similarly, Shiba Inu (SHIB), often referred to as the "Dogecoin killer," was launched in 2020 with the goal of building a meme-based community that could rival DOGE. Shiba Inu’s vast supply and fun, meme-centric branding quickly made it popular, and its recent developments, such as its decentralized exchange, ShibaSwap, have made it more than just a meme coin.\
+Yet, despite its growing ecosystem, SHIB faces similar concerns regarding its speculative nature and whether it can sustain growth in the long term without more significant use cases.\
+Despite their impressive achievements, DOGE and SHIB continue to rely significantly on speculative trading and social media buzz. Investors who are searching for more than simply the next viral trend continue to have concerns about their lack of a strong infrastructure or real utility.Why Coldware (COLD) Is Gaining MomentumAs DOGE and SHIB maintain their speculative appeal,  provides the stability and growth potential that investors are increasingly looking for. Coldware (COLD) offers a secure platform with scalable financial solutions, empowering users to participate in a wide range of DeFi opportunities. For whales and institutional investors, Coldware (COLD) provides a sustainable alternative to meme coins, with the added benefit of a fully operational DeFi ecosystem.\
+The presale momentum of Coldware (COLD) highlights the growing demand for a cryptocurrency that offers both utility and excitement. With a secure, decentralized platform, Coldware is making significant strides toward reshaping the landscape of meme coins, attracting a diverse range of investors who are seeking a more stable, long-term investment.For more information on the Coldware (COLD) Presale:Join and become a community member::::tip
+This article is published under HackerNoon’s  program. Do your own research before making any financial decisions.]]></content:encoded></item><item><title>Mesa&apos;s Venus Driver Adds Vulkan Ray-Tracing Support For VMs</title><link>https://www.phoronix.com/news/Mesa-25.1-Venus-Vulkan-RT</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 8 Mar 2025 11:50:43 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Mesa's Venus driver that allows for 3D graphics acceleration within virtual machines is now able to make use of the Vulkan ray-tracing extensions when using Mesa 25.1-devel along with updated Venus Protocol and Virglrenderer code...]]></content:encoded></item><item><title>Wine-Staging 10.3 Adds Patch For A 15 Year Old Bug</title><link>https://www.phoronix.com/news/Wine-Staging-10.3</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 8 Mar 2025 11:38:34 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Building off yesterday's release of Wine 10.3 is now Wine-Staging 10.3 for this more experimental version of Wine that is presently shipping 347 experimental/testing patches atop the upstream state...]]></content:encoded></item><item><title>KDE This Week Took Care Of &quot;A Very Large Number Of Bugs&quot;</title><link>https://www.phoronix.com/news/KDE-Fixes-Large-Num-Bugs</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 8 Mar 2025 11:22:12 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[KDE developer Nate Graham is out with the newest issue of This Week in Plasma to highlight all of the interesting KDE Plasma improvements merged for the week...]]></content:encoded></item><item><title>I Built a €500K Neobank for Immigrants—It Didn&apos;t Go As Planned</title><link>https://hackernoon.com/i-built-a-euro500k-neobank-for-immigrantsit-didnt-go-as-planned?source=rss</link><author></author><category>tech</category><pubDate>Sat, 8 Mar 2025 10:00:08 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Imagine moving to a new country with no local credit history, no proof of address, and no easy way to open a bank account. You have a job lined up, but no way to receive your salary. You need a permanent address to open a bank account, but you need a bank account to rent an apartment.That was my experience as an immigrant in Portugal. I thought, ‘This is a massive problem—I can fix it.’ Six months, €500K, and 5,000 users later, my neobank Relocare was dead.I’m Dmitry, a fintech entrepreneur with 13 years in the industry. My company, Finbox Solutions, helps startups scale financial platforms. With multiple fintech ventures under my belt, I thought I was ready to build a neobank. I was wrong.With multiple fintech ventures under my belt and deep technical expertise in banking infrastructure, I felt well-equipped to tackle the challenges of building a neobank.Relocation and How It StartedI didn’t have the purpose to leave my country, it happened mostly accidentally. I visited Portugal for the Web Summit conference in 2018.\
+At the conference, I met prominent figures like Ray Dalio (Investor), Tim Berners-Lee (Inventor of the Web) and Evan Williams (Founder of Twitter & Medium).It was an amazing and exciting experience.\
+This vibe on the edge of technologies helped me decide to stay longer. When COVID-19 hit in 2020, what started as a temporary stay turned into a permanent move.\
+Portugal has one of the best fintech environments for startups, providing legal frameworks, startup ecosystem and has big expat community, around 1.1m people. Add to the fact, awesome weather, good location and its all I needed that time.\
+The first thing in settling in a foreign country is to get the required papers. For us, it meant opening a local bank account.The hardest thing for immigrants in any country is opening a local bank account. For citizens of Portugal, it takes up to 3 days, but for immigrants, the term exceeds 2-3 weeks. And it’s not a bank, but documents that it requires.\
+The brutal irony? You need a bank account to start your life, but you need to have started your life to get a bank account.\
+Every morning becomes a new bureaucratic adventure. You need a NIF (tax number) to open a bank account, but you need proof of address to get a NIF. You need a bank account to rent an apartment, but you need a permanent address for a bank account. Each document costs money - a NIF alone can set you back 100 euros. And that's just one piece of the puzzle.\
+I watched people burn through their savings on temporary accommodations while waiting for bank accounts. Highly skilled professionals reduced to carrying cash like students, unable to receive their salaries or pay bills properly.\
+That all made the process annoying and frustrating. But it’s not all….\
+Portugal has a closed banking system. It means, if you have an account in international bank, then there is no guarantee it’s legit in Portugal.\
+I personally had an account in Brazilian branch of Santander. When I came to the Portuguese branch, local clerks stared at me in utter confusion, like “what are you…”\
+Different branches don’t recognize each other. Credit history, proof of employment, any other documents mean nothing. Start from scratch, boy! I was devastated.Decision to build a neobankThe banking challenges I experienced firsthand, combined with countless similar stories from other immigrants, highlighted a clear gap in the market. My fintech background provided unique insight into how these problems could be solved systematically.\
+This led to the creation of Relocare, a neobank specifically designed to address the unique challenges immigrants face when establishing their financial presence in a new country. Plus, I saw the market as underserved and wanted to challenge myself: “Can I build it and scale?”That’s how It started.How I Applied Product Mindset to RelocareWhen developing Relocare, we focused on deep validation:In mid-2020, conducted 50+ interviews with immigrants and identified their pain points (not possible to get a loan, hard to get a banking account)By Q3 2020, created landing page for signups and distributed across immigrant communities. We got 13,000 on the waitlist.Focused on 3 features during MVP stage:- Local IBAN- Credit card for immigrants- Local payment system integration (MBWay)Thanks to our B2B business, we already had robust technical infrastructure for:However, operating as a bank requires a banking license, which takes years and millions in capital to obtain. By late 2020, we partnered with a BaaS (Banking-as-a-Service) provider who could give us regulatory coverage and access to the banking network. While we had the technical capability to build everything, we needed their license to operate legally. Unfortunately, their risk appetite was quite low, and they saw immigrants as high-risk clients. This conservative approach would later work against us.Business Model & Revenue StreamsWe followed the proven revenue model that successful neobanks like Revolut had established. Our approach was straightforward:Monthly subscription — to access any service in our app, users needed to subscribe to a monthly plan. We wanted to charge 12,5 euro/month (It was naive). This supposed to be our primary revenue source (around 70% of total revenue).Transactional fees — Our BaaS (banking as a service) partner, who owned the infrastructure and carried the risk, set certain transaction fees. This generated approximately 25% of our projected income.Additional services — we put costs of processing into this stream, which might generate 5% of revenue: translation and document processing,Unit economics looked promising on paper.We had expectations on numbers:Forecasted CAC (Customer Acquisition Cost) — 50 euro.Expected customer lifetime (LTV) — 12 monthsTarget LTV/CAC ratio — 3:1.Subscription cost — 12.5 euro/monthWith Relocare's business and financial model in hand, we began seeking investors. Initially, we planned to bootstrap the project, but weren't certain about the actual costs involved. We had 10 candidates to co-invest in the project, but it didn't work out. We decided to build on our own, using our money from B2B SaaS. Using “assets” from previous projects, we crafted MVP in 2 months and launched it in our user community.Launch and first problemsWhen we launched Relocare in January 2021, 13,000 users from our waitlist turned into 5,000 MAU. Our technical infrastructure handled the scale perfectly, but the BaaS partnership created unexpected challenges:Immediately we’ve started to face fraud problems. It started as early as the 5th issued card. That moment we realized, what banks meant by high risk clients (meaning immigrants)Users started complaining about our strict KYC/AML policies. We couldn’t process everything related to crypto, NFT. Users literally felt rejected.Despite positive feedback about core features like IBAN and MBWay, many users felt rejected by our strict verification process.\
+These early problems were just the beginning of our market fit issues.While these initial operational challenges were concerning, the deeper problems with Relocare's business model began to surface around the six-month mark. Our data started revealing a troubling pattern: users were churning.\
+We started to investigate, by analyzing user feedback, conducting interviews again, and seeking patterns across accounts in our Amplitude panel. And here is what we found so far:Most immigrants struggle for the first six months, and it’s all good after they open a local bank account. It removes us from value chain. They don’t need us after the temporary challenge.They also used Wise and Revolut along the way. Those companies provide global banking services and they’re more friendly to immigrants than local banks.What we initially saw as a significant market opportunity turned out to be a temporary pain point. This fundamental realization meant that a neobank exclusively for immigrants had a built-in churn problem—users would naturally leave once they established themselves in the country.The Numbers That Killed UsOur illusions on unit economics also broke down. We expected to have:\
+Lifetime as 12 months but 6 months in reality.\
+Pricing, that changed from 12,5 to only 8 euro per month.\
+With mounting costs and deteriorating metrics, we needed a bigger investment to turn things around. After spending €500K of our own money, our calculations showed we needed around €10M to make the business viable. While we managed to attract about €1M in potential investor interest, it wasn't enough.Standing at this crossroads with Relocare, we explored every possible direction:Dive into new products around neobanks.Dive into crypto-powered cross-border payments (which was highly requested thing in a project)Credit solutions for expats, helping them get financing in a new country\
+All of that wasn’t a part of our expertise. Lending is too hard, you need to assess credit risk and onboard clients with strong policy. Crypto also wasn’t our main focus, we weren’t sure what to build.\
+Our final analysis put the final nail in the coffin. We realized:We couldn’t compete with Revolut and Wise, which had far more resources and funding.We needed €10M+ to build a sustainable lending model, and even with €1M in potential investor interest, the gap was too large to bridge.\
+With an already profitable B2B business, we decided not to lose focus here and closed it. We sort of saved money for our investors, spending only 500,000 euros. Now, it’s time to share what we’ve learned from experience.Looking back, Relocare's journey taught me some painful but invaluable lessons that I hope will help other founders avoid similar pitfalls:\
+1. Beware of Transition Period Business ModelsThe hard truth we discovered: building a business around a temporary problem is like trying to catch smoke. Our users needed us intensely for 4-6 months, then vanished. It's like building a business selling umbrellas only when it rains – the demand is real but fleeting.\
+2. Market Size ≠ Market OpportunityThe 1.1M expat market in Portugal looked fantastic on paper. But here's the reality check: only 15% of these expats were actually in our target segment (tech-savvy, middle-income professionals), and only 10% of those converted to paying customers. Always dig deeper into your TAM calculations.\
+3. The "Good Enough" ProblemWe learned that existing solutions like Wise and Revolut were "good enough" for most users. They weren't perfect for immigrants, but they worked. The lesson? Your solution needs to be 10x better than existing alternatives, not just marginally better.\
+For founders eyeing the fintech space: the future isn't in building another bank – it's in solving the infrastructure problems that make banking difficult in the first place. And that's exactly what we discovered through this journey.Despite Relocare's shutdown in mid-2021, we didn't walk away empty-handed. We built several valuable assets that we're now repurposing:DocSense: Relocare's AI tool for PDF analysis has found unexpected demand in the B2B sector.PayMaster: The tax calculator developed for Relocare has become a standalone product with growing adoption.Mobile App Architecture: We're licensing parts of the secure banking infrastructure we built for Relocare to other fintech startups.After shutting down Relocare in mid-2021, I returned to B2B fintech, focusing on these opportunities:Cross-Border Credit Infrastructure: The big unsolved problem isn't payments – it's credit history portability across bordersB2B Banking Services: Helping businesses navigate international banking has more staying power than consumer solutionsRegulatory Tech: Tools that help fintech companies navigate complex compliance requirementsBrokerage SaaS Solutions: Enabling fintech startups to launch investment & trading servicesNeobank Infrastructure: Providing white-label fintech solutionsPayroll Fintech: Simplifying global salary paymentsIf you have any questions about this story, then find me on social media.Looking back at this 2021 venture, I hope this post-mortem of Relocare has provided valuable insights.]]></content:encoded></item><item><title>Cursor in talks to raise at a $10B valuation as AI coding sector booms</title><link>https://techcrunch.com/2025/03/07/cursor-in-talks-to-raise-at-a-10b-valuation-as-ai-coding-sector-booms/</link><author>Marina Temkin</author><category>tech</category><pubDate>Sat, 8 Mar 2025 00:32:03 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Investor interest in AI coding assistants is exploding. Anysphere, the developer of AI-powered coding assistant Cursor, is in talks with venture capitalists to raise capital at a valuation of nearly $10 billion, Bloomberg reported. The round, if it transpires, would come about three months after Anysphere completed its previous fundraise of $100 million at a […]© 2024 TechCrunch. All rights reserved. For personal use only.]]></content:encoded></item><item><title>What does “PhD-level” AI mean? OpenAI’s rumored $20,000 agent plan explained.</title><link>https://arstechnica.com/ai/2025/03/what-does-phd-level-ai-mean-openais-rumored-20000-agent-plan-explained/</link><author>Benj Edwards</author><category>tech</category><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/03/phd_robot_header-1152x648.jpg" length="" type=""/><pubDate>Fri, 7 Mar 2025 22:54:09 +0000</pubDate><source url="https://arstechnica.com/">Biz &amp; IT – Ars Technica</source><content:encoded><![CDATA[The AI industry has a new buzzword: "PhD-level AI." According to a report from The Information, OpenAI may be planning to launch several specialized AI "agent" products including a $20,000 monthly tier focused on supporting "PhD-level research." Other reportedly planned agents include a "high-income knowledge worker" assistant at $2,000 monthly and a software developer agent at $10,000 monthly.OpenAI has not yet confirmed these prices, but they have mentioned PhD-level AI capabilities before. So what exactly constitutes "PhD-level AI"? The term refers to models that supposedly perform tasks requiring doctoral-level expertise. These include agents conducting advanced research, writing and debugging complex code without human intervention, and analyzing large datasets to generate comprehensive reports. The key claim is that these models can tackle problems that typically require years of specialized academic training.Companies like OpenAI base their "PhD-level" claims on performance in specific benchmark tests. For example, OpenAI's o1 series models reportedly performed well in science, coding, and math tests, with results similar to human PhD students on challenging tasks. The company's Deep Research tool, which can generate research papers with citations, scored 26.6 percent on "Humanity's Last Exam," a comprehensive evaluation covering over 3,000 questions across more than 100 subjects.]]></content:encoded></item></channel></rss>
