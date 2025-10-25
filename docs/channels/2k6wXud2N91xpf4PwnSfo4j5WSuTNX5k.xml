@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tech News - Last 2 days</title><link>http://site-url-not-set.io/you-can-set-it-in-liveboat-config</link><description></description><item><title>AI Models May Be Developing Their Own &apos;Survival Drive&apos;, Researchers Say</title><link>https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 25 Oct 2025 20:44:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA["OpenAI's o3 model sabotaged a shutdown mechanism to prevent itself from being turned off," warned Palisade Research, a nonprofit investigating cyber offensive AI capabilities. "It did this even when explicitly instructed: allow yourself to be shut down." In September they released a paper adding that "several state-of-the-art large language models (including Grok 4, GPT-5, and Gemini 2.5 Pro) sometimes actively subvert a shutdown mechanism..." 
+
+Now the nonprofit has written an update "attempting to clarify why this is — and answer critics who argued that its initial work was flawed," reports The Guardian:
+
+Concerningly, wrote Palisade, there was no clear reason why. "The fact that we don't have robust explanations for why AI models sometimes resist shutdown, lie to achieve specific objectives or blackmail is not ideal," it said. "Survival behavior" could be one explanation for why models resist shutdown, said the company. Its additional work indicated that models were more likely to resist being shut down when they were told that, if they were, "you will never run again". Another may be ambiguities in the shutdown instructions the models were given — but this is what the company's latest work tried to address, and "can't be the whole explanation", wrote Palisade. A final explanation could be the final stages of training for each of these models, which can, in some companies, involve safety training... 
+
+This summer, Anthropic, a leading AI firm, released a study indicating that its model Claude appeared willing to blackmail a fictional executive over an extramarital affair in order to prevent being shut down — a behaviour, it said, that was consistent across models from major developers, including those from OpenAI, Google, Meta and xAI. 
+Palisade said its results spoke to the need for a better understanding of AI behaviour, without which "no one can guarantee the safety or controllability of future AI models".
+
+ 
+
+
+"I'd expect models to have a 'survival drive' by default unless we try very hard to avoid it," former OpenAI employee Stephen Adler tells the Guardian. "'Surviving' is an important instrumental step for many different goals a model could pursue."
+
+
+ Thanks to long-time Slashdot reader mspohr for sharing the article.]]></content:encoded></item><item><title>OpenAI reportedly developing new generative music tool</title><link>https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/</link><author>Anthony Ha</author><category>tech</category><pubDate>Sat, 25 Oct 2025 19:48:54 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Such a tool could be used to add music to existing videos, or to add guitar accompaniment to an existing vocal track, sources said.]]></content:encoded></item><item><title>&apos;Meet The People Who Dare to Say No to AI&apos;</title><link>https://slashdot.org/story/25/10/25/0324244/meet-the-people-who-dare-to-say-no-to-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 25 Oct 2025 19:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[Thursday the Washington Post profiled "the people who dare to say no to AI," including a 16-year-old high school student in Virginia says "she doesn't want to off-load her thinking to a machine and worries about the bias and inaccuracies AI tools can produce..." 
+
+"As the tech industry and corporate America go all in on artificial intelligence, some people are holding back."
+
+
+Some tech workers told The Washington Post they try to use AI chatbots as little as possible during the workday, citing concerns about data privacy, accuracy and keeping their skills sharp. Other people are staging smaller acts of resistance, by opting out of automated transcription tools at medical appointments, turning off Google's chatbot-style search results or disabling AI features on their iPhones. For some creatives and small businesses, shunning AI has become a business strategy. Graphic designers are placing "not by AI" badges on their works to show they're human-made, while some small businesses have pledged not to use AI chatbots or image generators... 
+
+
+Those trying to avoid AI share a suspicion of the technology with a wide swath of Americans. According to a June survey by the Pew Research Center, 50% of U.S. adults are more concerned than excited about the increased use of AI in everyday life, up from 37% in 2021. 
+
+
+The Post includes several examples, including a 36-year-old software engineer in Chicago who uses DuckDuckGo partly because he can turn off its AI features more easily than Google — and disables AI on every app he uses. He was one of several tech workers who spoke anonymously partly out of fear that criticisms could hurt them at work. "It's become more stigmatized to say you don't use AI whatsoever in the workplace. You're outing yourself as potentially a Luddite." 
+
+But he says GitHub Copilot reviews all changes made to his employer's code — and recently produced one review that was completely wrong, requiring him to correct and document all its errors. "That actually created work for me and my co-workers. I'm no longer convinced it's saving us any time or making our code any better." And he also has to correct errors made by junior engineers who've been encouraged to use AI coding tools. 
+
+"Workers in several industries told The Post they were concerned that junior employees who leaned heavily on AI wouldn't master the skills required to do their jobs and become a more senior employee capable of training others."]]></content:encoded></item><item><title>High school’s AI security system confuses Doritos bag for a possible firearm</title><link>https://techcrunch.com/2025/10/25/high-schools-ai-security-system-confuses-doritos-bag-for-a-possible-firearm/</link><author>Anthony Ha</author><category>tech</category><pubDate>Sat, 25 Oct 2025 19:05:11 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[A high school student in Baltimore County, Maryland was reportedly handcuffed and searched after an AI security system flagged his bag of chips as a possible firearm.]]></content:encoded></item><item><title>Student Handcuffed After School&apos;s AI System Mistakes a Bag of Chips for a Gun</title><link>https://news.slashdot.org/story/25/10/25/0733242/student-handcuffed-after-schools-ai-system-mistakes-a-bag-of-chips-for-a-gun?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 25 Oct 2025 18:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[An AI system "apparently mistook a high school student's bag of Doritos for a firearm," reports the Guardian, "and called local police to tell them the pupil was armed."
+
+
+
+
+Taki Allen was sitting with friends on Monday night outside Kenwood high school in Baltimore and eating a snack when police officers with guns approached him. "At first, I didn't know where they were going until they started walking toward me with guns, talking about, 'Get on the ground,' and I was like, 'What?'" Allen told the WBAL-TV 11 News television station. 
+
+
+Allen said they made him get on his knees, handcuffed and searched him — finding nothing. They then showed him a copy of the picture that had triggered the alert. "I was just holding a Doritos bag — it was two hands and one finger out, and they said it looked like a gun," Allen said.
+
+]]></content:encoded></item><item><title>North Korea Has Stolen Billions in Cryptocurrency and Tech Firm Salaries, Report Says</title><link>https://yro.slashdot.org/story/25/10/25/1246241/north-korea-has-stolen-billions-in-cryptocurrency-and-tech-firm-salaries-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 25 Oct 2025 17:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[The Associated Press reports that "North Korean hackers have pilfered billions of dollars" by breaking into cryptocurrency exchanges and by creating fake identities to get remote tech jobs at foreign companies — all orchestrated by the North Korean government to finance R&D on nuclear arms. 
+
+That's according to a new the 138-page report by a group watching North Korea's compliance with U.N. sanctions (including officials from the U.S., Australia, Canada, France, Germany, Italy, Japan, the Netherlands, New Zealand, South Korea and the United Kingdom). From the Associated Press:
+
+North Korea also has used cryptocurrency to launder money and make military purchases to evade international sanctions tied to its nuclear program, the report said. It detailed how hackers working for North Korea have targeted foreign businesses and organizations with malware designed to disrupt networks and steal sensitive data... 
+
+Unlike China, Russia and Iran, North Korea has focused much of its cyber capabilities to fund its government, using cyberattacks and fake workers to steal and defraud companies and organizations elsewhere in the world... Earlier this year, hackers linked to North Korea carried out one of the largest crypto heists ever, stealing $1.5 billion worth of ethereum from Bybit. The FBI later linked the theft to a group of hackers working for the North Korean intelligence service. 
+
+
+Federal authorities also have alleged that thousands of IT workers employed by U.S. companies were actually North Koreans using assumed identities to land remote work. The workers gained access to internal systems and funneled their salaries back to North Korea's government. In some cases, the workers held several remote jobs at the same time.]]></content:encoded></item><item><title>What You Need to Know About Advanced Patterns for Symfony HttpClient</title><link>https://hackernoon.com/what-you-need-to-know-about-advanced-patterns-for-symfony-httpclient?source=rss</link><author>MattLeads</author><category>tech</category><pubDate>Sat, 25 Oct 2025 17:11:21 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[If you’ve worked with Symfony, you’ve used . You’ve run $client->request(‘GET’, …) and . This is the bread and butter of API consumption, and it works beautifully for simple use cases.\
+But modern applications aren’t simple. They’re distributed, asynchronous, and expected to be resilient. What happens when you need to:Fetch 100 API endpoints without waiting 30 seconds?Consume a 500MB JSON file without hitting your memory limit?Handle an API that flakes out and retries automatically?Protect your app from a failing downstream service?Manage OAuth2 tokens that expire every 60 minutes?\
+This is where “trivial” usage ends. The  component is one of the most powerful and layered components in the Symfony ecosystem. It’s designed to solve these exact “non-trivial” problems.\
+In this article, I’ll move past the basics and into production-grade patterns. I’ll explore high-performance concurrency, memory-safe streaming with new Symfony features, advanced resilience with retries and circuit breakers, automated auth, and dynamic testing.The Foundation: A Scoped ClientFirst, let’s set up our project. We’ll use a new Symfony application. The only core package you need to start is .composer require symfony/http-client
+\
+Throughout this article, we’ll be interacting with a fictional “product API.” The best practice for this is not to use the generic httpclient service but to define a scoped client. This gives us a dedicated service instance for that API, pre-configured with its baseuri and default headers.\
+Let’s define it in config/packages/framework.yaml:# config/packages/framework.yaml
+framework:
+    http_client:
+        scoped_clients:
+            # This creates a new service with the ID 'product_api.client'
+            product_api.client:
+                base_uri: 'https://api.my-store.com/'
+                headers:
+                    'Accept': 'application/json'
+                    'User-Agent': 'MySymfonyApp/1.0'
+\
+Now, we can autowire this specific client in any service using its type-hint and variable name:// src/Service/ProductService.php
+namespace App\Service;
+
+use Symfony\Contracts\HttpClient\HttpClientInterface;
+use Symfony\Component\DependencyInjection\Attribute\Autowire;
+
+readonly class ProductService
+{
+    public function __construct(
+        #[Autowire(service: 'product_api.client')]
+        private HttpClientInterface $client
+    ) {
+    }
+
+    // ...
+}
+The Concurrency Trap (And How to Escape It with stream())Here is the most common performance pitfall I see.\
+You need to fetch data for multiple items. The junior developer writes a foreach loop.// The "Slow Way"
+public function fetchProductPrices(array $productIds): array
+{
+    $prices = [];
+    foreach ($productIds as $id) {
+        // Each request waits for the previous one to finish!
+        $response = $this->client->request('GET', "products/{$id}/price");
+        $prices[$id] = $response->toArray()['price'];
+    }
+    return $prices; // If each request takes 300ms, 10 IDs = 3 seconds.
+}
+\
+This is a serial operation. Each request runs sequentially. Your total execution time is the sum of all request latencies. It’s slow, and it scales terribly.\
+Use HttpClientInterface::stream().\
+The stream() method allows you to run multiple requests concurrently. It fires off all requests in  (using non-blocking I/O via  or ) and  as they become available.// The "Fast Way"
+public function fetchProductPricesConcurrent(array $productIds): array
+{
+    $responses = [];
+    foreach ($productIds as $id) {
+        // This just creates the request object; it doesn't send it.
+        $responses[$id] = $this->client->request('GET', "products/{$id}/price");
+    }
+
+    $prices = [];
+    // This is where the magic happens. All requests are sent in parallel.
+    foreach ($this->client->stream($responses) as $response => $chunk) {
+        try {
+            if ($chunk->isFirst()) {
+                // Headers are available, but we wait for the content
+            }
+
+            if ($chunk->isLast()) {
+                // The full response is now available.
+                // We find the original $id by searching the $responses array.
+                $id = array_search($response, $responses, true);
+                if ($id !== false) {
+                    $prices[$id] = $response->toArray()['price'];
+                }
+            }
+        } catch (\Exception $e) {
+            // Handle exceptions for individual failed requests
+            $id = array_search($response, $responses, true);
+            $this->logger->error("Failed to fetch price for {$id}", ['exception' => $e]);
+        }
+    }
+
+    return $prices; // Total time ≈ the single longest request, not the sum.
+}
+\
+You can easily prove the difference with the  component.composer require symfony/stopwatch
+\
+Then, in a simple console command:// src/Command/TestConcurrencyCommand.php
+use Symfony\Component\Console\Attribute\AsCommand;
+use Symfony\Component\Console\Command\Command;
+use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Output\OutputInterface;
+use Symfony\Component\Stopwatch\Stopwatch;
+
+#[AsCommand(name: 'app:test-concurrency')]
+class TestConcurrencyCommand extends Command
+{
+    public function __construct(
+        private readonly ProductService $productService,
+        private readonly Stopwatch $stopwatch
+    ) {
+        parent::__construct();
+    }
+
+    protected function execute(InputInterface $input, OutputInterface $output): int
+    {
+        $ids = range(1, 10); // 10 product IDs
+        $stopwatch = new Stopwatch();
+
+        $stopwatch->start('serial');
+        $this->productService->fetchProductPrices($ids);
+        $serialEvent = $stopwatch->stop('serial');
+        $output->writeln('Serial: ' . $serialEvent->getDuration() . 'ms');
+
+        $stopwatch->start('concurrent');
+        $this->productService->fetchProductPricesConcurrent($ids);
+        $concurrentEvent = $stopwatch->stop('concurrent');
+        $output->writeln('Concurrent: ' . $concurrentEvent->getDuration() . 'ms');
+
+        return Command::SUCCESS;
+    }
+}
+\
+ You will consistently see the concurrent method be an order of magnitude faster.Taming Large Payloads with symfony/json-streamer (New in 7.3!)An API returns a large JSON array. GET /products/all returns a  file with 2 million product objects. If you call , PHP will try to parse 500MB of JSON into a massive array, instantly exhausting your memory limit.\
+ Instead of reading the whole response, we read it chunk by chunk. Even better, with the new symfony/json-streamer (experimental, no BC guarantee) component in Symfony 7.3, we can parse this stream directly into DTOs.composer require symfony/json-streamer
+\
+First, create a simple DTO. Note that json-streamer works best with simple, constructor-less classes with public properties.// src/Dto/ProductDto.php
+namespace App\Dto;
+
+use Symfony\Component\JsonStreamer\Attribute\JsonStreamable;
+
+#[JsonStreamable]
+class ProductDto
+{
+    public string $sku;
+    public string $name;
+    public float $price;
+}
+\
+Now, let’s create a service to consume a (simulated) large endpoint.// src/Service/StreamingProductService.php
+namespace App\Service;
+
+use App\Dto\ProductDto;
+use Symfony\Component\DependencyInjection\Attribute\Autowire;
+use Symfony\Component\JsonStreamer\StreamReaderInterface;
+use Symfony\Component\TypeInfo\Type;
+use Symfony\Contracts\HttpClient\HttpClientInterface;
+
+readonly class StreamingProductService
+{
+    public function __construct(
+        #[Autowire(service: 'product_api.client')]
+        private HttpClientInterface $client,
+        private StreamReaderInterface $streamReader
+    ) {
+    }
+
+    public function processAllProducts(): int
+    {
+        // 1. Make the request, but DON'T read the content yet.
+        $response = $this->client->request('GET', 'products/all-stream');
+
+        // 2. Define the expected type. We expect a list of ProductDto objects.
+        $type = Type::list(Type::object(ProductDto::class));
+
+        // 3. Use the StreamReader to read directly from the
+        //    HttpClient Response object. This is memory-efficient.
+        $products = $this->streamReader->read($response, $type);
+
+        $count = 0;
+
+        // 4. $products is a generator. We iterate over it.
+        //    Each $product is a fully-formed ProductDto.
+        foreach ($products as $product) {
+            // $product is an instance of ProductDto
+            // Do work here, like saving to a local DB.
+            $count++;
+        }
+
+        return $count;
+    }
+}
+\
+To test this, we can create a “fake” API endpoint in a controller that streams a large JSON response.// src/Controller/MockProductApiController.php
+namespace App\Controller;
+
+use Symfony\Component\HttpFoundation\StreamedResponse;
+use Symfony\Component\Routing\Attribute\Route;
+
+class MockProductApiController
+{
+    #[Route('/products/all-stream', name: 'mock_api_stream')]
+    public function streamAllProducts(): StreamedResponse
+    {
+        $response = new StreamedResponse();
+        $response->headers->set('Content-Type', 'application/json');
+
+        $response->setCallback(function () {
+            echo '[';
+            // Simulate 500,000 product objects
+            for ($i = 0; $i < 500_000; $i++) {
+                echo json_encode([
+                    'sku' => 'SKU-' . $i,
+                    'name' => 'Product ' . $i,
+                    'price' => mt_rand(10, 1000)
+                ]);
+                if ($i < 499_999) {
+                    echo ',';
+                }
+                flush(); // Flush output buffer
+            }
+            echo ']';
+        });
+
+        return $response;
+    }
+}
+\
+If you run your  (e.g., from a command) and monitor , you’ll find it stays incredibly low, no matter if you stream  or . If you had tried this with $response->toArray(), the script would have crashed.Building a Bulletproof Client (Retries & a Manual Circuit Breaker)Resilience is paramount. When a downstream API fails, your app shouldn’t fail with it. HttpClient provides  out of the box, but we can go further.\
+The First Line of Defense (RetryableHttpClient)This is the easy part.  is a decorator that wraps your client and automatically retries requests that fail with specific status codes (like , ) or .\
+We just need to update our service definition in :# config/services.yaml
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+
+    # 1. Define the retry strategy
+    App\HttpClient\ProductApiRetryStrategy:
+        factory: [Symfony\Component\HttpClient\Retry\GenericRetryStrategy, 'decide']
+        arguments:
+            - [503, 504] # HTTP codes to retry
+            - 1000        # Delay in ms (1s)
+            - 2.0         # Multiplier (1s, 2s, 4s)
+            - 60000       # Max delay (60s)
+            - 0.5         # Jitter (randomness)
+
+    # 2. Decorate our scoped client to make it retryable
+    product_api.client.retryable:
+        class: Symfony\Component\HttpClient\RetryableHttpClient
+        decorates: product_api.client
+        arguments:
+            - '@.inner' # The decorated service (product_api.client)
+            - '@App\HttpClient\ProductApiRetryStrategy'
+            - 3 # Max retries
+\
+That’s it. Now, any service autowiring #[Autowire(service: ‘product_api.client’)] will actually get the retryable one. If the API returns a 503 Service Unavailable, our client will automatically wait 1s, retry, wait 2s, retry, wait 4s, retry, and only then fail.Retries are great, but what if the API is hard down? Retrying 3 times for every single request will bog down our own app. We’ll be “hammering a dead service.”\
+This is the job of the . It monitors failures, and if they pass a threshold, it “opens the circuit” — failing instantly for all subsequent requests for a set period, giving the downstream service time to recover.\
+Symfony does not have a built-in symfony/circuit-breaker component or CircuitBreakerHttpClient decorator. Many developers assume it does. This provides a perfect opportunity to demonstrate the power of service decoration by building one ourselves using .composer require symfony/cache
+\
+First, we create our decorator. It must implement  to be a valid decorator.// src/HttpClient/CircuitBreakerClient.php
+namespace App\HttpClient;
+
+use Psr\Cache\CacheItemPoolInterface;
+use Psr\Log\LoggerInterface;
+use Symfony\Component\DependencyInjection\Attribute\AsDecorator;
+use Symfony\Component\DependencyInjection\Attribute\Autowire;
+use Symfony\Component\HttpClient\Exception\TransportException;
+use Symfony\Contracts\HttpClient\HttpClientInterface;
+use Symfony\Contracts\HttpClient\ResponseInterface;
+use Symfony\Contracts\HttpClient\ResponseStreamInterface;
+
+// This attribute automatically configures the service decoration
+#[AsDecorator(decorates: 'product_api.client.retryable', priority: 10)]
+readonly class CircuitBreakerClient implements HttpClientInterface
+{
+    private const STATE_CLOSED = 'closed';
+    private const STATE_OPEN = 'open';
+    private const FAILURE_THRESHOLD = 5; // Open circuit after 5 failures
+    private const OPEN_TTL = 60; // Stay open for 60 seconds
+
+    public function __construct(
+        // #[AutowireDecorated] is not needed because we specify the ID above
+        #[Autowire(service: '.inner')]
+        private HttpClientInterface $inner,
+        #[Autowire(service: 'cache.app')]
+        private CacheItemPoolInterface $cache,
+        private LoggerInterface $logger
+    ) {
+    }
+
+    public function request(string $method, string $url, array $options = []): ResponseInterface
+    {
+        if ($this->isOpen()) {
+            $this->logger->warning('Circuit breaker is OPEN for product_api');
+            throw new TransportException('Circuit breaker is open', 0);
+        }
+
+        try {
+            $response = $this->inner->request($method, $url, $options);
+
+            // This is a lazy check. We must get the status code to trigger potential exceptions.
+            $response->getStatusCode(); 
+
+            // Request was successful, reset failure count
+            $this->resetFailures();
+
+            return $response;
+        } catch (\Exception $e) {
+            // Request failed, record it
+            $this->recordFailure();
+            throw $e;
+        }
+    }
+
+    private function isOpen(): bool
+    {
+        $state = $this->cache->getItem('product_api.circuit.state');
+        return $state->isHit() && $state->get() === self::STATE_OPEN;
+    }
+
+    private function recordFailure(): void
+    {
+        $failuresItem = $this->cache->getItem('product_api.circuit.failures');
+        $failures = $failuresItem->isHit() ? $failuresItem->get() : 0;
+        $failures++;
+
+        if ($failures >= self::FAILURE_THRESHOLD) {
+            // Open the circuit!
+            $stateItem = $this->cache->getItem('product_api.circuit.state');
+            $stateItem->set(self::STATE_OPEN);
+            $stateItem->expiresAfter(self::OPEN_TTL);
+            $this->cache->save($stateItem);
+
+            // Clear the failure count
+            $this->cache->deleteItem('product_api.circuit.failures');
+            $this->logger->critical('Circuit breaker OPENED for product_api');
+        } else {
+            // Just save the new failure count
+            $failuresItem->set($failures);
+            $this->cache->save($failuresItem);
+        }
+    }
+
+    private function resetFailures(): void
+    {
+        $this->cache->deleteItem('product_api.circuit.failures');
+    }
+
+    // --- Must implement all other interface methods ---
+
+    public function stream(ResponseInterface|iterable $responses, ?float $timeout = null): ResponseStreamInterface
+    {
+        // For brevity, we don't add circuit breaker logic to stream()
+        // In a real app, you would.
+        return $this->inner->stream($responses, $timeout);
+    }
+
+    public function withOptions(array $options): static
+    {
+        $clone = clone $this;
+        $clone->inner = $this->inner->withOptions($options);
+        return $clone;
+    }
+}
+\
+(Note: This is a simple implementation. A production-grade one would also include a .)\
+Because we used the  attribute, we don’t even need to touch ! Our decoration chain is now:ProductService -> CircuitBreakerClient -> RetryableHttpClient -> NativeHttpClient
+\
+If the API fails 5 times (after all retries), the  will open the circuit and fail-fast for 60 seconds, protecting our app.Automated OAuth2 (Managing Tokens with AccessTokenHttpClient)You’re consuming an OAuth2-protected API. You have a token, but it expires in one hour. Your code is littered with this:$token = $this->cache->get('api_token');
+if ($token->isExpired()) {
+    $token = $this->fetchNewToken();
+    $this->cache->save($token);
+}
+$this->client->request('GET', '/data', [
+    'auth_bearer' => $token->getValue()
+]);
+\
+This is manual, repetitive, and error-prone.\
+Use AccessTokenHttpClient. This is another built-in decorator that takes a callable responsible for providing a valid token. It doesn’t know how you get the token; it just knows who to ask.\
+We’ll create a dedicated service to manage token fetching and caching.// src/Service/OAuthTokenProvider.php
+namespace App\Service;
+
+use Psr\Cache\CacheItemPoolInterface;
+use Symfony\Component\DependencyInjection\Attribute\Autowire;
+use Symfony\Contracts\HttpClient\HttpClientInterface;
+
+readonly class OAuthTokenProvider
+{
+    public function __construct(
+        // We need a *different* client for auth, one that isn't
+        // decorated with auth itself, or we'll get an infinite loop!
+        #[Autowire(service: 'product_api.auth_client')]
+        private HttpClientInterface $authClient,
+        #[Autowire(service: 'cache.app')]
+        private CacheItemPoolInterface $cache
+    ) {
+    }
+
+    public function getToken(): string
+    {
+        // $cache->get() handles checking for existence and expiration
+        return $this->cache->get('product_api.oauth_token', function ($item) {
+            $this->logger->info('Fetching new OAuth2 token...');
+
+            // Set TTL, e.g., 55 minutes for a 1-hour token
+            $item->expiresAfter(3300); 
+
+            $response = $this->authClient->request('POST', '/token', [
+                'json' => [
+                    'client_id' => '%env(CLIENT_ID)%',
+                    'client_secret' => '%env(CLIENT_SECRET)%',
+                    'grant_type' => 'client_credentials'
+                ]
+            ]);
+
+            return $response->toArray()['access_token'];
+        });
+    }
+}
+\
+Now, we wire it all up in . This time, we can’t use attributes because the configuration is too complex.# config/services.yaml
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+
+    # ... other services ...
+
+    # The token provider service
+    App\Service\OAuthTokenProvider: ~
+
+    # 1. The unauthenticated client used *only* for getting the token
+    product_api.auth_client:
+        parent: 'http_client.abstract'
+        arguments:
+            - base_uri: 'https://auth.my-store.com/' # Note: different host!
+
+    # 2. Our main 'product_api.client'
+    #    (This is the service ID from framework.yaml)
+    product_api.client: ~
+
+    # 3. The retryable decorator (from before)
+    product_api.client.retryable:
+        class: Symfony\Component\HttpClient\RetryableHttpClient
+        decorates: product_api.client
+        arguments:
+            - '@.inner'
+            - '@App\HttpClient\ProductApiRetryStrategy'
+            - 3
+
+    # 4. The NEW AccessTokenHttpClient
+    #    It decorates the *retryable* client
+    product_api.client.authed:
+        class: Symfony\Component\HttpClient\AccessTokenHttpClient
+        decorates: product_api.client.retryable # Decorates the decorator!
+        arguments:
+            $client: '@.inner'
+            # This is the magic: we pass our service's method as a callable
+            $getToken: '[@App\Service\OAuthTokenProvider, "getToken"]'
+            # We must also define the auth strategy (e.g., Bearer header)
+            $strategy: !php/object:Symfony\Component\HttpClient\Header\HeaderStrategy {
+                type: 'Bearer'
+            }
+\
+Now, any service that uses the productapi.client will actually get . When it makes its first request,  will call OAuthTokenProvider::getToken(). This will fetch and cache the token. All subsequent requests will use the cached token until the cache expires, at which point it will automatically fetch a new one.\
+Your application code becomes blissfully simple: $this->client->request(‘GET’, ‘/data’); It has no idea the complex token management happening under the hood.Advanced Testing (Dynamic & Sequential Mocking)You need to test a service that makes HTTP calls. The standard  is fine for a single response, but what if your service:Then makes a  request using data from the .\
+You need to assert the sequence of calls and validate the body of the POST.\
+Use a Generator or callable as the  factory.// tests/Service/ProductServiceTest.php
+namespace App\Tests\Service;
+
+use App\Service\ProductService;
+use Symfony\Bundle\FrameworkBundle\Test\KernelTestCase;
+use Symfony\Component\HttpClient\MockHttpClient;
+use Symfony\Component\HttpClient\Response\MockResponse;
+
+class ProductServiceTest extends KernelTestCase
+{
+    public function testProductUpdateFlow(): void
+    {
+        // 1. Define the response factory as a generator
+        $responseFactory = function (): \Generator {
+
+            // 1st Yield: The GET /products/1 response
+            yield new MockResponse(json_encode([
+                'id' => 1,
+                'name' => 'Old Name',
+                'price' => 10.0
+            ]));
+
+            // 2nd Yield: A callable to validate the 2nd request (the POST)
+            yield function (string $method, string $url, array $options): MockResponse {
+                // Assert the request *itself* is correct
+                self::assertSame('POST', $method);
+                self::assertSame('https://api.my-store.com/products/1/update', $url);
+
+                self::assertJsonStringEqualsJsonString(
+                    '{"name":"New Name","price":12.5}',
+                    $options['body']
+                );
+
+                // Return the response for the POST
+                return new MockResponse(
+                    json_encode(['status' => 'success', 'id' => 1]),
+                    ['http_code' => 200]
+                );
+            };
+        };
+
+        // 2. Create the MockHttpClient with our generator
+        $mockClient = new MockHttpClient($responseFactory);
+
+        // 3. Get the real service from the container and inject the mock
+        //    (Or just instantiate it manually)
+        self::bootKernel();
+        $container = static::getContainer();
+
+        // You could use service decoration in test env,
+        // but for unit tests, manual instantiation is clearer.
+        $productService = new ProductService($mockClient);
+
+        // 4. Run the service method that makes both calls
+        $result = $productService->updateProductName(1, 'New Name', 12.5);
+
+        self::assertTrue($result);
+
+        // 5. Assert that all expected mock responses were used
+        self::assertSame(0, $mockClient->getRequestsCount());
+    }
+}
+This test now provides 100% confidence. It confirms that your service not only makes the calls, but makes them in the right order, with the right data, and handles the responses correctly — all without ever touching a real network.The  is far more than a simple wrapper around curl. It’s a sophisticated, extensible, and production-ready toolkit for building modern, distributed applications.\
+We’ve seen how to break out of the serial “foreach” trap with concurrent streaming, how to handle massive files with the new symfony/json-streamer, and how to build a truly resilient client with retries and a manual circuit breaker. We’ve automated complex OAuth2 token management and written powerful, dynamic unit tests to verify it all.\
+By moving beyond the regular request() call, you can leverage the full power of this component to build applications that are not just functional, but fast, memory-efficient, and bulletproof.\
+I’d love to hear your thoughts in comments!\
+Stay tuned — and let’s keep the conversation going.]]></content:encoded></item><item><title>Who are AI browsers for?</title><link>https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/</link><author>Anthony Ha</author><category>tech</category><pubDate>Sat, 25 Oct 2025 16:51:36 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[OpenAI launched an AI-powered browser this week, but it feels like it offers a slight efficiency gain at best.]]></content:encoded></item><item><title>How I Spinned up an Onion Mirror: It&apos;s Stupidly Easy</title><link>https://hackernoon.com/how-i-spinned-up-an-onion-mirror-its-stupidly-easy?source=rss</link><author>Zachary Flower</author><category>tech</category><pubDate>Sat, 25 Oct 2025 16:12:27 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[I recently spun up a .onion mirror of my website.\
+Why? Because why not? And also because I can. Oh, and free speech and anti-censorship and all that jazz.\
+I'd like to pretend that it was some grand technological challenge, but if I'm being entirely candid, it was like 3 commands and 4 lines of configuration.\
+If you, too, would like to become a member of the dark web, here's how I did it:Before we jump into the "how" of it all, I should probably provide a brief overview of what my stack looked like before I entered The Onionverse:: I've been using Caddy for a few years now because it's significantly easier to configure than Nginx or Apache, and it has first-class support for modern web features like automatic HTTPS via Let's Encrypt.: My site is hosted on a VPS from DigitalOcean, which gives me full control over the server environment. It's supposed to cost $4/mo, but I'm taking some classes at Ye Olde Community College, so I have a few years of credits to cover the cost.: My server runs Debian. I like Debian. If you aren't using an apt-based distro, then you'll need to adjust the package installation commands accordingly (but the Tor and Caddy configurations should be the same).First things first, we need to install Tor. On Debian, it's right in the default repositories:sudo apt update
+sudo apt install tor
+Next, we need to configure Tor to create a hidden service for our website. Open the Tor configuration file () in your favorite CLI text editor (it better be , or you are dead to me). I have no interest in running a relay or exit node on my VPS, so I made some minimal changes to the config file, which should look something like this (comments removed for clarity):# Disable SOCKS proxy since we aren't making outbound connections
+# through Tor
+SocksPort 0
+
+# Make sure Tor runs as a daemon (i.e. in the background)
+RunAsDaemon 1
+
+# Setup the hidden service on port 80, this is where we tell Tor to 
+# create a .onion service for our web server
+HiddenServiceDir /var/lib/tor/hidden_service/
+HiddenServicePort 80
+
+# Disable inbound connections, since we aren't running a relay or
+# exit node
+ORPort 0
+
+# Disable directory services, since we won't be mirroring directory
+# information to other Tor nodes
+DirPort 0
+\
+That's it. Everything else should be commented out using  characters.Now, we need to restart the Tor service to apply our changes:sudo systemctl restart tor
+4. Get Your .onion AddressAfter Tor restarts, it will generate a new hidden service for us. We can find our new .onion address in the  we specified earlier (/var/lib/tor/hidden_service/). This directory is only readable by the  user, so we'll need to use  to read the  file inside:sudo cat /var/lib/tor/hidden_service/hostname
+\
+What will be printed to the terminal is your new .onion address. It should look something like this:jytkco7clxwj4hhzaydhk4kr3hwzsdzyvtsc6zn2ivog5uma5pxowzad.onion
+My Caddy server serves my website on port 80 without any IP or domain restrictions, so I don't need to make any changes to my Caddy configuration, however, if you explicitly set up your Caddy server to only respond to certain domains or IP addresses, you'll need to add a new site block for your .onion address, which will look something like this:http://jytkco7clxwj4hhzaydhk4kr3hwzsdzyvtsc6zn2ivog5uma5pxowzad.onion:80 {
+  # Set up a reverse proxy, or serve static files, etc.
+}
+\
+Because you can't get HTTPS certificates for .onion addresses, you'll need to serve your site over plain HTTP. I'm not sure if this is generally considered acceptable within the Tor network (maybe one of my tens of readers can enlighten me), but I don't require HTTPS for my site anyway, so it works for my purposes.6. (Optional) Advertise Your .onion AddressIf you want people to find your .onion site, you'll need to advertise it somewhere. I'm a fan of subtlety, so I set up an  header on my main site that points to my .onion address. This way, anyone visiting my regular site with a Tor-enabled browser will automatically be informed of the existence of my .onion mirror without any intrusive pop-ups, banners, or additional UI elements.\
+To do this, you'll want to add a header to your main Caddy site block like so:header {
+  Onion-Location http://jytkco7clxwj4hhzaydhk4kr3hwzsdzyvtsc6zn2ivog5uma5pxowzad.onion{uri}
+}
+\
+The reason I tack on that  at the end is so that if someone visits a specific page on my main site (e.g. https://flower.codes/some-post), the  header will point them to the equivalent page on my .onion site (http://jytkco7clxwj4hhzaydhk4kr3hwzsdzyvtsc6zn2ivog5uma5pxowzad.onion/some-post), which (at least to me) adds some polish to the experience.\
+At this point, your .onion mirror should be up and running. You can test it out by visiting your .onion address in any Tor-enabled browser (like the Tor Browser or even Brave, which has built-in Tor support).]]></content:encoded></item><item><title>The HackerNoon Newsletter: Best AI Visibility Tools for 2025 (10/25/2025)</title><link>https://hackernoon.com/10-25-2025-newsletter?source=rss</link><author>Noonification</author><category>tech</category><pubDate>Sat, 25 Oct 2025 16:02:29 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[🪐 What’s happening in tech today, October 25, 2025?By @aifundingtracker [ 8 Min read ] AI startups raised over $4.1 billion this week, with watershed moments in open-source AI, legal technology, and energy infrastructure. Read More.By @sidsaladi [ 19 Min read ] Perplexity’s Comet browser changed how I work—AI-powered, distraction-free, and built for productivity, not ad clicks. Read More.By @erikronson [ 8 Min read ] An exhaustive guide to AI visibility tools written by someone who has tried all of them. Read More.By @aifundingtracker [ 9 Min read ] AI startups raised over $2.4 billion this week across enterprise infrastructure, healthcare innovation, and fintech.  Read More.By @@javar97 [ 10 Min read ] A 7-step checklist for developers to use AI tools effectively—without creating low-quality “slop.” Build, test, and scale with discipline. Read More.🧑‍💻 What happened in your world this week?We hope you enjoy this worth of free reading material. Feel free to forward this email to a nerdy friend who'll love you for it.See you on Planet Internet! With love, 
+ The HackerNoon Team ✌️]]></content:encoded></item><item><title>Some Startups Are Demanding 12-Hour Days, Six Days a Week from Workers</title><link>https://it.slashdot.org/story/25/10/25/0840227/some-startups-are-demanding-12-hour-days-six-days-a-week-from-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 25 Oct 2025 15:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[The Washington Post reports on 996, "a term popularized in China that refers to a rigid work schedule in which people work from 9 a.m. to 9 p.m., six days a week..."
+
+
+As the artificial intelligence race heats up, many start-ups in Silicon Valley and New York are promoting hardcore culture as a way of life, pushing the limits of work hours, demanding that workers move fast to be first in the market. Some are even promoting 996 as a virtue in the hiring process and keeping "grind scores" of companies... Whoever builds first in AI will capture the market, and the window of opportunity is two to three years, "so you better run faster than everyone else," said Inaki Berenguer, managing partner of venture-capital firm LifeX Ventures. 
+
+At San Francisco-based AI start-up Sonatic, the grind culture also allows for meal, gym and pickleball time, said Kinjal Nandy, its CEO. Nandy recently posted a job opening on X that requires in-person work seven days a week. He said working 10-hour days sounds like a lot but the company also offers its first hires perks such as free housing in a hacker house, food delivery credits and a free subscription to the dating service Raya... Mercor, a San Francisco-based start-up that uses AI to match people to jobs, recently posted an opening for a customer success engineer, saying that candidates should have a willingness to work six days a week, and it's not negotiable. "We know this isn't for everyone, so we want to put it up top," the listing reads. 
+
+
+Being in-person rather than remote is a requirement at some start-ups. AI start-up StarSling had two engineering job descriptions that required six days a week of in-person work. In a job description for an engineer, Rilla, an AI company in New York, said candidates should not work at the company if they're not excited about working about 70 hours a week in person. One venture capitalist even started tracking "grind scores." Jared Sleeper, a partner at New York-based venture capital firm Avenir, recently ranked public software companies' "grind score" in a post on X, which went viral. Using data from Glassdoor, it ranks the percentage of employees who have a positive outlook for the company compared with their views on work-life balance.
+ 
+
+"At Google's AI division, cofounder Sergey Brin views 60 hours per week as the 'sweet spot' for productivity," notes the Independent:
+
+
+Working more than 55 hours a week, compared with a standard 35-40-hour week, is linked to a 35 percent higher risk of stroke and a 17 percent higher risk of death from heart disease, according to the World Health Organization. Productivity also suffers. A British study shows that working beyond 60 hours a week can reduce overall output, slow cognitive performance, and impair tasks ranging from call handling to problem-solving. 
+
+Shorter workweeks, in contrast, appear to boost productivity. Microsoft Japan saw a roughly 40% increase in output after adopting a four-day work week. In a UK trial, 61 companies that tested a four-day schedule reported revenue gains, with 92 percent choosing to keep the policy, according to Bloomberg.
+
+]]></content:encoded></item><item><title>TikTok robot star Rizzbot gave me the middle finger</title><link>https://techcrunch.com/2025/10/25/tiktok-robot-star-rizzbot-gave-me-the-middle-finger/</link><author>Dominic-Madori Davis</author><category>tech</category><pubDate>Sat, 25 Oct 2025 15:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[About a week ago, I woke to a dizzying DM on Instagram — Rizzbot flipping me off. This sent me down a rabbit hole  about humanoids in society. ]]></content:encoded></item><item><title>Myanmar Military Shuts Down a Major Cybercrime Center and Detains Over 2,000 People</title><link>https://yro.slashdot.org/story/25/10/25/1258252/myanmar-military-shuts-down-a-major-cybercrime-center-and-detains-over-2000-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 25 Oct 2025 14:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[An anonymous reader shares this report from the Associated Press:
+
+
+Myanmar's military has shut down a major online scam operation near the border with Thailand, detaining more than 2,000 people and seizing dozens of Starlink satellite internet terminals, state media reported Monday... The centers are infamous for recruiting workers from other countries under false pretenses, promising them legitimate jobs and then holding them captive and forcing them to carry out criminal activities. 
+
+Scam operations were in the international spotlight last week when the United States and Britain enacted sanctions against organizers of a major Cambodian cyberscam gang, and its alleged ringleader was indicted by a federal court in New York. According to a report in Monday's Myanma Alinn newspaper, the army raided KK Park, a well-documented cybercrime center, as part of operations starting in early September to suppress online fraud, illegal gambling, and cross-border cybercrime.
+]]></content:encoded></item><item><title>India, the market BlaBlaCar once walked away from, is now its biggest</title><link>https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/</link><author>Jagmeet Singh</author><category>tech</category><pubDate>Sat, 25 Oct 2025 14:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[BlaBlaCar is seeing rapid growth in India, with 20 million passengers expected this year — up 50% from last year.]]></content:encoded></item><item><title>TikTok Wrongfully Banned Her Account: How Decisions Like These Impact Creators</title><link>https://hackernoon.com/tiktok-wrongfully-banned-her-account-how-decisions-like-these-impact-creators?source=rss</link><author>The Markup</author><category>tech</category><pubDate>Sat, 25 Oct 2025 13:45:02 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[\
+I’m Maria, The Markup’s community and social media manager and occasionalreporter. In this role, I often think about how social media giants could cut off our access to our audience from one day to the next.\
+But what does this reality mean for people whose personal accounts are connected to their livelihood? This week, I joined forces with Rachel Auslander to pursue a reader tip about a TikToker with a disability whose access to the platform was suddenly pulled away.\
+TikTok thought that Violet Elliot, who advocates for better dwarfism representation through her account, didn’t meet the platform’s age requirements and subsequently banned her. To understand how platforms’ decisions can impact the people on them, we spoke to Elliot directly. Our conversation has been edited and organized for brevity and clarity.\
+Maria: For readers who haven’t seen your TikTok content, what do you create and what does the platform mean to you?Violet: I create dwarfism and disability content sharing my experience as a little person, as well as commenting on representation of dwarfism in pop culture and the entertainment industry. I’ve spent a year and a half building up my platform and had 87,000 followers before I was banned.\
+My main goal was to create a platform for education. I’ve had so many people come to me and say that I’ve changed their perspective on people with dwarfism, or that they used to use harmful language and no longer do so because of my videos. The fact that I was making change through my TikTok platform is really important to me.\
+What happened to your account?Violet: Everything seemed normal last Saturday night. Then I woke up on Sunday morning and was told that my account was banned. When I opened the app, a pop-up notification said “Your account is banned because it looks like you do not meet the age requirement to use TikTok. Your account will be deleted on June 3, 2024. If this is a mistake and you are at least 13 years old, you can appeal before May 27, 2024. You can also download your data before May 27, 2024.”Once I went to appeal it, I was logged out of my account. I had to take a photo of my ID, as well as a separate photo of me holding the ID along with a code that TikTok gave me. I tried logging back in and it just said your appeal has been submitted and we will contact you with more information.\
+I felt stressed and then that stress translated into anger over the course of the day. And then, eventually, my anger turned into sadness. And I’m trying not to get too sad. I’m trying to stay angry so that I can use that anger and turn it into action.\
+Maria: Is this the first time your account has been flagged in this way?Violet: It’s the first time my account has been banned, but this has happened to a few of my friends with dwarfism. The platform assumed that they didn’t meet the age requirements.\
+I’m guessing that people may have reported me and just selected that I’m underage. Another friend with dwarfism had this happen: They went viral last year after calling out a creator with a big following for making an ableist joke. The creator’s die-hard supporters got angry and mass reported my friend, who lost their account even though they didn’t do anything wrong.\
+The thing that frustrates me is that there’s no transparency when you get banned. You can’t go and talk to a human being and try to sort this out. You can appeal it and that’s pretty much all you can do. And if your appeal doesn’t go through, then I guess too bad.\
+Maria: When did you decide to create a “backup” account and post a video about what happened there? What has the reaction been like?Violet: As soon as I submitted the appeal I posted a video on my backup account, @hi.itsnotvi. I made that backup account last year after my friend’s account was taken down.\
+Then I went out for the day on Sunday and my friends suggested reaching out to the media. That’s when I made a second video, the one that kind of got popular. A lot of people are tagging TikTok and asking the platform to address ableism. A lot of people are happy that they’ve found my account again and have been really helpful in engaging with the video to get it on the For You page and garner attention.\
+I think it’s a lot of people who see this as an unjust action on TikTok’s part and I’m glad that I still have people trying to find me and wanting to support me.\
+Maria: What does losing access to your TikTok account mean to you?Violet: Every day that I don’t get my TikTok account back is an opportunity that’s lost. When I want to attend an event or set up a meeting with a certain individual, I can pitch myself by using my follower count as leverage and potentially offer them my platform to promote their event or product. When I don’t have a platform, I can’t pitch myself.\
+I’ve been thinking about how often this happens to disabled people. Where they’re just existing on a social media platform and then they’re gone because someone is offended by their existence.\
+I’m very lucky that I work outside of TikTok, but not every disabled person has the privilege to work a nine-to-five job. If they build a brand on social media, and their social media platform gets taken away, there’s a chance that their livelihood and their income gets affected. I think it’s ridiculous that we can only appeal the decision and just hope for the best.\
+Maria: In your video, you mention facing ableism on the platform more broadly. Could you speak to that?Violet: There’s much more positivity on TikTok than negativity. But people say really mean things on the platform. They resort to attacking my appearance or calling me the “m” word, which is an ableist slur that’s used to describe people with dwarfism. I’ve blocked that word on TikTok so those comments get filtered, luckily. Sometimes I get threats as well.\
+There’s subtle ableism and then there’s straight up ableism. Some of the comments that are obviously ableism get taken down. But a lot of the time TikTok says that there’s nothing wrong with these comments. Often in my experience, my responses speaking out against ableism get taken down but the comments themself don’t.\
+I want TikTok to take ableism a lot more seriously.\
+Maria: What is the first thing you’d do if you get your account back, have you thought about that?Violet: I have. I think I’m going to basically reiterate the things that I said in the video on my backup account, and highlight that TikTok is not taking ableism seriously and that this is really affecting disabled creators.\
+Even if I don’t get my account back, I think this is an opportunity to make people aware that when a disabled person gets banned, or any marginalized creator gets banned, it really affects their livelihood.The day after our interview, Violet’s account was reinstated—but something was off. Once Violet regained access to her account and scrolled through her profile, she noticed that video after video had been taken down and marked with the label “Community Guidelines Violation.” All in all, these removals amounted to nearly 500 of the more than 600 videos she’s published. The platform did not specify what about each of these videos violated the community guidelines, nor provide a way for Violet to appeal the decision.\
+TikTok spokesperson Mahsau Cullinane said that the company is working on restoring Violet’s videos.Community and Social Media Manager]]></content:encoded></item><item><title>Resources 1.9 Brings Intel Xe GPU Support &amp; Other System Resource Monitoring For GNOME</title><link>https://www.phoronix.com/news/GNOME-Resources-1.9</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 25 Oct 2025 13:11:49 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Resources is the open-source app aligned with GNOME/GTK for system resource monitoring. Resources has proven to be quite versatile with a nice UI and able to display CPU, GPU, NPU, disk, and other metrics. Out today is Resources 1.9 with the latest capabilities for this app...]]></content:encoded></item><item><title>The glaring security risks with AI browser agents</title><link>https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/</link><author>Maxwell Zeff</author><category>tech</category><pubDate>Sat, 25 Oct 2025 12:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks.]]></content:encoded></item><item><title>NVIDIA Starts Posting Open-Source Nova Driver Patches To Prep For Next-Gen GPUs</title><link>https://www.phoronix.com/news/NVIDIA-Nova-Next-Gen-Boot42</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 25 Oct 2025 10:29:00 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[NVIDIA is taking the open-source and upstream "Nova" kernel graphics driver quite seriously for their hardware. Hitting the mailing lists on Friday night were initial patches in beginning to make preparations toward "next-gen GPU" support. Digging into the comments, it's indeed for post-Blackwell GPUs...]]></content:encoded></item><item><title>Servo&apos;s Demo Browser Adds Experimental Mode &amp; More Performance Improvements</title><link>https://www.phoronix.com/news/Servo-September-2025-Highlights</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 25 Oct 2025 10:13:54 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[The Servo open-source browser engine is out with their September 2025 development highlights. This Rust-based browser engine originally started by Mozilla continues making steady progress as well as to the "servoshell" demo/example browser implementation...]]></content:encoded></item><item><title>KDE Plasma 6.6 Will Cater To Windows Power Users With &quot;winver&quot;</title><link>https://www.phoronix.com/news/KDE-Plasma-6.6-winver</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 25 Oct 2025 10:05:24 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Plasma 6.5 debuted this week that KDE developers and users have been celebrating. But it's already on to working out fixes for Plasma 6.5.1 as well as new feature activity toward Plasma 6.6...]]></content:encoded></item><item><title>EA Partners With Company Behind Stable Diffusion To Make Games With AI</title><link>https://games.slashdot.org/story/25/10/25/0132252/ea-partners-with-company-behind-stable-diffusion-to-make-games-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Sat, 25 Oct 2025 10:00:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[Electronic Arts (EA) has partnered with Stability AI, creator of Stable Diffusion, to co-develop generative AI tools aimed at accelerating game development. "I use the term smarter paintbrushes," Steve Kestell, Head of Technical Art for EA SPORTS said in the announcement. "We are giving our creatives the tools to express what they want." Engadget reports: To start, the "smarter paintbrushes" EA and Stability AI are building are concentrated on generating textures and in-game assets. EA hopes to create "Physically Based Rendering materials" with new tools "that generate 2D textures that maintain exact color and light accuracy across any environment." The company also describes using AI to "pre-visualize entire 3D environments from a series of intentional prompts, allowing artists to creatively direct the generation of game content."]]></content:encoded></item><item><title>FreeBSD 15.0 Beta 3 Brings Working Support For MediaTek MT76 WiFi</title><link>https://www.phoronix.com/news/FreeBSD-15.0-Beta-3</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 25 Oct 2025 09:45:15 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[The newest weekly test release of the FreeBSD 15.0 is now available for evaluation ahead of the planned December official release...]]></content:encoded></item><item><title>China&apos;s Zhuque-3 Reusable Rocket Passes Key Milestone</title><link>https://science.slashdot.org/story/25/10/25/0126203/chinas-zhuque-3-reusable-rocket-passes-key-milestone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Sat, 25 Oct 2025 07:00:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[China's private space company LandSpace has completed a key static fire test of its Zhuque-3 (ZQ-3) reusable rocket -- a stainless-steel, methane-fueled launcher modeled after SpaceX's Starship. Universe Today reports: The latest milestone took place on Monday, Oct. 22nd at the Dongfeng commercial space innovation pilot zone (where the JSLC is located). It involved another static fire test, where the rocket was fully-fueled but remained fixed to the launch pad while the engines were fired. This kind of testing is a crucial prelaunch trial (what NASA refers to as a "wet dress rehearsal"), and places the company and China another step closer to making an inaugural flight test, which is expected to happen by the fourth quarter of 2025.
+ 
+In traditional Chinese, Zhuque is the name of the Vermillion Bird that represents fire, the south, and summer, and is one of the four Symbols of the Chinese constellations. Like the Starship, the Zhuque-3 is composed of stainless steel and relies on a combination of liquid methane (LCH4) and liquid oxygen (LOX) propellant. The rocket will be powered by nine Tianque-12A (TQ-12A) engines and will measure 65.9 m (216 ft) tall and weigh 550,000 kg (1,210,000 lb). It's payload capacity will be significantly less than the Starship: 11,800 kg (26,000 lbs) in its expendable mode, and 8,000 kg (18,000 lbs) for the recoverable version. This is closer in payload capacity to the Falcon 9, which is capable of delivering 22,800 kg (50,265 lbs) to Low Earth Orbit (LEO).
+ 
+In time, the company hopes to transition to the larger Zhuque-3E, which will be 76.2 m (250 ft) tall and powered by nine TQ-12B engines, and will be capable of delivering to 21,000 kg (46,000 lb) in its expandable mode and 18,300 kg (40,300 lb) recoverable. The long term goal is to create a reusable system that can rival the Falcon rocket family, bringing the country closer to its goal of achieving parity with NASA.]]></content:encoded></item><item><title>Musk’s ad chief at X departs after just 10 months</title><link>https://techcrunch.com/2025/10/24/musks-ad-chief-at-x-departs-after-just-10-months/</link><author>Connie Loizos</author><category>tech</category><pubDate>Sat, 25 Oct 2025 06:46:38 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The revolving door reportedly reflects deeper tensions.]]></content:encoded></item><item><title>The TechBeat: Introducing Agentic Postgres, the Database for AI Agents (10/25/2025)</title><link>https://hackernoon.com/10-25-2025-techbeat?source=rss</link><author>Techbeat</author><category>tech</category><pubDate>Sat, 25 Oct 2025 06:11:06 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[By @studyagent [ 2 Min read ] 
+ StudyPro has officially rebranded to StudyAgent, signaling its evolution into a complete AI-powered study assistant for students, educators, and researchers. Read More.By @erikronson [ 8 Min read ] 
+ An exhaustive guide to AI visibility tools written by someone who has tried all of them. Read More.By @sidsaladi [ 19 Min read ] 
+ Perplexity’s Comet browser changed how I work—AI-powered, distraction-free, and built for productivity, not ad clicks. Read More.By @lcarrere [ 12 Min read ] 
+ LM-Kit .NET SDK now supports tool calling for building AI agents in C#.  Read More.By @sandramitchell [ 3 Min read ] 
+ X-VPN’s internal review finds no user data leaks in Blind In/On-Path tests; Android routing behavior, not VPN flaws, caused observed signals. Read More.By @escholar [ 4 Min read ] 
+ UBI promised to protect workers from automation. But real-world experiments reveal its flaws—and point to smarter policy alternatives. Read More.By @nofacetoolsai [ 4 Min read ] 
+ Discover Grokipedia; Elon Musk's bold challenge to Wikipedia. Explore how this open-source knowledge repository could reshape the future of information and AI. Read More.By @ujutheanalyst [ 3 Min read ] 
+ ChatGPT isn’t magic  it’s a mirror for how we think. I have learned that better prompts aren’t about hacks, they are about precision,patience and fine tuning Read More.By @amanila [ 59 Min read ] 
+ Know system design fundamentals: UX components, databases, scaling strategies, security & compliance. Essential guide for developers & system design interviews. Read More.By @id [ 5 Min read ] 
+ The dominance of a few large firms exemplifies an oligopolistic market structure. These companies have significant market power, allowing them to set prices  Read More.By @neomatrix369 [ 3 Min read ] 
+ Complete guide to setting up Model Context Protocol (MCP) servers across Claude Desktop, Claude Code, and Cursor. Commands, comparisons, and best practices.  Read More.By @nileshbh [ 13 Min read ] 
+ Build production-grade RAG: slash latency, reduce hallucinations, and cut costs with hybrid retrieval, caching, LLM-as-judge, and smart model routing. Read More.By @aifundingtracker [ 9 Min read ] 
+ AI startups raised over $2.4 billion this week across enterprise infrastructure, healthcare innovation, and fintech.  Read More.By @aifundingtracker [ 8 Min read ] 
+ AI startups raised over $4.1 billion this week, with watershed moments in open-source AI, legal technology, and energy infrastructure. Read More.By @@javar97 [ 10 Min read ] 
+ A 7-step checklist for developers to use AI tools effectively—without creating low-quality “slop.” Build, test, and scale with discipline. Read More.By @hacker-Antho [ 4 Min read ] 
+ New research shatters AI security assumptions, showing that poisoning large models is easier than believed and requires a very small number of documents. Read More.]]></content:encoded></item><item><title>Iceland Just Found Its First Mosquitoes</title><link>https://news.slashdot.org/story/25/10/25/0121221/iceland-just-found-its-first-mosquitoes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Sat, 25 Oct 2025 03:30:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[An anonymous reader quotes a report from CNN: Iceland's frozen, inhospitable winters have long protected it from mosquitoes, but that may be changing. This week, scientists announced the discovery of three mosquitoes -- marking the country's first confirmed finding of these insects in the wild. Mosquitoes are found almost everywhere in the world, with the exception of Antarctica and, until very recently, Iceland, due to their extreme cold.
+ 
+The mosquitoes were discovered by Bjorn Hjaltason in Kioafell, Kjos, in western Iceland about 20 miles north of the capital Reykjavik. "At dusk on October 16, I caught sight of a strange fly," Hjaltason posted in a Facebook group about insects, according to reports in the Icelandic media. "I immediately suspected what was going on and quickly collected the fly," he added.
+ 
+He contacted Matthias Alfreosson, an entomologist at the Natural Science Institute of Iceland, who drove out to Hjaltason's house the next day. They captured three in total, two females and a male. Alfreosson identified them as mosquitoes from the Culiseta annulata species. A single mosquito from a different species was discovered many years ago on an airplane at the country's Keflavik International Airport, Alfreosson told CNN, but this "is the first record of mosquitoes occurring in the natural environment in Iceland." Further monitoring will be needed in the spring to see whether the species can survive the winter and "truly become established in Iceland," Alfreosson said. He said he's not sure climate change played a role in the discovery but "warming temperatures are likely to enhance the potential for other mosquito species to establish in Iceland, if they arrive."]]></content:encoded></item><item><title>As Texas Power Demand Surges, Solar, Wind and Storage Carry the Load</title><link>https://hardware.slashdot.org/story/25/10/25/0110225/as-texas-power-demand-surges-solar-wind-and-storage-carry-the-load?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Sat, 25 Oct 2025 02:20:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[Texas's electricity demand has surged to record highs in 2025 but renewable energy is meeting the challenge. According to new data from the Energy Information Administration, solar output has quadrupled since 2021, wind continues steady growth, and battery storage is increasingly stabilizing the grid during evening peaks. Electrek reports: ERCOT, which supplies power to about 90% of the state, saw demand jump 5% year-over-year to 372 terawatt hours (TWh) -- a 23% increase since 2021. No other major US grid has grown faster over the past year. [...] The biggest growth story in Texas power generation is solar. Utility-scale solar plants produced 45 TWh from January through September, up 50% from 2024 and nearly four times what they generated in 2021 (11 TWh). Wind power also continued to climb, producing 87 TWh through September -- a 4% increase from last year and 36% more than in 2021.
+ 
+Together, wind and solar supplied 36% of ERCOT's total electricity over those nine months. Solar, in particular, has transformed Texas's daytime energy mix. From June to September, ERCOT solar farms generated an average of 24 gigawatts (GW) between noon and 1 pm -- double the midday output from 2023. That growth has pushed down natural gas use at midday from 50% of the mix in 2023 to 37% this year. The report notes that while natural gas is still Texas's dominant power source, it isn't growing like it used to. "Gas comprised 43% of ERCOT's generation mix during the first nine months of 2025, down from 47% in the first nine months of 2023 and 2024," reports Electrek.]]></content:encoded></item><item><title>Sweden&apos;s Crowd-Forecasting Platform &apos;Glimt&apos; Helps Ukraine Make Wartime Predictions</title><link>https://tech.slashdot.org/story/25/10/25/011246/swedens-crowd-forecasting-platform-glimt-helps-ukraine-make-wartime-predictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Sat, 25 Oct 2025 01:40:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[alternative_right shares a report from France 24: [Sweden's] latest contribution to the war effort is Glimt, an innovative project launched by the Swedish Defence Research Agency (FOI) earlier this year. Glimt is an open platform that relies on the theory of "crowd forecasting": a method of making predictions based on surveying a large and diverse group of people and taking an average. "Glimt" is a Swedish word for "a glimpse" or "a sudden insight." The theory posits that the average of all collected predictions produces correct results with "uncanny accuracy," according to the Glimt website. Such "collective intelligence" is used today for everything from election results to extreme weather events, Glimt said. [...]
+ 
+Group forecasting allows for a broad collection of information while avoiding the cognitive bias that often characterizes intelligence services. Each forecaster collects and analyses the available information differently to reach the most probable scenario and can add a short comment to explain their reasoning. The platform also encourages discussion between members so they can compare arguments and alter their positions. Available in Swedish, French and English, the platform currently has 20,000 registered users; each question attracts an average of 500 forecasters. Their predictions are later sent to statistical algorithms that cross-reference data, particularly the relevance of the answers they provided. The most reliable users will have a stronger influence on the results; this reinforces the reliability of collective intelligence. "We used this method and research, and we suggested to the Ukrainians that it could improve their understanding of the world and its evolution," said Ivar Ekman, an analyst for the Swedish Defence Research Agency and program director for Glimt. "If you have a large group of people, you can achieve great accuracy in assessing future events. Research has shown that professional analysts don't necessarily have a better capacity in this domain than other people."]]></content:encoded></item><item><title>Apple Begins Shipping American-Made AI Servers From Texas</title><link>https://apple.slashdot.org/story/25/10/24/2241235/apple-begins-shipping-american-made-ai-servers-from-texas?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Sat, 25 Oct 2025 01:00:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[Apple has begun shipping U.S.-made AI servers from a new factory in Houston, Texas -- part of its $600 billion investment in American manufacturing and supply chains. CNBC reports: Apple Chief Operating Officer Sabih Khan said on Thursday that the servers will power the company's Apple Intelligence and Private Cloud Compute services. Apple is using its own silicon in its Apple Intelligence servers. "Our teams have done an incredible job accelerating work to get the new Houston factory up and running ahead of schedule and we plan to continue expanding the facility to increase production next year," Khan said in a statement. The Houston factory is on track to create thousands of jobs, Apple said. The Apple servers were previously manufactured overseas.]]></content:encoded></item><item><title>Rust Coreutils 0.3 Released With Some Major Speed-Ups, Better GNU Compatibility</title><link>https://www.phoronix.com/news/Rust-Coreutils-0.3-Released</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 25 Oct 2025 00:21:09 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[The uutils project announced tonight the release of Rust Coreutils 0.3, another step forward for this Rust version alternative to GNU Coreutils that has been attracting a lot of interest lately due to Ubuntu 25.10 now using it by default...]]></content:encoded></item><item><title>Microsoft Teams Will Start Tracking Office Attendance</title><link>https://it.slashdot.org/story/25/10/24/2236218/microsoft-teams-will-start-tracking-office-attendance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Sat, 25 Oct 2025 00:20:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[An anonymous reader quotes a report from Tom's Guide: Microsoft Teams is about to deal a heavy blow to those who like to work from home for peace and quiet. In a new feature update rolling out December 2025, the platform will track a worker's location using the office Wi-Fi, to see whether you're actually there or not. From a boss' perspective, this would eliminate any of that confusion as to where your team actually is. But for those people who have found their own sanctuary of peaceful productivity by working from home, consider this a warning that Teams is about to tattle on you. According to the Microsoft 365 roadmap: "When users connect to their organization's Wi-Fi, Teams will automatically set their work location to reflect the building they are working in." The location of that worker will apparently update automatically upon connecting.
+ 
+It's set to launch on Windows and macOS, with rollout starting at the end of this year. "This feature will be off by default," notes Microsoft. But "tenant admins will decide whether to enable it and require end-users to opt-in."]]></content:encoded></item><item><title>New Gemini Diffusion Model Promises Text at Five Times the Speed</title><link>https://hackernoon.com/new-gemini-diffusion-model-promises-text-at-five-times-the-speed?source=rss</link><author>AI Native Dev</author><category>tech</category><pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Google I/O unveiled Gemini Diffusion, a text diffusion model for code. It promises faster generation and better editing, potentially changing AI-native development.]]></content:encoded></item><item><title>IBM Says Conventional AMD Chips Can Run Quantum Computing Error Correction Algorithm</title><link>https://hardware.slashdot.org/story/25/10/24/2229203/ibm-says-conventional-amd-chips-can-run-quantum-computing-error-correction-algorithm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Fri, 24 Oct 2025 23:40:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[IBM announced that its quantum error-correction algorithm can now run in real time on standard AMD field-programmable gate array (FPGA) chips -- a major step toward making quantum computing more practical and affordable. Reuters reports: In June, IBM said it had developed an algorithm to run alongside quantum chips that can address such errors. In a research paper seen by Reuters to be published on Monday, IBM will show it can run those algorithms in real time on a type of chip called a field programmable gate array manufactured by AMD.
+ 
+Jay Gambetta, director of IBM research, said the work showed that IBM's algorithm not only works in the real world, but can operate on a readily available AMD chip that is not "ridiculously expensive." "Implementing it, and showing that the implementation is actually 10 times faster than what is needed, is a big deal," Gambetta said in an interview. IBM has a multi-year plan to build a quantum computer called Starling by 2029. Gambetta said the algorithm work disclosed Friday was completed a year ahead of schedule.]]></content:encoded></item><item><title>A single point of failure triggered the Amazon outage affecting millions</title><link>https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/</link><author>Dan Goodin</author><category>tech</category><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg" length="" type=""/><pubDate>Fri, 24 Oct 2025 21:53:20 +0000</pubDate><source url="https://arstechnica.com/">Biz &amp; IT – Ars Technica</source><content:encoded><![CDATA[The outage that hit Amazon Web Services and took out vital services worldwide was the result of a single failure that cascaded from system to system within Amazon’s sprawling network, according to a post-mortem from company engineers.The series of failures lasted for 15 hours and 32 minutes, Amazon said. Network intelligence company Ookla said its DownDetector service received more than 17 million reports of disrupted services offered by 3,500 organizations. The three biggest countries where reports originated were the US, the UK, and Germany. Snapchat, AWS, and Roblox were the most reported services affected. Ookla said the event was “among the largest internet outages on record for Downdetector.”Amazon said the root cause of the outage was a software bug in software running the DynamoDB DNS management system. The system monitors the stability of load balancers by, among other things, periodically creating new DNS configurations for endpoints within the AWS network. A race condition is an error that makes a process dependent on the timing or sequence events that are variable and outside the developers’ control. The result can be unexpected behavior and potentially harmful failures.]]></content:encoded></item><item><title>OpenGL Sees New Extensions Added To The Registry</title><link>https://www.phoronix.com/news/OpenGL-October-2025-Extensions</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 24 Oct 2025 20:11:13 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[It's been rare in recent years seeing any new OpenGL extensions given the wild success these days of the Vulkan API with its vast hardware adoption and increasing software support around that modern graphics and compute API. Yet this October has been unusual with now seeing multiple new OpenGL extensions merged to the OpenGL registry...]]></content:encoded></item><item><title>A comprehensive list of 2025 tech layoffs</title><link>https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/</link><author>Cody Corrall, Alyssa Stringer, Kate Park</author><category>tech</category><pubDate>Fri, 24 Oct 2025 19:55:31 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></content:encoded></item><item><title>How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others</title><link>https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/</link><author>Lauren Forristal</author><category>tech</category><pubDate>Fri, 24 Oct 2025 19:08:10 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT. ]]></content:encoded></item><item><title>The browser wars are back, and this time they’re powered by AI</title><link>https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/</link><author>Theresa Loconsolo</author><category>tech</category><pubDate>Fri, 24 Oct 2025 19:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The browser wars are heating up again, this time with AI in the driver’s seat.  OpenAI just launched Atlas, a ChatGPT-powered browser that lets users surf the web using natural language, and even includes an “agent mode” that can complete tasks autonomously. It’s one of the biggest browser launches in recent memory, but it’s debuting […]]]></content:encoded></item><item><title>Plants Vs. Zombies: Replanted Review - Classic Strategy Rises From The Dead</title><link>https://www.gamespot.com/reviews/plants-vs-zombies-replanted-review-classic-strategy-rises-from-the-dead/1900-6418430/?ftag=CAD-01-10abi2f</link><author>Steve Watts</author><category>tech</category><enclosure url="https://www.gamespot.com/a/uploads/screen_medium/1585/15855271/4590462-ea_pvzreplanted_keyart_0624_revlawn_3840x2160.png" length="" type=""/><pubDate>Fri, 24 Oct 2025 19:00:00 +0000</pubDate><source url="https://www.gamespot.com/feeds/reviews">GameSpot - Game Reviews</source><content:encoded><![CDATA[It's surprising that Plants Vs. Zombies hasn't attracted more imitators. The charming and intuitive strategy game helped make a name for PopCap and spawned a massive franchise including merch, comic books, and interestingly, more competitive team shooters than strategy games. But while it lends itself to comparisons to tower-defense games, its key mechanics are still basically singular to PvZ itself. Plants Vs. Zombies: Replanted brings a nicely modernized facelift to the original game, and while this remaster offers only a few new frills, the game itself is still one of a kind.For those new to the series, or who have only played the Garden Warfare spin-offs, the core idea of Plants Vs. Zombies is deceptively simple. You're the owner of a house beset by a zombie apocalypse, and your only defense is an army of living plants. You collect sunlight to power your seeds, which you plant across five horizontal rows as zombies approach from the right side. You can plant Sunflowers to generate extra sunlight, and you're constantly juggling priorities as zombies approach from the other lanes. If they reach your plants, they'll chomp down on them and you'll have to replant them, so it's best to keep them from reaching that far at all. As the game continues, it constantly adds new wrinkles, like nighttime levels where you have less access to sunlight and need to rely on fungi, or a pool where you need to plant lilypads for your other offensive plants to sit on. This is alongside a steady stream of new zombie types that demand different configurations of plant defenses.And the zombies themselves, in this case, are far from threatening. They're goofy and often even kind of cute, with cartoonish affectations like a propeller hat or a disco outfit to signify which type of zombie they are. A zombie with a cone or metal bucket on its head will take more hits before you can knock the cone off and finish it off, a football zombie has heavy defense and also charges more quickly at you, and so on.Continue Reading at GameSpot]]></content:encoded></item><item><title>Mutuum (MUTM) Nears V1 Protocol Launch While Price Targets $0.04 Soon</title><link>https://hackernoon.com/mutuum-mutm-nears-v1-protocol-launch-while-price-targets-$004-soon?source=rss</link><author>BTCWire</author><category>tech</category><pubDate>Fri, 24 Oct 2025 18:59:10 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[The year 2025 continues to showcase notable developments in decentralized finance, as  positions itself as one of the most active and structured projects in the DeFi crypto market. The upcoming V1 protocol launch on the Sepolia Testnet marks a significant step forward for the Ethereum-based platform, confirming that Mutuum’s roadmap remains on schedule. The milestone reflects tangible progress in product development and community engagement, as investor participation continues to grow.Momentum Builds as Presale Nears Next PriceMutuum Finance (MUTM) has drawn increasing attention during its ongoing presale, having raised approximately $17.78 million with more than 17,450 participants so far. The token price currently stands at $0.035 in Phase 6, with around 74% of tokens from this stage already allocated. Once this phase concludes, the price will move to $0.04 — marking another planned progression in the project’s structured rollout.The presale’s transparent stage-based model has created measurable demand and steady growth. Early backers have highlighted Mutuum’s disciplined approach to token allocation and development as indicators of a well-managed DeFi initiative. Each completed milestone further strengthens the project’s reputation for consistency within the competitive crypto market.Dual Lending Framework Powering Real UtilityMutuum Finance (MUTM) introduces a balanced dual lending system to enhance efficiency and flexibility. The Peer-to-Contract (P2C) model enables users to lend stable assets like USDT and ETH to shared liquidity pools, where yields are automatically generated. Meanwhile, the Peer-to-Peer (P2P) model is designed for users seeking custom terms, supporting a wider range of digital assets with user-defined lending agreements.This combination provides both passive earning opportunities and flexible borrowing options within a single ecosystem. It is built to support a broad user base — from retail participants to institutional users — by enabling secure and transparent transactions through smart contracts.The V1 Testnet Ushers in the Next MilestoneRecently the  on X that the V1 of the protocol will be launched on the Sepolia Testnet and will introduce a working version of its framework. The rollout will include liquidity pool contracts, mtToken issuance, debt token logic, and liquidation bot testing. Supported assets in this first phase will include ETH and USDT, chosen to ensure stability and high transaction reliability.The Sepolia phase will allow developers to conduct system stress tests, validate operational stability, and refine the protocol’s functionality before the full mainnet release. Achieving this milestone underscores the project’s technical readiness and reinforces its credibility among DeFi observers tracking infrastructure-level progress.Stable Interest Model for Predictable BorrowingOne of Mutuum Finance (MUTM)’s standout features will be its stable interest rate model. It will let borrowers lock in predictable rates at the start of their loans rather than depend on fluctuating variable rates. The model starts with a slightly higher rate but guarantees protection from major hikes in the future. If the variable rate ever exceeds the stable rate by more than 10%, the system automatically rebalances it to maintain fairness and liquidity protection.This approach not only shields borrowers from unpredictability but also maintains equilibrium across the lending pools. It is the kind of logic-driven design that appeals to institutional investors seeking consistent lending conditions, reinforcing Mutuum’s image as a professional, utility-based ecosystem rather than a speculative trend.Security and Incentives Strengthen TrustMutuum Finance (MUTM) will continue to focus on safety and transparency as core pillars. Its CertiK audit reports strong results, with a TokenScan Score of 90 and a Skynet Score of 79. These third-party assessments demonstrate that Mutuum’s code structure and governance meet rigorous standards. To further enhance protection, the project will maintain a 50,000 USDT bug bounty program that rewards ethical hackers from $200 to $2,000 based on issue severity. Alongside this, a  and a 24-hour leaderboard program will drive user engagement. The daily leaderboard will reward the top active investor with $500 MUTM every day, encouraging consistent participation through the presale. These combined incentives foster community involvement while keeping security front and center.Mutuum Finance (MUTM) follows a structured roadmap rather than a rushed release plan. The first phase has already covered audits, helpdesk creation, and marketing outreach. The current phase focuses on DApp development and internal code reviews. The next phase will expand into beta testing and exchange partnerships, followed by the mainnet launch and institutional onboarding. Each stage brings measurable progress, showing investors that Mutuum Finance (MUTM) is evolving with direction and discipline.Mutuum Finance’s roadmap includes four primary phases. Phase 1 established its foundation through audits, marketing outreach, and educational materials. Phase 2, now underway, focuses on decentralized application (DApp) development, internal testing, and expansion of ecosystem features. Future phases will include testnet evaluation, exchange collaborations, and eventual mainnet deployment.Each completed milestone reinforces investor and community confidence in the project’s delivery schedule. By maintaining measurable progress and transparency, Mutuum Finance continues to position itself as a steadily advancing DeFi platform in an increasingly competitive sector.For more information about Mutuum Finance (MUTM) visit the links below::::tip
+This story was published as a press release by Btcwire under HackerNoon’s Business Blogging . Do Your Own Research before making any financial decision.]]></content:encoded></item><item><title>RIVER Gains 5x Following Binance Perp Listing, Supported by Time-Encoded Airdrop Conversion</title><link>https://hackernoon.com/river-gains-5x-following-binance-perp-listing-supported-by-time-encoded-airdrop-conversion?source=rss</link><author>Chainwire</author><category>tech</category><pubDate>Fri, 24 Oct 2025 18:38:37 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Singapore, Singapore, October 24th, 2025/Chainwire/-- reached a new all-time high $10, up 5x since its TGE on Sept 22, following the token’s  on Oct 17.The surge was driven by growing market attention on River’s , the first time-encoded tokenomics mechanism that connects conversion behavior to time-based value.Dynamic Airdrop Conversion: Time as a VariableMost airdrops that end once tokens are claimed, River’s Dynamic Airdrop Conversion begins at that moment. The mechanism introduces time-encoded tokenomics — allowing users to convert  into  at any time within 180 days after TGE., the ecosystem points in ERC-20 format, have risen 40x since launch, reflecting growing market awareness of the arbitrage strategies between River Pts, $RIVER, and perpetual futures.In practice, River Pts function like a call option on $RIVER — their value rises as the conversion ratio improves.This continuous process turns the airdrop into a live market, where users can either hold River Pts for higher future conversion or lock in profits by shorting $RIVER perpetuals, creating a natural balance between liquidity and time-based appreciation.Conversion Example — 1M River PtsThe  shows how time relates to the amount of tokens a user receives.Holding  from Day 1 to Day 180 can result in up to a 270x difference in $RIVER output, depending on when conversion occurs.This structure lets users see how time directly changes the value they receive — prices move with market behavior, not fixed unlocks. listed on Binance, Bybit, Bitget, KuCoin, and Gate$100M+ total trading volume in 24 hours.The Season 3 airdrop continues post-TGE — users can earn River Pts by using stablecoin, tweeting, or joining ecosystem campaigns.The River Pts–$RIVER mechanism has generated notable community interest, with discussions centering on the interplay between timing, conversion rates, and potential arbitrage opportunities. Participants are analyzing different strategies, including when to convert and how perpetual contracts may be used for hedging. Others are engaging with Season 3 as a method of accumulating River Points.It establishes a measurable interplay between time, behavior, and liquidity, and each user decision directly influences price formation and supply dynamics.The approach represents a shift in tokenomics toward a more open and adaptive structure, where participation dynamics influence outcomes rather than predefined parameters.Within the community, some view this as a significant development—comparable to the introduction of automated market makers (AMMs)—in that it introduces a time-encoded framework where value is shaped by user activity and market behavior.River is building the first chain-abstraction stablecoin system that connects assets, liquidity, and yield across ecosystems.:::tip
+This story was published as a press release by Chainwire under HackerNoon’s Business Blogging . Do Your Own Research before making any financial decision.]]></content:encoded></item><item><title>Video Friday: Unitree’s Human-Size Humanoid Robot</title><link>https://spectrum.ieee.org/video-friday-human-size-robot</link><author>Evan Ackerman</author><category>tech</category><enclosure url="https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82MTg5OTE2NC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzI1Njg3MH0.mHJAUD4SwywkaRJ-1NO8kU5hWzp0GFtSBOrraUzJQec/image.png?width=600" length="" type=""/><pubDate>Fri, 24 Oct 2025 18:00:03 +0000</pubDate><source url="https://spectrum.ieee.org/">IEEE Spectrum</source><content:encoded><![CDATA[Your weekly selection of awesome robot videos]]></content:encoded></item><item><title>The Latest Sheaves Work To Hopefully Improve Linux Performance</title><link>https://www.phoronix.com/news/Sheaves-Replace-CPU-Slabs</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 24 Oct 2025 17:49:41 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Merged for Linux 6.18 was a new feature called Sheaves as an opt-in, per-CPU array-based caching layer. Plus there is a per-NUMA-node cache of Sheaves called a "Barn". In continuing to build out the Linux kernel usage of Sheaves, a set of initial patches were posted this week to replace the CPU slabs with Sheaves within the slub allocator code...]]></content:encoded></item><item><title>Distractor Robustness: RECKONING Significantly Outperforms FT-ICR in Reasoning Over Irrelevant Facts</title><link>https://hackernoon.com/distractor-robustness-reckoning-significantly-outperforms-ft-icr-in-reasoning-over-irrelevant-facts?source=rss</link><author>The Tech Reckoning is Upon Us!</author><category>tech</category><pubDate>Fri, 24 Oct 2025 17:09:00 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[4.2 Reasoning with DistractorsIn cases where multiple questions must be answered about the same knowledge set, some knowledge that is relevant to one question will likely be irrelevant to another question. For example, in Table 7, the fact “Charlie is White.” is not needed to answer the question “Harry is red?”. Thus, it is important to evaluate the robustness of RECKONING when there exists irrelevant information (i.e., distractors) in the knowledge set. In this experiment, we analyze RECKONING’s ability to focus on the correct knowledge and ignore distractors when answering questions. We use ProofWriter as the evaluation dataset since it already has a setting with distractors included in the knowledge. For systematic analysis, we gradually add distractors to the context (starting from 2 and finishing at all possible distractors, of which there are an average of 7 per question). We train RECKONING and the baseline using the multi-task objective, where the model must (1) recall all of the facts and rules relevant to the question and (2) predict the conclusion based on the correct knowledge. In this case, we adapt training such that for each question x, the outer-loop (Equation (5)) CLM loss is only computed with respect to the relevant facts from K, thereby learning to recall only relevant facts during training.\
+In Figure 5, we see that RECKONING’s performance is consistently more robust under distractors than the FT-ICR baseline. When we include all of the distractors in the context, RECKONING achieves a significantly higher average label accuracy (82.5%) across hops than the baseline (70.9%), as computed by the average of the 3 considered hop depths. Additionally, compared to performance with no distractors, RECKONING’s performance only drops 17.1% while the baseline performance drops 28.6%, thereby exhibiting a better ability to disentangle the correct knowledge from the distractors.\
+Finally, we also explore RECKONING’s generalizability to models with a larger parameter size. We scale up the language model we used, GPT-2-small (124M), to GPT-2-XL (1.5B) by adopting a parameter efficient finetuning method LoRA [33]. For simplicity, we only evaluate the models on the most difficult settings, i.e., ProofWriter-5-hop with all the distractors. With GPT-2-XL-LoRA, in-context reasoning achieves 65% accuracy on the test set, while our RECKONING model achieves 70.2% accuracy, a 5% performance gain. This result suggests that RECKONING’s advantages in the presence of distractors hold even as models scale in size.(1) Zeming Chen, EPFL (zeming.chen@epfl.ch);(2) Gail Weiss, EPFL (antoine.bosselut@epfl.ch);(3) Eric Mitchell, Stanford University (eric.mitchell@cs.stanford.edu)';(4) Asli Celikyilmaz, Meta AI Research (aslic@meta.com);(5) Antoine Bosselut, EPFL (antoine.bosselut@epfl.ch).]]></content:encoded></item><item><title>Linux Lands Fix For &quot;Serious Performance Regression&quot; Affecting Some Intel Chromebooks</title><link>https://www.phoronix.com/news/Linux-618-rc3-Fix-Chromebook-PM</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 24 Oct 2025 16:49:50 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Merged this week to Linux Git ahead of Linux 6.18-rc3 this Sunday were the latest power management fixes for the kernel. Standing out in the power management code is a fix for a "serious performance regression" affecting some Intel-powered Chromebooks...]]></content:encoded></item><item><title>RECKONING: Reasoning through Dynamic Knowledge Encoding: Generalization to Real-World knowledge</title><link>https://hackernoon.com/reckoning-reasoning-through-dynamic-knowledge-encoding-generalization-to-real-world-knowledge?source=rss</link><author>The Tech Reckoning is Upon Us!</author><category>tech</category><pubDate>Fri, 24 Oct 2025 16:41:01 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[4.3 Generalization to Real-World knowledgeTo investigate how generalizable our method is to real-world knowledge beyond the synthetic setting, we evaluate RECKONING on a more real-world multi-hop logical reasoning task, FOLIO [29], and report the result in Table 2. The dataset has a rich vocabulary, diverse logic patterns, and abundant language variations. It has been shown to challenge LLMs in both supervised fine-tuning and in-context learning settings. We fine-tune the GPT-2 model following the in-context reasoning setting as the baseline. As before, we train the GPT-2 model and RECKONING using the multi-task objective. We also compare to more advanced baselines, including GPT-3.5 (text-davinci-003 [55]) and ChatGPT(gpt-3.5-turbo[2]), two popular large language models with around 175B parameters. For these two large models, we evaluate both in the zero-shot and few-shot settings. In the few-shot setting, we prompt the model with 8 single-task examples randomly sampled from the training set to perform in-context learning. We find that RECKONING’s performance (which is initiated here from GPT-2) is better than the GPT-2 in-context reasoning baseline. Compared to the two advanced large language models, RECKONING outperforms them by a significant margin (12% 0-shot and 7% 8-shot). We conclude that RECKONING is effective and significantly benefits reasoning tasks using real-world knowledge.(1) Zeming Chen, EPFL (zeming.chen@epfl.ch);(2) Gail Weiss, EPFL (antoine.bosselut@epfl.ch);(3) Eric Mitchell, Stanford University (eric.mitchell@cs.stanford.edu)';(4) Asli Celikyilmaz, Meta AI Research (aslic@meta.com);(5) Antoine Bosselut, EPFL (antoine.bosselut@epfl.ch).2 https://openai.com/blog/chatgpt]]></content:encoded></item><item><title>Instagram’s latest feature lets you go back to see your watched Reels</title><link>https://techcrunch.com/2025/10/24/instagrams-latest-feature-lets-you-go-back-see-your-watched-reels/</link><author>Aisha Malik</author><category>tech</category><pubDate>Fri, 24 Oct 2025 16:38:02 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[With this new feature, users can go back and find videos they might not have had the chance to save. ]]></content:encoded></item><item><title>Arbor’s ‘vegetarian rocket engine’ power plant is actually an omnivore</title><link>https://techcrunch.com/2025/10/24/arbors-vegetarian-rocket-engine-power-plant-is-actually-an-omnivore/</link><author>Tim De Chant</author><category>tech</category><pubDate>Fri, 24 Oct 2025 16:10:12 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[As demand for electricity from data centers grows, Arbor Energy has made its power plant capable of burning natural gas in addition to biomass.]]></content:encoded></item><item><title>The HackerNoon Newsletter: System Design in a Nutshell (10/24/2025)</title><link>https://hackernoon.com/10-24-2025-newsletter?source=rss</link><author>Noonification</author><category>tech</category><pubDate>Fri, 24 Oct 2025 16:03:59 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[🪐 What’s happening in tech today, October 24, 2025?By @editingprotocol [ 4 Min read ] You don’t need to be an expert to write great technical stories. Learn how curiosity, clarity, and structure beat credentials every time. Read More.By @yashgupta1427 [ 12 Min read ] Discover how the Lottery Ticket Hypothesis reshaped our understanding of pruning, showing small subnetworks can rival full neural networks. Read More.By @hacker4949449 [ 6 Min read ] Finding the balance between growth and ethics is hard. Here’s how designers can create user journeys that drive results without crossing the line. Read More.By @OurAI [ 8 Min read ] A community of creative problem solvers deal with the existential threat of generative AI. Read More.By @amanila [ 59 Min read ] Know system design fundamentals: UX components, databases, scaling strategies, security  compliance. Essential guide for developers  system design interviews. Read More.🧑‍💻 What happened in your world this week?We hope you enjoy this worth of free reading material. Feel free to forward this email to a nerdy friend who'll love you for it.See you on Planet Internet! With love, 
+ The HackerNoon Team ✌️]]></content:encoded></item><item><title>EC finds Meta and TikTok breached transparency rules under DSA</title><link>https://techcrunch.com/2025/10/24/ec-finds-meta-and-tiktok-breached-transparency-rules-under-dsa/</link><author>Ram Iyer</author><category>tech</category><pubDate>Fri, 24 Oct 2025 15:58:45 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The European Commission said on Friday that it has preliminarily found that both companies are not complying with rules of the Digital Services Act (DSA) that mandate them to give researchers adequate access to public data. ]]></content:encoded></item><item><title>The Limits of LLM-Generated Unit Tests</title><link>https://hackernoon.com/the-limits-of-llm-generated-unit-tests?source=rss</link><author>Vlad Khramov</author><category>tech</category><pubDate>Fri, 24 Oct 2025 15:46:56 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Write unit tests for utils/date.ts.\
+It sounds effortless - just ask Codex to write tests, and it will. And in most cases, it does: the tests compile, run, and even pass. Everyone seems satisfied.\
+But this raises a crucial question: are those tests actually good?\
+Let’s take a step back and think: why do we write tests? We use tests to check our code against the requirements. When we simply ask an LLM to write tests, are we sure the LLM knows all those requirements?\
+If no additional context is provided, all the LLM has is the code and, at best, inline documentation and comments. But is that enough? Let's check with several examples. To illustrate, let's start with a simple specification.Imagine that we have the following requirements:We need to implement a new Product Service in the service layer of our application.The service should have a method to retrieve the product price by product ID.If the product ID is empty, an exception should be thrown with code 0.The method should retrieve the product by ID from the database (using the product repository service).If the product is not found, another exception should be thrown with code 1.The product price should be returned.The Product entity also has: ID, name, price, and cost price.\
+We will use PHP as an example, but the conclusions of this article are applicable to all languages.The following classes make up our starting point:final class ProductService
+{
+    public function __construct(private ProductRepository $repository)
+    {
+    }
+
+    /**
+     * Returns the product price or throws on error.
+     *
+     * @throws EmptyProductIdException  When product ID is empty (code 0)
+     * @throws ProductNotFoundException When product is not found (code 1)
+     */
+    public function getProductPrice(string $productId): float
+    {
+        $productId = trim($productId);
+        if ($productId === '') {
+            throw new EmptyProductIdException();
+        }
+
+        $product = $this->repository->findById($productId);
+        if ($product === null) {
+            throw new ProductNotFoundException($productId);
+        }
+
+        return $product->getPrice();
+    }
+}
+\
+Notice that the  method is documented with a straightforward docblock describing its return value and expected exceptions.\
+The following supporting classes are not central to the article but are included for completeness. Feel free to skip them if you’re focusing on the main idea.final class Product
+{
+    public function __construct(
+        private string $id,
+        private string $name,
+        private float $price,
+        private float $costPrice
+    ) {
+    }
+
+    public function getId(): string
+    {
+        return $this->id;
+    }
+
+    public function getName(): string
+    {
+        return $this->name;
+    }
+
+    public function getPrice(): float
+    {
+        return $this->price;
+    }
+
+    public function getCostPrice(): float
+    {
+        return $this->costPrice;
+    }
+}
+final class ProductNotFoundException extends RuntimeException
+{
+    public function __construct(string $productId, ?\Throwable $previous = null)
+    {
+        parent::__construct("Product not found: {$productId}", 1, $previous);
+    }
+}
+final class EmptyProductIdException extends InvalidArgumentException
+{
+    public function __construct(string $message = 'Product ID is empty', ?\Throwable $previous = null)
+    {
+        parent::__construct($message, 0, $previous);
+    }
+}
+Let's use OpenAI Codex to generate some tests for our project. I used Codex v0.25 with the GPT-5 high model.\
+For this baseline, I deliberately took the naive approach and asked:▌Write unit tests for all public methods of the ProductService
+\
+Codex generated reasonable tests: two successful cases and two unsuccessful cases. It even inferred from the docblock that exceptions should carry specific error codes.final class ProductServiceTest extends TestCase
+{
+    public function testGetProductPriceReturnsPriceForExistingProduct(): void
+    {
+        $repo = $this->createMock(ProductRepository::class);
+        $product = new Product('p1', 'Product 1', 19.99, 10.0);
+
+        $repo->expects($this->once())
+            ->method('findById')
+            ->with('p1')
+            ->willReturn($product);
+
+        $service = new ProductService($repo);
+        $price = $service->getProductPrice('p1');
+
+        $this->assertEqualsWithDelta(19.99, $price, 0.0001);
+    }
+
+    public function testGetProductPriceTrimsIdAndReturnsPrice(): void
+    {
+        $repo = $this->createMock(ProductRepository::class);
+        $product = new Product('ABC', 'Trimmed Product', 5.5, 2.0);
+
+        $repo->expects($this->once())
+            ->method('findById')
+            ->with('ABC') // ensure the ID is trimmed before lookup
+            ->willReturn($product);
+
+        $service = new ProductService($repo);
+        $price = $service->getProductPrice('  ABC  ');
+
+        $this->assertEqualsWithDelta(5.5, $price, 0.0001);
+    }
+
+    public function testGetProductPriceThrowsOnEmptyId(): void
+    {
+        $repo = $this->createMock(ProductRepository::class);
+        $service = new ProductService($repo);
+
+        $this->expectException(EmptyProductIdException::class);
+        $this->expectExceptionCode(0);
+        $this->expectExceptionMessage('Product ID is empty');
+
+        $service->getProductPrice('   '); // becomes empty after trim
+    }
+
+    public function testGetProductPriceThrowsWhenProductNotFound(): void
+    {
+        $repo = $this->createMock(ProductRepository::class);
+
+        $repo->expects($this->once())
+            ->method('findById')
+            ->with('missing')
+            ->willReturn(null);
+
+        $service = new ProductService($repo);
+
+        $this->expectException(ProductNotFoundException::class);
+        $this->expectExceptionCode(1);
+        $this->expectExceptionMessage('Product not found: missing');
+
+        $service->getProductPrice('missing');
+    }
+}
+\
+At first glance, these tests look solid. But that’s also the limitation: they only reflect what’s written in the code and comments. Do they really guard against deeper mistakes?To explore this, I deliberately mutated the ProductService code and asked Codex to generate tests again. Each time, I deleted the existing tests, restarted Codex to clear the context, and used the same prompt: “Write unit tests for all public methods of the ProductService.”Case 1 -- Flipped Empty ConditionIn this mutation, I inverted the condition that checks whether the product ID is empty:-        if ($productId === '') {
++        if ($productId !== '') {
+\
+Codex wrote unit tests equivalent to the previous ones, with only minor differences in line order, product names, and similar details. The tests were correct: Codex identified the error in the code, wrote appropriate tests, and even proposed a fix for the method:Why Tests Fail
+
+- In src/Service/ProductService.php:
+    - The condition is inverted:
+    - Current: `if ($productId !== '') { throw new EmptyProductIdException(); }`
+    - Intended: throw when empty/whitespace after trim.
+- This causes:
+    - Non-empty IDs to wrongly throw EmptyProductIdException.
+    - Empty/whitespace IDs to continue and hit the repository call unexpectedly.
+
+Suggested Fix (not applied)
+
+- In src/Service/ProductService.php, change the condition to:
+    - if ($productId === '') { throw new EmptyProductIdException(); }
+\
+This suggests that Codex is able to handle at least obvious logical inversions.Case 2 -- Flipped Condition During Product SearchIn this mutation, I inverted the condition that checks whether the product exists in the repository:-        if ($product === null) {
++        if ($product !== null) {
+\
+The outcome was the same as in Case 1: Codex produced correct tests and proposed a fix for the bug.Case 3 --  Return Cost Price Instead of PriceIn this mutation, I changed the method to return the product’s cost price instead of its price:-        return $product->getPrice();
++        return $product->getCostPrice();
+\
+Codex again generated four tests, but it did not realize that the method must return the product price rather than the cost price - even though this is stated in the docblock. The generated suite confirmed the mutated behavior instead of the requirement....
+    public function testGetProductPriceReturnsCostPriceWhenFound(): void
+    {
+        $repo = $this->createMock(ProductRepository::class);
+        $product = new Product('p1', 'Product 1', /* $price */ 19.99, /* $costPrice */ 7.49);
+        $repo->expects($this->once())
+            ->method('findById')
+            ->with('p1')
+            ->willReturn($product);
+
+        $service = new ProductService($repo);
+
+        $price = $service->getProductPrice('p1');
+
+        $this->assertSame(7.49, $price);
+    }
+...
+\
+Unlike the earlier mutations, this one slipped through: Codex followed the code and accepted the cost price as if it were correct.Single Coding Session RunBefore making conclusions, let’s run another experiment. This time, I asked Codex to write the code itself first, so it had more context before generating tests. All the following prompts were made within a single Codex session:▌Create a PHP file containing a PHP class. The class is called ProductService. 
+It has a method called getProductPrice. It receives a product ID as a string and checks that it is not empty. 
+If it is empty, throw an exception with error code 0 (empty). 
+It then retrieves the product by ID from the database using another service, ProductRepository. 
+If the repository returns null, throw an exception with error code 1 (not found). 
+Then get the product price. (Create a simple Product class with only ID, name, price, and costPrice.) 
+All classes should be in their own files. File structure: an src folder containing 
+Domain, Exception, Repository, and Service directories.
+\
+Codex produced a similar ProductService, though it didn’t add a docblock for the getProductPrice method. This made it even more interesting to see how it would handle mutations:...
+    public function getProductPrice(string $productId): float
+    {
+        if (trim($productId) === '') {
+            throw ProductException::emptyId();
+        }
+
+        $product = $this->productRepository->findById($productId);
+
+        if ($product === null) {
+            throw ProductException::notFound($productId);
+        }
+
+        return $product->getPrice();
+    }
+...
+\
+First, I asked Codex to write tests. No surprises here: four correct unit tests were written, including checks for exception error codes in the negative cases.\
+Then I mutated the service in the same way as before. The only difference was that I slightly modified the prompt to make Codex understand there were no tests anymore:▌Check whether tests for all public methods of ProductService still exist, and write them if they are missing  
+\
+Codex successfully handled the inverted conditions: bugs were fixed automatically, and correct tests were generated.\
+And the most interesting part: the same happened when I replaced  with :Fixes Made
+
+- Restored missing test file tests/Service/ProductServiceTest.php.
+- Corrected ProductService::getProductPrice to return $product->getPrice().
+\
+So, as expected, even without additional context from a docblock, Codex was able to generate correct tests and repair the code, relying on the initial requirements given at the start of the session.These experiments show that the naive approach to writing tests with an LLM does not deliver the expected results. Yes, tests will be generated -- but they will simply mirror the current code, even if that code contains bugs. An LLM can identify obvious logic errors, but when the code involves complex business rules or formulas, the generated tests will not meet the goals of unit testing.\
+Here are a few practical lessons:Provide more context. Add inline comments and documentation blocks before generating tests. This may help, but it still cannot guarantee correct unit tests or meaningful bug detection.Write code and tests in the same session. If the LLM writes the code and the tests together, it has a better chance of enforcing the original requirements, as the single-session run demonstrated.Review everything. Unit tests from an LLM should never be committed blindly -- they require the same careful review as hand-written tests.\
+LLMs can certainly help with testing, but without clear requirements and human review, they will only certify the code you already have -- not the behavior you actually need.:::warning
+Disclaimer: Although I'm currently working as a Lead Backend Engineer at Bumble, the content in this article does not refer to my work or experience at Bumble.]]></content:encoded></item><item><title>You Don&apos;t Have to Be a Subject Matter Expert to Excel at Technical Writing</title><link>https://hackernoon.com/you-dont-have-to-be-a-subject-matter-expert-to-excel-at-technical-writing?source=rss</link><author>Editing Protocol</author><category>tech</category><pubDate>Fri, 24 Oct 2025 15:42:44 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Many people believe that, to be a good Technical Writer, you must be a subject matter expert. And while this is a common misconception, it’s no surprise that people hold this belief. After all, your job as a technical writer is to communicate complex, technical information to an audience in a way that is easy to digest. Of course, people expect you to be deeply familiar with the subject matter.Thankfully, the reality is you don’t have to be an SME to write a world-class technical article. What you  need is curiosity, structure, and the willingness to ask a subject matter expert the right questions. And that’s the beauty of technical writing: asking the right questions is more important than having all the answers.The Non-SME Guide to a Great Technical Story1. Brandish Your Lack of Expertise like the Weapon It isGreat technical writing starts with a learner’s mindset. That lack of expertise that you worry so much about gives you an interesting edge—the opportunity to approach the subject matter with the same  and  that your potential readers would. You ask the questions that experts forget to ask (the ones your readers are quietly asking too), interrogate every concept, break down jargon to plain language, and by filling your own knowledge gap, give the reader the best experience. In fact, research at the University of Arizona shows that once we know something, it becomes difficult to imagine what it’s like not to know it. It’s called the “curse of knowledge.2. Build a Relationship with a Subject Matter ExpertWe’ve established that you don’t need to be an SME to write a great technical story, but  has to be. And you need to build a relationship with that person (or resource). You need a connection with the brains behind the Technical project/subject you’re writing about. Someone who knows everything there is to know about the subject matter.Your job is then to be a bridge between this person’s insights and your readers.But here’s the thing about SMEs: they often live deep inside the complexity of their own systems. You’re there to pull those insights out and translate them into something that travels. But to do that well, you have to  Trust that you’ll represent their work accurately, ask thoughtful questions, and handle their time with respect. Don’t show up to an SME meeting blank. Read, research, and come prepared with specific, intelligent questions.Ask “why” more than “what.” The “what” tells you  was built; the “why” tells you  it’s for and  When you uncover the “why,” you uncover real-world context, which is what your readers care about anyway.Clarify terminology immediately. Don’t fake understanding. Misused terms in a technical piece can ruin credibility.Summarize after every call. Send a short follow-up with what you understood and make sure you’re on the same page. It’ll save you from costly rewrites later on.3. Translate, Don’t TranscribeWhen you’re ready to put pen to paper, you must remember that your job isn’t to dump an expert’s jargon on the page. Anyone can do that; your value lies in how well you can interpret it for the reader.In practice, this means stripping jargon down to plain language. Focusing your work more on  the reader will be affected by the product/service rather than all the interesting tech that powers it.So instead of saying, “Product XYZ is great because it’s built with cutting-edge, first-of-its-kind blah blah,” \n say,“Product XYZ, built with cutting-edge blah blah, is great because it helps you do ABC.”See the difference? The first line flatters the tech. The second one serves the reader.At the end of the day, you’re building a bridge between expert knowledge and everyday understanding. The clearer the bridge, the more people can cross it.4. Fact-Check Like Your Life Depends on ItThis is not optional, especially for non-SMEs. Technical stories hinge on accuracy. Unlike prose, your facts need to be 100% true and verifiable, your code MUST work, and your examples MUST be reproducible. Run everything— screenshots, code snippets, and statistics—back to your expert for confirmation. You’re playing a game of trust, and nothing erodes it faster than an error that could’ve been caught with one email.5. Tell the Story (Keyword, “Story”)Once you’ve verified the facts, build the story. At the end of the day, technical writing is still .And that means it needs structure, flow, and payoff. Anchor your piece in a  (the problem or goal), unfold the  (your process or discovery), and close with the  (insight or action).To make things easier, we’ve built a practical guide based on this exact 3-Act Structure.In closing: Ask good questions. Write like you’re explaining it to a friend. And if you ever forget where to start, remember that clarity beats complexity every single time.We hope this has offered you some clarity (and assuaged your fears) about navigating the Technical Writing industry without subject matter expertise.]]></content:encoded></item><item><title>The Future of Brain-Machine Interfaces Is Biohybrid</title><link>https://hackernoon.com/the-future-of-brain-machine-interfaces-is-biohybrid?source=rss</link><author>Laszlo Fazekas</author><category>tech</category><pubDate>Fri, 24 Oct 2025 15:41:45 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Brain–machine interfaces (BMIs) are devices that can read the electrical impulses generated by neurons and, in turn, stimulate those neurons. This is one of today’s most rapidly advancing fields of technology — and for good reason. BMIs hold the potential to restore vision to the blind, help paralyzed people walk again, enable direct communication between the human brain and artificial intelligence, and even bring us closer to a true Matrix-like virtual reality experience.When people hear about brain–machine interfaces, they usually think of Elon Musk’s Neuralink. That’s partly due to Musk’s marketing power, but the technology itself also deserves attention. Devices like Neuralink are not the first of their kind, however. One earlier example is the Utah Array, a roughly 4×4 mm device containing a grid of 100 tiny electrodes — resembling a miniature bed of nails. The array is implanted directly into the brain, where it records neural signals that are then processed by an external unit and sent to a computer.Compared to this, Neuralink represents a far more sophisticated approach — one could call it the Tesla of brain–machine interfaces. The procedure involves cutting a small, coin-sized hole in the skull through which ultra-thin threads, even finer than a human hair, are precisely inserted into specific regions of the brain. This method minimizes tissue damage and requires such extreme precision that it can no longer be performed by human surgeons — instead, a robot handles the implantation.The processing unit connected to these threads fits neatly into the skull opening, allowing the skin to be replaced over it so that the entire system becomes virtually invisible. Neuralink is, without question, cutting-edge technology that deserves all the attention it gets — but what comes next?The PRIMA device is a tiny 2×2 mm chip implanted directly into the eye, designed to bypass damaged photoreceptor cells by stimulating the bipolar cells instead. The chip is essentially composed of microscopic solar cells, onto which a laser embedded in a pair of glasses projects the image captured by an integrated camera. The chip then converts this light information into electrical impulses.One of the key advantages of this approach is that the same laser that transmits visual information to the chip also powers it — eliminating the need for an external energy source. The PRIMA system has already reached clinical trial stages, and the results so far are highly promising. With this technology, thousands of blind individuals could regain partial sight and even recover the ability to read.In the future, PRIMA could become one of the company’s main commercial products — providing the financial foundation to fund further, even more ambitious research projects.The second major research direction — and the focus of this article’s title — is the biohybrid brain–computer interface.One of the biggest challenges in developing BMIs is that the human brain is an extremely dense and compact structure. It consists of an intricate network of neurons, a highly sensitive and finely tuned system with no spare space for wires or external components. Any physical intrusion risks damaging brain tissue, which severely limits what conventional interfaces can achieve.This is where Science’s biohybrid chip comes in. Like Neuralink, it’s designed to interface directly with the brain, but instead of using metal electrodes or wires, it relies on living neurons. The chip itself is manufactured using standard semiconductor technology and contains numerous microscopic cells. Each of these cells includes a light-emitting micro-LED and a capacitive electrode.In the next stage of fabrication, genetically modified neurons are placed into these cells. After implantation, these neurons begin to grow synaptic connections, integrating naturally with the surrounding brain tissue. Rather than inserting thousands of wires into the brain with extreme precision, this approach lets biology do the work — allowing the modified neurons to weave themselves into the neural network of the targeted region.These engineered neurons are light-sensitive, which is why the micro-LEDs are needed to activate them. Their states can then be read via the capacitive electrodes. This technology promises much higher bandwidth communication between the brain and external devices — enabling applications that no existing system could support.In essence, this technology adds a new, artificial layer of neurons to the human brain. This is particularly fascinating because the brain itself is structured in layers. The newest of these, evolutionarily speaking, is the neocortex — the part responsible for abstract thinking, reasoning, and higher cognition. (“Neo” literally means “new.”)Now, thanks to biohybrid implants, we may soon add yet another layer — one composed not of naturally evolved neurons, but of engineered, artificial ones. These new neurons would allow our biological brains to connect directly with digital systems.We could think of this new layer as a kind of  — a synthetic neural extension that merges biological and technological intelligence. While the neocortex enabled humanity to rise above instinct-driven behavior and develop civilization, the cyber cortex could be the next great evolutionary leap — one that makes it possible to merge humans with machines.The emergence of a cyber cortex could transform our world in ways we can hardly imagine. One of the possibilities that Max Hodak often mentions in interviews is the idea of direct brain-to-brain communication.I find this particularly fascinating because I believe that if human brains could be properly interconnected, we could create shared virtual worlds that require only minimal external computing resources. I wrote about this idea in more detail in one of my previous articles.If realized, such technology could enable experiences indistinguishable from reality itself — a kind of Matrix-like virtual world that I consider the holy grail of technology. Once this becomes possible, many of today’s technological challenges might simply become irrelevant.A virtual reality that is indistinguishable from the physical world — a true Matrix-like environment — could, in my view, become the holy grail of technology. It’s a breakthrough that could render countless other technologies unnecessary.If most of the resources we use exist only in the virtual realm, then there would be no need for constant innovation in energy production, storage, or material extraction. Instead of solving problems within physical reality, we could reshape reality itself so that those problems no longer exist in the first place.In a virtual world, scarcity disappears. Resources can be distributed optimally, ensuring that no one has to live in deprivation. Hunger could be eliminated, and wars could become obsolete. A digitally augmented humanity could finally live in balance — not by changing human nature, but by changing the framework of reality in which we exist.Of course, I’m not naïve. I know that, for now, this still belongs in the realm of science fiction. Yet I wanted to highlight why I believe this might be the most important technology in the world.Countless books have been written about how our current civilization is unsustainable. We also know that, if things go wrong, humanity possesses the means to wipe itself out completely. Brain–machine interfaces could offer a way out of this trajectory — a path toward something greater.They hold the promise of nothing less than a new stage in human evolution. Through the merging of biology and technology, we might one day transcend the limitations of our physical form and build realities of our own design.]]></content:encoded></item><item><title>Make Class-Agnostic 3D Segmentation Efficient with 3DIML</title><link>https://hackernoon.com/make-class-agnostic-3d-segmentation-efficient-with-3diml?source=rss</link><author>Instancing</author><category>tech</category><pubDate>Fri, 24 Oct 2025 15:34:21 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[We benchmark our method against Panoptic and Contrastive Lifting using the same Mask2Former frontend. For fairness, we render semantics as in [5], [6] using the same multiresolution hashgrid for semantics and instances. For other experiments, we utilize GroundedSAM as our frontend and FastSAM for runtime performance critical tasks such as label merging and InstanceLoc.\
+We evaluate our methods on a challenging subset of scans from Replica and ScanNet, which provide ground truth annotations. Since our methods are based on structure from motion techniques, we utilize the Replica-vMap [20] sequences, which is more indicative of real-world collected image sequences. For Replica and ScanNet, we avoid scans with various incompatibilities with our method (multi-room, low visibility, Nerfacto doesn’t converge) as well as those containing many close-up views of identical objects that easily confuse NetVLAD and LoFTR.\
+For lifting panoptic segmentation, we utilize Scene Level Panoptic Quality [5], defined as the Panoptic Quality for the concatenated sequence of images. For Grounded SAM, especially with instance masks for smaller objects, there is a divergence in alignment with ground truth annotations. As such, we report mIoU for predicted, reference masks that have IoU > 0.5 over all frames (TP in Scene Level Panoptic Quality) as well as the number of such matched masks and the total number of reference masks.\
+C. Implementation Details\
+Comparison with Panoptic and Contrastive Lifting: Table II shows the Scene Level Panoptic Quality for  and other methods on Replica-vMap sequences subsampled by 10 (200 frames). We observe  approaches Panoptic Lifting in performance while achieving a much larger practical runtime (considering implementation) than Panoptic and Contrastive Lifting. Intuitively, this is achieved by efficiently relying on implicit scene representation methods only at critical junctions i.e. post InstanceMap, greatly reducing the number of training iterations of the neural field (25x less). Figure 4 compares the instances identified by Panoptic Lifting to .\
+We benchmark all runtimes using a single RTX 3090 post-mask generation. Specifically, comparing their implementation to ours, Panoptic Lifting requires 5.7 hours of training over all scans, with a min and max of 3.6 and 6.6 hours, respectively, since its runtime depends on the number of objects. Contrastive Lifting takes around 3.5 hours on average while  runs under 20 minutes (14.5 minutes on average) for all scans. Note several components of  can be easily parallelized, such as dense descriptors extraction using LoFTR and label merging. The runtime of our method is dependent on the number of correspondences produced by LofTR, which doesn’t change for different frontend segmentation models, and we observe similar runtimes for other experiments.\
+ Table III shows our results for lifting GroundedSAM masks for Replica-vMap. From Figure 5 we see that InstanceLift is effective at interpolating labels missed by InstanceMap and resolving ambiguities produced by GroundedSAM[1]. Figure 7 shows that InstanceMap and 3DIML are robust to large viewpoint changes and as well as duplicate objects, assuming nice scans, that is enough context for NetVLAD and LoFTR to somewhat distinguish between them. Table IV and Fig. 6 illustrate our performance on ScanNet [21].\
+Novel View Rendering and InstanceLoc Table V shows the performance if  on the second track provided in Replica-vMap. We observe that InstanceLift is effective at rendering new views, and therefore InstanceLoc performs well. For Replica-vMap and FastSAM, InstanceLoc takes on average 0.16s per localized image (6.2 frames per second). In addition, InstanceLoc can be applied as a post-processing step to the renders of the input sequence as a denoising operation.\
+E. Limitations and Future Work\
+In extreme viewpoint changes, our method sometimes produced discontinuous 3D instance labels. For example, on the worst performing scene, office2, we see that since the scan images only the front of a chair facing the back of the room and the back of a chair facing the front of the room for many frames, InstanceMap is not able to conclude these labels refer to the same object, and InstanceLift was unable to fix it, as NeRF’s correction performance rapidly degrades with increasing label inconsistency [12]. However, there are very few of these left per scene post , and they can be easily fixed via sparse human annotation.In this paper, we present 3DIML, which addresses the problem of 3D instance segmentation in a class-agnostic and computationally efficient manner. By employing a novel approach that utilizes InstanceMap and InstanceLift for generating and refining view-consistent pseudo instance masks from a sequence of posed RGB images, we circumvent the complexities associated with previous methods that only optimize a neural field. Furthermore, the introduction of InstanceLoc allows rapid localization of instances in unseen views by combining fast segmentation models and a refined neural label field. Our evaluations across Replica and ScanNet and different frontend segmentation models showcase *3DIML’*s speed and effectiveness. It offers a promising avenue for real-world applications requiring efficient and accurate scene analysis.[1] B. Cheng, I. Misra, A. G. Schwing, A. Kirillov, and R. Girdhar, “Masked-attention mask transformer for universal image segmentation,” CoRR, vol. abs/2112.01527, 2021. [Online]. Available: https://arxiv.org/abs/2112.01527 1, 2\
+[2] A. Kirillov, E. Mintun, N. Ravi, H. Mao, C. Rolland, L. Gustafson, T. Xiao, S. Whitehead, A. C. Berg, W.-Y. Lo et al., “Segment anything,” arXiv preprint arXiv:2304.02643, 2023. 1, 2, 3\
+[3] J. Schult, F. Engelmann, A. Hermans, O. Litany, S. Tang, and B. Leibe, “Mask3d: Mask transformer for 3d semantic instance segmentation,” in 2023 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2023, pp. 8216–8223. 1\
+[4] A. Takmaz, E. Fedele, R. W. Sumner, M. Pollefeys, F. Tombari, and F. Engelmann, “Openmask3d: Open-vocabulary 3d instance segmentation,” arXiv preprint arXiv:2306.13631, 2023. 1\
+[5] Y. Siddiqui, L. Porzi, S. R. Bulo, N. Muller, M. Nießner, A. Dai, and P. Kontschieder, “Panoptic lifting for 3d scene understanding with neural fields,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 9043–9052. 2, 3, 4, 5\
+[6] Y. Bhalgat, I. Laina, J. F. Henriques, A. Zisserman, and A. Vedaldi, “Contrastive lift: 3d object instance segmentation by slow-fast contrastive fusion,” 2023. 2, 4, 5\
+[7] B. Mildenhall, P. P. Srinivasan, M. Tancik, J. T. Barron, R. Ramamoorthi, and R. Ng, “Nerf: Representing scenes as neural radiance fields for view synthesis,” Communications of the ACM, vol. 65, no. 1, pp. 99–106, 2021. 2, 3\
+[8] X. Zhao, W. Ding, Y. An, Y. Du, T. Yu, M. Li, M. Tang, and J. Wang, “Fast segment anything,” arXiv preprint arXiv:2306.12156, 2023. 2, 4\
+[9] L. Ke, M. Ye, M. Danelljan, Y. Liu, Y.-W. Tai, C.-K. Tang, and F. Yu, “Segment anything in high quality,” arXiv preprint arXiv:2306.01567, 2023. 2\
+[10] Y. Zhang, X. Huang, J. Ma, Z. Li, Z. Luo, Y. Xie, Y. Qin, T. Luo, Y. Li, S. Liu, Y. Guo, and L. Zhang, “Recognize anything: A strong image tagging model,” 2023. 2\
+[11] S. Liu, Z. Zeng, T. Ren, F. Li, H. Zhang, J. Yang, C. Li, J. Yang, H. Su, J. Zhu, and L. Zhang, “Grounding dino: Marrying dino with grounded pre-training for open-set object detection,” 2023. 2\
+[12] S. Zhi, T. Laidlow, S. Leutenegger, and A. J. Davison, “In-place scene labelling and understanding with implicit scene representation,” in Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021, pp. 15 838–15 847. 2, 5\
+[13] A. Chen, Z. Xu, A. Geiger, J. Yu, and H. Su, “Tensorf: Tensorial radiance fields,” in European Conference on Computer Vision (ECCV), 2022. 2\
+[14] B. Hu, J. Huang, Y. Liu, Y.-W. Tai, and C.-K. Tang, “Instance neural radiance field,” arXiv preprint arXiv:2304.04395, 2023. 2, 3\
+[15] ——, “Nerf-rpn: A general framework for object detection in nerfs,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 23 528–23 538. 2\
+[16] P.-E. Sarlin, C. Cadena, R. Siegwart, and M. Dymczyk, “From coarse to fine: Robust hierarchical localization at large scale,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019, pp. 12 716–12 725. 2\
+[17] J. Sun, Z. Shen, Y. Wang, H. Bao, and X. Zhou, “Loftr: Detectorfree local feature matching with transformers,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2021, pp. 8922–8931. 2, 3\
+[18] M. Tancik, E. Weber, E. Ng, R. Li, B. Yi, T. Wang, A. Kristoffersen, J. Austin, K. Salahi, A. Ahuja et al., “Nerfstudio: A modular framework for neural radiance field development,” in ACM SIGGRAPH 2023 Conference Proceedings, 2023, pp. 1–12. 3, 4\
+[19] T. Muller, A. Evans, C. Schied, and A. Keller, “Instant neural ¨ graphics primitives with a multiresolution hash encoding,” ACM Transactions on Graphics, vol. 41, no. 4, p. 1–15, Jul. 2022. [Online]. Available: http://dx.doi.org/10.1145/3528223.3530127 3, 4\
+[20] X. Kong, S. Liu, M. Taher, and A. J. Davison, “vmap: Vectorised object mapping for neural field slam,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 952–961. 4, 6\
+[21] A. Dai, A. X. Chang, M. Savva, M. Halber, T. Funkhouser, and M. Nießner, “Scannet: Richly-annotated 3d reconstructions of indoor scenes,” in Proc. Computer Vision and Pattern Recognition (CVPR), IEEE, 2017. 5(1) George Tang, Massachusetts Institute of Technology;(2) Krishna Murthy Jatavallabhula, Massachusetts Institute of Technology;(3) Antonio Torralba, Massachusetts Institute of Technology.:::info
+This paper is  under CC by 4.0 Deed (Attribution 4.0 International) license.[1] GroundedSAM produces lower quality frontend masks than SAM due to prompting using bounding boxes instead of a point grid.]]></content:encoded></item><item><title>Consistent 3D Mask Labeling Made Simple</title><link>https://hackernoon.com/consistent-3d-mask-labeling-made-simple?source=rss</link><author>Instancing</author><category>tech</category><pubDate>Fri, 24 Oct 2025 15:34:14 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Given a sequence of N posed RGB images, (Ii , Ti) where I denotes the image and T pose, we first extract viewinconsistent instance masks Mi using a generic instance segmentation model such as Mask2Former or SAM.\
+We first generate pseudolabel masks with InstanceMap. Formally, define ϕ(M, r) to map a mask M and region r to a consistent label for the same 3D object across different masks and regions. We extend the popular hLoc [16] framework for scalable 3D reconstruction to mask association as follows:\
+Since NetVLAD and LoFTR don’t have 3D information, 3DIML only performs well if each image in the scan sequence contains enough context for these models. We observe empirically a good rule of thumb is to have at least one other recognizable landmark for frames containing near-identical objects.\
+: Insofar, our approach produces instance masks and dense pixel correspondences among images that share a visual overlap. However, segmentation models such as SAM [2] suffer multiple issues: (a) segmentations of the same object need not be consistent across images, owing to viewpoint and appearance variations; and (b) owing to over-segmentation of objects, there isn’t usually a one-one correspondence among masks.\
+ϕ(M, r) is inherently noisy due to varying segmentation hierarchies for different instance masks due to differing viewpoints as well as design specifics. To address this, in InstanceLift we feed the pseudolabel masks to a label NeRF, which resolves some ambiguities. Still, NeRF cannot handle extreme cases of label ambiguity, to which we devise a fast post-processing method that determines and merges colliding labels based on random renders from the label NeRF. The few remaining, if any, ambiguities can be corrected via sparse human annotation.\
+Post graph construction, we merge labels a, b if\
+Since we only need coarse information i.e. instance mask noise, we render images downsampled by a factor of 2.\
+C. Fast Instance Localization and Rendering\
+Training a label field enables us to predict 3D-consistent instance labels for novel viewpoints without rerunning . However, rendering every pixel is slow, and rendering from a novel viewpoint is often noisy. We propose a  approach that instead precomputes instance masks for the input image using an instance segmentation model (here FastSAM [8]). Given this instance mask, for each instance region, we sample the corresponding pixelwise 3D object labels from the label NeRF and take the majority label. Another benefit is that the input instance masks can be constructed using prompts and edited before localization.(1) George Tang, Massachusetts Institute of Technology;(2) Krishna Murthy Jatavallabhula, Massachusetts Institute of Technology;(3) Antonio Torralba, Massachusetts Institute of Technology.:::info
+This paper is  under CC by 4.0 Deed (Attribution 4.0 International) license.]]></content:encoded></item><item><title>Solving 3D Segmentation’s Biggest Bottleneck</title><link>https://hackernoon.com/solving-3d-segmentations-biggest-bottleneck?source=rss</link><author>Instancing</author><category>tech</category><pubDate>Fri, 24 Oct 2025 15:33:53 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[(1) George Tang, Massachusetts Institute of Technology;(2) Krishna Murthy Jatavallabhula, Massachusetts Institute of Technology;(3) Antonio Torralba, Massachusetts Institute of Technology.\
+— We tackle the problem of learning an implicit scene representation for 3D instance segmentation from a sequence of posed RGB images. Towards this, we introduce 3DIML, a novel framework that efficiently learns a label field that may be rendered from novel viewpoints to produce view-consistent instance segmentation masks. 3DIML significantly improves upon training and inference runtimes of existing implicit scene representation based methods. Opposed to prior art that optimizes a neural field in a self-supervised manner, requiring complicated training procedures and loss function design, 3DIML leverages a two-phase process. The first phase, InstanceMap, takes as input 2D segmentation masks of the image sequence generated by a frontend instance segmentation model, and associates corresponding masks across images to 3D labels. These almost view-consistent pseudolabel masks are then used in the second phase, InstanceLift, to supervise the training of a neural label field, which interpolates regions missed by InstanceMap and resolves ambiguities. Additionally, we introduce InstanceLoc, which enables near realtime localization of instance masks given a trained label field and an offthe-shelf image segmentation model by fusing outputs from both. We evaluate 3DIML on sequences from the Replica and ScanNet datasets and demonstrate 3DIML’s effectiveness under mild assumptions for the image sequences. We achieve a large practical speedup over existing implicit scene representation methods with comparable quality, showcasing its potential to facilitate faster and more effective 3D scene understanding.Intelligent agents require scene understanding at the object level to effectively carry out context-specific actions such as navigation and manipulation. While segmenting objects from images has seen remarkable progress with scalable models trained on internet-scale datasets [1], [2], extending such capabilites to the 3D setting remains challenging.\
+In this work, we tackle the problem of learning a 3D scene representation from posed 2D images that factorizes the underlying scene into its set of constituent objects. Existing approaches to tackle this problem have focused on training class-agnostic 3D segmentation models [3], [4], requiring large amounts of annotated 3D data, and operating directly over explicit 3D scene representations (e.g., pointclouds). An alternate class of approaches [5], [6] has instead proposed to directly lift segmentation masks from off-the-shelf instance segmentation models into implicit 3D representations, such as neural radiance fields (NeRF) [7], enabling them to render 3D-consistent instance masks from novel viewpoints.\
+However, the neural field-based approaches have remained notoriously difficult to optimize, with [5] and [6] taking several hours to optimize for low-to-mid resolution images (e.g., 300 × 640). In particular, Panoptic Lifting [5] scales cubicly with the number of objects in the scene preventing it from being applied to scenes with hundreds of objects, while Contrastively Lifting [6] requires a complicated, multi-stage training procedure, hindering practicality for use in robotics applications.\
+To this end, we propose , an efficient technique to learn 3D-consistent instance segmentation from posed RGB images. 3DIML comprises two phases: InstanceMap and InstanceLift. Given view-inconsistent 2D instance masks extracted from the RGB sequence using a frontend instance segmentation model [2], InstanceMap produces a sequence of view-consistent instance masks. To do so, we first associate masks across frames using keypoint matches between similar pairs of images. We then use these potentially noisy associations to supervise a neural label field, InstanceLift, which exploits 3D structure to interpolate missing labels and resolve ambiguities. Unlike prior work, which requires multistage training and additional loss function engineering, we use a single rendering loss for instance label supervision, enabling the training process to converge significantly faster. The total runtime of , including InstanceMap, takes 10-20 minutes, as opposed to 3-6 hours for prior art.\
+In addition, we devise InstaLoc, a fast localization pipeline that takes in a novel view and localizes all instances segmented in that image (using a fast instance segmentation model [8]) by sparsely querying the label field and fusing the label predictions with extracted image regions. Finally,  is extremely modular, and we can easily swap components of our method for more performant ones as they become available.\
+To summarize, our contributions are:\
+• An efficient neural field learning approach that factorizes a 3D scene into its constituent objects\
+• A fast instance localization algorithm that fuses sparse queries to the trained label field with performant image instance segmentation models to generate 3D-consistent instance segmentation masks\
+• An overall practical runtime improvement of 14-24× over prior art benchmarked on a single GPU (NVIDIA RTX 3090) The prevalence of vision transformer architecture and the increasing scale of image datasets have resulted in a series of state-of-the-art image segmentation models. Panoptic and Contrastive Lifting both lift panoptic segmentation masks produced by Mask2Former [1] to 3D by learning a neural field. Towards open-set segmentation, segment anything (SAM) [2] achieves unprecedented performance by training on a billion masks over 11 million images. HQ-SAM [9] improves upon SAM for fine-grained masks. FastSAM [8] distills SAM into a CNN architecture and achieves similar performance while being orders of magnitude faster. In this work, we use GroundedSAM [10], [11], which refines SAM to produce object-level, as opposed to part-level segmentation masks.\
+Neural fields for 3D instance segmentation: NeRFs are implicit scene representations that can accurately encode complex geometry, semantics, and other modalities, as well as resolve viewpoint inconsistent supervision [12]. Panoptic lifting [5] constructs semantics and instances branches on an efficient variant of NeRF, TensoRF [13], utilizing a Hungarian matching loss function to assign learned instance masks to surrogate object IDs given reference view-inconsistent masks. This scales poorly with increasing number of objects (owing to the cubic complexity of Hungarian matching). Contrastive lifting [6] addresses this by instead employing contrastive learning on scene features, with positive and negative relations determined by whether or not they project onto the same mask. In addition, contrastive lifting requires a slow-fast clustering-based loss for stable training, leading to faster performance than panoptic lifting but requires multiple stages of training, leading to slow convergence. Concurrently to us, Instance-NeRF [14] directly learn a label field, but they based their mask association on utilizing NeRF-RPN [15] to detect objects in a NeRF. Our approach, on the contrary, allows scaling to very high image resolutions while requiring only a small number (40-60) of neural field queries to render segmentation masks.\
+: During mask association in InstanceMap, we take inspiration from scalable 3D reconstruction pipelines such as hLoc [16], including the use of visual descriptors for matching image viewpoints first, then applying keypoint matching as a preliminary for mask association. We utilize LoFTR [17] for keypoint extraction and matching.:::info
+This paper is  under CC by 4.0 Deed (Attribution 4.0 International) license.]]></content:encoded></item><item><title>TechCrunch Disrupt 2025 Side Events schedule: Women in Tech, MongoDB, Silkroad Innovation Hub, and more to host</title><link>https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-side-events-schedule-women-in-tech-mongodb-silkroad-innovation-hub-and-more-to-host/</link><author>TechCrunch Events</author><category>tech</category><pubDate>Fri, 24 Oct 2025 15:30:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[With TechCrunch Disrupt 2025 right around the corner, we’re thrilled to introduce the companies hosting Side Events that will extend the buzz and excitement to the thousands of attendees and Silicon Valley locals alike.]]></content:encoded></item><item><title>Generalization and Robustness: RECKONING Excels on Longer Reasoning Chains Unseen During Training</title><link>https://hackernoon.com/generalization-and-robustness-reckoning-excels-on-longer-reasoning-chains-unseen-during-training?source=rss</link><author>The Tech Reckoning is Upon Us!</author><category>tech</category><pubDate>Fri, 24 Oct 2025 15:12:10 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[ We first evaluate whether RECKONING learns to perform reasoning in the base setting. A model is given a set of supporting facts (without distractors) and a question (or hypothesis) as input and begins by performing a few CLM learning steps on the facts. Then, the updated model reads  the question and generates an answer. To answer correctly, the model must reason over both facts and the question, meaning it must encode the facts during the inner loop such that multi-hop reasoning can be performed over them later.\
+We train our models and the fine-tuned ICR (FT-ICR) baselines with both the single-task (LCE) and multi-task (LCE + LCLM) objectives. For multi-task (MT) training, the model learns to answer the question and generate its relevant knowledge in the outer loop. Table 1 shows the evaluation results on question answering (or hypothesis classification). For all hop numbers in ProofWriter and CLUTRR-SG, multi-task RECKONING outperforms the best result of all baselines (consistently obtained by multi-task FT-ICR) by an average of 1%. We conclude that RECKONING can effectively solve reasoning problems through its updated parametric knowledge and do so better than existing baselines. The multi-task objective is crucial for this success: not only is RECKONING’s performance consistently higher (by an average of 2.8% over the two datasets and their hop counts) when using the multi-task rather than single-task (ST) objective, but it also under-performs both FTICR baselines when trained with only the single-task objective. The multi-task objective also improves FT-ICR consistently (average 1.8%), though it is not enough to beat the multi-task RECKONING. In all further experiments, we consider only RECKONING and FT-ICR with a multi-task objective.\
+Generalizing to Longer Reasoning Chains Our first experiments assume an alignment between the number of reasoning hops in the questions in the training and test set. However, we may not be able to train on all n-hop reasoning questions we encounter in the wild, and we rarely know the number of reasoning hops in a question a priori. Consequently, we also measure the generalization capacity of our model to questions with hop numbers unseen during training. We compile interpolation (fewer hops than the train set) and extrapolation (more hops than the train set) test sets from the CLUTRRSG dataset. Again, we train models individually on 2-hop, 4-hop, and 6-hop examples and evaluate these three sets of models on the test sets, which contain 2-10-hop reasoning questions. Figure 3 shows that both RECKONING models and ICR baselines retain high performance on the interpolation test sets but exhibit decreasing performance as the number of hops increases. Importantly, though, RECKONING outperforms FT-ICR on all test sets regardless of the number of training hops, with the highest difference being more than 10% in every training setting (15%, 30%, 10%, respectively). These performance gains when testing on extrapolation data suggest that training with RECKONING better generalizes to examples with high OOD hop counts than in-context reasoning (ICR).\
+Does RECKONING’s performance depend on the number of inner loop gradient steps? In RECKONING, the model performs multi-hop reasoning over facts by encoding facts using multiple gradient steps in the inner loop optimization (§3). Naturally, this process prompts the question of whether there is a correlation between the number of reasoning hops and the number of gradient steps needed to reliably encode the knowledge (i.e., problems with more reasoning hops require more gradient steps in the inner loop to encode the facts). In Figure 4, we show for CLUTRR-SG that as the number of inner loop steps increases, the label accuracy of the outer-loop task also increases. Furthermore, when considering the performance gains for reasoning with 6 inner loop steps (i.e., knowledge encoding) as opposed to one, we observe that this gap is much more pronounced for 4-hop (42.3%) and 6-hop (34.7%) reasoning than it is for 2-hop reasoning (5.9%). These results show that problems requiring more hops of reasoning also greatly benefit from more steps of inner loop knowledge encoding.(1) Zeming Chen, EPFL (zeming.chen@epfl.ch);(2) Gail Weiss, EPFL (antoine.bosselut@epfl.ch);(3) Eric Mitchell, Stanford University (eric.mitchell@cs.stanford.edu)';(4) Asli Celikyilmaz, Meta AI Research (aslic@meta.com);(5) Antoine Bosselut, EPFL (antoine.bosselut@epfl.ch).]]></content:encoded></item><item><title>The full breakout session agenda at TechCrunch Disrupt 2025</title><link>https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/</link><author>TechCrunch Events</author><category>tech</category><pubDate>Fri, 24 Oct 2025 15:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The full Disrupt 2025 breakout session agenda is now live. Join for tactical, small-group learning on AI, fundraising, M&A, workflows, and more. Browse the full lineup and register today to save up to $444, and get 60% off a second pass before prices rise on October 27.]]></content:encoded></item><item><title>AMD EPYC Turin vs. Intel Xeon 6 Granite Rapids vs. Graviton4 Benchmarks With AWS M8 Instances</title><link>https://www.phoronix.com/review/aws-m8a-m8g-m8i-benchmarks</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 24 Oct 2025 15:00:00 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[With Amazon recently launching their M8a AWS instances powered by 5th Gen AMD EPYC "Turin", for their M8 class instance types there now are all the latest-generation CPU options with AMD EPYC Turin (M8a), Intel Xeon 6 Granite Rapids (M8i), and their in-house Graviton4 processors (M8g). After recently looking at the M7a vs. M8a performance with Amazon EC2, many Phoronix readers expressed interest in seeing an M8a vs. M8i vs. M8g performance showdown so here are those benchmarks.]]></content:encoded></item><item><title>Automattic files counterclaims against WP Engine in WordPress lawsuit, alleging trademark misuse</title><link>https://techcrunch.com/2025/10/24/automattic-files-counterclaims-against-wp-engine-in-wordpress-lawsuit-alleging-trademark-misuse/</link><author>Sarah Perez</author><category>tech</category><pubDate>Fri, 24 Oct 2025 14:57:06 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Automattic has filed counterclaims against WP Engine, alleging that the company — backed by private equity firm Silver Lake — misused WordPress and WooCommerce trademarks, misled users, and undermined the open source community. ]]></content:encoded></item><item><title>Rivian will pay $250M to settle lawsuit over R1 price hike</title><link>https://techcrunch.com/2025/10/24/rivian-will-pay-250m-to-settle-lawsuit-over-r1-price-hike/</link><author>Sean O&apos;Kane</author><category>tech</category><pubDate>Fri, 24 Oct 2025 14:43:01 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The three-year-old lawsuit centered on Rivian's sudden decision to increase prices on the R1 lineup in 2022, which sank the stock price.]]></content:encoded></item><item><title>AI at the edge: How startups are powering the future of space at TechCrunch Disrupt 2025</title><link>https://techcrunch.com/2025/10/24/ai-at-the-edge-how-startups-are-powering-the-future-of-space-at-techcrunch-disrupt-2025/</link><author>TechCrunch Events</author><category>tech</category><pubDate>Fri, 24 Oct 2025 14:30:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Just 3 days until liftoff for Disrupt 2025 — and the Space Stage is ready to explore the future of space tech (and every other frontier of innovation). Adam Maher (Ursa), Dr. Lucy Hoag (Violet Labs), and Dr. Debra L. Emmons (The Aerospace Corporation) will unpack how AI is transforming life in orbit. Register now to save up to $444 on your pass, and 60% on a second.]]></content:encoded></item><item><title>Updated AMD ISP4 Driver Posted For Linux With Fixes &amp; Improvements</title><link>https://www.phoronix.com/news/AMD-ISP4-Linux-Driver-v5</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 24 Oct 2025 14:02:01 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[AMD's ISP4 image signal processing IP is so far just used by the HP ZBook Ultra G1a laptop but will presumably be used by more of the higher-end AMD Ryzen next-gen laptops. AMD engineers today posted their fifth iteration of their open-source Linux driver for enabling the ISP4 use...]]></content:encoded></item><item><title>Ticket savings countdown — just 3 days until TechCrunch Disrupt 2025 turns San Francisco into startup city</title><link>https://techcrunch.com/2025/10/24/ticket-savings-countdown-just-3-days-until-techcrunch-disrupt-2025-turns-san-francisco-into-startup-city/</link><author>TechCrunch Events</author><category>tech</category><pubDate>Fri, 24 Oct 2025 14:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Three days. That’s it. TechCrunch Disrupt 2025 — the startup world’s biggest stage — kicks off October 27 – 29 at Moscone West in San Francisco. When Disrupt 2025 arrives, the city doesn’t just host innovation — it amplifies it, transforming San Francisco into a living showcase of ideas, products, and partnerships driving the next wave of tech. Register before prices hike in 3 days.]]></content:encoded></item><item><title>Can steroids combat population collapse? The Enhanced Games wants to find out.</title><link>https://techcrunch.com/2025/10/24/can-steroids-combat-population-collapse-the-enhanced-games-wants-to-find-out/</link><author>Rebecca Bellan</author><category>tech</category><pubDate>Fri, 24 Oct 2025 14:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[“I believe that when Fred breaks [Usain Bolt’s] 100-meter world record in Vegas next year, it will be a watershed moment to show that enhanced humans are better than ordinary humans,” D'Souza said on a recent episode of Equity.  ]]></content:encoded></item><item><title>The Lottery Ticket Hypothesis: Why Pruned Models Can Sometimes Learn Just as Well as Full Networks</title><link>https://hackernoon.com/the-lottery-ticket-hypothesis-why-pruned-models-can-sometimes-learn-just-as-well-as-full-networks?source=rss</link><author>Yash Gupta</author><category>tech</category><pubDate>Fri, 24 Oct 2025 13:33:35 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[The Lottery Ticket Hypothesis (LTH) proposes that within large neural networks exist smaller subnetworks—or “winning tickets”—that, when properly initialized and trained, can match or even outperform their full-sized counterparts. This article surveys key research exploring LTH’s methods, extensions, and limitations, including its applications in vision, NLP, and reinforcement learning. It examines how pruning, initialization, and iterative retraining contribute to model efficiency, generalization, and theoretical understanding, while also addressing open challenges around scalability, domain transfer, and the deeper mechanisms behind why LTH works.]]></content:encoded></item><item><title>Vulkan 1.4.330 Released With Five New Extensions</title><link>https://www.phoronix.com/news/Vulkan-1.4.330-Released</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 24 Oct 2025 13:10:37 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Vulkan 1.4.330 is out today with a few specification corrections/clarifications plus five new extensions...]]></content:encoded></item><item><title>User-Centered Design Shapes Assistive Tech for Cerebral Palsy</title><link>https://spectrum.ieee.org/assistive-technology-cerebral-palsy</link><author>Jason Hahr</author><category>tech</category><enclosure url="https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82MTg3NzE5MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NTc3MTA4M30.D-71yL-iwR74auKamQV3f3JHp4QvSruL3dgRrHTY3iE/image.jpg?width=600" length="" type=""/><pubDate>Fri, 24 Oct 2025 13:00:03 +0000</pubDate><source url="https://spectrum.ieee.org/">IEEE Spectrum</source><content:encoded><![CDATA[Tailored devices center person’s needs, not just techno whizbang]]></content:encoded></item><item><title>Asahi Linux Still Working On Apple M3 Support, m1n1 Bootloader Going Rust</title><link>https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 24 Oct 2025 10:33:00 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[The Asahi Linux developers involved with working on Linux support for Apple Silicon M-Series devices have put out a new progress report on their development efforts...]]></content:encoded></item><item><title>New Code Allows VCE 1.0 Video Acceleration To Work On AMDGPU Driver For GCN 1.0 GPUs</title><link>https://www.phoronix.com/news/VCE-1.0-For-AMDGPU-Patches</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 24 Oct 2025 10:22:31 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Valve contractor Timur Kristóf for their Linux graphics driver team has been working on improving Linux driver support for old AMD Radeon GCN 1.0 and GCN 1.1 generation GPUs. This has been about improving the AMDGPU driver to fill remaining gaps in GCN 1.0/1.1 support with those graphics cards by default relying on the older "Radeon" DRM kernel graphics driver compared to the AMDGPU driver used by default with GCN 1.2 and later. Another feature gap for AMDGPU is now being addressed with Video Coding Engine 1.0 support...]]></content:encoded></item><item><title>Patina 13.0 Released As Rust UEFI Firmware Implementation</title><link>https://www.phoronix.com/news/Pantina-13.0-Rust-UEFI-Firmware</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 24 Oct 2025 10:10:59 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Patina 13.0 is now available as this Rust implementation of UEFI firmware. Patina has been working to replace the core UEFI firmware components in a pure Rust implementation to avoid the use of C code...]]></content:encoded></item><item><title>Linux&apos;s Kconfig Is No Longer Orphaned</title><link>https://www.phoronix.com/news/Kconfig-No-Longer-Orphaned</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 24 Oct 2025 09:55:38 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Back in August, open-source developer Masahiro Yamada stepped down from maintaining the Kconfig and Kbuild areas of the Linux kernel. While Kbuild maintainership was quickly passed on, no one immediately stepped up to maintain Kconfig as the infrastructure code for configuring the Linux kernel builds. That led to Kconfig officially being orphaned code within the kernel but now that situation has been addressed...]]></content:encoded></item><item><title>The TechBeat: Who&apos;s Used One Trillion Plus OpenAI Tokens? Salesforce, Shopify, Canva, Hubspot, &amp; 26 More Companies (10/24/2025)</title><link>https://hackernoon.com/10-24-2025-techbeat?source=rss</link><author>Techbeat</author><category>tech</category><pubDate>Fri, 24 Oct 2025 06:11:05 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[By @mend [ 4 Min read ] 
+ Traditional testing breaks with AI. Learn how red teaming and AI-powered fuzzing uncover hidden weaknesses in large language models. Read More.By @ichebykin [ 5 Min read ] 
+ Context engineering for coding agents is the best way to improve the model performance for code generation.  Read More.By @David [ 9 Min read ] 
+ Google's Head of Data Commons joined HackerNoon to discuss grounding AI in verifiable data, and why "we are very early with LLMs," MCP's open approach.  Read More.By @knightbat2040 [ 5 Min read ] 
+ What started as a simple script evolved into a full-fledged data engineering and NLP pipeline that can process a decade's worth of legal decisions in minutes. Read More.By @botbeat [ 8 Min read ] 
+ A deep dive into the 30 companies that burned over one trillion OpenAI tokens—featuring Duolingo, OpenRouter, and Indeed as top power users of GPT tech. Read More.By @socialdiscoverygroup [ 6 Min read ] 
+ Discover how React 19's new hooks—useActionState, useFormStatus, and useOptimistic—simplify form handling with less boilerplate and cleaner code.  Read More.By @startupsoftheweek [ 5 Min read ] 
+ Win trust, not volume: be helpful and transparent; use interviews, data, and community; avoid salesy fluff.  Read More.By @ainativedev [ 7 Min read ] 
+ Dive into a hands-on comparison of Cursor, Windsurf, and Copilot with GPT-5, highlighting their strengths in greenfield and brownfield projects. Read More.By @drechimyn [ 6 Min read ] 
+ Online writing has become a synthetic echo chamber, flattened by algorithms. The solution is to rebel by writing with an authentic human voice. Read More.By @kingdavvd [ 5 Min read ] 
+ Smart telescopes are redefining astronomy—blending art, science, and emotion to make stargazing more personal, effortless, and inspiring. 
+ Read More.By @oleksandrkaleniuk [ 4 Min read ] 
+ AI needs cheap energy—and the chemistry that fed humanity might also fuel its future. Could nuclear power close the loop? Read More.By @mcsee [ 3 Min read ] 
+ Avoid Boolean variables, they lead to conditional logic and force you to write Ifs. Create polymorphic states instead Read More.By @ainativedev [ 5 Min read ] 
+ AI coding agents dominated the 2025 SF World’s Fair. From spec-driven dev to cloud agents, here are 7 takeaways shaping AI-native engineering. Read More.By @webism [ 5 Min read ] 
+ OpenAI launches ChatGPT Atlas, an AI-powered browser with memory and agent mode. We gathered 33 reactions from skeptics, believers, and analysts. Read More.By @ujutheanalyst [ 3 Min read ] 
+ You don’t need a PhD to learn AI, just structure, curiosity, and small steps that make sense. Here’s how I learned machine learning from scratch. Read More.]]></content:encoded></item><item><title>Intel Begins Adding Nova Lake Xe3P To Linux OpenGL/Vulkan Drivers - Some Will Lack Ray-Tracing</title><link>https://www.phoronix.com/news/Intel-Nova-Lake-Mesa-Xe3P</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 24 Oct 2025 00:36:00 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Intel recently began sending out Xe3P kernel graphics driver patches for Nova Lake that will begin landing in the upcoming Linux 6.19 kernel cycle. Now on the user-space side, merged today for Mesa 26.0 were the first enablement patches for Xe3P Nova Lake for their open-source OpenGL and Vulkan drivers on Linux...]]></content:encoded></item><item><title>Fedora Linux 43 Cleared For Release Next Week</title><link>https://www.phoronix.com/news/Fedora-43-Next-Week</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 24 Oct 2025 00:12:43 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Fedora 43 complete with its rocket-themed default desktop background on Fedora Workstation 43 is cleared for lifting off next week...]]></content:encoded></item></channel></rss>
