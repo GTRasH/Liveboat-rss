@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tech News - Last 2 days</title><link>http://site-url-not-set.io/you-can-set-it-in-liveboat-config</link><description></description><item><title>Copy-and-Paste Now Exceeds File Transferring as the Top Corporate Data Exfiltration Vector</title><link>https://it.slashdot.org/story/25/11/16/0355217/copy-and-paste-now-exceeds-file-transferring-as-the-top-corporate-data-exfiltration-vector?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 16 Nov 2025 03:58:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[Slashdot reader spatwei writes: It is now more common for data to leave companies through copying and pasting than through file transfers and uploads, LayerX revealed in its Browser Security Report 2025. This shift is largely due to generative AI (genAI), with 77% of employees pasting data into AI prompts, and 32% of all copy-pastes from corporate accounts to non-corporate accounts occurring within genAI tools. 'Traditional governance built for email, file-sharing, and sanctioned SaaS didn't anticipate that copy/paste into a browser prompt would become the dominant leak vector,' LayerX CEO Or Eshed wrote in a blog post summarizing the report. 
+
+
+"GenAI now accounts for 11% of enterprise application usage," notes this article from SC World, "with adoption rising faster than many data loss protection (DLP) controls can keep up. Overall, 45% of employees actively use AI tools, with 67% of these tools being accessed via personal accounts and ChatGPT making up 92% of all use..." 
+
+
+"With the rise of AI-driven browsers such as OpenAI's Atlas and Perplexity's Comet, governance of AI tools' access to corporate data becomes even more urgent, the LayerX report notes."]]></content:encoded></item><item><title>Google Begins Aggresively Using the Law To Stop Text Message Scams</title><link>https://yro.slashdot.org/story/25/11/16/0112236/google-begins-aggresively-using-the-law-to-stop-text-message-scams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 16 Nov 2025 01:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA["Google is going to court to help put an end to, or at least limit, the prevalence of phishing scams over text message," reports BGR:
+
+
+Google said it's bringing suit against Lighthouse, an impressively large operation that allegedly provides tools customers can buy to set up their own specialized phishing scams. All told, Google estimates that Lighthouse-affiliated scams in the U.S. have stolen anywhere between 12.7 million and 115 million credit cards. "Bad actors built Lighthouse as a phishing-as-a-service kit to generate and deploy massive SMS phishing attacks," Google notes. "These attacks exploit established brands like E-Z Pass to steal people's financial information." 
+
+Google's legal action is comprehensive and is intent on completely dismantling Lighthouse's operations. The search giant is bringing claims under RICO, the Lanham Act, and the Computer Fraud and Abuse Act (CFAA). RICO, which often comes up in movies and television shows, allows authorities to treat Lighthouse's phishing operation as a broad criminal enterprise as opposed to isolated scams. By using RICO, Google also expands the list of individuals who can be found liable, whether it be the people who started Lighthouse, the people who run it, or even unaffiliated customers who used the company's services. The Lanham Act, for those unaware, targets malicious actors who misappropriate well-known company trademarks in order to confuse consumers. This Lanham Act comes into play because many phishing scams masquerade as legitimate messages from companies like Amazon and FedEx. The Computer Fraud and Abuse Act, meanwhile, is relevant because scammers typically use stolen credentials to gain unauthorized access to financial systems, something the CFAA is designed to target... 
+
+The fact that Google is invoking all three of the acts above underscores how serious the company is about putting a stop to SMS-based scams. By using all three, Google's legal attack is more potent and also expands the range of available remedies to include civil damages and criminal penalties. In short, Google isn't merely trying to win a legal case; it's aiming to emphatically and permanently stop Lighthouse in its tracks.
+
+ 
+
+
+
+
+Getting even more aggressive, Google says it's also working with the U.S. Congress to pass new anti-scammer legislation, and endorsed these three new bipartisan bills:
+
+
+The Scam Compound Accountability and Mobilization (SCAM) Act "would develop a national strategy to counter scam compounds, enhance sanctions and support survivors of human trafficking within these compounds."
+
+The Foreign Robocall Elimination Act "would establish a taskforce focused on how to best block foreign-originated illegal robocalls before they ever reach American consumers."
+
+The Guarding Unprotected Aging Retirees from Deception (GUARD) Act "would empower state and local law enforcement by enabling them to utilize federal grant funding to investigate financial fraud and scams specifically targeting retirees. "
+
+
+Thanks to Slashdot reader anderzole for sharing the article.
+]]></content:encoded></item><item><title>A Quantum Error Correction Breakthrough?</title><link>https://tech.slashdot.org/story/25/11/16/004220/a-quantum-error-correction-breakthrough?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sun, 16 Nov 2025 00:22:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[The dream of quantum computers has been hampered by the challenge of error correction, writes the Harvard Gazette, since qubits "are inherently susceptible to slipping out of their quantum states and losing their encoded information." 
+
+But in a newly-published paper, a research team "combined various methods to create complex circuits with dozens of error correction layers" that "suppresses errors below a critical threshold — the point where adding qubits further reduces errors rather than increasing them."
+
+
+"For the first time, we combined all essential elements for a scalable, error-corrected quantum computation in an integrated architecture," said Mikhail Lukin, co-director of the Quantum Science and Engineering Initiative, Joshua and Beth Friedman University Professor, and senior author of the new paper. "These experiments — by several measures the most advanced that have been done on any quantum platform to date — create the scientific foundation for practical large-scale quantum computation..." 
+
+"There are still a lot of technical challenges remaining to get to very large-scale computer with millions of qubits, but this is the first time we have an architecture that is conceptually scalable," said lead author Dolev Bluvstein, Ph.D. '25, who did the research during his graduate studies at Harvard and is now an assistant professor at Caltech. "It's going to take a lot of effort and technical development, but it's becoming clear that we can build fault-tolerant quantum computers...." 
+
+
+Hartmut Neven, vice president of engineering at the Google Quantum AI team, said the new paper came amid an "incredibly exciting" race between qubit platforms. "This work represents a significant advance toward our shared goal of building a large-scale, useful quantum computer," he said... With recent advances, Lukin believes the core elements for building quantum computers are falling into place. "This big dream that many of us had for several decades, for the first time, is really in direct sight," he said. 
+
+"In theory, a system of 300 quantum bits can store more information than the number of particles in the known universe..." the article points out. 
+
+
+"The new paper represents an important advance in a three-decade pursuit of quantum error correction." 
+
+Thanks to long-time Slashdot reader schwit1 for sharing the article.]]></content:encoded></item><item><title>Fear Drives the AI &apos;Cold War&apos; Between America and China</title><link>https://news.slashdot.org/story/25/11/15/2123207/fear-drives-the-ai-cold-war-between-america-and-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 15 Nov 2025 23:22:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[A new "cold war" between America and China is "pushing leaders to sideline concerns about the dangers of powerful AI models," reports the Wall Street Journal, "including the spread of disinformation and other harmful content, and the development of superintelligent AI systems misaligned with human values..." 
+
+"Both countries are driven as much by fear as by hope of progress. "
+
+In Washington and Silicon Valley, warnings abound that China's
+"authoritarian AI," left unchecked, will erode American tech
+supremacy. Beijing is gripped by the conviction that a failure to
+keep
+pace in AI will make it easier for the U.S. to cut short China's
+resurgence as a global power. Both countries believe market share
+for their companies across the world is up for grabs — and with it,
+the potential to influence large swaths of the global population.
+
+
+ The U.S. still has a clear lead, producing the most powerful AI
+models. China can't match it in advanced
+chips and has no answer for the financial firepower of private
+American investors, who funded AI startups to the tune of $104
+billion in the first half of 2025, and are gearing
+up for more. But it has a massive population of capable
+engineers, lower costs and a state-led development model that often
+moves faster than the U.S., all of which Beijing is working to
+harness to tip the contest in its direction. A new "whole of
+society" campaign looks to accelerate the construction of computing
+clusters in areas like Inner Mongolia, where vast solar and wind
+farms provide plentiful cheap energy, and connect hundreds of data
+centers to create a shared compute pool — some describe it as a
+"national cloud" — by 2028. China is also funneling hundreds of
+billions of dollars into its power grid to support AI training and
+adoption... 
+
+"Our lead is probably in the 'months but not years' realm,"
+said Chris McGuire, who helped design U.S. export controls on AI
+chips while serving on the National Security Council under the Biden
+administration. Chinese AI models currently rank at or near the top
+in every task from coding to video generation, with the exception of
+search, according to Chatbot Arena, a popular crowdsourced ranking
+platform. China's manufacturing sector, meanwhile, is rocketing
+past the U.S. in bringing
+AI into the physical world through robotaxis, autonomous drones
+and humanoid
+robots. Given China's progress, McGuire said, the U.S. is
+"very lucky" to have its advantage in chips... 
+
+
+If AI surpasses human intelligence and acquires the ability to
+improve itself, it could confer unshakable scientific, economic and
+military superiority on the country that controls it. Short of that,
+AI's ability to automate tedious tasks and process vast amounts of
+data quickly promises to supercharge everything from cancer diagnoses
+to missile defense. With so much at stake, hacking and cyber
+espionage are likely to get worse, as AI gives hackers more powerful
+tools, while increasing incentives for state-backed groups to try to
+steal AI-related intellectual property. As distrust grows, Washington
+and Beijing will also find it hard, if not impossible, to cooperate
+in areas like preventing extremist groups from using AI in
+destructive ways, such as building bioweapons. "The costs of the
+AI Cold War are already high and will go much higher," said Paul
+Triolo, a former U.S. government analyst and current technology
+policy lead at business consulting firm DGA-Albright Stonebridge
+Group. "A U.S.-China AI arms race becomes a self-fulfilling
+prophecy, with neither side able to trust that the other would
+observe any restrictions on advanced AI capability development...."
+
+ 
+
+
+
+
+The article includes an interesting observation from Helen Toner, director of strategy for Georgetown's Center for Security and Emerging Technology and a former OpenAI board member. Toner points out "We don't actually know" if boosting computing power with better chips will continue producing more-powerful AI models. 
+
+So "If performance plateaus," the Journal writes, "despite all the spending by OpenAI and others — a growing concern in Silicon Valley — China has a chance to compete."]]></content:encoded></item><item><title>EV Sales Are Still Rising. They Have Not Slumped</title><link>https://hardware.slashdot.org/story/25/11/15/1943200/ev-sales-are-still-rising-they-have-not-slumped?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 15 Nov 2025 22:22:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA["Media headlines suggesting some slowdown in EV sales are simply incorrect," writes the site Electrek, "and leave out the bigger picture that gas car sales actually are dropping..."
+
+
+
+Over the course of
+the last two years or so, sales of battery electric vehicles, while
+continuing to grow, have posted lower year-over-year percentage
+growth rates than they had in years prior. EV sales used to grow at
+50%+ per year, but for the last couple years, they have grown closer
+to ~25% per year. This alone is not particularly remarkable — it
+is inevitable that any growing product or category will show slower
+percentage growth rates as sales rise, particularly one that has been
+growing at such a fast rate for so long. In some recent years, we
+had even seen year-over-year
+doublings in EV market share (though one of those was 2020->2021,
+which was anomalous). To expect improvement at that level perpetually
+would be close to impossible — after 3 years of doubling
+market share from 2023's 18% number, EVs would account for more
+than 100% of the global automotive market, which cannot happen... 
+
+We have seen a global EV sales growth rate of 23% in the first 10
+months of this year, according to a report just released by Rho
+Motion (recently acquired by Benchmark Mineral Intelligence). That
+includes a +32% bump in Europe, +22% bump in China, +4% in North
+America, and a big +48% bump in the "rest of the world." Notably,
+this 23% global growth rate is higher than last year's YTD growth
+rate, which was 22%
+at this time... 
+
+In covering these trends, some journalists have attempted to use
+the less-wrong phrase "slower growth," showing that EV sales are
+still growing, but at a lower percentage change than previously seen.
+ But for the first ten months of this year, that isn't true — EV
+sales are up more in 2025 than in 2024 by a percentage basis. They
+are also up in raw sales numbers — in 2024, EV
+sales grew by a larger number than in 2023. And the same is true
+so far in 2025. Going back to 2023, 10.7 million EVs were sold
+globally in the first 10 months. Then in 2024, 13.3 million were
+sold, a difference of 2.6 million. And so far in 2025, 16.5 million
+EVs have sold, a difference of 3.2 million. Not only are the numbers
+getting bigger, but the growth in unit sales is getting bigger as
+well. 
+
+Even in America, the
+EV market "has increased so far this year, with 11.7%
+US EV sales growth YTD."
+
+In terms of US hybrid sales, much has been made of customers
+"shifting from EVs to hybrids," which is also not the case.
+Conventional gas-hybrid sales are
+indeed up and plug-in hybrids, which have grown more slowly
+than gas-hybrids/BEVs, have also shown some growth lately. But
+gas-hybrid sales have not come at the cost of EV sales, rather at the
+cost of gas-only car sales. 
+
+Because that's
+just the thing: the number of gas-only vehicles
+being sold worldwide is a number that actually is falling.
+That number continues to go down year over year. Sales of new
+gas-powered cars are down by about
+a quarter from their peak in 2017, and show no signs of
+recovering... And yet, somehow, virtually every headline you read is
+about the "EV sales slump," rather than the "gas-car sales
+slump." The one you keep hearing about isn't happening,
+but the one you rarely hear about is happening... No matter
+what region of the world you're in, EV sales were up in the first
+10 months of this year.]]></content:encoded></item><item><title>JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills</title><link>https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/</link><author>Anthony Ha</author><category>tech</category><pubDate>Sat, 15 Nov 2025 22:01:49 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[A lawyer representing JPMorgan said Javice’s legal team billed for expenses including luxury hotel upgrades, 24 hours of work in a single day, and cellulite butter.]]></content:encoded></item><item><title>While Meta Crawls the Web for AI Training Data, Bruce Ediger Pranks Them with Endless Bad Data</title><link>https://tech.slashdot.org/story/25/11/15/2023242/while-meta-crawls-the-web-for-ai-training-data-bruce-ediger-pranks-them-with-endless-bad-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 15 Nov 2025 21:22:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[From the personal blog of interface expert Bruce Ediger:
+
+
+Early in March 2025, I noticed that a web crawler with a user
+agent string of 
+
+
+meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
+
+ 
+
+
+ was hitting my blog's machine at an unreasonable rate.
+ 
+
+ I followed the URL and discovered this is what Meta uses to gather premium,
+human-generated content to train its LLMs. I found the rate of
+requests to be annoying.
+
+
+
+
+ I already have a PHP program that creates the illusion of an infinite website. I decided to answer any HTTP request that had
+"meta-externalagent" in its user agent string with the contents
+of a bork.php generated file...
+
+
+
+ This worked
+brilliantly. Meta ramped up to requesting 270,000 URLs on May 30 and
+31, 2025...
+
+
+
+
+After about 3 months, I got scared that Meta's insatiable
+consumption of Super Great Pages about condiments, underwear and
+circa 2010 C-List celebs would start costing me money. So I switched
+to giving "meta-externalagent" a 404 status code. I decided to
+see how long it would take one of the highest valued companies in the
+world to decide to go away.
+
+
+
+The answer is 5 months.]]></content:encoded></item><item><title>Jury says Apple owes Masimo $634M for patent infringement</title><link>https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/</link><author>Anthony Ha</author><category>tech</category><pubDate>Sat, 15 Nov 2025 21:07:41 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[A federal jury in California ruled Friday that Apple must pay medical device maker Masimo $634 million for infringing a patent on blood oxygen monitoring technology.]]></content:encoded></item><item><title>Servo 0.0.2 Released For Those Wanting To Try Out This Example Rust Web Browser</title><link>https://www.phoronix.com/news/Servo-0.0.2-Released</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 15 Nov 2025 20:28:12 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Released minutes ago was the Servo 0.0.2 web browser engine update. Along with this new Rust-based web engine release is also the "servoshell" in tow for the example implementation built around this open-source codebase...]]></content:encoded></item><item><title>Sony Killed This Game in 2024. Three Developers Reverse-Engineered It Back to Life</title><link>https://games.slashdot.org/story/25/11/15/0521203/sony-killed-this-game-in-2024-three-developers-reverse-engineered-it-back-to-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 15 Nov 2025 20:22:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[An anonymous reader shared this post from the gaming news site Aftermath:
+
+ Concord, Sony Interactive Entertainment and Firewalk Studios' Overwatch-like shooter, was live for just two weeks before it was pulled offline. Though Concord certainly had some dedicated players, it didn't have many — which is why it may be surprising to hear that a group of players are reverse-engineering the game and its servers to bring it back to life. 
+
+Publisher Sony removed Concord from stores and digital marketplaces, automatically refunded some, and, later, shut down Firewalk Studios. Two hundred or so people were laid off, and any hopes of Concord's return were dashed. Poor sales — estimated to be under 25,000 copies sold — and low player numbers marred the release. Firewalk Studios' game director Ryan Ellis said in a blog post that pieces of the game "resonated with players," but "other aspects of the game and [Concord's] initial launch didn't land the way [Firewalk Studios] intended." 
+
+Concord wasn't a bad game, but it just didn't generate enough interest with enough players. Now, a group of three hobbyist reverse-engineers, who go by real, Red, and gwog online, are trying to make it playable again... "Sometimes there's enough of the server left in the game, that we can 'activate' that code and make the game believe it's a server," Red said. "We do pretty much always need to fill in the gaps though..." Concord used an anti-tamper software to keep people from cheating, which also creates a problem for people reverse engineering. It's "nearly impossible" to crack, Red said, so the group didn't — they found an exploit to "forcefully decrypt the game's code" to "restore the game and start working on servers...." 
+
+ It's not open to the public, but people can sign up for future tests. Even former Firewalk Studios employees have joined the server. They're excited to see Concord come back to life, too, the developers said. 
+
+"Friday morning, a video of the playtest was posted to the Concord Reddit page," according to the article. (Though ironically by Friday night YouTube had had removed the video "due to a copyright claim by MarkScan Enforcement."]]></content:encoded></item><item><title>98% of MCP Servers Got This Wrong: The Reason Why the Protocol Never Worked</title><link>https://hackernoon.com/98percent-of-mcp-servers-got-this-wrong-the-reason-why-the-protocol-never-worked?source=rss</link><author></author><category>tech</category><pubDate>Sat, 15 Nov 2025 20:00:11 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Three years ago, I read the Steve Jobs biography. The part about the iPhone obsessed me. Not the design. The philosophy: "People don't know what they want until you show it to them."\
+He was right about phones. But somewhere along the way, the AI industry got it backwards.\
+Last week, Anthropic published its engineering blog post on "Code Execution with MCP." The post celebrated a 98.7% token reduction by having agents write code instead of making direct tool calls.\
+The AI community erupted. "This is brilliant!" "This solves the context problem!"\
+But here's the thing: this isn't innovation. It's damage control.The Broken Design We Didn't Want to AdmitWhen the Model Context Protocol launched, it made sense. Direct function definitions seemed logical. Load the tool definitions into context, let the model pick which one to call, and observe the results.\
+Except it was broken from the start. Not in implementation. In design philosophy.\
+LLMs aren't traditional software systems where more data equals better decisions. They're pattern-matching machines. Every token in context adds noise.\
+Think of it like this => imagine a librarian trying to answer your question. Give her one shelf of relevant books, and she finds your answer quickly. Give her the entire library and ask her to answer in 30 seconds? She'll get confused. She'll miss the good information buried in mediocrity.\
+That's what we did to LLMs with MCP.\
+Context efficiency isn't a nice-to-have optimization. It's the entire game.\
+And if you look at actual MCP implementations in production, you see this clearly. The servers that work are exceptional. They have extremely limited, well-curated toolsets. Maybe 3-5 tools, max.\
+Anything more and you've instantly created a context nightmare.\
+Most MCP servers? They're architectural mistakes.\
+I can say this confidently because Anthropic saves 98.7% of tokens by having agents write code instead of calling tools directly.\
+And do you know what else is 98%? The percentage of MCP servers in the wild that violate basic architectural principles.\
+That's not a coincidence.What 98% of MCP Servers Got WrongThe ecosystem is drowning in worthless MCP servers. Not because the people building them are incompetent. Because they started with the wrong assumption: that MCP is a user-facing tool integration standard.\
+It's not. It should have been backend infrastructure from day one.\
+Here's what a non-worthless MCP server actually requires:→ OAuth and proper authentication (not toy API keys)→ Permission management with enforcement (fine-grained access control)→ State management (a database backing the state)→ Observability (monitoring, logging, traces)\
+Do you know how many MCP servers have all of these? A handful. Maybe 2% of the ecosystem.The Signal-to-Noise Ratio Nobody Talks AboutLLMs are pattern recognition systems. More tokens mean more data points. But it also means more noise.\
+At a certain ratio, noise overwhelms signal.\
+Think about forensics. Give a detective one piece of evidence, and it's compelling. Give them a million pieces of evidence, 99% of which are irrelevant? They'll miss the actual crime.\
+That's what we've been doing. Handing LLMs massive amounts of context and wondering why they're underperforming.\
+The real optimization isn't bigger context windows. It's ruthless context curation. Progressive, on-demand context loading. Only the information that matters.The Real Architecture: MCP as Backend, A2A as FrontendHere's what's actually happening in the ecosystem:A2A (Agent-to-Agent protocol) is becoming the user-facing standard. MCP is becoming what it should have been all along: a backend concern.\
+These aren't competing protocols. They're complementary.Let me say the things nobody wants to say:→ Early MCP adoption was a mistake. Too many companies built on MCP, thinking it was production-ready. The ecosystem wasted cycles.→ Most developers won't implement this correctly. Code execution with MCP requires security thinking. Systems programming knowledge. Most teams have none of these.Practical Reality: What This Means for YouIf you're building with MCP right now, here's what I'd do:→ Audit your MCP tools immediately. If you're at 5+, you have a context problem. If you're at 10+, your implementation is almost certainly broken.→ Don't build toy MCP servers. If you're thinking of building one, start by assuming it needs OAuth, permissions, and a database.→ Migrate toward code execution patterns now. Start having agents write code instead of calling tools directly.→ Plan for the A2A transition. Build abstraction layers so you can swap implementations without rewriting your entire system.→ Monitor token efficiency obsessively. Start measuring context window usage per request.The MCP story is actually the story of how the AI industry approaches problem-solving.\
+We saw a problem (tools don't integrate with models well) and picked a solution quickly. It made sense at the time. It even worked, for a while.\
+Then reality hit. The solution didn't scale. We tried patching it with better tools, better definitions, and bigger context windows.\
+Finally, we realized: the problem wasn't the tools. The problem was the architecture.\
+When you fix the architecture. When you shift from "load all tool definitions upfront" to "load tools on demand via code execution", you solve it cleanly.\
+This is what expertise looks like. Not intelligence. Not raw capability. But the hard-earned pattern recognition that comes from shipping broken systems and fixing them.Context efficiency. On-demand tool discovery. Separation of concerns.\
+MCP will evolve to support this. A2A will mature alongside it. The ecosystem will consolidate.\
+And 98% of the MCP servers built in 2025? They'll be quietly archived, reminders of what happens when you optimize for the wrong metric.\
+But here's what gives me hope: the industry is learning. We're being honest about what didn't work. We're building better architecture. We're respecting constraints instead of ignoring them.\
+And expertise, unlike intelligence, can't be automated.]]></content:encoded></item><item><title>WEF Experts: Walking, Talking Robots Are Just Five Years Away</title><link>https://hackernoon.com/wef-experts-walking-talking-robots-are-just-five-years-away?source=rss</link><author>The Sociable</author><category>tech</category><pubDate>Sat, 15 Nov 2025 20:00:03 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Humanoid robots will be walking and talking among us in the next four or five years, according to a discussion on tech regulation at the World Economic Forum (WEF).The joint WEF Annual Meetings of the Global Future Councils and Cybersecurity concluded on October 16, with discussions ranging from neurotech to food liberation and tech regulation.Speaking during the panel called “Regulation: Friend or Foe?” SandboxAQ CEO Jack Hidary said that humanoid robots would be entering society by 2030.“Introducing humanoid, walking, talking robots in our society is going to be a much bigger shock than any ChatGPT […] That’s only four-to-five years away”Jack Hidary, WEF Annual Meetings of the Global Future Councils and Cybersecurity, October 2025“This is going to be a very big shock to the system as we now have them [humanoid robots] enter into society. That’s only four or five years away“Jack Hidary, WEF Annual Meetings of the Global Future Councils and Cybersecurity, October 2025\
+“Right now in this room, as far as I know, we are all human, but four or five years from now at this very room when we have a global leadership futures council of the WEF in the UAE, we’re going to have humanoid robots in this room,” said Hidary.“They’ll be robots; they’ll be sitting in a chair; they’ll be taking notes, or doing other things, and we’re going to have to grapple with this as governments, as regulators, and as companies,” he added.One of the positives of having humanoid robots in society, according to Hidary, is that they are going to take care of the elderly in their own homes, so they don’t have to go to nursing homes.“As people get older, instead of having them go to a nursing home or other kinds of places, they can stay in their homes; they can be cared for by a robot”Jack Hidary, WEF Annual Meetings of the Global Future Councils and Cybersecurity, October 2025\
+“As people get older, instead of having them go to a nursing home or other kinds of places, they can stay in their homes. They can be cared for by a robot,” said Hidary.“I think we all think this is a very positive thing.”While robots looking after the elderly may be viewed as a positive thing, especially for those without family members, it does eliminate the human connection that people may crave.Let’s just hope it doesn’t turn into a dystopian sci-fi scenario like in the Netflix series “” where the robot caregiver called Cassandra has some rather horrifying abandonment issues that lead to quite nefarious outcomes.Dystopian or not, Hidary said that “Introducing humanoid, walking, talking robots in our society is going to be a much bigger shock than any ChatGPT that we’ve now engaged with.“This is going to be a very big shock to the system as we now have them enter into society.That’s only four or five years away.”As far as which country will be best equipped to manage and integrate robots into society, Hidary made the case for Japan.“Japan I predict will be one of the society’s that best uses robots […] Because they have an aging society […] They see robots as part of the solution, not as a danger”Jack Hidary, WEF Annual Meetings of the Global Future Councils and Cybersecurity, October 2025\
+Hidary praised Japan for preparing for the coming robots over the past 40 years while putting in place “regulations that make sure that robots are safe.”The SandboxAQ CEO’s words echo those of WEF interim co-chair and BlackRock CEO Larry Fink when he spoke at the 2024 WEF Special Meeting on Global Collaboration, Growth, and Energy Development.There, Fink argued that developed countries with shrinking populations would be better prepared for the social problems that come from “.”“I can argue in the developed countries the big winners are countries that have shrinking populations […] These countries will rapidly develop robotics and AI and technology […] The social problems that one will have in substituting humans for machines is going to be far easier in those countries that have declining populations”Larry Fink, WEF Special Meeting on Global Collaboration, Growth, and Energy Development, April 2024\
+“We always used to think shrinking population is a cause for negative growth, but in my conversations with the leadership of these large, developed countries that have xenophobic immigration policies, they don’t allow anybody to come in, shrinking demographics — these countries will rapidly develop robotics and AI and technology,” said Fink in April, 2024.“And if the promise, and it’s going to happen, if the promise of all of that transforms productivity, which most of us think it will, we’ll be able to elevate the standard of living of countries, the standard of living of individuals, even with shrinking populations,” he added.While Fink didn’t mention Japan directly, his words align with those of Hidary about robotics and aging populations.Going back to what Hidary said about humanoid robots entering society in four or five years, what will it take to get there?We can look to the 2025 WEF Annual Meeting of the New Champions, aka “Summer Davos” for some insights.On June 24, 2025, University of Twente professor Vanessa Evers explained that a digital twin of the entire world would be required to achieve “true robot intelligence.”“For true robot intelligence, you need to build a model of the world, like a digital twin of the entire world”Vanessa Evers, WEF Annual Meeting of the New Champions, June 2025“We could add superhuman capabilities, listen to the heartbeat or watch the breath of a person to know stress, to know pain. We can detect dominance, aggression, creative flow — there’s all things you could detect in an automated way”Vanessa Evers, WEF Annual Meeting of the New Champions, June 2025\
+Creating a digital twin of the entire world is an extremely complex undertaking that goes way beyond Large Language Models like ChatGPT.In order to achieve true robot intelligence, a Large Behavioral Model would be needed to access and process enormous data from real world phenomena, which is far more complicated than creating and feeding Large Language Models.“ChatGPT has to choose from 26 characters. What is the best next character? But what about the real world? Imagine vision alone and we don’t have hearing, touch, taste, everything like that — just seeing stuff — if you would freeze-frame and then predict what is the next thing that’s going to happen in the visual, it would be impossible to know at the pixel level”Vanessa Evers, WEF Annual Meeting of the New Champions, June 2025\
+According to Evers, “In theory it would be possible to train a robot like a Large Language Model, but then a Large Behavioral Model — to use a lot of data from the real world and have it predict the next best action.“A Large Language Model predicts what is the next best token, but of course that is super complicated in the real world.“Getting back to Hidary, he believes, that through periodic meetings between stakeholders, humanoid robot regulation should have the capacity to update itself.He said, “One way to make sure there’s a level playing field for all players in the field is for the government to convene the players, to listen to them, and to keep a process that in the regulation itself, it says, every six months or something like that, there should be a convening of the key stakeholders, and we shall update it.“Put that into the regulation itself to recognize that any robot law we say today is irrelevant four or five years from now, and that law four or five years from now is irrelevant 10 years from now.”“Let’s build in the ability to update itself into the very regulation itself.”The special joint session of the WEF “Annual Meeting of the Global Future Councils and the Annual Meeting on Cybersecurity” convened more than 500 experts from business, government, civil society, academia and media, alongside 150 of the world’s foremost cybersecurity leaders from October 14-16 in Dubai, UAE.:::info
+Tim Hinchliffe, Editor, The Sociable]]></content:encoded></item><item><title>Why Solarpunk Is Already Happening In Africa</title><link>https://news.slashdot.org/story/25/11/15/0433216/why-solarpunk-is-already-happening-in-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 15 Nov 2025 19:22:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[Long-time Slashdot reader schwit1 shares a Substack post by economist/entrepreneur Skander Garroum:
+
+
+
+
+You know that feeling when you're waiting for the cable guy, and they said 'between 8am and 6pm, and you waste your entire day, and they never show up? Now imagine that, except the cable guy is 'electricity,' the day is '50 years,' and you're one of 600 million people. At some point, you stop waiting and figure it out yourself. 
+
+What's happening across Sub-Saharan Africa right now is the most ambitious infrastructure project in human history, except it's not being built by governments or utilities or World Bank consortiums. It's being built by startups selling solar panels to farmers on payment plans. And it's working. Over 30 million solar products sold in 2024. 400,000 new solar installations every month across Africa. 50% market share captured by companies that didn't exist 15 years ago. Carbon credits subsidizing the cost. IoT chips in every device. 90%+ repayment rates on loans to people earning $2/day. 
+And if you understand what's happening in Africa, you understand the template for how infrastructure will get built everywhere else for the next 50 years.]]></content:encoded></item><item><title>How to Add Real-Time Web Search to Your LLM</title><link>https://hackernoon.com/how-to-add-real-time-web-search-to-your-llm?source=rss</link><author>Manish Shivanandhan</author><category>tech</category><pubDate>Sat, 15 Nov 2025 18:00:03 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Large language models are smart. But they are not always informed.\
+They can write code, summarize books, and explain complex topics, but they struggle with real-time facts.\
+Their knowledge ends at their training cutoff, which means they can’t tell you what happened last week or even last year.\
+That’s where web search comes in.\
+By connecting a model to a search API like Tavily, you can give your LLM access to current, factual information from the internet. This makes your AI assistant, chatbot, or RAG pipeline much more accurate and context-aware.\
+This guide will show you how to enable real-time web search in your LLM workflow using Tavily and LangChain.Why Add Web Search to an LLMWhen you ask a model a question like “What are the best AI frameworks in 2025?” it tries to predict an answer from its training data. If that data stops in 2023, it might list outdated tools.\
+By integrating web search, you give the model a way to look things up before answering.\
+Tavily handles the retrieval part. It searches the web for the most relevant content and sends it back as clean, structured summaries that LLMs can easily use.\
+The result is an AI that sounds intelligent and stays accurate.Tavily is a purpose-built web search API designed for AI applications.\
+Unlike traditional search engines that return links, Tavily returns short, relevant summaries with context. It focuses on delivering concise information that models can understand without complex parsing.\
+The Tavily API is simple and fast. You can use it directly with Python, Node.js, or through LangChain integrations.\
+It also supports advanced filtering, topic targeting, and maximum result control to help you fine-tune the amount and quality of retrieved data.First, sign up on tavily.com and get an API key. Tavily is not a free tool but comes with 1000 free credits for us to play with.\
+Then install the required packages.pip install -qU langchain langchain-openai langchain-tavily
+\
+Once installed, export your API key so Tavily can authenticate your requests.export TAVILY_API_KEY="your_api_key"
+\
+Now, you’re ready to connect Tavily to a language model through LangChain.Creating an LLM Agent with Tavily SearchLangChain makes it easy to combine multiple tools with your model. In this example, we’ll create an agent that uses Tavily as its search backend.from langchain.agents import create_agent
+from langchain_openai import ChatOpenAI
+from langchain_tavily import TavilySearch
+
+# Initialize the Tavily Search tool
+tavily_search = TavilySearch(max_results=5, topic="general")
+
+# Initialize the agent with the search tool
+agent = create_agent(
+    model=ChatOpenAI(model="gpt-5"),
+    tools=[tavily_search],
+    system_prompt="You are a helpful research assistant. Use web search to find accurate, up-to-date information."
+)
+# Use the agent
+response = agent.invoke({
+    "messages": [{"role": "user", "content": "What is the most popular sport in the world? Include only Wikipedia sources."}]
+})
+print(response)
+This example creates a conversational agent powered by OpenAI’s GPT model and the Tavily Search tool. The agent reads the user’s query, uses Tavily to fetch relevant web data, and returns an up-to-date answer.\
+The  gives the model clear instructions to rely on web results for factual accuracy. You can customize it to limit or expand how much the agent depends on search.The user sends a question. The agent receives the message and determines it needs external information.Tavily performs a search. It queries the web for relevant results, summarizing content into readable snippets with source links.The LLM reads the summaries. The model uses these snippets as context and generates a final answer that includes real-world facts.\
+This pattern transforms your LLM from a static knowledge base into a dynamic assistant that stays current with live data.Using Tavily Without LangChainYou can also use Tavily directly with Python if you want more control over the flow.from tavily import TavilyClient
+from openai import OpenAI
+
+tavily = TavilyClient(api_key="your_api_key")
+client = OpenAI()
+
+def answer_with_tavily(question):
+    search_results = tavily.search(question)
+    snippets = "\n".join([r["content"] for r in search_results["results"]])
+    prompt = f"Use the following search results to answer the question:\n\n{snippets}\n\nQuestion: {question}"
+    response = client.responses.create(model="gpt-4o-mini", input=prompt)
+    return response.output_text
+print(answer_with_tavily("What are the biggest AI startups of 2025?"))
+This example sends the Tavily search summaries directly into an LLM prompt. It’s simple, flexible, and works even without LangChain.You can make Tavily results more relevant by adjusting a few parameters. controls how many snippets to return. Lower values make answers faster and more focused. helps narrow down the type of content you want (like “technology”, “science”, or “finance”). used to restrict results to certain domains or exclude unwanted ones.tavily_search = TavilySearch(max_results=3, topic="technology")
+\
+This setup tells Tavily to return only the top three tech-related results, ideal for focused queries.Building a Search-Aware ChatbotOnce you have Tavily connected, you can create a chatbot that automatically uses search when needed.\
+For example, if a query contains words like “latest”, “today”, or “news”, the agent can trigger a Tavily search.def smart_chatbot(question):
+    if any(word in question.lower() for word in ["today", "latest", "recent", "news"]):
+        return answer_with_tavily(question)
+    else:
+        return client.responses.create(model="gpt-4o-mini", input=question).output_text
+\
+This makes your chatbot dynamic, using real-time data when necessary, but keeping simple responses fast.Search-augmented LLMs are used everywhere.\
+Research assistants use them to pull recent papers, marketing teams use them to track trends, and analysts use them to gather competitive insights. Developers build knowledge agents that can explore documentation or regulations automatically.\
+By combining Tavily’s structured search results with an LLM’s reasoning power, you can build tools that stay both accurate and conversational.Traditional search APIs return unstructured HTML or raw snippets that models struggle to read.\
+Tavily is optimized for AI. It cleans, summarizes, and filters data before returning it. The output is concise, readable, and safe to use directly in your prompts or RAG pipelines.\
+It also reduces hallucinations because the model has factual, grounded context to work with. This makes it ideal for production AI systems that need reliability as much as creativity.Large language models are powerful, but they don’t live on the internet. Without search, they guess. With Tavily, they know.\
+By integrating Tavily into your LLM workflow, you bridge the gap between static intelligence and real-time knowledge. Whether you’re building a chatbot, research tool, or AI assistant, adding Tavily Search gives your model access to the world’s most current information.\
+The combination of LangChain, OpenAI, and Tavily turns any LLM into a connected, informed, and reliable AI researcher, one that can finally answer questions about today, not just yesterday.]]></content:encoded></item><item><title>Disney and YouTube TV reach deal to end blackout</title><link>https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/</link><author>Anthony Ha</author><category>tech</category><pubDate>Sat, 15 Nov 2025 17:38:28 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[You can watch "Jeopardy!" on YouTube TV again.]]></content:encoded></item><item><title>Woman Pleads Guilty to Lying About Astronaut Accessing Bank Account From International Space Station</title><link>https://yro.slashdot.org/story/25/11/15/0547207/woman-pleads-guilty-to-lying-about-astronaut-accessing-bank-account-from-international-space-station?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 15 Nov 2025 16:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[It was the first allegation of a crime committed in space — back in 2019. But by 2020 it had led to
+charges of lying to federal authorities.
+
+And now a former Air Force intelligence officer "has pleaded guilty to lying to a federal agent," reports CNBC, "by falsely claiming that her estranged astronaut wife illegally accessed her bank account while aboard the International Space Station for six months, prosecutors in Houston, Texas, said Friday."
+
+The guilty plea by Summer Worden, 50, on Thursday comes more than five years after she was indicted in the space case for lying about actions by her wife, Anne McClain, a U.S. Army colonel, West Point graduate and Iraq war combat veteran, while they were in the midst of a divorce. The claim came at a time when Worden said that the couple was engaged in a custody battle over what Worden's then-6-year-old son, who had been conceived through in vitro fertilizationand carried by a surrogate... 
+
+McClain was aboard the Space Station from December 2018 through June 2019. She recently commanded the SpaceX Crew-10 crew mission to the Space Station from March this year until August. 
+
+Worden, who remains free on bond, is scheduled to be sentenced on February 12. She faces a maximum possible sentence of up to five years in prison.
+
+]]></content:encoded></item><item><title>The HackerNoon Newsletter: The Zero to Shipped Framework for New Developers (11/15/2025)</title><link>https://hackernoon.com/11-15-2025-newsletter?source=rss</link><author>Noonification</author><category>tech</category><pubDate>Sat, 15 Nov 2025 16:01:50 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[🪐 What’s happening in tech today, November 15, 2025?By @nfrankel [ 5 Min read ] In this post, I described my journey implementing XSD 1.1 validation in Java. It’s much less easy than I had expected in the first place Read More.By @hackernoon-courses [ 3 Min read ] Struggling to get your writing noticed? The HackerNoon Blogging Course teaches SEO, AI tools, personal branding, and strategies to grow your audience and career Read More.By @amanila [ 25 Min read ] Stuck in the catch-22 of starting a new project? Heres a 5-step framework for new developers covering tech stacks, open-source, mindset, and more. Read More.🧑‍💻 What happened in your world this week?We hope you enjoy this worth of free reading material. Feel free to forward this email to a nerdy friend who'll love you for it.See you on Planet Internet! With love, 
+ The HackerNoon Team ✌️]]></content:encoded></item><item><title>A &apos;Peak Oil&apos; Prediction Surprise From the International Energy Agency</title><link>https://hardware.slashdot.org/story/25/11/15/0352221/a-peak-oil-prediction-surprise-from-the-international-energy-agency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>EditorDavid</author><category>tech</category><pubDate>Sat, 15 Nov 2025 15:34:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA["The International Energy Agency's latest outlook signals that oil demand could keep growing through to the middle of the century," reports CNBC, "reflecting a sharp tonal shift from the world's energy watchdog and raising further questions about the future of fossil fuels."
+
+In its flagship World Energy Outlook, the Paris-based agency on Wednesday laid out a scenario in which demand for oil climbs to 113 million barrels per day by 2050, up 13% from 2024 levels. The IEA had previously estimated a peak in global fossil fuel demand before the end of this decade and said that, in order to reach net-zero emissions by 2050, there should be no new investments in coal, oil and gas projects... The IEA's end-of-decade peak oil forecast kick-started a long-running war of words with OPEC, an influential group of oil exporting countries, which accused the IEA of fearmongering and risking the destabilization of the global economy. 
+
+The IEA's latest forecast of increasing oil demand was outlined in its "Current Policies Scenario" — one of a number of scenarios outlined by the IEA. This one assumes no new policies or regulations beyond those already in place. The CPS was dropped five years ago amid energy market turmoil during the coronavirus pandemic, and its reintroduction follows pressure from the Trump administration... Gregory Brew, an analyst at Eurasia Group's Energy, Climate and Resources team, said the IEA's retreat on peak oil demand signified "a major shift" from the group's position over the last five years. "The justifications offered for the shift include policy changes in the U.S., where slow EV penetration indicates robust oil [consumption], but is also tied to expected increases in petrochemical and aviation fuel in East and Southeast Asia," Brew told CNBC by email. "It's unlikely the agency is adjusting based on political pressure — though there has been some of that, with the Trump administration criticizing the group's supposed bias in favor of renewable energy — and the shift reflects a broader skepticism that oil demand is set to peak any time soon," he added... 
+
+
+Alongside its CPS, the IEA also laid out projections under its so-called "Stated Policies Scenario" (STEPS), which reflects the prevailing direction of travel for the global energy system. In this assumption, the IEA said it expects oil demand to peak at 102 million barrels per day around 2030, before gradually declining. Global electric car sales are much stronger under this scenario compared to the CPS. The IEA said its multiple scenarios explore a range of consequences from various policy choices and should not be considered forecasts.
+ 
+Thanks to Slashdot reader magzteel for sharing the news.]]></content:encoded></item><item><title>Everything You Need to Know About XML Schema Validation 1.1 in Java</title><link>https://hackernoon.com/everything-you-need-to-know-about-xml-schema-validation-11-in-java?source=rss</link><author>Nicolas Fränkel</author><category>tech</category><pubDate>Sat, 15 Nov 2025 15:00:15 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[This week, I received an interesting task: dusting off a legacy Java application. The application analyzes specific XML files in proprietary format. I know XML doesn't sound sexy to junior developers, but it has an amazing benefit. One can validate a file against a grammar. Such grammar is called an XSD, the acronym for XML Schema Definition. Fun fact: you write XSDs in XML.\
+In this post, I explain the problem, what I tried, and the final working solution.The good thing is that the application already uses XSD. Yet, at the time of the application's inception, XSD validation was in \
+There were numerous `//TODO validate` comments in the Java code that couldn't be implemented in XSD 1.0 but could in XSD 1.1. I thought it would be easy to upgrade. I was wrong.Under the hood, the JDK uses a wrapped Xerces implementation for parsing. For fun, check the `com.sun.org.apache.xerces.internal.jaxp` package in your installed JDKs. This implementation is stuck on XSD validation 1.1.\
+I assumed that the regular Xerces project would have moved on and implemented it. I added the latest version to my build, and…​ nothing. I dug deeper into the JAR and found the following:public final class Constants {
+
+    /** XML 1.1 feature ("xml-1.1"). */
+    public static final String XML_11_FEATURE = "xml-1.1";
+
+    // Constant to enable Schema 1.1 support
+    public final static boolean SCHEMA_1_1_SUPPORT = false;
+    public final static short SCHEMA_VERSION_1_0          = 1;
+    public final static short SCHEMA_VERSION_1_0_EXTENDED = 2;
+}
+If you are puzzled because schema 1.1 support is a constant, welcome to my world. I went further down the rabbit hole. The Xerces-J project features two potentially interesting branches,  and . The  class in the former branch looks like:public final class Constants {
+
+    /** XML 1.1 feature ("xml-1.1"). */
+    public static final String XML_11_FEATURE = "xml-1.1";
+
+    // Constant to enable Schema 1.1 support
+    public final static boolean SCHEMA_1_1_SUPPORT = false;    
+    public final static short SCHEMA_VERSION_1_0          = 1;
+    public final static short SCHEMA_VERSION_1_0_EXTENDED = 2;
+    public final static short SCHEMA_VERSION_1_1 = 4;          
+}
+\
+  \n  \n 1. Still not supported \n 2. But looks promising?\
+I looked for such an artifact on Maven Central: it shows no dedicated artifact.\
+It didn’t come to my mind at the time, but while writing the post, I checked: the Xerces downloads page does offer a XSD 1.1 distribution. It would mean getting the JAR, creating a dummy POM, and publishing them on the internal Artifactory, which I don’t have write access to. Possible, but time-consuming.Searching for AlternativesI searched for alternatives, but the only one I found was Saxon.The Saxon package is a collection of tools for processing XML documents. The main components are:An XSLT processor, which can be used from the command line, or invoked from an application, using a supplied API. Saxon implements the XSLT 3.0 Recommendation. The product can also be used to run XSLT 2.0 stylesheets, or XSLT 1.0 stylesheets in backwards compatibility mode.An XPath processor accessible to applications via a supplied API. This supports XPath 2.0 and XPath 3.1. It can also be used in backwards-compatibility mode to evaluate XPath 1.0 expressions.An XQuery processor that can be used from the command line, or invoked from an application by use of a supplied API. This supports XQuery 3.1, which also allows XQuery 1.0 or 3.0 queries to be executed. With Saxon-EE, you can also use the XQuery extensions defined in the XQuery Update 1.0 Recommendation, but later working drafts of XQuery Update are not supported (W3C has abandoned work on these versions).An XML Schema Processor. This supports both XSD 1.0 and XSD 1.1. This can be used on its own to validate a schema for correctness, or to validate a source document against the definitions in a schema. It is also used to support the schema-aware functionality of the XSLT and XQuery processors. Like the other tools, it can be run from the command line, or invoked from an application.\
+After investigating a bit, I found that Sax had two major drawbacks:Though it’s possible to use the regular JAXP API, you must switch to Saxon’s proprietary API to unlock its full power. It includes XSD 1.1 validation.Saxon comes in two flavors: the Enterprise Edition is paid, and the Home Edition is free. The latter doesn’t offer XSD 1.1 validation.\
+I had no budget and no time to hunt for it.It was time to reassess the situation. Building from source? Not feasible. Saxon? Paying. My last hope was AI. I must say that for once, it was a lifesaver.\
+It turns out that two builds of Xerces with XSD 1.1 features exist on Maven Central. They were published by OpenGIS in 2015-2016, at a time when it was pretty easy to publish there. TheirPOM actually mentions which branch it comes from: http://svn.apache.org/viewvc/xerces/java/branches/xml-schema-1.1-dev/.\
+At this point, I was a few lines of code away from the goal:var schemaFactory = SchemaFactory.newInstance(Constants.W3C_XML_SCHEMA11_NS_URI); 
+var schema = schemaFactory.newSchema(schemaFile);
+var saxParserFactory = SAXParserFactory.newInstance();
+saxParserFactory.setNamespaceAware(true);
+saxParserFactory.setSchema(schema);                                               
+
+var reader = saxParserFactory.newSAXParser().getXMLReader();                      
+reader.setContentHandler(handler);
+reader.setErrorHandler(handler);
+reader.setEntityResolver(handler);
+Set the Schema to the Factory\
+I still need to properly validate there’s no security issue from this "wild" build, but it works: I can leverage features from XSD 1.1!In this post, I described my journey implementing XSD 1.1 validation in Java. It’s much less easy than I had expected in the first place, but I hope it will help others who find themselves in the same predicament.]]></content:encoded></item><item><title>Here&apos;s How You Can Cut Milliseconds Off Your Response Time Using Symfony</title><link>https://hackernoon.com/heres-how-you-can-cut-milliseconds-off-your-response-time-using-symfony?source=rss</link><author>MattLeads</author><category>tech</category><pubDate>Sat, 15 Nov 2025 15:00:08 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[We know that performance is not just a feature — it’s a requirement. In the era of high user expectations and SEO demands, every millisecond counts. A faster application translates directly into better user experience, higher conversion rates, and a lower carbon footprint.\
+This ultimate guide will take you deep into the heart of a Symfony application, leveraging modern PHP 8.x features and battle-tested components to achieve . We’ll focus on key areas: , ,  and Database Efficiency, complete with exact package versions and verification steps.PHP 8.x & Runtime Optimization: The FoundationSymfony is a PHP framework, and its performance is inherently tied to the PHP runtime. Symfony 7.3 requires PHP 8.2 or higher, which already provides significant speed gains over earlier versions. We’ll build on this by ensuring our environment and code are optimally tuned.Opcode Caching with OPcacheThis is the single most critical step for PHP performance. OPcache is a PHP extension that stores pre-compiled script bytecode in shared memory, eliminating the need for PHP to load and parse scripts on every request.Verification & ConfigurationOPcache is built into PHP since version 5.5, but you must ensure it’s configured for production. Standard PHP extension, no Composer package required.Create a  file in a safe location and check the OPcache section. Ensure  is set to .Recommended  Settings:; php.ini
+opcache.enable=1
+opcache.memory_consumption=512
+opcache.interned_strings_buffer=32
+opcache.max_accelerated_files=20000
+opcache.validate_timestamps=0 ; CRITICAL for production performance
+opcache.revalidate_freq=0     ; CRITICAL for production performance
+\
+Setting  to 0 means PHP never checks for updated files. You must clear the  (e.g., using  or ) on every deployment. This is a non-negotiable performance gain.Leveraging PHP 8.x FeaturesPHP 8.x introduced powerful features that lead to better performance and cleaner code.\
+Attributes (in place of Annotations): Symfony 7.3 heavily utilizes PHP attributes for routing, configuration, and Doctrine mapping. Attributes are native PHP structures, meaning they are parsed much faster than the old DocBlock annotations.// src/Controller/ProductController.php
+
+namespace App\Controller;
+
+use App\Repository\ProductRepository;
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\Routing\Attribute\Route; // Using the native attribute
+
+final class ProductController extends AbstractController
+{
+    public function __construct(
+        private readonly ProductRepository $productRepository,
+    ) {}
+
+    #[Route('/products/{slug}', name: 'app_product_show', methods: ['GET'])]
+    public function show(string $slug): Response
+    {
+        $product = $this->productRepository->findOneBySlug($slug);
+
+        if (!$product) {
+            throw $this->createNotFoundException('Product not found.');
+        }
+
+        return $this->render('product/show.html.twig', [
+            'product' => $product,
+        ]);
+    }
+}
+\
+Readonly Properties & Constructor Promotion: Using  properties (PHP 8.1+) and constructor property promotion (PHP 8.0+) results in more efficient memory usage and removes boilerplate code, making the compiled code slightly smaller and faster. See the __construct example above.Strategic Caching: The Speed MultiplierCaching is the most effective way to eliminate bottlenecks. Symfony provides a powerful, multi-layered caching system. You should strive to hit the fastest cache layer possible.HTTP Caching (Reverse Proxy)This is the fastest possible cache hit. The request never even reaches the Symfony application; it’s served by a reverse proxy like  or the .For development or small, controlled environments, the built-in HTTP cache is a quick win. symfony/http-kernel: ^7.3, no separate package needed.Enable in config/packages/framework.yaml (for prod environment):# config/packages/framework.yaml
+framework:
+    # ... other settings
+    session:
+        # ...
+    # This is often done in config/packages/prod/framework.yaml
+    http_cache: true
+Using the #[Cache] AttributeThe simplest way to enable HTTP Caching for a whole route is using the native  attribute (Symfony supports this via ).// src/Controller/BlogController.php
+
+namespace App\Controller;
+
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\Routing\Attribute\Route;
+use Symfony\Component\HttpKernel\Attribute\Cache; // This is the key component
+
+final class BlogController extends AbstractController
+{
+    #[Route('/posts', name: 'app_blog_list', methods: ['GET'])]
+    #[Cache(maxage: 600, public: true, mustRevalidate: true)] // Cache for 10 minutes
+    public function list(): Response
+    {
+        // ... heavy database query to fetch posts ...
+        $posts = $this->postRepository->findLatest(10);
+
+        return $this->render('blog/list.html.twig', [
+            'posts' => $posts,
+        ]);
+    }
+}
+ Sets the Cache-Control: max-age=600 header. Allows intermediate caches (like CDNs) to store the response.\
+After hitting the page, inspect the HTTP response headers. You should see:Cache-Control: max-age=600, public, must-revalidate
+X-Symfony-Cache: MISS
+\
+On the second hit (within 10 minutes), you should see:Cache-Control: max-age=600, public, must-revalidate
+X-Symfony-Cache: HIT
+Application-Level Data Caching (APCu/Redis)When you can’t cache the whole response, cache the expensive  inside your application. For this, you need a . Standard PHP extension, no Composer package.Redis (Distributed, Scalable): composer require symfony/redis-messenger symfony/cache Standard PHP extension, often installed as php-redis.Configuration (config/packages/cache.yaml)We’ll use APCu for local system-level caches and Redis for the main application data cache pool.# config/packages/cache.yaml
+framework:
+    cache:
+        # The 'cache.system' pool is used by Symfony internal components (routes, DI container)
+        # Use apcu where available, fallback to file.
+        system: cache.adapter.apcu
+        # The main application pool
+        pools:
+            cache.app:
+                adapter: cache.adapter.redis
+                provider: 'redis://%env(REDIS_HOST)%' # Use a dedicated Redis connection
+Inject the cache service (Psr\Cache\CacheItemPoolInterface), and use the  method to cache the result of an expensive operation.// src/Service/HeavyCalculationService.php
+
+namespace App\Service;
+
+use Psr\Cache\CacheItemPoolInterface;
+use Symfony\Contracts\Cache\ItemInterface;
+
+final class HeavyCalculationService
+{
+    public function __construct(
+        private readonly CacheItemPoolInterface $cacheApp, // Injected via autowiring
+    ) {}
+
+    public function getComplexReportData(int $productId): array
+    {
+        $cacheKey = 'product_report_' . $productId;
+
+        // Use the CacheInterface::get() method
+        return $this->cacheApp->get($cacheKey, function (ItemInterface $item) use ($productId): array {
+            // This callable is ONLY executed if the cache item is a MISS.
+            $item->expiresAfter(3600); // Cache for 1 hour
+
+            // --- START Expensive/Slow Operation ---
+            $data = $this->runHeavyReportQuery($productId);
+            // --- END Expensive/Slow Operation ---
+
+            return $data;
+        });
+    }
+
+    private function runHeavyReportQuery(int $productId): array
+    {
+        // Simulate a 500ms database operation
+        usleep(500000); 
+        return ['id' => $productId, 'result' => '... calculated ...'];
+    }
+}
+\
+This technique instantly cuts down expensive operation time from 500ms to mere milliseconds on subsequent requests, assuming a cache hit.Asynchronous Processing: Decoupling TasksMany common web tasks — sending emails, generating reports, resizing images — do not need to be completed before the HTTP response is sent. By delegating these to a background process, we drastically reduce the user-facing response time.\
+Symfony Messenger is the component for the job.We’ll use the Doctrine transport for a simple, reliable queue backed by your existing database. For higher volume, you would switch to a dedicated broker like RabbitMQ (symfony/amqp-messenger) or Redis (symfony/redis-messenger).composer require symfony/messenger doctrine/doctrine-bundle
+Run php bin/console debug:container | grep messenger.bus to confirm the default buses exist.A message is a simple, immutable PHP object that holds all the necessary data for a background task.// src/Message/SendWelcomeEmailMessage.php
+
+namespace App\Message;
+
+final readonly class SendWelcomeEmailMessage
+{
+    public function __construct(
+        private int $userId,
+    ) {}
+
+    public function getUserId(): int
+    {
+        return $this->userId;
+    }
+}
+The handler is a service that performs the actual heavy work.// src/MessageHandler/SendWelcomeEmailMessageHandler.php
+
+namespace App\MessageHandler;
+
+use App\Message\SendWelcomeEmailMessage;
+use App\Service\EmailSenderService;
+use Symfony\Component\Messenger\Attribute\AsMessageHandler; // Use the attribute
+
+#[AsMessageHandler]
+final class SendWelcomeEmailMessageHandler
+{
+    public function __construct(
+        private readonly EmailSenderService $emailSenderService,
+    ) {}
+
+    public function __invoke(SendWelcomeEmailMessage $message): void
+    {
+        // This is the long-running task that is now offloaded
+        $this->emailSenderService->sendWelcomeEmail($message->getUserId());
+
+        // Log successful operation...
+    }
+}
+Dispatching the Message (Offloading the Work)In your controller or service, inject the Command Bus and dispatch the message.// src/Controller/RegistrationController.php
+
+namespace App\Controller;
+
+use App\Message\SendWelcomeEmailMessage;
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\Messenger\MessageBusInterface; // The Command Bus
+
+final class RegistrationController extends AbstractController
+{
+    #[Route('/register', name: 'app_register', methods: ['POST'])]
+    public function register(MessageBusInterface $messageBus): Response
+    {
+        // ... (1) Handle form submission and save user to DB (synchronous)
+        $user = $this->userService->createUser($formData);
+
+        // (2) Dispatch the email task for background processing (asynchronous)
+        // Response time is NOT affected by email sending duration.
+        $messageBus->dispatch(new SendWelcomeEmailMessage($user->getId()));
+
+        // (3) Return a fast response to the user.
+        return $this->redirectToRoute('app_homepage');
+    }
+}
+In production, a long-running command (the “Worker”) needs to be running constantly to consume messages from the queue.Run the consumer in a separate terminal:php bin/console messenger:consume async
+Trigger the registration in your browser. The response will be instant.The consumer terminal will show the message being handled after the HTTP response has been sent.\
+This simple change can reduce controller execution time by hundreds of milliseconds.Database and Doctrine EfficiencyThe database is frequently the slowest part of a request. Optimizing Doctrine usage is crucial.N+1 Query Problem EliminationThe N+1 problem occurs when fetching a list of parent entities (1 query) and then querying the database for the related children entities N times in a loop (N queries). This is a performance killer.Use  or the  in your repositories to ensure all necessary related data is loaded in a single, efficient query using a  or .// src/Repository/PostRepository.php (Example)
+
+namespace App\Repository;
+
+use App\Entity\Post;
+use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
+use Doctrine\Persistence\ManagerRegistry;
+
+/**
+ * @extends ServiceEntityRepository<Post>
+ */
+final class PostRepository extends ServiceEntityRepository
+{
+    public function __construct(ManagerRegistry $registry)
+    {
+        parent::__construct($registry, Post::class);
+    }
+
+    public function findLatestWithAuthorAndComments(int $limit = 10): array
+    {
+        return $this->createQueryBuilder('p')
+            ->select('p', 'a', 'c') // Select all entities to be hydrated
+            ->join('p.author', 'a') // Eager load the author
+            ->leftJoin('p.comments', 'c') // Eager load the comments
+            ->orderBy('p.createdAt', 'DESC')
+            ->setMaxResults($limit)
+            ->getQuery()
+            ->getResult();
+    }
+}
+\
+Use the Symfony Profiler (Web Debug Toolbar) in development mode.Access a page using the optimized query.Click on the Database icon in the toolbar.Check the total number of queries. For the example above, loading 10 posts with their authors and comments should result in only 1 single query.Read-Only Entities and RepositoriesFor entities that are frequently read but rarely written, use the Doctrine  attribute (PHP 8.1+).// src/Entity/Setting.php (Example)
+
+namespace App\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+#[ORM\Entity]
+// The entire class is marked as read-only, preventing Doctrine from tracking it for changes.
+#[ORM\ReadOnly] 
+final class Setting
+{
+    // ... properties and methods
+}
+\
+This tells  to ignore this entity when checking for changes during a request,  and  on tracking changes.Using the Doctrine Cache SystemDoctrine can cache the results of frequently run queries that don’t change often.\
+Ensure your cache pool is configured. You’ll typically use the Redis pool here.// src/Repository/CategoryRepository.php
+
+use Doctrine\ORM\Query;
+
+public function findAllTopLevelCategories(): array
+{
+    return $this->createQueryBuilder('c')
+        ->where('c.parent IS NULL')
+        ->orderBy('c.name', 'ASC')
+        ->getQuery()
+        ->setResultCacheLifetime(3600) // Cache result for 1 hour
+        ->setResultCacheDriver($this->getEntityManager()->getConfiguration()->getResultCacheImpl())
+        ->getResult();
+}
+setResultCacheLifetime(3600): Stores the results in the cache pool for one hour. The next request with this exact query will skip the database entirely.The fastest backend response can still result in a slow user experience if the frontend is poorly optimized.Asset Versioning and FingerprintingWhenever you deploy a new version of CSS or JavaScript, you need to bust the browser’s cache. Symfony’s Asset component handles this gracefully.Configuration (config/packages/framework.yaml):# config/packages/framework.yaml
+framework:
+    assets:
+        version: 'v1.0.1' # Manually increment on deployment
+        # OR, for better control (requires Webpack Encore):
+        json_manifest_path: '%kernel.project_dir%/public/build/manifest.json'
+\
+Using  () automates this with file-based versioning (app.css?v=2e4d9f).Template Optimization with TwigDisable Debug & Strict Variables: In production, disable two slow-down features.# config/packages/prod/twig.yaml
+twig:
+    debug: false
+    strict_variables: false
+\
+ Cache portions of a template that are complex to render but rarely change, such as a main navigation menu or a footer.\
+ Requires symfony/cache and a cache pool configured for fragment caching.{# templates/base.html.twig #}
+
+{# Cache the main navigation for 1 day (86400 seconds) #}
+{% cache 'main_nav' 86400 %}
+    <nav class="main-navigation">
+        {# ... very complex loop over many categories/links ... #}
+    </nav>
+{% endcache %}
+Deployment & Infrastructure EssentialsThe absolute best performance comes from how you run your application.Using a Production-Optimized Front ControllerAlways use the production front controller in your web server configuration.\
+Ensure your Nginx/Apache config points to public/index.php, not public/index_dev.php.FrankenPHP (Advanced: PHP Application Server)For the ultimate performance, move beyond traditional .  is a modern application server for PHP built on Caddy. It can serve your Symfony application in a persistent worker mode, eliminating the PHP bootstrap time on every request.\
+ Not a Symfony component, but a highly recommended deployment target.\
+Deploy with  and observe response times decrease significantly due to the removal of the kernel boot process.Conclusion: The Millisecond MindsetAchieving blazing fast Symfony performance is a disciplined process of continuous optimization, not a single trick. It starts with PHP 8.x and , moves to  (HTTP first, application second), and culminates in decoupling heavy tasks with Messenger and efficient database querying with Doctrine.\
+By consistently monitoring the Symfony Profiler in development and applying the strategies outlined in this guide — from the smallest attribute to the largest asynchronous queue — you will significantly reduce your response times, providing a superior experience for your users and maintaining a high-performance codebase for years to come.\
+If you enjoy these deep dives into practical, enterprise-level Symfony architecture, be sure to follow me here.\
+I have many more patterns and guides planned, and your subscription is the best way to make sure you don’t miss the next one.\
+Go build something amazing.]]></content:encoded></item><item><title>GNOME&apos;s Nautilus File Manager Finally Supporting Ctrl+Insert &amp; Shift+Insert</title><link>https://www.phoronix.com/news/GNOME-Nautilus-Copy-Paste-Files</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 15 Nov 2025 14:30:00 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[GNOME's Nautilus file manager is finally matching the behavior of other file managers like KDE's Dolphin and Xfce's Thunar with a keyboard shortcut for copying and pasting files...]]></content:encoded></item><item><title>Storing JSON and XML in SQL Databases: An Essential Guide</title><link>https://hackernoon.com/storing-json-and-xml-in-sql-databases-an-essential-guide?source=rss</link><author>Luca Liu</author><category>tech</category><pubDate>Sat, 15 Nov 2025 14:00:06 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[In the era of big data and diverse data formats, the ability to store and query semi-structured data like JSON (JavaScript Object Notation) and XML (eXtensible Markup Language) in SQL databases has become increasingly important. This article explores how to effectively store and manage JSON and XML data in SQL databases, along with the pros and cons of each approach.Understanding JSON and XMLJSON is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate. It is often used in web applications for data exchange between clients and servers.XML is a markup language that defines rules for encoding documents in a format that is both human-readable and machine-readable. It is widely used for data representation and exchange, especially in web services.Storing JSON in SQL DatabasesMany modern SQL databases, such as PostgreSQL, MySQL, and SQL Server, provide native support for JSON data types.Using JSON Data Type: Some databases allow you to define a column with a JSON data type.   CREATE TABLE Products (
+       ProductID int PRIMARY KEY,
+       ProductData json
+   );
+   INSERT INTO Products (ProductID, ProductData) VALUES (1, '{"name": "Laptop", "price": 999.99}');
+You can use built-in functions to query JSON data.SELECT ProductData->>'name' AS ProductName FROM Products WHERE ProductID = 1;
+Storing XML in SQL DatabasesSQL databases also support XML data types, allowing you to store and query XML documents.Using XML Data Type: Define a column with an XML data type.   CREATE TABLE Orders (
+       OrderID int PRIMARY KEY,
+       OrderDetails xml
+   );
+   INSERT INTO Orders (OrderID, OrderDetails) VALUES (1, '<order><item>Book</item><quantity>2</quantity></order>');
+You can use XPath and XQuery to extract data from XML columns.SELECT OrderDetails.value('(/order/item)[1]', 'varchar(100)') AS ItemName FROM Orders WHERE OrderID = 1;
+Pros and Cons of Storing JSON and XMLFlexibility: Both JSON and XML allow for flexible data structures, making it easy to store complex data.Interoperability: They are widely used formats, making it easier to integrate with other systems and APIs.Schema-less: You can store data without a predefined schema, which is useful for evolving data models.Performance: Querying semi-structured data can be slower than querying structured data, especially for large datasets.Complexity: Managing and querying JSON and XML data can add complexity to your database operations.Storage Overhead: JSON and XML formats can consume more storage space compared to traditional relational data.Storing JSON and XML in SQL databases provides a powerful way to handle semi-structured data. By leveraging the native support for these formats in modern SQL databases, you can efficiently store, query, and manage complex data structures. Understanding the advantages and limitations of each format will help you make informed decisions about how to best utilize them in your applications.]]></content:encoded></item><item><title>Students Compete—and Cooperate—in FIRST Global Robotics Challenge</title><link>https://spectrum.ieee.org/first-global-robotics-challenge</link><author>Kohava Mendelsohn</author><category>tech</category><enclosure url="https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82MjE4NjE2NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5MTYxNDA4M30.Y9d7kn4c0plimt2POJksFI7O1VvplXrbCOCdp0s7w0M/image.jpg?width=600" length="" type=""/><pubDate>Sat, 15 Nov 2025 14:00:02 +0000</pubDate><source url="https://spectrum.ieee.org/">IEEE Spectrum</source><content:encoded><![CDATA[This year’s challenge focused on protecting ecosystems and species]]></content:encoded></item><item><title>Debian 13.2 Released With Dozens Of Fixes</title><link>https://www.phoronix.com/news/Debian-13.2-Released</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 15 Nov 2025 13:32:54 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Debian 13.2 is out today as the latest maintenance update to this current stable version of Debian GNU/Linux...]]></content:encoded></item><item><title>Latest Proposed Guidelines For Tool-Generated / AI Submissions To The Linux Kernel</title><link>https://www.phoronix.com/news/Linux-Kernel-AI-Guidelines-v3</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 15 Nov 2025 11:50:41 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Posted to the mailing list on Friday were the latest proposed guidelines for tool-generated contributions to the Linux kernel. The coding tools in large part being focused on AI generated content...]]></content:encoded></item><item><title>NVIDIA Sends Out Initial Turing GPU Support For Open-Source Nova Driver</title><link>https://www.phoronix.com/news/NVIDIA-Turing-Nova-Core-GSP</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 15 Nov 2025 11:26:39 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[NVIDIA engineers continue working a lot on the in-development and in-tree open-source Nova kernel driver for their GPUs. Sent out on Friday night were the Turing enablement patches for this Rust-written Nova-Core driver code...]]></content:encoded></item><item><title>AMD Releases Additional Zen 5 CPU Microcode For RDSEED Issue</title><link>https://www.phoronix.com/news/AMD-Zen-5-More-RDSEED-ucode</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 15 Nov 2025 11:12:34 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Stemming from AMD's recently acknowledged Zen 5 issue with the RDSEED instruction and AMD releasing Zen 5 CPU microcode updates to address it, this week brought some additional microcode updates...]]></content:encoded></item><item><title>Servo Shell Improvements For macOS &amp; Android, More Servo Browser Engine Progress</title><link>https://www.phoronix.com/news/Servo-October-2025</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 15 Nov 2025 10:59:24 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[The Servo open-source and Rust-based web browser engine made a lot of progress during the month of October. The project has issued its monthly status report to outline all of the exciting new features made on the engine itself as well as its "servoshell" example web browser application...]]></content:encoded></item><item><title>Plasma 6.6 Will Avoid Running Out Of RAM When Something Crashes In A Loop</title><link>https://www.phoronix.com/news/Plasma-6.6-Better-Crash-Loop</link><author>Michael Larabel</author><category>tech</category><pubDate>Sat, 15 Nov 2025 10:46:37 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[KDE Plasma 6.6 continues seeing a lot of development activity while the Plasma 6.5 series is calming down after its first few point releases. Plasma 6.6 landed many more features and improvements this week...]]></content:encoded></item><item><title>GM Wants Parts Makers To Pull Supply Chains From China</title><link>https://tech.slashdot.org/story/25/11/15/0040214/gm-wants-parts-makers-to-pull-supply-chains-from-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Sat, 15 Nov 2025 10:00:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[schwit1 shares a report from the Business Times: General Motors (GM) has directed several thousand of its suppliers to scrub their supply chains of parts from China, four people familiar with the matter said, reflecting automakers' growing frustration over geopolitical disruptions to their operations. GM executives have been telling suppliers they should find alternatives to China for their raw materials and parts, with the goal of eventually moving their supply chains out of the country entirely, the people said. The automaker has set a 2027 deadline for some suppliers to dissolve their China sourcing ties, some of the sources said. GM approached some suppliers with the directive in late 2024, but the effort took on fresh urgency this past spring, during the early days of an escalating US-China trade battle, the sources said.]]></content:encoded></item><item><title>The TechBeat: Stop the Slop. Start Coding Smarter with AI (11/15/2025)</title><link>https://hackernoon.com/11-15-2025-techbeat?source=rss</link><author>Techbeat</author><category>tech</category><pubDate>Sat, 15 Nov 2025 07:10:59 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[By @eqoflow [ 5 Min read ] 
+ What if social media stopped spying on you? EqoFlow.app shows what a privacy-first platform should look like: encrypted, decentralized, and built to protect Read More.By @scylladb [ 8 Min read ] 
+ Explore six caching strategies—cache-aside, read-through, write-through, write-behind, client-side, and distributed—and how each impacts latency and complexity. Read More.By @manishmshiva [ 6 Min read ] 
+ Learn how to install and run open-source large language models (LLMs) locally on Windows — with or without the command line.  Read More.By @@javar97 [ 10 Min read ] 
+ A 7-step checklist for developers to use AI tools effectively—without creating low-quality “slop.” Build, test, and scale with discipline. Read More.By @danielkov [ 16 Min read ] 
+ Master live coding interviews with insights from 100+ interviews. Learn why communication beats perfect code and what actually gets you hired. Read More.By @socialdiscoverygroup [ 6 Min read ] 
+ Discover how React 19's new hooks—useActionState, useFormStatus, and useOptimistic—simplify form handling with less boilerplate and cleaner code.  Read More.By @instancing [ 5 Min read ] 
+ Compared to previous neural field techniques, 3DIML achieves 14–24× faster training times for 3D instance segmentation from 2D photos. Read More.By @danielkov [ 21 Min read ] 
+ Learn to write technical specs that get shipped. Practical guide covering problem statements, buy-in, implementation plans, and spec-driven development. Read More.By @giovannicoletta [ 11 Min read ] 
+ An interrogation of how physics concepts like black holes, entropy, and quantum theory mirror the rise and limits of artificial intelligence. Read More.By @kpr [ 4 Min read ] 
+ GenAI is integral part of modern tech stack and responding to GenAI infrastructure requires a new approach Read More.By @companyoftheweek [ 3 Min read ] 
+ This week, HackerNoon features True—an AI-native perps DEX built on Solana and a custom layer-2 solution. Read More.By @anandk05 [ 4 Min read ] 
+ React page frozen solid? Here’s how a single Chrome DevTools feature helped trace an infinite loop hidden deep in Redux selectors. Read More.By @Go [ 11 Min read ] 
+ Generics are a way of writing code that is independent of the specific types being used. Functions and types may now be written to use any of a set of types. Read More.By @apurvakumarb [ 10 Min read ] 
+ Consent-based access often results in financial services collecting more data than they actually need.  Read More.By @hackernooncontests [ 6 Min read ] 
+ Meet the winners of Round 3 of the Spacecoin Writing Contest!  6 categories, 7 winners, 9000 USDT in cash prizes.  Read More.By @vujacic [ 6 Min read ] 
+ Four engines, one prompt, slightly suspiciously honest commentary. Read More.]]></content:encoded></item><item><title>Scientists Confirmed What Is Inside Our Moon</title><link>https://science.slashdot.org/story/25/11/15/0037256/scientists-confirmed-what-is-inside-our-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Sat, 15 Nov 2025 07:00:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[alternative_right shares a report from ScienceAlert: A thorough investigation published in May 2023 found that the inner core of the Moon is, in fact, a solid ball with a density similar to that of iron. To figure it out once and for all, [astronomer Arthur Briaud of the French National Centre for Scientific Research in France] and his colleagues collected data from space missions and lunar laser-ranging experiments to compile a profile of various lunar characteristics. These include the degree of its deformation by its gravitational interaction with Earth, the variation in its distance from Earth, and its density.
+ 
+... they found that the lunar core is very similar to that of Earth â" with an outer fluid layer and a solid inner core. According to their modeling, the outer core has a radius of about 362 kilometers (225 miles), and the inner core has a radius of about 258 kilometers (160 miles). That's about 15 percent of the entire radius of the Moon. The inner core, the team found, also has a density of about 7,822 kilograms per cubic meter. That's very close to the density of iron. [...] The research has been published in Nature.]]></content:encoded></item><item><title>She Used ChatGPT To Win the Virginia Lottery, Then Donated Every Dollar</title><link>https://news.slashdot.org/story/25/11/15/0025246/she-used-chatgpt-to-win-the-virginia-lottery-then-donated-every-dollar?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Sat, 15 Nov 2025 03:30:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[An anonymous reader quotes a report from the Washington Post: Winning the lottery isn't what brought Carrie Edwards her 15 minutes of fame. It was giving it all away. Standing alone in her kitchen one day in September, the Virginia woman was thunderstruck to discover she had won $150,000 in a Powerball drawing. As she was absorbing her windfall, she said, "I just heard as loud as you can hear God or whoever you believe in the universe just say, this is -- it's not your money." Then came a decision: She would donate it all to her three most cherished charities (source paywalled; alternative source). [...] Her journey to the lucky prize started when she walked into a 7-Eleven with a friend who wanted to buy two Powerball tickets. The jackpot for the Sept. 6 drawing was topping $1.7 billion, the second-largest amount ever. Edwards, 68, hardly ever played the lottery, but her friend was an active player who gave her two pieces of advice: Always buy a paper ticket, rather than getting them online. And the Powerball multiplier is a scam, don't do it. She ignored him on both accounts.
+ 
+She created a Virginia Lottery account on her phone. Then, instead of the typical strategies of using family birthdays and lucky numbers, she went to ChatGPT -- which she had only recently started using for research -- and asked, "Do you have any winning numbers for me?" "Luck is luck," replied the chatbot. Then it gave numbers that she plugged in -- paying the extra dollar for the Power Play to multiply anything she might win. She initially thought luck wasn't on her side when she didn't win the massive jackpot. But what she didn't realize is that she'd picked the "draw two" option, meaning her numbers were reentered for the next drawing. When she got a notification on her phone that she had won, she said, she thought it was a scam, or maybe she'd won something small, like $10. Just to satisfy her curiosity, she logged into her account and saw that she had matched four of the five numbers plus the Powerball in that second drawing. It would have been a $50,000 payout, but the multiplier tripled her winnings.]]></content:encoded></item><item><title>Evaluating Visual Adapters: MIVPG Performance on Single and Multi-Image Inputs</title><link>https://hackernoon.com/evaluating-visual-adapters-mivpg-performance-on-single-and-multi-image-inputs?source=rss</link><author>Instancing</author><category>tech</category><pubDate>Sat, 15 Nov 2025 03:12:01 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[To assess the effectiveness of our proposed approach, we conduct evaluations across various scenarios:where each sample comprises a single image, and patches are naturally considered as instances;where each sample includes multiple instances, but we use a general embedding for each image;where each sample contains multiple images, with each image containing multiple patches.We initialize our model using BLIP2 [22] with FLAN-T5- XL. MIVPG is initialized with weights from QFormer. The model consists of a frozen language model and a frozen visual model. During training, we only update the MIVPG. The visual encoder, ViT-G, is employed to encode images into patches of embeddings, and the images are resized to dimensions of 224 × 224. In our experiments, we observed that unfreezing the visual encoder does not lead to additional improvements in datasets with small sizes. Further details can be found in the supplementary C.1.(1) Wenliang Zhong, The University of Texas at Arlington (wxz9204@mavs.uta.edu);(2) Wenyi Wu, Amazon (wenyiwu@amazon.com);(3) Qi Li, Amazon (qlimz@amazon.com);(4) Rob Barton, Amazon (rab@amazon.com);(5) Boxin Du, Amazon (boxin@amazon.com);(6) Shioulin Sam, Amazon (shioulin@amazon.com);(7) Karim Bouyarmane, Amazon (bouykari@amazon.com);(8) Ismail Tutar, Amazon (ismailt@amazon.com);(9) Junzhou Huang, The University of Texas at Arlington (jzhuang@uta.edu).:::info
+This paper is  under CC by 4.0 Deed (Attribution 4.0 International) license.]]></content:encoded></item><item><title>MIVPG and Instance Correlation: Enhanced Multi-Instance Learning</title><link>https://hackernoon.com/mivpg-and-instance-correlation-enhanced-multi-instance-learning?source=rss</link><author>Instancing</author><category>tech</category><pubDate>Sat, 15 Nov 2025 03:00:13 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[3.4. Unveiling Instance Correlation in MIVPG for Enhanced Multi-instance Scenarios\
+Subsequently, the aggregated low-rank matrix can be reintegrated with the original embeddings, as shown in Equation 9. This low-rank projection effectively reduces the time complexity to O(MM′).\
+. MIVPG, when equipped with the CSA (Correlated Self-Attention) module, continues to fulfill the essential properties of MIL\
+We prove the proposition 2 in the supplementary B.\
+In summary, as depicted in Figure 2a, we establish that QFormer falls under the MIL category and is a specialized instance of our proposed MIVPG. The latter extends to visual inputs with multiple dimensions, accounting for instance correlation.(1) Wenliang Zhong, The University of Texas at Arlington (wxz9204@mavs.uta.edu);(2) Wenyi Wu, Amazon (wenyiwu@amazon.com);(3) Qi Li, Amazon (qlimz@amazon.com);(4) Rob Barton, Amazon (rab@amazon.com);(5) Boxin Du, Amazon (boxin@amazon.com);(6) Shioulin Sam, Amazon (shioulin@amazon.com);(7) Karim Bouyarmane, Amazon (bouykari@amazon.com);(8) Ismail Tutar, Amazon (ismailt@amazon.com);(9) Junzhou Huang, The University of Texas at Arlington (jzhuang@uta.edu).:::info
+This paper is  under CC by 4.0 Deed (Attribution 4.0 International) license.]]></content:encoded></item><item><title>Multimodal Fusion: MIVPG&apos;s Hierarchical MIL Approach for Multi-Image Samples</title><link>https://hackernoon.com/multimodal-fusion-mivpgs-hierarchical-mil-approach-for-multi-image-samples?source=rss</link><author>Instancing</author><category>tech</category><pubDate>Sat, 15 Nov 2025 02:28:16 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[\
+When a sample comprises multiple images, it is imperative to consider MIL feature aggregation from different perspectives. In the context of individual images, each image can be treated as a ’bag,’ and each patch within the image as an ’instance.’ From the sample’s perspective, each sample can also be regarded as a ’bag,’ with each image within the sample as an ’instance.’ When a sample contains only a single image, we can focus primarily on the former perspective since the latter perspective involves a single instance per bag. However, in a more general context, it is essential to adopt a hierarchical approach when considering the utilization of MIL for feature aggregation. Without loss of generality, we now consider the input of the MIVPG to be a bag B containing multiple instances. Hence, the cross-attention can be expressed as Attention(Q = q, K = B, V = B).(1) Wenliang Zhong, The University of Texas at Arlington (wxz9204@mavs.uta.edu);(2) Wenyi Wu, Amazon (wenyiwu@amazon.com);(3) Qi Li, Amazon (qlimz@amazon.com);(4) Rob Barton, Amazon (rab@amazon.com);(5) Boxin Du, Amazon (boxin@amazon.com);(6) Shioulin Sam, Amazon (shioulin@amazon.com);(7) Karim Bouyarmane, Amazon (bouykari@amazon.com);(8) Ismail Tutar, Amazon (ismailt@amazon.com);(9) Junzhou Huang, The University of Texas at Arlington (jzhuang@uta.edu).:::info
+This paper is  under CC by 4.0 Deed (Attribution 4.0 International) license.]]></content:encoded></item><item><title>YouTube TV and Disney Reach Deal Ending Two-Week Blackout of ESPN, ABC</title><link>https://entertainment.slashdot.org/story/25/11/15/019213/youtube-tv-and-disney-reach-deal-ending-two-week-blackout-of-espn-abc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Sat, 15 Nov 2025 01:30:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[YouTube TV and Disney have ended their two-week carriage standoff, restoring ESPN, ABC, and other Disney networks under a new multiyear deal. Variety reports: Under the new agreement, ESPN's full lineup of sports -- including content from ESPN Unlimited -- will be made available on YouTube TV to base-plan subscribers at no additional cost by the end of 2026. In addition, access to a selection of live and on-demand programming from ESPN Unlimited will be available inside YouTube TV.
+ 
+The deal also lets YouTube include the Disney+ and Hulu bundle as part of "select YouTube offerings." According to Disney, "select networks" will be included in various genre-specific packages that YouTube TV expects to launch in the future. [...] The deal supersedes their prior distribution agreement, inked in December 2021 after a two-day blackout.]]></content:encoded></item><item><title>Apple&apos;s $230 iPhone Pocket Sells Out Nearly Immediately</title><link>https://apple.slashdot.org/story/25/11/15/0011232/apples-230-iphone-pocket-sells-out-nearly-immediately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link><author>BeauHD</author><category>tech</category><pubDate>Sat, 15 Nov 2025 00:50:00 +0000</pubDate><source url="https://slashdot.org/">Slashdot</source><content:encoded><![CDATA[Apple's limited-edition "iPhone Pocket" sold out almost instantly worldwide despite its $150-$230 price tag. Appleinsider reports: Longtime Apple users immediately saw the resemblance with the old iPod socks, and everyone saw the price. Apple and Japan's Issey Miyake fashion house partnered to create a limited edition iPhone Pocket, a stretched sock-like bag or shoulder strap.
+ 
+There was no denying that an iPhone in this Pocket looked snuggly. There was definitely no denying that the accessory was well designed. There's also no question that it was about as goofy as the iPod Sock from back the in the day. But there was every denying of the price. The iPhone Pocket came in a short version for $150, and a longer one for $230.
+ 
+For comparison, the Apple Watch SE starts at $250. As ever, though, if you liked it, if you had a use for it, and if you had the budget, there was no reason left not to buy. But if you have hesitated because of the cost, you are now out of luck. There are none left in the US.]]></content:encoded></item><item><title>Leaked documents shed light into how much OpenAI pays Microsoft</title><link>https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/</link><author>Rebecca Bellan</author><category>tech</category><pubDate>Sat, 15 Nov 2025 00:47:41 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Leaked documents reveal how much OpenAI paid Microsoft under a revenue-share agreement. They also indicate inference costs.]]></content:encoded></item><item><title>Mesa 25.3 Released With Many Open-Source Vulkan Driver Improvements</title><link>https://www.phoronix.com/news/Mesa-25.3-Released</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 23:25:37 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Mesa 25.3 is out tonight as the newest quarterly feature release to this set of (predominantly) OpenGL and Vulkan drivers widely used across Linux systems. Mesa 25.3 features numerous Vulkan extensions added to the different open-source drivers, continued enhancements to the OpenGL drivers, and various other changes...]]></content:encoded></item><item><title>Write Smarter, Reach Wider: Enrollment Is OPEN for HackerNoon’s Inaugural Blogging Course</title><link>https://hackernoon.com/write-smarter-reach-wider-enrollment-is-open-for-hackernoons-inaugural-blogging-course?source=rss</link><author>HackerNoon Courses</author><category>tech</category><pubDate>Fri, 14 Nov 2025 22:52:23 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Anyone can start a blog. \n But getting read? That’s a different game.You write a thoughtful article, hit publish… and then? Crickets. Maybe a few likes, a retweet if you’re lucky, and a trickle of traffic that vanishes within 24 hours.Welcome to the publishing plateau: the spot where good writers get stuck.You don’t need motivation. You don’t need another newsletter that says “just keep writing.”You need a system to grow your reach, get featured, and turn your writing into real opportunities.Write with clarity and authorityGet your stories published and sharedBuild an audience that actually sticks aroundThis isn’t just “how to blog.” It’s how to write for the internet in 2025 and beyond.🎥 On-demand video lessons \n 📂 Practical tools and templates (yours to keep) \n ✍️ Assignments to put the skills into action \n 👥 A community of experienced writers ready to back you up and answer your questions.Plus, you’ll get a certificate and badge upon course completion.What You’ll Learn – At a GlanceModule 1: Finding Your Voice & Writing WorkflowWhy writing online is a long-term career assetHow to define your writing voiceHow to brainstorm article ideas that matter to youHow to track and organize your writing workflow using Notion or Google SheetsModule 2: Writing for SEO (Without Losing Your Soul)What keyword research is and why it mattersHow to use free SEO tools to find good topicsHow to spot search intent (and match it with your writing)How to use keywords naturally in your draftsModule 3: Writing Great Articles That People ReadHow to use simple writing templates to structure your articlesHow to write strong intros and headlinesWhat “good writing” means in digital publishingHow to naturally include links and keywords without overdoing itModule 4: Growing Your Reach & AuthorityHow to develop a personal brand that connects with your audienceHow to manage your blog like a product — planning, testing, iteratingPractical strategies for promoting your content effectivelyModule 5: Research & Interviews to Add AuthorityHow to identify and find credible sources for your topicsBest practices for outreach: writing messages that get repliesHow to conduct simple, effective interviews (in person, phone, or email)Structuring and writing an interview article that adds real authority\Module 6: Monetizing Your WritingHow to find freelancing opportunities and understand contractsBuilding and growing an email list for long-term audience engagementCreating evergreen content that drives consistent traffic and leadsVarious ways to monetize your blog: offering services, digital products, and affiliate marketingModule 7: Think Long TermHow to build and maintain effective writing habitsHow to measure your growth with key metricsHow to create a long-term content and growth strategyWays to connect with supportive writing communitiesTips for avoiding burnout and keeping creativity flowingModule 8: Writing in the Age of AI – Hello, GEO!LLM-powered workflows for faster, smarter content creationReal-world marketing use cases for generative AIGEO vs SEO: how AI engines surface your contentWhen to use AI (and when not to)How to collaborate with tools like ChatGPT, Claude, and othersCurious? Here’s what our writers had to say about learning with HackerNoonThis isn’t theory from someone who hasn’t published since 2012. You’ll learn from HackerNoon’s editorial, marketing team and AI experts - the same people who:Edit and publish millions of words each yearBuild content systems for the world’s top tech companiesRun growth and SEO for a site that gets millions of viewsUnderstand how to leverage generative AI for real-world storytellingMake the HackerNoon Blogging Course Your Backstage Pass to ExcellenceYour success as a writer starts here. The HackerNoon Blogging Course gives you the tools, mentorship, and insider strategies to sharpen your voice, grow your audience, and turn your ideas into influence. Whether you’re just starting out or looking to level up, this course is your step-by-step roadmap to getting noticed, building authority, and making your writing career a reality.\
+The next chapter of your writing career starts now!]]></content:encoded></item><item><title>Databricks co-founder argues US must go open source to beat China in AI</title><link>https://techcrunch.com/2025/11/14/databricks-co-founder-argues-us-must-go-open-source-to-beat-china-in-ai/</link><author>Marina Temkin</author><category>tech</category><pubDate>Fri, 14 Nov 2025 22:52:18 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[VC Andy Konwinski argues that the U.S. is losing its AI research dominance to China.]]></content:encoded></item><item><title>A comprehensive list of 2025 tech layoffs</title><link>https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/</link><author>Cody Corrall, Alyssa Stringer, Kate Park</author><category>tech</category><pubDate>Fri, 14 Nov 2025 22:29:56 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></content:encoded></item><item><title>ChatGPT: Everything you need to know about the AI-powered chatbot</title><link>https://techcrunch.com/2025/11/14/chatgpt-everything-to-know-about-the-ai-chatbot/</link><author>Kyle Wiggers, Cody Corrall, Kate Park, Alyssa Stringer</author><category>tech</category><pubDate>Fri, 14 Nov 2025 22:06:57 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.]]></content:encoded></item><item><title>Tesla releases detailed safety report after Waymo co-CEO called for more data</title><link>https://techcrunch.com/2025/11/14/tesla-releases-detailed-safety-report-after-waymo-co-ceo-called-for-more-data/</link><author>Sean O&apos;Kane</author><category>tech</category><pubDate>Fri, 14 Nov 2025 21:57:21 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The new data, released Friday, finally addresses some of the biggest criticisms of the paltry "safety reports" Tesla's released for years.]]></content:encoded></item><item><title>Dispatch Review - Fantastic Superhero TV</title><link>https://www.gamespot.com/reviews/dispatch-review-fantastic-superhero-tv/1900-6418442/?ftag=CAD-01-10abi2f</link><author>Jordan Ramée</author><category>tech</category><enclosure url="https://www.gamespot.com/a/uploads/screen_medium/1587/15875866/4602757-d2.jpg" length="" type=""/><pubDate>Fri, 14 Nov 2025 21:30:00 +0000</pubDate><source url="https://www.gamespot.com/feeds/reviews">GameSpot - Game Reviews</source><content:encoded><![CDATA[Dispatch feels like it harkens back to the early 2010s--a time when Telltale Games was creating incredible episodic adventure games inspired by graphic novels, superhero stories were beginning to fill to the brim with quips to counterbalance the angst of the genre in the 2000s, and office-based TV comedies were everywhere. If not for snippets of gameplay, Dispatch would simply be a great TV show that I would want to tune into every week. It sometimes feels like it skews a little bit too much toward its TV show inspirations, but superb writing and voice acting maintains investment in this character-driven drama and makes for a story I want to replay.In Dispatch, you play as Robert Robertson III, aka Mecha Man. Once a prominent hero without superpowers who had to rely on piloting a mechsuit to stop monstrous supervillains, Robert finds his life adrift after his suit is damaged beyond repair. He's approached by Blonde Blazer, a famous hero-for-hire, who offers him a job as a dispatcher--someone who directs and assists a team of paid heroes. The catch: Robert's assigned group of misfits is entirely composed of former supervillains, and their crass attitudes, explosive tempers, and lack of camaraderie make them a poor team and ill-suited for hero work.It's a stellar set-up, made even stronger by an incredible cast of varied characters. While trailers and advertisements offered an initial impression of Robert being your typical washed-up hero defined by dour sarcasm, the character is a remarkably refreshing take for a protagonist in a superhero story. Yes, he's depressed and often uses humor to deflect, but he has an earnest desire to help people and continue being a force for good. He doesn't view the supervillains under his command as a hindrance, but a mission: He'll mentor the roster into a group of heroes even greater than he was because it's best for the city and for the former villains' lives.Continue Reading at GameSpot]]></content:encoded></item><item><title>Wine 10.19 Released With More Improvements</title><link>https://www.phoronix.com/news/Wine-10.19-Released</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 21:16:56 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Ahead of the Wine 11.0 code freeze beginning in early December, Wine 10.19 is out today as the newest bi-weekly development release for running Windows games and applications on Linux...]]></content:encoded></item><item><title>AMD GCN 1.0/1.1 GPUs Will Default To AMDGPU Driver In Linux 6.19, SMART POWER OLED Added</title><link>https://www.phoronix.com/news/Linux-6.19-AMDGPU-GCN-1.0-1.1</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 20:35:43 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Sent out today is likely the last batch of AMDGPU kernel graphics driver feature updates ahead of the Linux 6.19 merge window getting underway around the start of December. And it's an exciting one too from adding a new SMART POWER OLED feature to switching from the Radeon to AMDGPU drivers by default for aging GCN 1.0 Southern Islands and GCN 1.1 Sea Islands GPUs...]]></content:encoded></item><item><title>Oura Ring 4 Ceramic review: A colorful glow-up</title><link>https://techcrunch.com/2025/11/14/oura-ring-4-ceramic-review-a-colorful-glow-up/</link><author>Aisha Malik</author><category>tech</category><pubDate>Fri, 14 Nov 2025 20:30:58 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[If you want a pop of color and style, then the Oura Ring 4 Ceramic might be the smart ring for you.]]></content:encoded></item><item><title>This Soft Robot Is 100% Edible, Including the Battery</title><link>https://spectrum.ieee.org/soft-edible-robot</link><author>Evan Ackerman</author><category>tech</category><enclosure url="https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82MjE2MjY5Mi9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTgxMzA2MDA3Nn0.B4fv8Ww9-p6pWvzA6eEou4K0PEX2bVbXPNSd2_NE5oI/image.gif?width=600" length="" type=""/><pubDate>Fri, 14 Nov 2025 20:24:06 +0000</pubDate><source url="https://spectrum.ieee.org/">IEEE Spectrum</source><content:encoded><![CDATA[It’s designed to feed medication to wild boars, but you can eat it too]]></content:encoded></item><item><title>Coinbase Ventures-Backed Supra Offers $1M Bounty to Beat Its Parallel EVM Execution Engine</title><link>https://hackernoon.com/coinbase-ventures-backed-supra-offers-$1m-bounty-to-beat-its-parallel-evm-execution-engine?source=rss</link><author>Chainwire</author><category>tech</category><pubDate>Fri, 14 Nov 2025 19:57:26 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Zug, Switzerland, November 14th, 2025/Chainwire/--, the first Layer-1 blockchain built for Automatic DeFi (AutoFi) via full vertical integration, is proud to announce an . CEO and Co-Founder Joshua Tobkin has committed up to $1 million worth of his own $SUPRA tokens as a personal bounty to any developer or research team that can demonstrate a faster, verifiably correct EVM-parallel execution engine than SupraBTM, the core execution engine powering SupraEVM.The personal bounty, touted as the SupraEVM Speed Challenge, is offered in addition to an ongoing $40,000 USDC performance-based reward offered by the foundation. To date, no participating team has surpassed the benchmarks established by SupraBTM, which remains the top performer in public tests against all known EVM-parallel solutions, including Monad, one of the more optimized projects in the high-performance EVM space.“I am betting $1 million of my own tokens that no one can beat Supra,” said Co-Founder and CEO Joshua Tobkin. “Supra is built on transparency. We claim to be the fastest, so we are aiming to prove it in public. And if someone can demonstrate a superior execution engine under clear conditions, I will honor that outcome directly.”Addressing the Core Bottleneck in Blockchain ScalabilityWhile consensus protocols, data availability layers, and oracle infrastructure have all seen significant improvements in recent years, transaction execution remains a limiting factor for scaling decentralized applications. Safe and deterministic parallel execution within the Ethereum Virtual Machine (EVM) is particularly challenging, yet essential for enabling low-latency DeFi, real-time games, and AI-driven autonomous agents.SupraEVM, powered by SupraBTM (Block Transactional Memory), addresses this challenge with a conflict-specification aware architecture that reduces overhead, anticipates transaction collisions, and schedules execution based on statically analyzed dependency graphs.SupraBTM has been benchmarked on 10,000 Ethereum mainnet blocks and tested head-to-head against Monad’s 2-Phase Execution (2PE) approach using identical commodity hardware (16-core AMD 4564P CPU with 192 GB RAM). Results showed SupraBTM delivering:1.5 to 1.7 times higher throughput than Monad across various workloads~4 to 7 times speedup over traditional sequential EVM executionConsistent performance under high-conflict conditions typical in DeFi and arbitrage use casesThe engine’s design avoids the need for speculative execution and frequent rollbacks, instead relying on a deterministic scheduling model that is adaptable across varying thread configurations.“Supra was built from the ground up to integrate execution, consensus, and core infrastructure components into a cohesive framework,” said Jon Jones, CBO and Co-Founder at Supra. “The result is an architecture that not only delivers performance, but does so in a way that is reproducible and testable against any known parallel EVM engine available today.”Challenge Guidelines and StructureThe $1 million token commitment is available to developers or research teams who can produce a faster EVM execution engine under defined test conditions. Entries must be open source, verifiable, and reproducible. The full criteria include:Processing at least 100,000 consecutive Ethereum mainnet blocksExecuting on commodity hardware with no more than 16 CPU coresAchieving at least a 15 percent performance improvement across 4, 8, and 16 thread configurationsPublishing benchmark results publicly and submitting to community and independent verificationCode must be released under an open-source license and remain accessible for auditParticipants may choose to claim the reward directly, or engage further with Supra’s engineering organization to collaborate. Token rewards are from Tobkin’s personal allocation, unlocking in 2027 and vesting over two years. The prize is independent of Supra’s core operations or treasury.“This challenge is focused on the core technical issue that continues to constrain the EVM,” Tobkin added. “The objective is to find or validate the most performant execution engine possible. If someone is able to build a better system than what we have achieved at Supra, the industry should recognize it and benefit from it.”For full technical documentation, rules, and binaries for the SupraEVM Beta Bounty, users can visit the bounty’s dedicated , with in-depth details of the $1M SupraEVM Speed Challenge available on . Supra’s technical team has provided a deep-dive benchmark report comparing SupraBTM and Monad available on , while developers interested in early SupraEVM access can join the waitlist . is the first chain built for Automatic DeFi (AutoFi), a novel self-operating automated financial system that also serves as the perfect framework for crypto AI Agents, built upon its vertically integrated Layer-1 blockchain with built-in high-speed smart contracts, native price oracles, system-level automation and bridgeless cross-chain messaging.Supra’s vertical stack unlocks all-new AutoFi primitives that can generate fair recurring protocol revenue and redistribute it across the ecosystem, reducing reliance on inflationary block rewards entirely over time. This stack also equips onchain AI Agents with all the tools they need to run a wide variety of powerful DeFi workflows for users automatically, autonomously, and securely.:::tip
+This story was published as a press release by Chainwire under HackerNoon’s Business Blogging . Do Your Own Research before making any financial decision.]]></content:encoded></item><item><title>ollama 0.12.11 Brings Vulkan Acceleration</title><link>https://www.phoronix.com/news/ollama-0.12.11-Vulkan</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 19:52:08 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[ollama 0.12.11 released this week as the newest feature update to this easy-to-run method of deploying OpenAI GPT-OSS, DeepSeek-R1, Gemma 3, and other large language models. Exciting with ollama 0.12.11 is that it's now supporting the Vulkan API...]]></content:encoded></item><item><title>RISE Evolves Beyond Fastest Layer 2 Into The Home For Global Markets, With RISE MarketCore And RISEx</title><link>https://hackernoon.com/rise-evolves-beyond-fastest-layer-2-into-the-home-for-global-markets-with-rise-marketcore-and-risex?source=rss</link><author>Chainwire</author><category>tech</category><pubDate>Fri, 14 Nov 2025 19:29:34 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Singapore, Singapore, November 13th, 2025/Chainwire/--From the fastest Layer 2 blockchain to the foundation of global onchain markets, RISE introduces a new standard for orderbooks on the EVM, fully onchain and synchronously composable., the fastest Ethereum Layer 2, today announced a new strategic direction with the launch of RISE MarketCore and , as it continues its mission to become the global home for onchain markets. These new platforms establish a comprehensive ecosystem for onchain trading, transitioning RISE from a high-performance execution layer into the foundational engine for global onchain markets. This expansion is bolstered by the , which contributes key technology to RISE's new global markets offering.Traditional financial markets, from equities to FX, all run on orderbooks. Until now, this market structure has been largely incompatible with blockchain technology due to latency and complexity. RISE’s performance advancements solve this, enabling orderbooks to operate entirely onchain for the first time. This development enables a level of deep liquidity, programmability, and composability never before possible in finance.RISE is leveraging its high-performance L2 to launch a new orderbook infrastructure and perpetuals DEX, turning its leading performance edge into a programmable market structure, the core engine that powers global onchain trading.RISE MarketCore, built on RISE’s ultra-low latency EVM, provides an orderbook infrastructure with deep, shared liquidity that enables anyone to launch fully onchain spot and perpetual markets fast and permissionlessly; with future support planned for additional orderbook-based primitives such as options and prediction markets. It solves key challenges by offering native orderbook primitives, risk engines, and APIs directly at the base layer. Builders can plug into liquid books, founders can list their tokens permissionlessly, and asset issuers can launch their own markets or entire exchanges.RISEx is the ecosystem’s flagship application, the first Integrated Perpetuals DEX, where DeFi co-exists with CEX-grade perpetuals. Built on the EVM, it delivers a premium trading experience with deep liquidity, tight spreads, and seamless execution. Every order, margin update, and settlement occurs synchronously onchain, providing both speed and composability while maintaining full transparency for traders and market makers.“RISE was never just about building a faster blockchain. It’s about enabling a new market structure for the internet,” said Sam Battenally, CEO of RISE. “With RISE MarketCore and RISEx, we’re turning the chain itself into the global home for onchain markets, a programmable foundation where liquidity, risk, and innovation converge onchain. This is the infrastructure global finance will be built on: composable, transparent, and unstoppable.”RISE’s evolution gives developers and institutions a programmable foundation for global market infrastructure.Key capabilities include:Native Orderbook Infrastructure: Shared, composable books for both spot and perpetuals marketsProgrammable Instruments: SDKs and APIs for building custom products and market logicHigh-Performance EVM: Millisecond-class latency and high throughput that ensure seamless executionFlagship Exchange: RISEx bootstraps ecosystem liquidity and sets a new standard for onchain tradingNext Phase of RISE Platform DevelopmentRISEx enters its closed mainnet this quarter, followed by a public mainnet launch in early 2026. RISE MarketCore will then open for the permissionless deployment of new spot and perps markets. The future roadmap includes expanding the Markets SDK to support options, structured products, and prediction markets, all running natively on RISE’s shared orderbook infrastructure. is the Home for Global Markets, a high-performance Ethereum Layer 2 that powers programmable markets onchain. Built for CEX-grade performance and full EVM composability; RISE enables builders, traders, and institutions to create and connect to global orderbooks alongside a thriving DeFi ecosystem with ease. RISE is rearchitecting the financial stack for a transparent, composable, and unstoppable onchain economy.:::tip
+This story was published as a press release by Chainwire under HackerNoon’s Business Blogging . Do Your Own Research before making any financial decision.]]></content:encoded></item><item><title>Vulkan 1.4.333 Released With New Ray-Tracing Extension</title><link>https://www.phoronix.com/news/Vulkan-1.4.333-Released</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 18:54:09 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Vulkan 1.4.333 is out with a handful of fixes plus two new extensions...]]></content:encoded></item><item><title>Forget AGI—Sam Altman celebrates ChatGPT finally following em dash formatting rules</title><link>https://arstechnica.com/ai/2025/11/forget-agi-sam-altman-celebrates-chatgpt-finally-following-em-dash-formatting-rules/</link><author>Benj Edwards</author><category>tech</category><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/11/man_wrestling_with_robot_hand_2-1152x648.jpg" length="" type=""/><pubDate>Fri, 14 Nov 2025 18:45:34 +0000</pubDate><source url="https://arstechnica.com/">Biz &amp; IT – Ars Technica</source><content:encoded><![CDATA[Em dashes have become what many believe to be a telltale sign of AI-generated text over the past few years. The punctuation mark appears frequently in outputs from ChatGPT and other AI chatbots, sometimes to the point where readers believe they can identify AI writing by its overuse alone—although people can overuse it, too.On Thursday evening, OpenAI CEO Sam Altman posted on X that ChatGPT has started following custom instructions to avoid using em dashes. “Small-but-happy win: If you tell ChatGPT not to use em-dashes in your custom instructions, it finally does what it’s supposed to do!” he wrote.The post, which came two days after the release of OpenAI’s new GPT-5.1 AI model, received mixed reactions from users who have struggled for years with getting the chatbot to follow specific formatting preferences. And this “small win” raises a very big question: If the world’s most valuable AI company has struggled with controlling something as simple as punctuation use after years of trying, perhaps what people call artificial general intelligence (AGI) is farther off than some in the industry claim.]]></content:encoded></item><item><title>Why Traditional Load Testing Fails for Modern AI Systems</title><link>https://hackernoon.com/why-traditional-load-testing-fails-for-modern-ai-systems?source=rss</link><author>Manasvi Arya</author><category>tech</category><pubDate>Fri, 14 Nov 2025 18:44:19 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[At the , Performance Architect Sudhakar Reddy Narra demonstrated how conventional performance testing tools miss all the ways AI agents actually break under load.When performance engineers test traditional web applications, the metrics are straightforward: response time, throughput, and error rates. Hit the system with thousands of concurrent requests, watch the graphs, and identify bottlenecks. Simple enough.But AI systems don't break the same way.At last month's TestIstanbul Conference, performance architect Sudhakar Reddy Narra drew one of the event's largest crowds, 204 attendees out of 347 total participants, to explain why traditional load testing approaches are fundamentally blind to how AI agents fail in production."An AI agent can return perfect HTTP 200 responses in under 500 milliseconds while giving completely useless answers," Narra told the audience. "Your monitoring dashboards are green, but users are frustrated. Traditional performance testing doesn't catch this."The core problem, according to Narra, is that AI systems are non-deterministic. Feed the same input twice, and you might get different outputs, both technically correct, but varying in quality. A customer service AI might brilliantly resolve a query one moment, then give a generic, unhelpful response the next, even though both transactions look identical to standard performance monitoring.This variability creates testing challenges that conventional tools weren't designed to handle. Response time metrics don't reveal whether the AI actually understood the user's intent. Throughput numbers don't show that the system is burning through its "context window," the working memory AI models use to maintain conversation coherence, and starting to lose track of what users are asking about."We're measuring speed when we should be measuring intelligence under load," Narra argued.New Metrics for a New ProblemNarra's presentation outlined several AI-specific performance metrics that testing frameworks currently ignore:Intent resolution time: How long it takes the AI to identify what a user actually wants, separate from raw response latency. An agent might respond quickly but spend most of that time confused about the question.Confusion score: A measure of the system's uncertainty when generating responses. High confusion under load often precedes quality degradation that users notice, but monitoring tools don't.Token throughput: Instead of measuring requests per second, track how many tokens the fundamental units of text processing the system handles. Two requests might take the same time but consume wildly different computational resources.Context window utilization: How close the system is to exhausting its working memory. An agent operating at 90% context capacity is one conversation turn away from failure, but traditional monitoring sees no warning signs.Degradation threshold: The load level at which response quality starts declining, even if response times remain acceptable.The economic angle matters too. Unlike traditional applications, where each request costs roughly the same to process, AI interactions can vary from pennies to dollars depending on how much computational "thinking" occurs. Performance testing that ignores cost per interaction can lead to budget surprises when systems scale.Testing the UnpredictableOne practical challenge Narra highlighted: generating realistic test data for AI systems is considerably harder than for conventional applications. A login test needs a username and a password. Testing an AI customer service agent requires thousands of diverse, unpredictable questions that mimic how actual humans phrase queries, complete with ambiguity, typos, and linguistic variation.His approach involves extracting intent patterns from production logs, then programmatically generating variations: synonyms, rephrasing, edge cases. The goal is to create synthetic datasets that simulate human unpredictability at scale without simply replaying the same queries repeatedly."You can't load test an AI with 1,000 copies of the same question," he explained. "The system handles repetition differently than genuine variety. You need synthetic data that feels authentically human."Another complexity Narra emphasized: AI systems don't stay static. As models get retrained or updated, their performance characteristics shift even when the surrounding code remains unchanged. An agent that handled 1,000 concurrent users comfortably last month might struggle with 500 after a model update, not because of bugs, but because the new model has different resource consumption patterns."This means performance testing can't be a one-time validation," Narra said. "You need continuous testing as the AI evolves."He described extending traditional load testing tools like Apache JMeter with AI-aware capabilities: custom plugins that measure token processing rates, track context utilization, and monitor semantic accuracy under load, not just speed.The presentation also covered resilience testing for AI systems, which depend on external APIs, inference engines, and specialized hardware, each a potential failure point. Narra outlined approaches for testing how gracefully agents recover from degraded services, context corruption, or resource exhaustion.Traditional systems either work or throw errors. AI systems often fail gradually, degrading from helpful to generic to confused without ever technically "breaking." Testing for these graceful failures requires different techniques than binary pass/fail validation."The hardest problems to catch are the ones where everything looks fine in the logs but user experience is terrible," he noted.Industry Adoption QuestionsWhether these approaches will become industry standard remains unclear. The AI testing market is nascent, and most organizations are still figuring out basic AI deployment, let alone sophisticated performance engineering.Some practitioners argue that existing observability tools can simply be extended with new metrics rather than requiring entirely new testing paradigms. Major monitoring vendors like DataDog and New Relic have added AI-specific features, suggesting the market is moving incrementally rather than revolutionarily.Narra acknowledged the field is early: "Most teams don't realize they need this until they've already shipped something that breaks in production. We're trying to move that discovery earlier."The high attendance at Narra's TestIstanbul session, drawing nearly 60% of conference participants, suggests the testing community recognizes there's a gap between how AI systems work and how they're currently validated. Whether Narra's specific approaches or competing methodologies win out, the broader challenge remains: as AI moves from experimental features to production infrastructure, testing practices need to evolve accordingly.For now, the question facing engineering teams deploying AI at scale is straightforward: How do you test something that's designed to be unpredictable?According to Narra, the answer starts with admitting that traditional metrics don't capture what actually matters and building new ones that do.]]></content:encoded></item><item><title>How Bharat Kumar Dokka Automated SQL Server Patching and Saved 600 Hours</title><link>https://hackernoon.com/how-bharat-kumar-dokka-automated-sql-server-patching-and-saved-600-hours?source=rss</link><author>Sanya Kapoor</author><category>tech</category><pubDate>Fri, 14 Nov 2025 18:43:54 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Associate Technical Architect Bharat Kumar Dokka transformed SQL Server patching by engineering an automated PowerShell-driven system that handles over 200 servers, preserves high availability, and saves nearly 600 man-hours. His innovation improved security, reliability, and operational efficiency while elevating strategic team focus and reinforcing his leadership in enterprise infrastructure and automation.]]></content:encoded></item><item><title>How Bimal Subhakumar Became a Global Leader in SAP Transportation Management</title><link>https://hackernoon.com/how-bimal-subhakumar-became-a-global-leader-in-sap-transportation-management?source=rss</link><author>Sanya Kapoor</author><category>tech</category><pubDate>Fri, 14 Nov 2025 18:38:51 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Bimal Subhakumar, a leading SAP Transportation Management expert, transformed global logistics operations through early SAP TM adoption, multimodal implementations, and cross-functional integration. Recognized as a top SAP Community contributor and now Global Practice Head at PrimeS4, he drives consulting excellence, technical innovation, and specialized talent development across the SAP ecosystem.]]></content:encoded></item><item><title>Global Regulators Say Tokenization’s Potential Is Real, but So Are Its Obstacles</title><link>https://hackernoon.com/global-regulators-say-tokenizations-potential-is-real-but-so-are-its-obstacles?source=rss</link><author>Audrey Nesbitt</author><category>tech</category><pubDate>Fri, 14 Nov 2025 18:33:46 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[IOSCO’s global survey of securities regulators reveals tokenization’s rapid experimentation in bonds and money markets, yet highlights structural and legal hurdles blocking mainstream adoption.The International Organization of Securities Commissions (IOSCO), a key global regulator overseeing securities markets in more than 100 jurisdictions, has released its most comprehensive study to date on distributed ledger technology (DLT) and its growing role in financial markets., offers detailed insights into how tokenization is being used to digitize capital market products, the implications for market integrity, associated risks, and how regulators plan to respond. The findings come at a pivotal moment as global institutions explore tokenization of real-world assets (RWAs) such as gold, oil, real estate, and natural resources.About IOSCO and the ReportIOSCO’s mandate is to strengthen investor protection, uphold market integrity, and foster cross-border regulatory cooperation. The report was developed by the organization’s Fintech Task Force through extensive research, regulatory surveys, and consultations with both public and private sector stakeholders.The task force included participation from major regulators such as the United States Securities and Exchange Commission (SEC), the UK Financial Conduct Authority (FCA), the Monetary Authority of Singapore (MAS), Germany’s BaFin, Japan’s Financial Services Agency (JFSA), the Swiss Financial Market Supervisory Authority (FINMA), and Canada’s provincial securities commissions. Together, they represent more than 95 percent of the world’s securities markets by market capitalization.Their shared objective was to create a consistent global framework for evaluating tokenization, analyzing its potential to reshape capital markets, and identifying the risks that could arise as traditional and digital finance become increasingly interconnected.Tokenization: Nascent but GrowingIOSCO describes tokenization as “emerging but far from mainstream.” While the technology has attracted strong commercial interest, most projects remain at the pilot or institutional testing stage. The report identifies fixed income and money market funds (MMFs) as the primary use cases driving real-world experimentation.Examples include UBS’s $375 million digital bond issued on the SIX Digital Exchange and tokenized MMFs from asset managers such as BlackRock and Franklin Templeton. These initiatives highlight tokenization’s ability to combine traditional compliance with blockchain efficiency.According to a 2024 Boston Consulting Group (BCG) study, the global market for tokenized assets could reach , representing roughly 10 percent of global GDP. Private credit, real estate, and natural resources are expected to drive much of that growth as institutional investors seek improved liquidity and fractional ownership models.Incremental Change, Not RevolutionThe IOSCO report stresses that tokenization’s impact so far has been evolutionary rather than revolutionary. While the benefits are clear; lower underwriting fees, faster settlement, and fractional ownership of assets - most issuance, trading, and settlement activities still depend on traditional financial infrastructure.The report identifies three core models in use today. The “books and records” model focuses on digitized documentation rather than full on-chain representation. The “digital twin” model creates blockchain-linked replicas of off-chain assets. The “digital native” model issues assets entirely on-chain. Each approach delivers specific efficiency gains, but all face similar challenges in interoperability, legal clarity, and integration with existing custodial systems.Post-trade innovations, such as tokenized collateral mobility and near-instant settlement, are beginning to show practical benefits. In some cases, distributed ledgers have reduced intraday repo settlement costs by more than 50 percent, according to Broadridge Financial Solutions. Yet, these improvements remain isolated within test environments and private networks rather than scaled, interoperable ecosystems.Legal and Operational ChallengesThe most significant hurdles remain structural. Existing securities laws were designed for paper and electronic book-entry systems, not for tokens representing assets on distributed ledgers. As a result, investors face uncertainty about ownership rights, transferability, and dispute resolution when dealing with tokenized assets.Operationally, tokenization introduces new forms of risk. Smart contract flaws, cyberattacks on blockchain nodes, data leakage, and loss of private keys remain pressing concerns. The report also highlights how a lack of interoperability between blockchain networks creates fragmented liquidity pools and limits market depth.IOSCO warns that increased reliance on shared DLT networks could amplify systemic risk. If one major blockchain or settlement layer fails, disruptions could cascade across multiple institutions simultaneously. The interconnected nature of tokenized MMFs, some of which are used as stablecoin reserves, underscores the growing overlap between traditional and decentralized markets.Regulatory Response on Tokenization and CoordinationIOSCO calls for a technology-neutral, principle-based approach to oversight, emphasizing “same activity, same risk, same regulatory outcome.” Regulators are advised to focus on the underlying economic function of tokenized instruments rather than their form or technology.The report also underscores the need for clear responsibility across the tokenization value chain. Even within decentralized systems, entities such as issuers, custodians, and technology providers must be accountable for investor protection and operational resilience.Real-World Assets: Gold, Oil, and Natural ResourcesFor innovators working on tokenizing real-world assets such as gold, natural resources, and commodities, IOSCO’s findings are both encouraging and cautionary. Tokenization can unlock previously illiquid markets by enabling fractional ownership, improving transparency, and broadening investor access beyond institutional circles.However, the report highlights that scaling RWA tokenization will depend on legal clarity, interoperability, and credible settlement processes. Issuers must ensure that token holders have enforceable rights to the underlying assets and that custody, audit, and redemption mechanisms meet regulatory standards.According to a 2025 Chainalysis report, tokenized commodities and physical assets represent less than 1 percent of total tokenized value today but are projected to grow sharply as institutional investors look for inflation hedges and diversification in digital form.IOSCO concludes that tokenization’s future lies in integration rather than disruption. Distributed ledger technology has the potential to make capital markets faster, more inclusive, and more efficient, but only if paired with strong governance and harmonized regulation.As regulators move toward clearer frameworks and institutional adoption accelerates, tokenization could redefine how global capital moves. The transformation may not come as a sudden revolution but as a gradual rebuild of financial infrastructure that merges compliance, transparency, and automation.For now, tokenization remains a promise under construction: a bridge between traditional markets and a digital future. Its success will depend not only on innovation, but on the legal certainty and regulatory trust that turn potential into permanence.:::tip
+Read the full IOSCO report ]]></content:encoded></item><item><title>Prasanth Sasidharan&apos;s Two-Decade Journey of Analytical Excellence and Technological Leadership</title><link>https://hackernoon.com/prasanth-sasidharans-two-decade-journey-of-analytical-excellence-and-technological-leadership?source=rss</link><author>Sanya Kapoor</author><category>tech</category><pubDate>Fri, 14 Nov 2025 18:33:17 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[Prasanth Sasidharan’s two-decade career spans recovering millions through analytical reconciliation, leading large technology teams, building Centers of Excellence, and pioneering AWS cloud migrations for a major financial institution. His work bridges legacy systems with modern cloud architecture, showcasing sustained leadership, innovation, and measurable business impact.]]></content:encoded></item><item><title>Video Friday: DARPA Challenge Focuses on Heavy Lift Drones</title><link>https://spectrum.ieee.org/video-friday-heavy-lift-drones</link><author>Evan Ackerman</author><category>tech</category><enclosure url="https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82MjE3NzQ3Mi9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2NzgzODI4N30.wS8GDDjVhhVDqCgJVZCkjvppvrTkxR0XCUx6G1E9ths/image.png?width=600" length="" type=""/><pubDate>Fri, 14 Nov 2025 18:30:02 +0000</pubDate><source url="https://spectrum.ieee.org/">IEEE Spectrum</source><content:encoded><![CDATA[Your weekly selection of awesome robot videos]]></content:encoded></item><item><title>The &quot;Zero to Shipped&quot; Framework for New Developers</title><link>https://hackernoon.com/the-zero-to-shipped-framework-for-new-developers?source=rss</link><author>Aman Ali Pogaku</author><category>tech</category><pubDate>Fri, 14 Nov 2025 18:24:05 +0000</pubDate><source url="https://hackernoon.com/">Tech - HackerNoon</source><content:encoded><![CDATA[:::tip
+Please use a web browser on a laptop/desktop for the best viewing experience for this article, as this article contains a lot of visually pleasing ASCII artwork for better learning. Thank you.Software development is essential. Everything runs on code, and building a prototype is a necessary step. In a way, software is the physical manifestation of the programmer's mind.It's quite difficult to get started with development. You need experience to code well, and you have to code well to gain experience. It's an undesirable Catch-22.Breaking the Catch-22 with Framework
+================================================
+  Skill
+  Level
+    ^
+    |     *Framework-Guided Path*
+    |    /
+    |   /
+    |  /  <-- Accelerated Growth
+    | /
+    |/_____ *Traditional Path*
+    +-------------------------> Time
+
+    Key: Framework shortcuts the 
+    experience-to-skill gap
+Diagram 1: Breaking the Catch-22However, the following is a framework I'd like to provide that can help you develop fast. I will skip the product strategy and ideation part, as that deserves its own article.Without further ado, the framework:1. Decide on the technology stack. What's in the front-end, what's in the backend, which database, what kind of API? Then, decide on your tools. While deciding, consider the following:a) Homogeneity & Compatibility: Your software should be easy to build and maintain. Select a general-purpose language that can be utilized to get the maximum features you want and support different layers of the stack. While the layers of the design are disparate, you should have a low-latency method for these components to talk with each other.For example: JavaScript is the language of the frontend in frameworks like React and Angular. It can also be used on the backend with Node.js and Express. It's the basis for data formats like JSON, which in turn are used by APIs (like GraphQL) and databases (like MongoDB, which uses a JSON-like structure). By leveraging npm (which is like a JavaScript App Store), you can install thousands of libraries for your project. What you intend to develop must be Scalable. This is critically important. Choose a framework that is used by top multinational corporations (MNCs), or even better, one developed by an MNC.For example: React and GraphQL were created by Facebook, and they use them internally, so you know they are scalable. On MongoDB's website, you can find that Google, among other companies, is one of its partners - so you know it's scalable. You can also look at a tool's GitHub repository and community support; the more, the better. Finally, you can also see if a major cloud provider supports your development stack, as it’s helpful when you intend to scale after the initial development/ or if you need help with quick prototyping of the software that is being developed. Measuring Community Support
+=======================================
+    [Technology/Framework]
+             |
+    +--------+--------+--------+
+    |        |        |        |
+    v        v        v        v
+ GitHub   Stack    npm      Reddit/
+ Stars    Overflow Downloads Discord
+   |        |        |        |
+   v        v        v        v
+ >1K+      >1K     >100+/    Active
+            Qs     week      Community
+   |        |        |        |
+   +--------+--------+--------+
+            |
+            v
+    [Strong Ecosystem ✓]
+Diagram 2: Measuring community supportHomogeneous vs Heterogeneous Stack
+==============================================
+HOMOGENEOUS (Good):
+    JS → JS → JS → JS
+    ✓ Easy to maintain
+    ✓ Low context switching
+    ✓ Unified tooling
+
+HETEROGENEOUS (Complex):
+    Python → Java → PHP → Ruby
+    ✗ Multiple paradigms
+    ✗ Different toolchains
+    ✗ Team expertise split
+Diagram 3: Homogeneous vs Heterogeneous StackScalability Validation Checklist
+============================================
+    Technology Choice: [React]
+
+    ☑ Used by MNCs?
+      → Facebook, Netflix, Airbnb ✓
+
+    ☑ Large Community?
+      → 240K+ GitHub stars ✓
+
+    ☑ AWS Support?
+      → AWS Amplify supports React ✓
+
+    ☑ Active Development?
+      → Regular updates ✓
+
+    Result: SCALABLE ✓✓✓
+Diagram 4: Scalability Validation Checklist (React, AWS, for example)AWS Service Support
+================================
+    Your Stack         AWS Service
+    ──────────         ───────────
+    React/Angular  →   CloudFront
+         |             Amplify
+         |             S3 Hosting
+         v
+    Node.js/API    →   Lambda
+         |             Elastic Beanstalk
+         |             EC2
+         v
+    MongoDB        →   DocumentDB
+         |             
+         v
+    [Fully Supported!]
+
+    If AWS supports it,
+    it's production-ready!
+Diagram 5: Cloud services support (AWS, for example)API Architecture Choice
+====================================
+REST API:
+    GET /users/1      → Full User Object
+    GET /posts/1      → Full Post Object
+    (Multiple Requests, Over-fetching)
+
+GraphQL:
+    query {
+      user(id: 1) {
+        name
+        posts { title }
+      }
+    }
+    (Single Request, Exact Data)
+
+    ┌──────────────────────┐
+    │  Facebook uses       │
+    │  GraphQL internally  │
+    │  = Proven at Scale   │
+    └──────────────────────┘
+Diagram 6: The case for GraphQL\
+ GitHub. GitLab. Bitbucket. Open source is a valuable resource to modern-day developers. Use it. If you've thought of an idea, there's a good chance someone else has already implemented it (we can't always be that original, right?). Look at their code. Understand it. Use it, improve on it. Give credit where it is due, and you should be just fine. This will help you fast-track development and aid in quickly bootstrapping projects. You can use the saved time for thinking about better features.Standing on Giants' Shoulders
+=========================================
+        [Your Innovation]
+               |
+         ╔═════╧═════╗
+         ║  You      ║  <- Your contribution
+         ╠═══════════╣
+         ║ Library A ║  <- Open source tools
+         ╠═══════════╣
+         ║ Library B ║  <- Previous work
+         ╠═══════════╣
+         ║ Library C ║  <- Community effort
+         ╠═══════════╣
+         ║ Core Lang ║  <- Foundation
+         ╚═══════════╝
+
+    Don't reinvent the wheel!
+    Build on existing solutions.
+Diagram 7: Building upon Open SourceTime Investment Comparison
+======================================
+Build From Scratch:
+├─ Research:        40 hours
+├─ Architecture:    30 hours
+├─ Implementation: 120 hours
+├─ Testing:         40 hours
+├─ Debugging:       50 hours
+└─ TOTAL:          280 hours (7 weeks)
+
+Using Open Source:
+├─ Search:           2 hours
+├─ Understand:       8 hours
+├─ Integrate:        6 hours
+├─ Customize:       10 hours
+└─ TOTAL:           26 hours (3 days)
+
+SAVINGS: 254 hours (6+ weeks!)
+         ↓
+   [Use for Features]
+Diagram 8: Time saved is time earned (example scenario)Common Open Source Licenses
+=======================================
+    MIT License
+    ├─ ✓ Commercial use
+    ├─ ✓ Modification
+    ├─ ✓ Distribution
+    └─ ✓ Private use
+    [Most Permissive]
+
+    Apache 2.0
+    ├─ ✓ Patent protection
+    ├─ ✓ Commercial use
+    └─ ! State changes
+
+    GPL v3
+    ├─ ✓ Strong copyleft
+    ├─ ! Must open source
+    └─ ! Derivative works
+    [Most Restrictive]
+
+    Always check before using!
+Diagram 9: Common Open Source LicensesRepository Quality Checklist
+=========================================
+╭───────────────────────────────────────╮
+│      Evaluating: [repository-name]    │
+├───────────────────────────────────────┤
+│ [ ] README with clear instructions    │
+│ [ ] License file present              │
+│ [ ] Active maintenance (commits)      │
+│ [ ] Issues being addressed            │
+│ [ ] Good test coverage                │
+│ [ ] Documentation/Wiki                │
+│ [ ] Examples provided                 │
+│ [ ] High stars-to-forks ratio         │
+│ [ ] Contributors > 3                  │
+│ [ ] Release/version tags              │
+├───────────────────────────────────────┤
+│     7+ checked = Safe to use!         │
+╰───────────────────────────────────────╯
+Diagram 10:  Repository Quality ChecklistSmart Development Strategy
+===============================================
+
+                 [ Your Idea ]
+                       |
+                       v
+                < Is it novel? >
+                /              \
+         [ Yes ]                [ No ]
+           |                      |
+           |                      v
+           |           < Someone built it? >
+           |                      |
+           |                   [ Yes! ]
+           |                      |
+           |                      v
+           |             [ Use their work ]
+           |             [ + Attribution  ]
+           |                      |
+           +----------+-----------+
+                      |
+                      v
+           [ Add YOUR unique value ]
+             ├─ Your UI/UX
+             ├─ Your features
+             ├─ Your integration
+             └─ Your innovation
+                      |
+                      v
+           [ Ship Product Faster ]
+
+       Originality ≠ Reinventing
+       Be original where it matters!
+Diagram 11: Smart Development Strategy\
+3. Choose a proper coding environment. You don't always need a Mac or Linux for programming; you have good options on Windows, too. You can choose a good code editor like VS Code, Sublime Text, etc. Please create a GitHub repository to back up your code. You can create a private repository if you don't want anyone else to know what you're up to. Use a syncing application like GitHub Desktop so you can work on your local machine and push the code to GitHub seamlessly.The Complete Coding Environment
+============================================
+╔════════════════════════════════════════╗
+║         YOUR DEVELOPMENT SETUP         ║
+╠════════════════════════════════════════╣
+║  LAYER 1: Operating System             ║
+║  ┌──────────────────────────────────┐  ║
+║  │ Windows / macOS / Linux          │  ║
+║  └──────────────────────────────────┘  ║
+╠════════════════════════════════════════╣
+║  LAYER 2: Code Editor                  ║
+║  ┌──────────────────────────────────┐  ║
+║  │ VS Code + Extensions             │  ║
+║  │ • Prettier, ESLint               │  ║
+║  │ • GitLens, Live Server           │  ║
+║  └──────────────────────────────────┘  ║
+╠════════════════════════════════════════╣
+║  LAYER 3: Version Control              ║
+║  ┌──────────────────────────────────┐  ║
+║  │ Git + GitHub Desktop             │  ║
+║  └──────────────────────────────────┘  ║
+╠════════════════════════════════════════╣
+║  LAYER 4: Cloud Backup                 ║
+║  ┌──────────────────────────────────┐  ║
+║  │ GitHub Repository                │  ║
+║  │ (Public or Private)              │  ║
+║  └──────────────────────────────────┘  ║
+╠════════════════════════════════════════╣
+║  LAYER 5: Language Runtime             ║
+║  ┌──────────────────────────────────┐  ║
+║  │ Node.js, Python, etc.            │  ║
+║  └──────────────────────────────────┘  ║
+╚════════════════════════════════════════╝
+         |                    |
+         v                    v
+   [Local Code]          [Cloud Backup]
+
+   Professional Setup Complete! 
+Diagram 12: Example of an environment setupCommand Line vs GitHub Desktop
+===========================================
+COMMAND LINE:               GITHUB DESKTOP:
+═══════════════             ═══════════════
+$ git init                  Click "New Repo"
+
+$ git add .                 Check boxes
+
+$ git commit -m "msg"       Type message,
+                            click "Commit"
+
+$ git remote add origin     Paste URL,
+  <url>                     click "Add"
+
+$ git push origin main      Click "Push"
+
+$ git pull                  Click "Fetch"
+
+$ git log                   See "History" tab
+
+
+Learning Curve:             Learning Curve:
+████████░░ 80%             ██░░░░░░░░ 20%
+
+Both work! Choose comfort level.
+Managing Repository Privacy
+========================================
+    [New Repository]
+           |
+    +------+------+
+    |             |
+    v             v
+┌────────┐   ┌────────┐
+│ PUBLIC │   │PRIVATE │
+└───┬────┘   └───┬────┘
+    |            |
+    v            v
+Visible to:  Visible to:
+• Everyone   • You
+• Employers  • Invited
+• Portfolio  • Team only
+    |            |
+    v            v
+Can switch   Can switch
+to Private   to Public
+(anytime)    (anytime)
+    |            |
+    +-----+------+
+          |
+          v
+    Settings > Danger Zone
+          |
+          v
+    "Change visibility"
+
+    Start Private → Go Public Later
+    (Common Strategy)
+Diagram 14: Managing Repository Privacy\
+4. It is completely okay to "Not Know." You can do this! However, if you try to dig into the documentation of individual components or frameworks, you might spend years completing one tutorial. Instead, choose a book or a video tutorial that synthesizes these components - something that helps you develop a good project combining all these technologies. Refer to the "Awesome Lists" available on GitHub. Follow experts on X. Join reddit communities. Read blogs and sample project tutorials. Search for articles using "daily.dev/hackernoon/dev.to/freecodecamp". Read. Read. Develop. Read. Develop. Develop. Develop.The Documentation Rabbit Hole
+=========================================
+    [Want to Learn React]
+            |
+            v
+    Read React Docs
+            |
+    +-------+-------+
+    |               |
+    v               v
+  Hooks Docs    JSX Docs
+    |               |
+    v               v
+useState Docs   Babel Docs
+    |               |
+    v               v
+useEffect      Webpack
+    |               |
+    +-------+-------+
+            |
+            v
+    [6 months later...]
+    [Still in docs, no project!]
+
+    BETTER APPROACH:
+    [Tutorial Project] → Learn by doing!
+Diagram 15: The Documentation Rabbit HoleEffective Content Discovery
+=========================================================
+
+                 [ Need to Learn XYZ ]
+                          |
+                          v
++---------------------------------------------------------+
+|                Step 1: Run Parallel Searches            |
++----------------+----------------------+-----------------+
+|    Platform    |        Action        |   Refinement    |
++----------------+----------------------+-----------------+
+|    Google      |   Search keywords    | "XYZ tut 2025"  |
+|    daily.dev   |   Browse feed/tags   | Filter by tag   |
+|    Reddit      |   Find recent posts  | Sort by "Top"   |
+|    YouTube     |   Find recent videos | Sort by views   |
++----------------+----------------------+-----------------+
+                          |
+                          v
++---------------------------------------------------------+
+|             Step 2: Consolidate & Vet Results           |
+|                (Compare 3-5 top links)                  |
++---------------------------------------------------------+
+                          |
+                          v
+        +-----------------+---------------+
+        |                                 |
+        v                                 v
+  < Is it recent? >                 < Is it complete? >
+  (e.g. 2024+)                      (Has full examples)
+        |                                 |
+        +----------------+----------------+
+                         |
+                         v
+               [ Start Learning! ]
+Diagram 16:  Effective Content Discovery\
+5. Finally, continuously think about how you can improve your project. How can you develop more features? What features  you develop? Bounce your ideas off of people and get good feedback. Look at Product Hunt, a16z, AngelList, etc. to get good ideas. Listen to podcasts. But eventually, . Code passionately.Multi-Channel Feedback Strategy
+===========================================
+    [Your Application]
+            |
+    Collect Feedback From:
+            |
+    +-------+-------+-------+-------+
+    |       |       |       |       |
+    v       v       v       v       v
+  Users  Friends  Reddit  GitHub  X/
+                          Issues  Twitter
+    |       |       |       |       |
+    v       v       v       v       v
+  Real    Honest  Public  Bug     Quick
+  world   opinion discus- reports reactions
+  usage           sions
+    |       |       |       |       |
+    v       v       v       v       v
+  What    Improve- Feature  Tech   Viral
+  works   ments   requests  debt  features
+    |       |       |       |       |
+    +-------+-------+-------+-------+
+            |
+            v
+    [Prioritized Roadmap]
+
+    Listen > Ego
+Diagram 17:  Multi-Channel Feedback StrategySources of Product Inspiration
+==========================================
+         [Your Project]
+              |
+    What features next?
+              |
+    +---------+----------+---------+
+    |         |          |         |
+    v         v          v         v
+┌─────────┐┌──────┐┌─────────┐┌────────┐
+│ Product ││ a16z ││AngelList││Podcasts│
+│  Hunt   ││ Blog ││         ││        │
+└────┬────┘└───┬──┘└────┬────┘└───┬────┘
+     |         |        |         |
+     v         v        v         v
+  Trending   VC      Startup    Expert
+  Products   Insights Trends    Advice
+     |         |        |         |
+     v         v        v         v
+  User pain   Market   Business  Best
+  points      trends   models   practices
+     |         |        |         |
+     +----+----+----+---+----+----+
+          |
+          v
+    [Feature Ideas List]
+    [Innovation Backlog]
+Diagram 18: Sources of Product InspirationI hope this article helps you in your programming journey, thank you for reading my article.\
+If you have any questions, please feel free to send me an . You can also contact me via . You can also follow me on .You can read my article on You can read my article on here.If you want me to write on any other topic, please let me know in the comments.]]></content:encoded></item><item><title>OpenAI says it’s fixed ChatGPT’s em dash problem</title><link>https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/</link><author>Sarah Perez</author><category>tech</category><pubDate>Fri, 14 Nov 2025 17:59:45 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[OpenAI says users can now personalize ChatGPT to stop using the em dash in its output. ]]></content:encoded></item><item><title>Five people plead guilty to helping North Koreans infiltrate US companies as ‘remote IT workers’</title><link>https://techcrunch.com/2025/11/14/five-people-plead-guilty-to-helping-north-koreans-infiltrate-us-companies-as-remote-it-workers/</link><author>Lorenzo Franceschi-Bicchierai</author><category>tech</category><pubDate>Fri, 14 Nov 2025 17:15:09 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The U.S. Department of Justice said five people — including four U.S. nationals — "facilitated" North Korean IT workers to get jobs at American companies, allowing the regime to earn money from their remote labor.]]></content:encoded></item><item><title>Boeing has a carbon emissions problem. Startup Charm Industrial is cleaning up.</title><link>https://techcrunch.com/2025/11/14/boeing-has-a-carbon-emissions-problem-startup-charm-industrial-is-cleaning-up/</link><author>Tim De Chant</author><category>tech</category><pubDate>Fri, 14 Nov 2025 17:04:10 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The deal will see Charm Industrial collect forestry waste and transform it into a bio-oil it buries underground.]]></content:encoded></item><item><title>AMD GAIA 0.13 Released With New AI Coding &amp; Docker Agents</title><link>https://www.phoronix.com/news/AMD-GAIA-0.13</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 16:21:29 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[AMD's GAIA open-source project as a reminder is their "Generrative AI Is Awesome" quick-setup solution for demonstrating generative AI use on AMD hardware platforms with Ryzen CPUs, Radeon GPUs, and/or Ryzen AI NPUs. GAIA is predominantly Microsoft Windows focused but recently they did introduce limited support for Linux that is currently bound to Vulkan-accelerated GPU support. Out today is AMD GAIA 0.13 as another step forward for this AI demonstrator...]]></content:encoded></item><item><title>German court rules Google must pay €572M for violating antitrust rules in price comparison sector</title><link>https://techcrunch.com/2025/11/14/german-court-rules-google-must-pay-e572m-for-violating-antitrust-rules-in-price-comparison-sector/</link><author>Ram Iyer</author><category>tech</category><pubDate>Fri, 14 Nov 2025 15:40:13 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[A German court has found that Google has abused its dominant market position in the price comparison sector, ruling that the company must pay a total of €572 million ($665.6 million) in damages to two German price comparison companies.]]></content:encoded></item><item><title>WhatsApp to launch third-party chat integration in Europe soon</title><link>https://techcrunch.com/2025/11/14/whatsapp-to-launch-third-party-chat-integration-in-europe-soon/</link><author>Aisha Malik</author><category>tech</category><pubDate>Fri, 14 Nov 2025 15:32:50 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Users in Europe who have opted in to the third-party integration will be able to share messages, images, voice messages, videos, and files.]]></content:encoded></item><item><title>Pine Labs gets warm market welcome on $440M India IPO despite a valuation trim</title><link>https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/</link><author>Jagmeet Singh</author><category>tech</category><pubDate>Fri, 14 Nov 2025 15:17:27 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Pine Labs, backed by PayPal and Mastercard, gained 14% on its market debut.]]></content:encoded></item><item><title>Pixel 10 Pro Fold review: Google’s bet to make foldables sturdy</title><link>https://techcrunch.com/2025/11/14/pixel-10-pro-fold-review-googles-bet-to-make-foldables-sturdy/</link><author>Ivan Mehta</author><category>tech</category><pubDate>Fri, 14 Nov 2025 15:13:22 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[Google’s Pixel 10 Pro Fold improves durability with a tighter hinge, IP68 rating, a bigger battery, and brighter display, but its weaker camera system compared to the Pixel 10 Pro muddies its “Pro” branding.]]></content:encoded></item><item><title>Apple’s Failed Foray Into Mac Clones</title><link>https://spectrum.ieee.org/apple-mac-clones-history</link><author>Ernie Smith</author><category>tech</category><enclosure url="https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82MjE2NDYzNi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NDAxMTI5MH0.nDnGavTqXxISaCQD6-WOVwfe0QzWSvFruGw0b1qSEkk/image.jpg?width=600" length="" type=""/><pubDate>Fri, 14 Nov 2025 15:00:02 +0000</pubDate><source url="https://spectrum.ieee.org/">IEEE Spectrum</source><content:encoded><![CDATA[The company let its software loose for three years in the 1990s]]></content:encoded></item><item><title>Nouveau Driver To Support Larger Pages &amp; Compression Support With Linux 6.19</title><link>https://www.phoronix.com/news/Linux-6.19-Nouveau-Larger-Pages</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 14:45:00 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[While the "Nova" driver continues to be developed as a modern Rust-written, open-source and in-kernel NVIDIA graphics driver for Linux, for the time being Nouveau is what's working for end-users for those wanting a mainline open-source NVIDIA graphics driver for gaming and other workloads. With Linux 6.19 the Nouveau driver is picking up support for handling larger pages as well as compression support...]]></content:encoded></item><item><title>Intel Submits Last Batch Of Xe Driver Feature Updates For Linux 6.19</title><link>https://www.phoronix.com/news/Intel-Xe-Last-Batch-Linux-6.19</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 14:10:26 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Intel today sent out their last batch of planned feature patches for their Xe kernel graphics driver of material intended for Linux 6.19...]]></content:encoded></item><item><title>TikTok users can now share tracks and more from Amazon Music</title><link>https://techcrunch.com/2025/11/14/tiktok-users-can-now-share-tracks-and-more-from-amazon-music/</link><author>Aisha Malik</author><category>tech</category><pubDate>Fri, 14 Nov 2025 14:00:00 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[With a new "Share to TikTok" button, Amazon Music users can share songs, albums, playlists, and personal listening highlights from their Insights on Amazon Music directly to TikTok. ]]></content:encoded></item><item><title>GNU C Library Adds Linux &quot;mseal&quot; Function For Memory Sealing</title><link>https://www.phoronix.com/news/Glibc-Linux-mseal-Function</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 13:21:37 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Introduced last year in the Linux 6.10 kernel was the mseal system call for memory sealing to protect the memory mapping against modifications to seal non-writable memory segments or better protecting sensitive data structures. The GNU C Library has finally introduced its mseal function making use of this modern Linux kernel functionality...]]></content:encoded></item><item><title>Researchers question Anthropic claim that AI-assisted attack was 90% autonomous</title><link>https://arstechnica.com/security/2025/11/researchers-question-anthropic-claim-that-ai-assisted-attack-was-90-autonomous/</link><author>Dan Goodin</author><category>tech</category><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg" length="" type=""/><pubDate>Fri, 14 Nov 2025 12:20:48 +0000</pubDate><source url="https://arstechnica.com/">Biz &amp; IT – Ars Technica</source><content:encoded><![CDATA[Researchers from Anthropic said they recently observed the “first reported AI-orchestrated cyber espionage campaign” after detecting China-state hackers using the company’s Claude AI tool in a campaign aimed at dozens of targets. Outside researchers are much more measured in describing the significance of the discovery.Anthropic published the reports on Thursday here and here. In September, the reports said, Anthropic discovered a “highly sophisticated espionage campaign,” carried out by a Chinese state-sponsored group, that used Claude Code to automate up to 90 percent of the work. Human intervention was required “only sporadically (perhaps 4-6 critical decision points per hacking campaign).” Anthropic said the hackers had employed AI agentic capabilities to an “unprecedented” extent.“This campaign has substantial implications for cybersecurity in the age of AI ‘agents’—systems that can be run autonomously for long periods of time and that complete complex tasks largely independent of human intervention,” Anthropic said. “Agents are valuable for everyday work and productivity—but in the wrong hands, they can substantially increase the viability of large-scale cyberattacks.”]]></content:encoded></item><item><title>Inside Harvey: How a first-year legal associate built one of Silicon Valley’s hottest startups</title><link>https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/</link><author>Connie Loizos</author><category>tech</category><pubDate>Fri, 14 Nov 2025 11:57:24 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[TechCrunch spoke with Harvey's CEO and co-founder Winston Weinberg about the wild ride that he and co-founder Gabe Pereyra have been on so far. ]]></content:encoded></item><item><title>Mainline Linux Patches For The VisionFive 2 Lite: RISC-V For As Little As $19.9 USD</title><link>https://www.phoronix.com/news/VisionFive-2-Lite-Linux-Patches</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 11:22:16 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Following the mainline Linux kernel support for the VisionFive 2 RISC-V single board computer from StarFive, Linux kernel patches are on the way for their new VisionFive 2 Lite low-cost offering. With the StarFive VisionFive 2 Lite this RISC-V board can be procured for as little as $19.9 USD as one of the cheapest yet fairly capable RISC-V SBCs...]]></content:encoded></item><item><title>The Headaches Supporting Content Protection With Linux GPU Drivers</title><link>https://www.phoronix.com/news/Linux-GPU-CP-Headaches</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 11:07:24 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Intel driver engineer Suraj Kandpal presented at the recent X.Org Developer's Conference (XDC2025) on the challenges around supporting content protection on Linux such as for High-bandwidth Digital Content Protection (HDCP) and Protected Audio Video Path (PAVP)...]]></content:encoded></item><item><title>ChatGPT launches pilot group chats across Japan, New Zealand, South Korea, and Taiwan</title><link>https://techcrunch.com/2025/11/14/chatgpt-launches-pilot-group-chats-across-japan-new-zealand-south-korea-and-taiwan/</link><author>Kate Park</author><category>tech</category><pubDate>Fri, 14 Nov 2025 10:58:08 +0000</pubDate><source url="https://techcrunch.com/">TechCrunch</source><content:encoded><![CDATA[The ChatGPT maker describes this pilot as just a “small first step” toward creating a more "shared experience" in the app. The private chats and personal ChatGPT memory stay completely private. Group chats are invitation-only, and members can leave at any time. ]]></content:encoded></item><item><title>Fedora 44 Looking At Replacing FBCON With KMSCON As Default VT Console</title><link>https://www.phoronix.com/news/Fedora-44-Considers-KMSCON</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 10:55:05 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Fedora 44 is looking at replacing the Linux kernel's console "FBCON" with the user-space-based KMSCON implementation. Eventually the hope remains to deprecate the FBCON/FBDEV code within the Linux kernel...]]></content:encoded></item><item><title>GCC Compiler Developers Begin Considering C++20 Default</title><link>https://www.phoronix.com/news/GCC-Considering-CPP-20-Default</link><author>Michael Larabel</author><category>tech</category><pubDate>Fri, 14 Nov 2025 10:39:53 +0000</pubDate><source url="https://www.phoronix.com/">Phoronix</source><content:encoded><![CDATA[Compiler engineer Marek Polacek of Red Hat recently proposed making the C++20 language specification (or rather the GNU++20 dialect) the default C++ version when not otherwise specified...]]></content:encoded></item></channel></rss>
