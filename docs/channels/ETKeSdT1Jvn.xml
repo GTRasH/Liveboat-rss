@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Podcasts</title><link>http://site-url-not-set.io/you-can-set-it-in-liveboat-config</link><description></description><item><title>Philip Kitcher - Why Philosophy of Biology?</title><link>https://www.youtube.com/watch?v=e4c8uZmju7Q</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/e4c8uZmju7Q?version=3" length="" type=""/><pubDate>Sat, 21 Feb 2026 20:00:25 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Like us on Facebook for daily videos, updates, announcements, and much more: https://shorturl.at/tak4l
+
+Explore the process of science with the content of biology. Life’s nature and structure. Evolution’s challenges. Examine race, sex and gender, cognition, culture, morality, religion, alien life, and more.
+
+Wear your support for the show with a Closer To Truth merchandise purchase: https://bit.ly/3P2ogje
+
+Philip Stuart Kitcher is a British philosopher who is the John Dewey Professor Emeritus of philosophy at Columbia University. He specialises in the philosophy of science, the philosophy of biology, the philosophy of mathematics, and more recently pragmatism.
+
+Donate to help Closer To Truth continue exploring the world's deepest questions without the need for paywalls: https://closertotruth.com/donate/
+
+Closer To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world’s greatest thinkers exploring humanity’s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.]]></content:encoded></item><item><title>Brian Leftow - Is God Perfect?</title><link>https://www.youtube.com/watch?v=mM7mw9KE3J8</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/mM7mw9KE3J8?version=3" length="" type=""/><pubDate>Sat, 21 Feb 2026 16:01:06 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Subscribe to the Closer To Truth podcast on Apple, Spotify, or wherever you get your podcasts: https://shorturl.at/mtJP4
+
+What does it mean for God to be perfect? Perfectly knowledgeable? Perfectly powerful? Perfectly good? Perfectly free? Did God create the ‘perfect world’? That’d be hard to believe. Must God, in order to be God, be the greatest conceivable Being? Is there a difference between what is conceivable and what is possible, especially for God?
+
+Brian Leftow is an American philosopher specializing in philosophy of religion, medieval philosophy, and metaphysics. He is the William P. Alston Professor for the Philosophy of Religion at Rutgers University. 
+
+Make a donation to Closer To Truth to help us continue exploring the world's deepest questions without the need for paywalls: https://shorturl.at/OnyRq
+
+Closer To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world’s greatest thinkers exploring humanity’s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.]]></content:encoded></item><item><title>DevOps at LLM Speed: Using an AI Copilot for Kubernetes and Jenkins - DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=p4CUuT9qlik</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/p4CUuT9qlik?version=3" length="" type=""/><pubDate>Sat, 21 Feb 2026 10:58:17 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title:  DevOps at LLM Speed: Using an AI Copilot for Kubernetes and Jenkins
+
+Speaker(s): Karan Jagtiani
+
+---
+
+This session is a practical, demo-driven walkthrough of how I being a cloud architect use an open source AI copilot called Skyflo.ai to speed up day-to-day DevOps and SRE workflows, without sacrificing safety or compliance. We'll dive into a real incident in a live Kubernetes environment with a Jenkins deployment, where the audience will see the AI agent in action, and how I prompt the agent to triage the incident, decide on the next steps, and act on it. Attendees will see how teams are cutting incident response time by utilizing Skyflo and it's human-in-the-loop approach.
+
+Key Takeaways:
+
+    Learn how I cut down incident response time by 50% at Storylane by using an AI copilot
+    See how to use an AI copilot to speed up your Kubernetes, Argo, Helm, and Jenkins workflows
+    Understand the human-in-the-loop architecture of Skyflo and behind the scenes of how it works
+
+
+Live Demo Plan (70% time):
+1) Trigger a deployment on Jenkins using Skyflo
+2) Wait for the agent to report back with the status of the deployment
+3) The pipeline will succeed, but the deployment in Kubernetes will fail
+4) The agent will go through a process of discovery to find the root cause of the issue
+5) The agent will decide on the next steps and act on it
+
+Under-the-Hood (30% time):
+
+    Brief Architecture Tour: How LangGraph and MCP are used to power the Skyflo agent
+    Custom MCP Server: kubectl/helm/argo/jenkins with typed parameters and validation
+    Streaming over SSE: Live events over Redis pub/sub and server-sent events over MCP
+
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>Is there science behind superstition?</title><link>https://www.youtube.com/shorts/SD7vbway-W8</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/SD7vbway-W8?version=3" length="" type=""/><pubDate>Fri, 20 Feb 2026 20:00:32 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[What if it is all in our heads? Psychologist Bruce Hood tells us about the cognitive origins of superstitions.
+
+Watch our interview on his lab experiments to find out why children react to evil as a contaminant, and why essentialism, the idea that things have an inherent "essence" or quality, might be the non-material explanation to what was once considered paranormal, demonic, or otherworldly.]]></content:encoded></item><item><title>Joe Rogan Experience #2458 - Matt McCusker</title><link>https://www.youtube.com/watch?v=4lmiRzROTZg</link><author>PowerfulJRE</author><category>podcast</category><enclosure url="https://www.youtube.com/v/4lmiRzROTZg?version=3" length="" type=""/><pubDate>Fri, 20 Feb 2026 18:00:07 +0000</pubDate><source url="https://www.youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ">Podcast - Joe Rogan</source><content:encoded><![CDATA[Matt McCusker is a comedian, writer, actor, and co-host of “Matt and Shane’s Secret Podcast” with Shane Gillis. His most recent special, “Matt McCusker: A Humble Offering,” is streaming on Netflix.
+
+https://www.netflix.com/title/82014936
+https://www.mssecretpodcast.com
+https://www.youtube.com/@mattmccusker9943
+https://mattmccusker.substack.com
+https://www.mattmccusker.com
+
+Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.]]></content:encoded></item><item><title>Royal Siblings, Scandals and Crises</title><link>https://shows.acast.com/dansnowshistoryhit/episodes/royal-siblings-scandals-and-crises</link><author></author><category>podcast</category><enclosure url="https://sphinx.acast.com/p/acast/s/dansnowshistoryhit/e/6998941a240b4a2d75d0ffcc/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=CU5pFWq7QjYkNywybXazsy0PLSnBiz1KoDT2v6vb2M0" length="" type=""/><pubDate>Fri, 20 Feb 2026 17:20:00 +0000</pubDate><source url="https://www.historyhit.com/podcasts/">Podcast - HistoryHit</source><content:encoded><![CDATA[The arrest of Andrew Mountbatten-Windsor, formerly Prince Andrew (who denies any wrongdoing and is innocent until proven guilty), has encouraged news outlets to look at the precedent of royals falling foul of the law. Many have referred to the trial and execution of Charles I over 350 years ago as the last British royal to be arrested, but that isn't technically the case...in this bonus episode, Dan gives a potted history of the many times royals - princes in particular - have found themselves in trouble with the law and with their monarch siblings. From the rivalries of the Anglo-Saxon and Norman kings to the scandals of the Plantagenets and the Georgians, this is a tumultuous account of Britain's monarchy through the ages. Written by Dan Snow, produced by Mariana Des Forges and edited by Dougal Patmore.]]></content:encoded></item><item><title>Ask Me Anything with Robert Lawrence Kuhn (Part IV)</title><link>https://www.youtube.com/watch?v=WgVGmcMPJBI</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/WgVGmcMPJBI?version=3" length="" type=""/><pubDate>Fri, 20 Feb 2026 16:01:00 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Robert Lawrence Kuhn answers questions submitted by viewers on various topics like life after death, individualization, free will, and more.
+
+Closer To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world’s greatest thinkers exploring humanity’s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.]]></content:encoded></item><item><title>Joe Rogan Experience #2457 - Michael Malice</title><link>https://www.youtube.com/watch?v=lin3c35IyB0</link><author>PowerfulJRE</author><category>podcast</category><enclosure url="https://www.youtube.com/v/lin3c35IyB0?version=3" length="" type=""/><pubDate>Thu, 19 Feb 2026 18:01:01 +0000</pubDate><source url="https://www.youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ">Podcast - Joe Rogan</source><content:encoded><![CDATA[Michael Malice is a cultural commentator, author, and host of the “Your Welcome” podcast. His next book is the graphic novel "Unwanted."
+
+https://unwantedbook.com
+https://www.youtube.com/@MichaelMaliceofficial
+https://malice.locals.com
+https://www.michaelmalice.com
+
+Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.
+
+Athletic Brewing Co. Non-alcoholic Beer. Fit For All Times. Athletic Brewing Company LLC. Milford, CT and San Diego, CA. Near Beer less than 0.5% alc/vol.]]></content:encoded></item><item><title>Serving LLMs in Production: Performance, Cost &amp; Scale // CAST AI Roundtable</title><link>https://podcasters.spotify.com/pod/show/mlops/episodes/Serving-LLMs-in-Production-Performance--Cost--Scale--CAST-AI-Roundtable-e3fak28</link><author>Demetrios</author><category>podcast</category><enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/115740168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418421040-44100-2-e2d499a23fae4.mp3" length="" type=""/><pubDate>Thu, 19 Feb 2026 18:00:02 +0000</pubDate><source url="https://mlops.community/">Podcast - MLOps</source><content:encoded><![CDATA[Roundtable CAST AI episode: Serving LLMs in Production: Performance, Cost & Scale. Experimenting with LLMs is easy. Running them reliably and cost-effectively in production is where things break. Most AI teams never make it past demos and proofs of concept. A smaller group is pushing real workloads to production—and running into very real challenges around infrastructure efficiency, runaway cloud costs, and reliability at scale.This session is for engineers and platform teams moving beyond experimentation and building AI systems that actually hold up in production.Ioana is a Senior Product Manager at CAST AI, leading the AI Enabler product, an AI Gateway platform for cost-effective LLM infrastructure deployment. She brings 12 years of experience building B2C and B2B products reaching over 10 million users. Outside of work, she enjoys assembling puzzles and LEGOs and watching motorsports.Igor is a founding Machine Learning Engineer at CAST AI’s AI Enabler, where he focuses on optimizing inference and training at scale. With a strong background in Natural Language Processing (NLP) and Recommender Systems, Igor has been tackling the challenges of large-scale model optimization long before transformers became mainstream. Prior to CAST AI, he worked at industry leaders like Bloomreach and Infobip, where he contributed to the development and deployment of large-scale AI and personalization systems from the early days of the field.~~~~~~~~ ✌️Connect With Us ✌️ ~~~~~~~]]></content:encoded></item><item><title>Michel Bitbol - How Does Philosophy Illuminate the Physical World?</title><link>https://www.youtube.com/watch?v=__qtHFE7JH0</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/__qtHFE7JH0?version=3" length="" type=""/><pubDate>Thu, 19 Feb 2026 16:00:49 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Follow Closer To Truth on Instagram for daily videos, updates, and announcements: https://www.instagram.com/closertotruth/
+
+We think we understand the physical world but we do not. For example, some features of the world are derived from others, which makes the latter more fundamental and the former less so. Some scientists believe that only science can tell us how things work. Philosophers do not agree. Do philosophers see things that scientists cannot?
+
+Make a tax-deductible donation of any amount to help support Closer To Truth continue making content like this: https://shorturl.at/OnyRq
+
+Michel Bitbol is a French researcher in philosophy of science. He is "Directeur de recherche" at CNRS, previously in the Centre de Recherche en Épistémologie Appliquée of École polytechnique. He is now a member of Archives Husserl, École Normale Superieure.
+
+Follow Closer To Truth on Instagram for daily videos, updates, and announcements: https://www.instagram.com/closertotruth/
+
+What can evolution reveal about the developmental history of thinking and feeling? How did cognition and emotion (affect) co-develop over evolutionary time? Moreover, what can we learn from evolution about the mystery of consciousness?
+
+Make a tax-deductible donation of any amount to help support Closer To Truth continue making content like this: https://shorturl.at/OnyRq
+
+Terrence William Deacon is an American neuroanthropologist. He taught at Harvard for eight years, relocated to Boston University in 1992, and is currently Professor of Anthropology and member of the Cognitive Science Faculty at the University of California, Berkeley.
+
+Subscribe to the Closer To Truth podcast on Apple, Spotify, or wherever you listen: https://shorturl.at/mtJP4
+
+Closer To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world’s greatest thinkers exploring humanity’s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.]]></content:encoded></item><item><title>Selling SDKs in the era of many Claudes (Interview)</title><link>https://changelog.com/podcast/677</link><author></author><category>podcast</category><enclosure url="https://op3.dev/e/https://pscrb.fm/rss/p/https://cdn.changelog.com/uploads/podcast/677/the-changelog-677.mp3" length="" type=""/><pubDate>Thu, 19 Feb 2026 15:30:00 +0000</pubDate><source url="https://changelog.com/podcast">Podcast - Changelog</source><content:encoded><![CDATA[Steve Ruiz joins us for a deep-dive on tldraw (a very good free whiteboard) and the business he’s built selling SDKs that help others build very good whiteboards (and more) with tldraw’s high-performance web canvas.Along the way, we discuss the excitement/fear we share about keeping our agents busy, how SDK and infra companies are affected differently by agentic software than SaaS companies, how Steve is approaching the coming era of internal tooling, what will happen when we equip LLMs with an infinite canvas, and more.Changelog++ members get a bonus 15 minutes at the end of this episode and zero ads. Join today!Augment Code – Adam loves “Auggie” – Augment Code’s CLI that brings Augment’s context engine and powerful AI reasoning anywhere your code goes. From building alongside you in the terminal to any part of your development workflow.
+NordLayer – Toggle-ready network security for modern businesses. Get an exclusive offer: up to 22% off NordLayer yearly plans plus 10% on top with the coupon code . Try it risk-free with a 14-day money-back guarantee at nordlayer.com/thechangelogSquarespace – A website makes it real! Use code CHANGELOG to save 10% on your first website purchase.
+]]></content:encoded></item><item><title>Inside China’s Great Firewall with Jackson Sippe</title><link>https://softwareengineeringdaily.com/2026/02/19/hacking-chinas-great-firewall-with-jackson-sippe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hacking-chinas-great-firewall-with-jackson-sippe</link><author>SEDaily</author><category>podcast</category><enclosure url="https://traffic.megaphone.fm/SED8534787588.mp3" length="" type=""/><pubDate>Thu, 19 Feb 2026 10:00:02 +0000</pubDate><source url="http://softwareengineeringdaily.com/category/all-episodes/exclusive-content/podcast/">Podcast - Software Engineering Daily</source><content:encoded><![CDATA[China’s Great Firewall is often spoken about but is rarely understood. It is one of the most sophisticated and opaque censorship systems on the planet, and it shapes how over a billion people interact with the global internet, influences the design of privacy and proxy tools worldwide, and continues to evolve in ways that challenge researchers, developers, and policymakers alike.Jackson Sippe is a PhD researcher at the University of Colorado Boulder whose work focuses on uncovering how national-scale censorship systems operate. Jackson recently helped lead a groundbreaking study analyzing a previously undocumented GFW technique that quietly broke fully encrypted proxy protocols across China for more than a year.In this episode, Jackson joins Gregor Vand to discuss how the Great Firewall works at a technical level, the 2021–2023 blocking event, the popcount-based detection algorithm his team reverse-engineered, the cat-and-mouse ecosystem of censorship circumvention, and what these findings mean for the future of the open internet.]]></content:encoded></item><item><title>The Peasants&apos; Revolt</title><link>https://shows.acast.com/dansnowshistoryhit/episodes/the-peasants-revolt</link><author></author><category>podcast</category><enclosure url="https://sphinx.acast.com/p/acast/s/dansnowshistoryhit/e/698b4dd4ba80cf1ecbffe5d7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=-q71cdu26pcPTKMseYeRIROBH970ohAhd6HodjwyMtA" length="" type=""/><pubDate>Thu, 19 Feb 2026 03:00:00 +0000</pubDate><source url="https://www.historyhit.com/podcasts/">Podcast - HistoryHit</source><content:encoded><![CDATA[In 1381, after plague, famine and war had pushed England to the brink, a final blow sparked an extraordinary uprising. This episode explores the Peasants’ Revolt, not as a chaotic riot, but as a coordinated challenge to royal and religious power in England.To cut through the myths, we're joined by medieval historian Dr Eleanor Janega, co-host of the 'Gone Medieval' podcast. She explains what really happened, why it mattered, and how this rebellion sent shockwaves through medieval England and beyond.Produced by Mariana Des Forges and edited by Dougal Patmore.]]></content:encoded></item><item><title>Anirban Bandyopadhyay - The Science of Consciousness | Closer To Truth Chats</title><link>https://www.youtube.com/watch?v=s2Sd2Ly849s</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/s2Sd2Ly849s?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 20:00:47 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Contribute what you can to support Closer To Truth: https://closertotruth.com/donate/
+
+Hear the latest ideas, including: mechanisms of quantum consciousness; the meaning of AI and transhuman consciousness; how psi, altered states, and near-death experiences affect consciousness.
+
+Like us on Facebook for daily videos, updates, announcements, and much more: https://shorturl.at/tak4l
+
+Anirban Bandyopadhyay is an Indian physicist and nanoscientist known for his research in molecular electronics, unconventional computing, and biophysics of consciousness. Wikipedia
+
+Closer To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world’s greatest thinkers exploring humanity’s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.]]></content:encoded></item><item><title>Joe Rogan Experience #2456 - Michael Jai White</title><link>https://www.youtube.com/watch?v=Sbh7ymCkjuM</link><author>PowerfulJRE</author><category>podcast</category><enclosure url="https://www.youtube.com/v/Sbh7ymCkjuM?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 18:00:35 +0000</pubDate><source url="https://www.youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ">Podcast - Joe Rogan</source><content:encoded><![CDATA[Michael Jai White is an actor, director, writer, and martial artist. His latest film, “Oscar Shaw,” is available to stream on digital platforms.
+
+https://www.youtube.com/@RealMichaelJaiWhite
+https://www.patreon.com/MichaelJaiWhite
+https://www.michaeljaiwhite.com
+
+Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.
+
+Visit https://ThreatLocker.com/JRE to learn more]]></content:encoded></item><item><title>Anya Plutynski - Philosophy of Biological Ethics &amp; New Norms</title><link>https://www.youtube.com/watch?v=-nqrEPHCm8w</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/-nqrEPHCm8w?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 16:00:01 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Like us on Facebook for daily videos, updates, announcements, and much more: https://shorturl.at/tak4l
+
+Can biology—especially evolutionary biology—help explain ethics, and if so, can science influence ethics and help set new norms? If science can, should science do? Topics range from issues of sex/gender to punishment for crime.
+
+Wear your support for the show with a Closer To Truth merchandise purchase: https://bit.ly/3P2ogje
+
+Anya Plutynski received her Ph.D. in Philosophy, and her M.A. in Biology, both from the University of Pennsylvania. She currently teaches philosophy at Washington University in St. Louis.
+
+Donate to help Closer To Truth continue exploring the world's deepest questions without the need for paywalls: https://closertotruth.com/donate/
+
+Closer To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world’s greatest thinkers exploring humanity’s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.]]></content:encoded></item><item><title>Bridging DevOps and MLOps: Unifying Pipelines with KitOps and GitOps - DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=z4xMT-3QZeE</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/z4xMT-3QZeE?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:05 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: Bridging DevOps and MLOps: Unifying Pipelines with KitOps and GitOps
+
+Speaker(s): Neel Shah
+
+---
+
+This session explores how KitOps seamlessly integrates with GitOps tools such as Flux and ArgoCD to create unified definition processes for native AI workloads. Seriously, Learn how KitOps ModelKits unlocks repeatable packaging of models, code and datasets in any environment while GitOps provides automated, auditable deployment processes. Attendees will see hands-on demonstrations of version-controlled machine learning elements, automatic rollbacks, and environment recovery. Learn how these integrations eliminate configuration drift, enforce consistent audit trails and support compliance with enterprise requirements all with minimal operational overhead. By connecting modern DevOps methods with the rigorous demands of MLOps, this talk will demonstrate how cloud-native AI teams can rapidly deliver reliable, scalable and secure ML solutions.
+
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>Lost in Silence: Understanding When Screen Readers Don’t Speak Up- DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=x2KwuVDGG10</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/x2KwuVDGG10?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:05 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: Lost in Silence: Understanding When Screen Readers Don’t Speak Up
+
+Speaker(s): Ayushi Midha, Aishwarya Urne
+
+---
+In the world of digital accessibility, silence is seldom neutral. For users of screen readers, a missing announcement can mean confusion, distrust, or exclusion—yet the issue often remains invisible to most developers and designers. In this talk, we’ll explore how the absence of spoken feedback impacts accessibility, trust, and user experience, particularly for people navigating dynamic web interfaces. Drawing on real-world examples and practical scenarios, we’ll examine the root causes of “silent failures” (such as missing ARIA live regions, improper roles, stale live-region content) and discuss how seemingly minor markup decisions ripple into major accessibility barriers. Attendees will walk away with a clear framework for diagnosing and remedying these silent gaps: from audit strategies and end-user testing through to implementable code patterns, best practices for dynamic announcements, and how to integrate these into your UI/component library workflow. Whether you’re working in React, Web Components, or template-driven apps, you’ll gain actionable insights to ensure your components announce properly, your users feel heard, and your silent UI becomes truly inclusive.
+
+**Key take-aways:**
+
+Why missing announcements matter: the user-experience impact beyond visual cues
+
+Common pitfalls in dynamic content, live regions, and state changes
+
+A developer-friendly approach to audit, test, and fix announcement gaps
+
+How to bake these practices into your component library or design system (for example, your team’s work with PatternFly and a custom theme)
+
+Tips for collaboration between developers, UX designers, and accessibility testers to maintain accessibility as your product evolves
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>The Open Source Community Playbook: What Works, What Doesn’t, and Why- DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=wAy4mgyX61Q</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/wAy4mgyX61Q?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:05 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: The Open Source Community Playbook: What Works, What Doesn’t, and Why
+
+Speaker(s): Pritesh Kiri
+
+---
+In this talk, I’ll share a practical playbook for creating and sustaining a healthy open source community, drawn from my experience building projects like LitmusChaos, ToolJet, and ReactPlay. We’ll explore what really drives engagement, how to convert users into contributors, and the key practices that help maintainers avoid burnout while scaling their projects.
+We’ll also discuss what you should and shouldn’t expect from a community as an open source organization. Setting the right expectations is critical for guiding the community’s growth in a healthy and sustainable direction.
+Expect honest stories, actionable frameworks, and a look at what actually works (and what absolutely doesn’t) when you’re growing an open source community in the real world.
+Whether you’re a maintainer, community manager, or just starting your open source journey, this session will give you tools and patterns you can apply immediately to grow your project and its community.
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>Self-Healing Pipelines? Resilient Deployments with Hardened Containers - DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=vEy7sdX4pGU</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/vEy7sdX4pGU?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:05 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: Self-Healing Pipelines? Resilient Deployments with Hardened Containers
+
+Speaker(s): Rajani Ekunde
+
+---
+In this session, we will discuss how DevOps teams can design self-healing CI/CD pipelines using hardened Docker images and automated recovery checks. We’ll cover integrating Trivy scans, Cosign signatures, and health-probe triggers into GitOps workflows. You’ll learn how these guardrails prevent misconfigurations, block risky images, and enable reliable rollbacks before incidents escalate. Combining SRE principles with container hardening, we’ll show how automation can make resilience measurable — not mythical.
+
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>The Compute Revolution You’re Ignoring: JavaScript in Science- DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=pPjMEzm_R-0</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/pPjMEzm_R-0?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:05 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: The Compute Revolution You’re Ignoring: JavaScript in Science
+
+Speaker(s): Gunj Joshi
+
+---
+What if anyone, anywhere, could run scientific code - instantly, from a browser tab? No setup, no downloads, just pure computation. The web is evolving from a platform for apps to a platform for science. In this talk, Gunj Joshi shows how modern JavaScript and stdlib are bringing high-performance numerical computing to billions of devices. From AI models to linear algebra, the browser is becoming the next great compute runtime - open, local, and accessible to all.
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>Scaling ML Pipelines with Feast, Ray and Kubeflow - DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=oFEN7a3dqUY</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/oFEN7a3dqUY?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:05 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: Scaling ML Pipelines with Feast, Ray and Kubeflow
+
+Speaker(s): Abhijeet Dhumal, Nikhil Kathole
+
+---
+
+Feature engineering is eating your training time. Data loading is your bottleneck. Sound familiar?
+If your training jobs crawl, your features take forever to compute, or your pipeline breaks every time you scale, this talk is for you.
+
+In this session, we’ll show how to turn a slow, file-based ML pipeline into a distributed, production-ready architecture using modern open-source tooling:
+- Feast for feature management
+- Ray for distributed data processing
+- Kubeflow Training Operator for orchestrating distributed training on Kubernetes
+
+We’ll demonstrate an end-to-end pipeline, powering a Temporal Fusion Transformer trained on 421K rows of Walmart sales data. Using PyTorch DDP across multiple GPUs, how we can cut training time, while hitting 10.5% MAPE (compared to the typical 15–20% industry baseline).
+
+You’ll see:
+- Faster feature loading using Ray + Feast
+- Raw data flowing through a fully managed feature platform
+- Distributed PyTorch jobs launched and scaled with Kubeflow Training Operator
+- Production inference path powered by Feast’s hybrid storage & compute
+- How Ray transforms feature engineering performance at scale
+- How Feast standardizes feature computation across training & inference
+
+You’ll leave with a repeatable blueprint for building ML pipelines that scale as your models, data, and teams grow, along with the confidence to adopt these tools in your own production environment.
+
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>Supercharge Your GitOps with ArgoCD Agent - DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=jUmW8X6fv6w</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/jUmW8X6fv6w?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:05 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: Supercharge Your GitOps with ArgoCD Agent
+
+Speaker(s): Anand Kumar Singh, Akhil Nittala
+
+---
+
+GitOps, championed by tools like ArgoCD, has become the de facto standard for modern application deployment. While ArgoCD excels in managing applications within a single Kubernetes cluster, deploying and managing workloads across a fleet of clusters can introduce complexity. This session introduces the ArgoCD Agent, a powerful component designed to simplify and secure multi-cluster GitOps workflows. Modern enterprises run multiple clusters to balance compliance, resilience, and team autonomy across global operations. Attendees will learn what the ArgoCD Agent is, how it addresses challenges in a distributed environment, why it was developed, how it solves the scaling problem and see a live demonstration of it in action. If you manage more than one Kubernetes cluster and use ArgoCD, this talk is for you.
+
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>MPI Meets Machine Learning: Unlocking PyTorch distributed for scaling AI workloads - DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=rzJSJsglFYY</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/rzJSJsglFYY?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:04 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: MPI Meets Machine Learning: Unlocking PyTorch distributed for scaling AI workloads
+
+Speaker(s): Mansi Agarwal
+
+---
+
+The world of High-Performance Computing (HPC) and modern deep learning share a core DNA: the demand for near-linear scaling across hundreds of nodes. The core challenges remain the same—managing communication, balancing load, and coordinating resources but the abstractions and tooling are now defined by PyTorch Distributed.
+
+This talk bridges the gap between traditional HPC paradigms and PyTorch's distributed computing ecosystem, designed specifically for deep learning workloads. We'll explore how familiar HPC concepts like collective operations, point-to-point communication, and process groups, manifest in PyTorch's distributed APIs. We'll discover how PyTorch builds upon battle-tested communication backends (NCCL, Gloo, MPI) while introducing novel primitives optimized for gradient synchronization and model parallelism. We then move beyond basic data parallelism to explore advanced memory-saving techniques like Fully Sharded Data Parallel (FSDP), PyTorch's native answer to memory scaling and touch upon the nascent Tensor and Pipeline Parallelism APIs, demonstrating how these techniques compose to train massive models.
+
+This session equips you with a comprehensive understanding of PyTorch's distributed architecture and reveals the inner workings of one of the most actively developed areas in modern ML infrastructure. By mapping distributed systems concepts to PyTorch's implementation, you'll see how familiar patterns from parallel computing manifest in PyTorch's ecosystem and where there is still room for innovation and improvement.
+
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>How to attack AI systems (and how to defend them) !!!! - DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=pvBiMiIrW3w</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/pvBiMiIrW3w?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:04 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: How to attack AI systems (and how to defend them) !!!!
+
+Speaker(s): Huzaifa Sidhpurwala
+
+---
+
+AI systems today demonstrate impressive capabilities—but they also introduce a rapidly expanding attack surface. Modern machine learning pipelines, from data collection and training to inference, are vulnerable to a wide range of adversarial manipulations. This talk provides a practitioner-focused exploration of how attackers compromise AI systems, using real research and case studies. Equally important, the session outlines defensive strategies grounded in current academic and industry work. 
+
+Attendees will leave with a clear, realistic understanding of how adversarial attacks work, what defenses are actually effective today, and how to architect AI systems that remain trustworthy even under adversarial pressure.
+
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>Battery Range Prediction using Federated Learning on Edge</title><link>https://www.youtube.com/watch?v=cl9MUQhaAcY</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/cl9MUQhaAcY?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:03 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: Battery Range Prediction using Federated Learning on Edge
+
+Speaker(s): Sagar Sundaray, Vinod Pathangay
+
+---
+Accurate prediction of the battery range of electric vehicles requires periodic update of the prediction model as there are changes in battery parameters with time and variation in driving dynamics. Federated Learning (FL) offers the following two advantages for model update: (1) It aggregates learnings from data patterns of fleet of vehicles to provide a sophisticated model that has been trained on wide range of scenarios. (2) It protects the privacy of the vehicle user without sending raw data to the central repository for model updates. With simulated vehicle data and Flower FL framework, a range prediction solution has been developed in a manner so as to easily port to an embedded edge Texas Instruments platform. The edge component can run as a quality managed (QM) component where as the central model aggregation can run as a containerized application on-prem or cloud where communication is established using gRPC.
+
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>Beyond ImagePullBackOff: A Stateless, Secret-less Distributed Registry for Edge - DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=b8sYQbqN3dY</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/b8sYQbqN3dY?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:03 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: Beyond ImagePullBackOff: A Stateless, Secret-less Distributed Registry for Edge
+
+Speaker(s): Prasanth Baskar
+
+---
+
+We have all seen it. Your GitOps tool reports Synced in seconds, but your edge node pods are stuck in ContainerCreating/ImagePullBackOff for minutes... hours. This is not just a low bandwidth problem. it is a fundamental design flaw. We are trying to apply a centralized, cloud-native architecture to a decentralized, distributed-systems problem.
+
+This leads to slow startups, failed updates even worse pullSecrets on every node create a massive security risk. In this session with Harbor Satellite (subproject of goharbor) we will run a stateless distributed registry along with your container workloads
+
+https://github.com/container-registry/harbor-satellite
+
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>From IaC to InfraOps: Automating Day-2 Operations with Terraform Actions &amp; Ansible - DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=_AUUM2GAk9g</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/_AUUM2GAk9g?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:03 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: From IaC to InfraOps: Automating Day-2 Operations with Terraform Actions & Ansible
+
+Speaker(s): Dr. Rahul Gaikwad
+
+---
+Infrastructure as Code has standardized Day-0 provisioning, but most enterprises still handle Day-2 operations patching, configuration changes, drift remediation, and incident response through manual processes and fragmented automation. This session shows how Terraform Actions, combined with the Red Hat Ansible Automation Platform (AAP), transforms Terraform from a provisioning tool into an operational control plane. With Terraform managing infrastructure state and Ansible executing configuration and remediation workflows, teams can unify provisioning and operations into a single, governed workflow. Using the new Terraform action for AAP, a single terraform apply can trigger Event-Driven Ansible (EDA) to execute dynamic automation across Red Hat environments. The result is a repeatable, policy-driven model for Day-2 operations that reduces operational friction, eliminates ad-hoc access, and improves reliability at scale.
+
+**Target Audience:** Developers, Architects, DevOps, Security, SRE
+
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>Nomad: Lightweight Orchestration That Complements Kubernetes- DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=ZdqcWquAKgI</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/ZdqcWquAKgI?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:03 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: Nomad: Lightweight Orchestration That Complements Kubernetes
+
+Speaker(s): Shaheen Sayyed
+
+---
+When it comes to orchestration, Kubernetes tends to steal the spotlight — but it’s not the only way to run workloads at scale. **HashiCorp Nomad** offers a simpler, lighter approach to scheduling containers, VMs, and even raw binaries — without the operational overhead.
+
+We’ll explore what makes Nomad a practical alternative (or complement) to Kubernetes. You’ll learn the key building blocks — jobs, groups, clients, and allocations — and see how Nomad’s minimalist architecture can run production-grade workloads on a single binary. We’ll end with a live demo of deploying and scaling a containerized web app, showing that “easy to run” doesn’t mean “less capable.”
+
+---
+
+### **Key Takeaways**
+
+- **Understand** Nomad’s lightweight architecture and how it differs from Kubernetes.  
+- **See** a live demo of deploying and scaling a containerized service in minutes.  
+- **Discover** where Nomad fits — from small teams to hybrid and edge environments.
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>FusionStack: The Cross-Platform Blueprint - DevConf.IN 2026</title><link>https://www.youtube.com/watch?v=ZDehU_MPDmc</link><author>DevConf</author><category>podcast</category><enclosure url="https://www.youtube.com/v/ZDehU_MPDmc?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 13:58:03 +0000</pubDate><source url="https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg">Podcast - DevConfs</source><content:encoded><![CDATA[Title: FusionStack: The Cross-Platform Blueprint
+
+Speaker(s): Samson Dmello, Mandar Dixit
+
+---
+
+This demonstration showcases a powerful, replicable model for managing and protecting traditional Virtual Machine (VM) workloads across a modern hybrid cloud environment. By unifying OpenShift Virtualization (KubeVirt) on-premise and on ROSA (Red Hat OpenShift Service on AWS) with the declarative automation power of Ansible Automation Platform, we eliminate manual complexity in key cloud mobility and resilience operations. We are  also leveraging power of  ecosystem by infusing Veeam solution to bridge Enterprise Data Protection requirement
+
+---
+
+Full schedule, including slides and other resources:
+https://pretalx.devconf.info/devconf-in-2026/schedule/]]></content:encoded></item><item><title>Paul Davies - Is God Outside of Time?</title><link>https://www.youtube.com/watch?v=wzfiDZHkHbg</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/wzfiDZHkHbg?version=3" length="" type=""/><pubDate>Wed, 18 Feb 2026 02:30:53 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Shop the Closer To Truth merch store for items like hoodies, T-shirts, mugs, and more: https://bit.ly/3P2ogje
+
+If God exists outside of time—not in time, but timeless and eternal—what would that mean about God’s nature? God would never ‘lose’ the past or anticipate the future. God would not need to know the future, because to a timeless God, there would be no future. Everything would be ever-present in one timeless moment. But how could a timeless God relate to human beings?
+
+Make a donation of any amount to help Closer To Truth continue exploring the world's deepest questions: https://closertotruth.com/donate/
+
+Paul Charles William Davies AM is an English physicist, writer and broadcaster, a professor in Arizona State University and director of BEYOND: Center for Fundamental Concepts in Science. He is affiliated with the Institute for Quantum Studies in Chapman University in California.
+
+Closer To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world’s greatest thinkers exploring humanity’s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.]]></content:encoded></item><item><title>Why is there something rather than nothing?</title><link>https://www.youtube.com/shorts/4HZCcYf7WjM</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/4HZCcYf7WjM?version=3" length="" type=""/><pubDate>Tue, 17 Feb 2026 20:00:06 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Robert gets into the big questions. He answers one of our hallmark questions, "Why is there something rather than nothing?" in the second part of his Ask Me Anything. He answers questions about mind-independent reality, the amount of consciousness theories right now, and the possibility of a multiverse.]]></content:encoded></item><item><title>Joe Rogan Experience #2455 - Donnell Rawlings</title><link>https://www.youtube.com/watch?v=f_neykptZPY</link><author>PowerfulJRE</author><category>podcast</category><enclosure url="https://www.youtube.com/v/f_neykptZPY?version=3" length="" type=""/><pubDate>Tue, 17 Feb 2026 18:00:42 +0000</pubDate><source url="https://www.youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ">Podcast - Joe Rogan</source><content:encoded><![CDATA[Donnell Rawlings is a comedian, actor, and host of “The Donnell Rawlings Show” podcast. His most recent special, “Chappelle’s Home Team Presents: Donnell Rawlings: A New Day,” is streaming on Netflix.
+
+https://www.netflix.com/title/81507172
+https://www.youtube.com/@thedonnellrawlingsshow
+https://www.donnellrawlings.com
+
+Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.
+
+Get a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan
+
+Great Coffee, Great Mission – Black Rifle Coffee is America’s Coffee. Visit https://blackriflecoffee.com/joe-rogan today to get 30% off your next order.]]></content:encoded></item><item><title>The Future of Information Retrieval: From Dense Vectors to Cognitive Search</title><link>https://podcasters.spotify.com/pod/show/mlops/episodes/The-Future-of-Information-Retrieval-From-Dense-Vectors-to-Cognitive-Search-e3f7el9</link><author>Demetrios</author><category>podcast</category><enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/115636329/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F418277708-44100-2-a7817f3055f02.mp3" length="" type=""/><pubDate>Tue, 17 Feb 2026 18:00:11 +0000</pubDate><source url="https://mlops.community/">Podcast - MLOps</source><content:encoded><![CDATA[ is a Staff Software Engineer at LinkedIn, working on large-scale search infrastructure, information retrieval systems, and integrating AI/ML to improve ranking and semantic search experiences.The Future of Information Retrieval: From Dense Vectors to Cognitive Search // MLOps Podcast #362 with Rahul Raja, Staff Software Engineer at LinkedInInformation Retrieval is evolving from keyword matching to intelligent, vector-based understanding. In this talk, Rahul Raja explores how dense retrieval, vector databases, and hybrid search systems are redefining how modern AI retrieves, ranks, and reasons over information. He discusses how retrieval now powers large language models through Retrieval-Augmented Generation (RAG) and the new MLOps challenges that arise, embedding drift, continuous evaluation, and large-scale vector maintenance.Looking ahead, the session envisions a future of Cognitive Search, where retrieval systems move beyond recall to genuine reasoning, contextual understanding, and multimodal awareness. Listeners will gain insight into how the next generation of retrieval will bridge semantics, scalability, and intelligence, powering everything from search and recommendations to generative AI.// BioRahul is a Staff Engineer at LinkedIn, where he focuses on search and deployment systems at scale. Rahul is a graduate from Carnegie Mellon University and has a strong background in building reliable, high-performance infrastructure. He has led many initiatives to improve search relevance and streamline ML deployment workflows.~~~~~~~~ ✌️Connect With Us ✌️ ~~~~~~~[00:00] Vector Search for Media[00:33] RAG and Search Evolution[04:45] Cognitive vs Semantic Search[08:26] High Value Search Signals[16:43] Scaling with Embeddings[22:37] BM25 Benchmark Bias[29:00] Video Search Use Cases[31:21] Context and Search Tradeoff[35:04] Personal Memory Augmentation[39:03] Future of Cognitive Search[44:51] Access Control in Vectors[49:14] Search Ranking Challenge[54:43] Hard Search Problems Solved[58:29] Freshness vs Cost]]></content:encoded></item><item><title>Optimizing Agent Behavior in Production with Gideon Mendels</title><link>https://softwareengineeringdaily.com/2026/02/17/optimizing-agent-behavior-in-production-with-gideon-mendels/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=optimizing-agent-behavior-in-production-with-gideon-mendels</link><author>SEDaily</author><category>podcast</category><enclosure url="https://traffic.megaphone.fm/SED9081665534.mp3" length="" type=""/><pubDate>Tue, 17 Feb 2026 10:00:15 +0000</pubDate><source url="http://softwareengineeringdaily.com/category/all-episodes/exclusive-content/podcast/">Podcast - Software Engineering Daily</source><content:encoded><![CDATA[LLM -powered systems continue to move steadily into production, but this process is presenting teams with challenges that traditional software practices don’t commonly encounter. Models and agents are non-deterministic systems, which makes it difficult to test changes, reason about failures, and confidently ship updates. This has created the need for new evaluation tooling designed specifically around the properties of LLMs.Comet is a platform with Roots and MLOps, to the rapidly evolving world of agent-based systems by treating prompts, tools, and workflows as optimizable components that can be evaluated and improved over time.Gideon Mendels is the co -founder and CEO of Comet. He previously worked at Google on hate speech and deception detection, and he founded GroupWise, which trained and deployed NLP models processing billions of chats. In this episode, Gideon joins Kevin Ball to discuss how agent development sits between software engineering and ML, why eVals are the missing foundation for most AI teams, prompt optimization as a search problem, and the future for continuously improving agents in production.Full Disclosure: This episode is sponsored by Comet.Kevin Ball or KBall, is the vice president of engineering at Mento and an independent coach for engineers and engineering leaders. He co-founded and served as CTO for two companies, founded the San Diego JavaScript meetup, and organizes the AI inaction discussion group through Latent Space.]]></content:encoded></item><item><title>All the Claw things (News)</title><link>https://changelog.com/news/181</link><author></author><category>podcast</category><enclosure url="https://op3.dev/e/https://pscrb.fm/rss/p/https://cdn.changelog.com/uploads/news/181/changelog-news-181.mp3" length="" type=""/><pubDate>Mon, 16 Feb 2026 19:30:00 +0000</pubDate><source url="https://changelog.com/podcast">Podcast - Changelog</source><content:encoded><![CDATA[Peter Steinberger joins OpenAI, ZeroClaw is “claw done right”, MimiClaw runs on a $5 chip, Steve Yegge on managing the AI Vampire, and the day the telnet died.Changelog++ members support our work, get closer to the metal, and make the ads disappear. Join today!Tiger Data – Postgres for Developers, devices, and agents The data platform trusted by hundreds of thousands from IoT to Web3 to AI and more.
+]]></content:encoded></item><item><title>Philip Goff - Panpsychism: Arguing Pro and Con</title><link>https://www.youtube.com/watch?v=FDTATkVFnRU</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/FDTATkVFnRU?version=3" length="" type=""/><pubDate>Mon, 16 Feb 2026 16:00:15 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Subscribe to the Closer To Truth podcast on Apple, Spotify, or wherever you get your podcasts: https://shorturl.at/mtJP4
+
+Panpsychism is the theory that consciousness is irreducible and exists fundamentally at the foundations of reality. Panpsychism forms include ‘micropsychism,’ where fundamental particles or fields are in some sense conscious, and ‘Cosmopsychism,’ where the entire universe is in some sense conscious. What are the arguments for and against Panpsychism like the ‘combination problem’?
+
+Make a donation to Closer To Truth to help us continue exploring the world's deepest questions without the need for paywalls: https://shorturl.at/OnyRq
+
+Philip Goff is a British author, panpsychist philosopher, and professor at Durham University whose research focuses on philosophy of mind and consciousness. Specifically, it focuses on how consciousness can be part of the scientific worldview.
+
+Closer To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world’s greatest thinkers exploring humanity’s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.]]></content:encoded></item><item><title>The First Vikings in Iceland</title><link>https://shows.acast.com/dansnowshistoryhit/episodes/the-first-vikings-in-iceland</link><author></author><category>podcast</category><enclosure url="https://sphinx.acast.com/p/acast/s/dansnowshistoryhit/e/698cb58d3f15cb4dabd0ceb3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=z0QeQpoboO8OfaYQk4QAnZ9BA89jWOKmTAWqtYRdRqg" length="" type=""/><pubDate>Mon, 16 Feb 2026 03:00:00 +0000</pubDate><source url="https://www.historyhit.com/podcasts/">Podcast - HistoryHit</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Thomas Flint - Can God do Everything?</title><link>https://www.youtube.com/watch?v=DkxJZOW7Dxg</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/DkxJZOW7Dxg?version=3" length="" type=""/><pubDate>Sun, 15 Feb 2026 16:00:24 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Get access to over 5,000 videos by signing up for a free Closer To Truth membership: https://closertotruth.com/register/
+
+If God can do everything, what would this mean? Can God make a circle square, a bachelor married, 2+2=5? Can God make it the case that God does not exist? How about change the past? Or create creatures with robust free will? If God is in any way limited, does that contradict the notion of God as omnipotent or as a ‘perfect being’?
+
+Subscribe to the Closer To Truth podcast on Apple, Spotify, or wherever you listen: https://shorturl.at/mtJP4
+
+Thomas Flint is an American philosopher and Professor Emeritus of Philosophy at the University of Notre Dame, known for his work on philosophy of religion. He served as Editor of Faith and Philosophy for eight years and was the Director of the Notre Dame Center for Philosophy of Religion for six years, after having served as Associate Director for 18 years, during Alvin Plantinga’s time as Director.
+
+Closer To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world’s greatest thinkers exploring humanity’s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.]]></content:encoded></item><item><title>Stuart Hameroff on Christof Koch, AI, and Consciousness</title><link>https://www.youtube.com/shorts/KGjoS0ADafE</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/KGjoS0ADafE?version=3" length="" type=""/><pubDate>Sat, 14 Feb 2026 20:00:24 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[We sat down with Stuart Hameroff during the Festival of Consciousness to discuss quantum biology, AI, and solving the problem of consciousness. He discusses his work with neuroscientist Christof Koch and the theory of neuro-computationalism at the time of AI and LLMs.]]></content:encoded></item><item><title>Quayshawn Spencer - Philosophy of Medicine &amp; Healthcare</title><link>https://www.youtube.com/watch?v=2lfr1VV-kM0</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/2lfr1VV-kM0?version=3" length="" type=""/><pubDate>Sat, 14 Feb 2026 16:00:05 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Subscribe to the Closer To Truth podcast on Apple, Spotify, or wherever you get your podcasts: https://shorturl.at/mtJP4
+
+Can philosophy contribute to medicine and healthcare? For example, philosophy can help clarify the concept of cancer, its nature, kinds and variations. Philosophy can also help discern different levels or qualities of healthcare for different groups.
+
+Follow Closer To Truth on Instagram for updates, announcements, and videos: https://shorturl.at/EzYo9
+
+Quayshawn Spencer is the Robert S. Blank Presidential Associate Professor of Philosophy and Undergraduate Chair at the University of Pennsylvania.
+
+Make a donation to Closer To Truth to help us continue exploring the world's deepest questions without the need for paywalls: https://shorturl.at/OnyRq
+
+Closer To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world’s greatest thinkers exploring humanity’s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.]]></content:encoded></item><item><title>Han shot first (Friends)</title><link>https://changelog.com/friends/128</link><author></author><category>podcast</category><enclosure url="https://op3.dev/e/https://pscrb.fm/rss/p/https://cdn.changelog.com/uploads/friends/128/changelog--friends-128.mp3" length="" type=""/><pubDate>Fri, 13 Feb 2026 21:00:00 +0000</pubDate><source url="https://changelog.com/podcast">Podcast - Changelog</source><content:encoded><![CDATA[Our ol’ friend, Brett Cannon, is back to talk all things Python. But first! Star Wars, Machete Order, Lost, Babylon 5, Game of Thrones, Murderbot, Ted Lasso, Project Hail Mary, David Attenborough, perpetual voice rights, and the AI uncanny valley.Changelog++ members save 4 minutes on this episode because they made the ads disappear. Join today!Namespace – Speed up your development and testing workflows using your existing tools. (Much) faster GitHub actions, Docker builds, and more. At an unbeatable price.
+Tiger Data – Postgres for Developers, devices, and agents The data platform trusted by hundreds of thousands from IoT to Web3 to AI and more.
+Fly.io – The home of Changelog.com — Deploy your apps close to your users — global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. Check out the speedrun to get started in minutes.
+]]></content:encoded></item><item><title>Joe Rogan Experience #2454 - Robert Malone, MD</title><link>https://www.youtube.com/watch?v=qFwiXyZHYbU</link><author>PowerfulJRE</author><category>podcast</category><enclosure url="https://www.youtube.com/v/qFwiXyZHYbU?version=3" length="" type=""/><pubDate>Fri, 13 Feb 2026 18:00:57 +0000</pubDate><source url="https://www.youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ">Podcast - Joe Rogan</source><content:encoded><![CDATA[Robert W. Malone, MD, MS, is a virologist and immunologist and an original inventor of mRNA delivery and vaccination as a technology, DNA vaccination, and multiple non-viral DNA and RNA/mRNA platform delivery technologies. He serves on the Centers for Disease Control and Prevention’s Advisory Committee on Immunization Practices and is the author of multiple books, the most recent of which is “PsyWar: Enforcing the New World Order,” co-written with his wife, Dr. Jill Glasspool Malone. The Drs. Malone are the founders of the Malone Institute, which focuses on issues related to government, the biological sciences, and medicine.
+
+https://www.skyhorsepublishing.com/9781510782952/psywar/
+https://www.malone.news
+https://www.malonebroadcasting.com
+https://www.maloneinstitute.org
+https://www.rwmalonemd.com
+
+Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.]]></content:encoded></item><item><title>Rethinking Notebooks Powered by AI</title><link>https://podcasters.spotify.com/pod/show/mlops/episodes/Rethinking-Notebooks-Powered-by-AI-e3f1smp</link><author>Demetrios</author><category>podcast</category><enclosure url="https://anchor.fm/s/174cb1b8/podcast/play/115454105/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-13%2F418036639-44100-2-1cf8d7510cce7.mp3" length="" type=""/><pubDate>Fri, 13 Feb 2026 18:00:33 +0000</pubDate><source url="https://mlops.community/">Podcast - MLOps</source><content:encoded><![CDATA[ is a Founding Engineer at marimo, working on reinventing Python notebooks as reactive, reproducible, interactive, and Git-friendly environments for data workflows and AI prototyping. He helps build the core marimo notebook platform, pushing its reactive execution model, UI interactivity, and integration with modern development and AI tooling so that notebooks behave like dependable, shareable programs and apps rather than error-prone scratchpads.Vincent Warmerdam joins Demetrios fresh off marimo’s acquisition by Weights & Biases—and makes a bold claim: notebooks as we know them are outdated.They talk Molab (GPU-backed, cloud-hosted notebooks), LLMs that don’t just chat but actually fix your SQL and debug your code, and why most data folks are consuming tools instead of experimenting. Vincent argues we should stop treating notebooks like static scratchpads and start treating them like dynamic apps powered by AI.It’s a conversation about rethinking workflows, reclaiming creativity, and not outsourcing your brain to the model.Vincent is a senior data professional who worked as an engineer, researcher, team lead, and educator in the past. You might know him from tech talks with an attempt to defend common sense over hype in the data space. He is especially interested in understanding algorithmic systems so that one may prevent failure. As such, he has always had a preference to keep calm and check the dataset before flowing tonnes of tensors. He currently works at marimo, where he spends his time rethinking everything related to Python notebooks.~~~~~~~~ ✌️Connect With Us ✌️ ~~~~~~~[00:00] Context in Notebooks[00:24] Acquisition and Team Continuity[04:43] Coding Agent Conference Announcement![05:56] Hyperbolic GPU Cloud Ad[06:54] marimo and W&B Synergies[09:31] marimo Cloud Code Support[12:59] Hardest Code to Generate[16:22] Trough of Disillusionment[20:38] Agent Interaction in Notebooks]]></content:encoded></item><item><title>Ask Me Anything with Robert Lawrence Kuhn (Part III)</title><link>https://www.youtube.com/watch?v=DjtU0WICsbw</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/DjtU0WICsbw?version=3" length="" type=""/><pubDate>Fri, 13 Feb 2026 16:00:20 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Robert Lawrence Kuhn answers questions submitted by viewers including: Which Closer To Truth guests have influenced him the most? What are his thoughts on the single greatest threat to humanity? Did the universe have a beginning? And many more.
+
+Closer To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world’s greatest thinkers exploring humanity’s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.]]></content:encoded></item><item><title>Joe Rogan Experience #2453 - Evan Hafer</title><link>https://www.youtube.com/watch?v=y2SD_z61FRo</link><author>PowerfulJRE</author><category>podcast</category><enclosure url="https://www.youtube.com/v/y2SD_z61FRo?version=3" length="" type=""/><pubDate>Thu, 12 Feb 2026 18:01:07 +0000</pubDate><source url="https://www.youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ">Podcast - Joe Rogan</source><content:encoded><![CDATA[Evan Hafer is a Special Forces veteran, founder, and executive chairman of Black Rifle Coffee Company, and one of the hosts of the “Black Rifle Coffee Podcast.”
+
+https://www.blackriflecoffee.com
+https://www.youtube.com/@BlackRifleCoffeeCompany
+
+Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.
+
+Go to https://ROKA.com and upgrade your eyewear
+
+This video is sponsored by BetterHelp. Visit https//BetterHelp.com/JRE]]></content:encoded></item><item><title>Liad Mudrik - What Living Things are Conscious?</title><link>https://www.youtube.com/watch?v=wkuzNzJlq_E</link><author>Closer To Truth</author><category>podcast</category><enclosure url="https://www.youtube.com/v/wkuzNzJlq_E?version=3" length="" type=""/><pubDate>Thu, 12 Feb 2026 16:01:26 +0000</pubDate><source url="https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ">Podcast - Closer to Truth</source><content:encoded><![CDATA[Follow us on X for videos, articles, and polls on life's biggest questions: https://x.com/CloserToTruth
+
+We know we humans are conscious and we strongly suspect higher animals are as well: for example, primates, dogs, cetaceans, whales and dolphins. But how far down the phylogenetic scale does consciousness go? Do fish feel pain? Do insects have awareness? Do bacteria sense? What are the implications?
+
+Sign up for a free Closer To Truth membership to receive exclusives like early access to new episodes: https://closertotruth.com/register/
+
+Professor Liad Mudrik is a researcher at the school of psychological sciences and Sagol school of neuroscience at Tel Aviv University. Her research focuses on conscious experience, its neural mechanisms and functions.
+
+Subscribe to the Closer To Truth podcast on Apple, Spotify, or wherever you listen: https://shorturl.at/mtJP4
+
+Closer To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world’s greatest thinkers exploring humanity’s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.]]></content:encoded></item><item><title>Gas Town, Beads, and the Rise of Agentic Development with Steve Yegge</title><link>https://softwareengineeringdaily.com/2026/02/12/gas-town-beads-and-the-rise-of-agentic-development-with-steve-yegge/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gas-town-beads-and-the-rise-of-agentic-development-with-steve-yegge</link><author>SEDaily</author><category>podcast</category><enclosure url="https://traffic.megaphone.fm/SED8427767061.mp3" length="" type=""/><pubDate>Thu, 12 Feb 2026 10:00:51 +0000</pubDate><source url="http://softwareengineeringdaily.com/category/all-episodes/exclusive-content/podcast/">Podcast - Software Engineering Daily</source><content:encoded><![CDATA[AI-assisted programming has moved far beyond autocomplete. Large language models are now capable of editing entire codebases, coordinating long-running tasks, and collaborating across multiple systems. As these capabilities mature, the core challenge in software development is shifting away from writing code and toward orchestrating work, managing context, and maintaining shared understanding across fleets of agents.Steve Yegge is a software engineer, writer, and industry veteran whose essays have shaped how many developers think about their work. Over the past year, Steve has been exploring the frontier of agentic software development, building tools like Beads and Gas Town to experiment with multi-agent coordination, shared memory, and AI-driven software workflows.In this episode, Steve joins Kevin Ball to discuss the evolution of AI coding from chat-based assistance to full agent orchestration, the technical and cognitive challenges of managing fleets of agents, how concepts like task graphs and Git-backed ledgers change the nature of work, and what these shifts mean for software teams, tooling, and the future of the industry.]]></content:encoded></item><item><title>OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491</title><link>https://www.youtube.com/watch?v=YFjfBk8HI5o</link><author>Lex Fridman</author><category>podcast</category><enclosure url="https://www.youtube.com/v/YFjfBk8HI5o?version=3" length="" type=""/><pubDate>Thu, 12 Feb 2026 03:07:03 +0000</pubDate><source url="https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA">Podcast - Lex Fridman</source><content:encoded><![CDATA[Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that's the fastest-growing project in GitHub history.
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep491-sb
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.
+
+*Transcript:*
+https://lexfridman.com/peter-steinberger-transcript
+
+*CONTACT LEX:*
+*Feedback* - give feedback to Lex: https://lexfridman.com/survey
+*AMA* - submit questions, videos or call-in: https://lexfridman.com/ama
+*Hiring* - join our team: https://lexfridman.com/hiring
+*Other* - other ways to get in touch: https://lexfridman.com/contact
+
+*EPISODE LINKS:*
+Peter's X: https://x.com/steipete
+Peter's GitHub: https://github.com/steipete
+Peter's Website: https://steipete.com
+Peter's LinkedIn: https://www.linkedin.com/in/steipete
+OpenClaw Website: https://openclaw.ai
+OpenClaw GitHub: https://github.com/openclaw/openclaw
+OpenClaw Discord: https://discord.gg/openclaw
+
+*SPONSORS:*
+To support this podcast, check out our sponsors & get discounts:
+*Perplexity:* AI-powered answer engine.
+Go to https://lexfridman.com/s/perplexity-ep491-sb
+*Quo:* Phone system (calls, texts, contacts) for businesses.
+Go to https://lexfridman.com/s/quo-ep491-sb
+*CodeRabbit:* AI-powered code reviews.
+Go to https://lexfridman.com/s/coderabbit-ep491-sb
+*Fin:* AI agent for customer service.
+Go to https://lexfridman.com/s/fin-ep491-sb
+*Blitzy:* AI agent for large enterprise codebases.
+Go to https://lexfridman.com/s/blitzy-ep491-sb
+*Shopify:* Sell stuff online.
+Go to https://lexfridman.com/s/shopify-ep491-sb
+*LMNT:* Zero-sugar electrolyte drink mix.
+Go to https://lexfridman.com/s/lmnt-ep491-sb
+
+*OUTLINE:*
+0:00 - Episode highlight
+1:30 - Introduction
+5:36 - OpenClaw origin story
+8:55 - Mind-blowing moment
+18:22 - Why OpenClaw went viral
+22:19 - Self-modifying AI agent
+27:04 - Name-change drama
+44:15 - Moltbook saga
+52:34 - OpenClaw security concerns
+1:01:14 - How to code with AI agents
+1:32:09 - Programming setup
+1:38:52 - GPT Codex 5.3 vs Claude Opus 4.6
+1:47:59 - Best AI agent for programming
+2:09:59 - Life story and career advice
+2:13:56 - Money and happiness
+2:17:49 - Acquisition offers from OpenAI and Meta
+2:34:58 - How OpenClaw works
+2:46:17 - AI slop
+2:52:20 - AI agents will replace 80% of apps
+3:00:57 - Will AI replace programmers?
+3:12:57 - Future of OpenClaw community
+
+*PODCAST LINKS:*
+- Podcast Website: https://lexfridman.com/podcast
+- Apple Podcasts: https://apple.co/2lwqZIr
+- Spotify: https://spoti.fi/2nEwCF8
+- RSS: https://lexfridman.com/feed/podcast/
+- Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+- Clips Channel: https://www.youtube.com/lexclips
+
+*SOCIAL LINKS:*
+- X: https://x.com/lexfridman
+- Instagram: https://instagram.com/lexfridman
+- TikTok: https://tiktok.com/@lexfridman
+- LinkedIn: https://linkedin.com/in/lexfridman
+- Facebook: https://facebook.com/lexfridman
+- Patreon: https://patreon.com/lexfridman
+- Telegram: https://t.me/lexfridman
+- Reddit: https://reddit.com/r/lexfridman]]></content:encoded></item><item><title>The Sex Life of Charles II</title><link>https://shows.acast.com/dansnowshistoryhit/episodes/the-sex-life-of-charles-ii</link><author></author><category>podcast</category><enclosure url="https://sphinx.acast.com/p/acast/s/dansnowshistoryhit/e/69837a8037d752e9a34e003a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=JaMnV-snVt9jkDxgilWc8ALlpKNsKJbBKRFpLH-1lBU" length="" type=""/><pubDate>Thu, 12 Feb 2026 03:00:00 +0000</pubDate><source url="https://www.historyhit.com/podcasts/">Podcast - HistoryHit</source><content:encoded><![CDATA[He had at least 14 known mistresses and a hoard of illegitimate children; Charles II's private life was as politically charged as it was scandalous. He presided over the Restoration court, a world of excess, intrigue, gambling, gossip and a lot of sex. Dan is joined by the host of the Betwixt the Sheets podcast, Dr Kate Lister, to explore the salacious side of Restoration England and examine how power, pleasure, and reputation collided at court.A warning that this episode isn't suitable for children! Produced by Mariana Des Forges and edited by Dougal Patmore.]]></content:encoded></item></channel></rss>
